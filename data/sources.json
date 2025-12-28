@@ -1,0 +1,8 @@
+[
+  {
+    "name": "Inspirational Quotes",
+    "description": "Your dose of inspiration.",
+    "refreshInterval": 60,
+    "filename": "quotes.json"
+  }
+]
