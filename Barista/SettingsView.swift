@@ -31,11 +31,11 @@ struct SettingsView: View {
                     Picker("Source", selection: $sourceManager.selectedSourceID) {
                         Text("Select a Source").tag(nil as String?)
                         ForEach(sourceManager.availableSources) { source in
-                            Text(source.name).tag(source.id)
+                            Text(source.name).tag(source.id as String?)
                         }
                     }
                     
-                    Picker("Refresh Every", selection: $sourceManager.refreshInterval) {
+                    Picker("Rotate Item Every", selection: $sourceManager.itemRotationInterval) {
                         Text("1 Minute").tag(60.0)
                         Text("5 Minutes").tag(300.0)
                         Text("15 Minutes").tag(900.0)

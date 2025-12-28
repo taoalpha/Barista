@@ -30,38 +30,41 @@ struct BaristaItem: Codable, Hashable {
 }
 
 struct Source: Identifiable, Codable, Hashable {
-    var id: String
+    let id: String
     let name: String
     let description: String
-    let refreshInterval: TimeInterval
+    let updatedAt: Int
     
-    private enum CodingKeys: String, CodingKey {
-        case name, description, refreshInterval, filename
-    }
-    
-    init(from decoder: Decoder) throws {
-        let container = try decoder.container(keyedBy: CodingKeys.self)
-        self.name = try container.decode(String.self, forKey: .name)
-        self.description = try container.decode(String.self, forKey: .description)
-        self.refreshInterval = try container.decode(TimeInterval.self, forKey: .refreshInterval)
-        // Decode filename directly into id
-        self.id = try container.decode(String.self, forKey: .filename)
-    }
-    
-    // Initializer for manual creation (e.g. Favorites, or manual)
-    init(id: String = SourceManager.manualSourceID, name: String, description: String, refreshInterval: TimeInterval) {
+    // Manual creation
+    init(id: String = "local://manual", name: String, description: String, updatedAt: Int = 0) {
         self.id = id
         self.name = name
         self.description = description
-        self.refreshInterval = refreshInterval
+        self.updatedAt = updatedAt
     }
     
+    // Custom decoding to map filename -> id
+    init(from decoder: Decoder) throws {
+        let container = try decoder.container(keyedBy: CodingKeys.self)
+        // Use filename as ID just like before
+        self.id = try container.decode(String.self, forKey: .filename)
+        self.name = try container.decode(String.self, forKey: .name)
+        self.description = try container.decodeIfPresent(String.self, forKey: .description) ?? ""
+        self.updatedAt = try container.decodeIfPresent(Int.self, forKey: .updatedAt) ?? 0
+    }
+    
+    // Custom encoding to map id -> filename
     func encode(to encoder: Encoder) throws {
         var container = encoder.container(keyedBy: CodingKeys.self)
         try container.encode(name, forKey: .name)
         try container.encode(description, forKey: .description)
-        try container.encode(refreshInterval, forKey: .refreshInterval)
-        // Encode id back to filename key
+        try container.encode(updatedAt, forKey: .updatedAt)
+        
+        // Encode ID back to "filename" for consistent JSON structure
         try container.encode(id, forKey: .filename)
+    }
+    
+    enum CodingKeys: String, CodingKey {
+        case name, description, updatedAt, filename
     }
 }

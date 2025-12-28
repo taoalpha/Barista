@@ -9,65 +9,67 @@ struct BaristaView: View {
             if sourceManager.isDynamicSource {
                 VStack(spacing: 8) {
                     if let item = sourceManager.currentItem {
-                        VStack(spacing: 4) {
-                            Text(item.text)
-                                .font(.headline)
-                                .multilineTextAlignment(.center)
-                                .fixedSize(horizontal: false, vertical: true)
-                            
-                            if let fullText = item.fullText {
-                                Text(fullText)
-                                    .font(.body)
-                                    .multilineTextAlignment(.leading)
-                                    .fixedSize(horizontal: false, vertical: true)
+                        if item.fullText != nil || item.link != nil {
+                            VStack(spacing: 4) {
+                                if let fullText = item.fullText {
+                                    Text(fullText)
+                                        .font(.body)
+                                        .multilineTextAlignment(.leading)
+                                        .fixedSize(horizontal: false, vertical: true)
+                                }
+                                
+                                if let linkString = item.link, let url = URL(string: linkString) {
+                                    Link("Read More", destination: url)
+                                        .font(.caption)
+                                }
                             }
+                            .padding(.bottom, 8)
                             
-                            if let linkString = item.link, let url = URL(string: linkString) {
-                                Link("Read More", destination: url)
-                                    .font(.caption)
-                            }
+                            Divider()
                         }
-                        .padding(.bottom, 8)
                     }
-                    
-                    Divider()
                     
                     // Footer: Source Info & Controls
-                    HStack(alignment: .top, spacing: 12) {
-                        VStack(alignment: .leading, spacing: 4) {
-                            Text("Source: \(sourceManager.availableSources.first(where: { $0.id == sourceManager.selectedSourceID })?.name ?? "Unknown")")
-                                .font(.caption2)
-                                .foregroundColor(.secondary)
-                                .lineLimit(1)
-                            
-                            Button("Switch to Manual") {
-                                sourceManager.isDynamicSource = false
-                            }
-                            .buttonStyle(.link)
-                            .controlSize(.mini)
-                        }
+                    VStack(spacing: 8) {
+                        Text(sourceManager.availableSources.first(where: { $0.id == sourceManager.selectedSourceID })?.name ?? "Unknown")
+                            .font(.caption2)
+                            .foregroundColor(.secondary)
+                            .lineLimit(1)
                         
-                        Spacer()
-                        
-                        if let item = sourceManager.currentItem, item.isFavoritable {
+                        HStack(spacing: 16) {
                             Button(action: {
-                                sourceManager.toggleFavorite(item)
+                                sourceManager.isDynamicSource = false
                             }) {
-                                let isFavorited = sourceManager.favorites.contains(item)
-                                Image(systemName: isFavorited ? "heart.fill" : "heart")
-                                    .foregroundColor(isFavorited ? .red : .secondary)
+                                Image(systemName: "pencil")
+                                    .foregroundColor(.secondary)
                             }
                             .buttonStyle(.plain)
-                            .help("Toggle Favorite")
-                            .padding(.trailing, 4)
+                            .help("Set manually")
+                            
+                            if let item = sourceManager.currentItem, item.isFavoritable {
+                                Button(action: {
+                                    sourceManager.toggleFavorite(item)
+                                }) {
+                                    let isFavorited = sourceManager.favorites.contains(item)
+                                    Image(systemName: isFavorited ? "heart.fill" : "heart")
+                                        .foregroundColor(isFavorited ? .red : .secondary)
+                                }
+                                .buttonStyle(.plain)
+                                .help("Toggle Favorite")
+                            }
+                            
+                            Button(action: {
+                                sourceManager.forceRefresh()
+                            }) {
+                                Image(systemName: "arrow.forward")
+                                    .foregroundColor(.secondary)
+                            }
+                            .buttonStyle(.plain)
+                            .help("Next Item")
                         }
-                        
-                        Button("Next") {
-                            sourceManager.forceRefresh()
-                        }
-                        .controlSize(.small)
                     }
                 }
+                .frame(maxWidth: .infinity)
                 .padding()
                 .background(
                     RoundedRectangle(cornerRadius: 8)
