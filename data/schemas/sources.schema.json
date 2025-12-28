@@ -14,10 +14,9 @@
         "type": "string",
         "description": "Short description of the content provided by this source"
       },
-      "refreshInterval": {
-        "type": "number",
-        "minimum": 1,
-        "description": "Time in seconds between content refreshes"
+      "updatedAt": {
+        "type": "integer",
+        "description": "Timestamp of the last update to the source"
       },
       "filename": {
         "type": "string",
