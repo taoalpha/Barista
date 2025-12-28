@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024" height="1024" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background -->
+    <rect x="0" y="0" width="100" height="100" rx="20" ry="20" fill="#D8C3A5"/>
+    
+    <!-- Handle: Simplified to a single thick stroke, layered BEHIND the cup body -->
+    <line x1="60" y1="60" x2="72" y2="72" stroke="#FFFFFF" stroke-width="10" stroke-linecap="round" />
+
+    <!-- Cup Rim/Body -->
+    <circle cx="50" cy="50" r="26" fill="#FFFFFF"/>
+    
+    <!-- Coffee -->
+    <circle cx="50" cy="50" r="20" fill="#A87B51"/>
+    
+    <!-- Inner Shadow/Ring for depth -->
+    <circle cx="50" cy="50" r="20" fill="none" stroke="#8C623E" stroke-width="1" opacity="0.5"/>
+    
+    <!-- The Symbol: Stack of lines and quotes -->
+    <g transform="translate(36.25, 46)">
+        <!-- Three lines -->
+        <!-- w=190->18.5, h=12->1.2, gap=36->3.5 -->
+        <rect x="0" y="0" width="18.5" height="1.2" rx="0.6" fill="#523A28"/>
+        <rect x="0" y="3.5" width="18.5" height="1.2" rx="0.6" fill="#523A28"/>
+        <rect x="0" y="7" width="18.5" height="1.2" rx="0.6" fill="#523A28"/>
+        
+        <!-- Quotes -->
+        <!-- Path points scaled by ~0.1 -->
+        <g transform="translate(20.5, 2)">
+            <!-- Left Quote (scaled down) -->
+            <path d="M 1.5 0 C 3.5 0 3.5 3.0 2.5 5.0 C 2.0 6.0 0.5 5.0 1.5 3.5 C 2.0 2.5 0.5 1.5 1.5 0 Z" fill="#523A28" />
+            <!-- Right Quote (scaled down, x shift ~3.5)-->
+            <path d="M 5.0 0 C 7.0 0 7.0 3.0 6.0 5.0 C 5.5 6.0 4.0 5.0 5.0 3.5 C 5.5 2.5 4.0 1.5 5.0 0 Z" fill="#523A28" />
+        </g>
+    </g>
+</svg>
