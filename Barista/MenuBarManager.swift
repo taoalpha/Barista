@@ -31,7 +31,8 @@ class MenuBarManager: NSObject {
         NotificationCenter.default.addObserver(self, selector: #selector(updateTitle), name: UserDefaults.didChangeNotification, object: nil)
         
         // Observe SourceManager for remote updates
-        SourceManager.shared.$currentText
+        SourceManager.shared.$currentItem
+            .map { $0?.text }
             .receive(on: RunLoop.main)
             .sink { [weak self] newText in
                 if let text = newText {
@@ -79,16 +80,96 @@ class MenuBarManager: NSObject {
         updateStatusItem(text: UserDefaults.standard.string(forKey: "baristaText"))
     }
     
+    private var scrollingTimer: Timer?
+    private var currentScrollText: String = ""
+    private var scrollOffset: Int = 0
+    private let maxDisplayLength = 100
+    private var pauseTicks: Int = 10 // 2 seconds (0.2 * 10)
+    private var currentPauseTick: Int = 0
+    private var currentEndPauseTick: Int = 0
+    
     private func updateStatusItem(text: String?) {
         DispatchQueue.main.async { [weak self] in
             guard let self = self else { return }
             
+            // Stop previous scrolling
+            self.stopScrolling()
+            
             guard let text = text, !text.isEmpty else {
+                self.statusItem.button?.title = ""
                 return
             }
             
-            self.statusItem.button?.title = text
+            if text.count > self.maxDisplayLength {
+                self.currentScrollText = text
+                self.startScrolling()
+            } else {
+                self.statusItem.button?.title = text
+            }
         }
+    }
+    
+    private func stopScrolling() {
+        scrollingTimer?.invalidate()
+        scrollingTimer = nil
+        scrollOffset = 0
+        currentPauseTick = 0
+        currentEndPauseTick = 0
+    }
+
+    private func startScrolling() {
+        updateScrollingTitle()
+        currentPauseTick = 0
+        currentEndPauseTick = 0
+        
+        scrollingTimer = Timer.scheduledTimer(withTimeInterval: 0.2, repeats: true) { [weak self] _ in
+            self?.scrollLogic()
+        }
+        // Ensure timer runs during menu tracking
+        if let timer = scrollingTimer {
+            RunLoop.main.add(timer, forMode: .common)
+        }
+    }
+    
+    private func scrollLogic() {
+        let maxOffset = currentScrollText.count - maxDisplayLength
+        
+        // 1. Pause at Start
+        if scrollOffset == 0 {
+            if currentPauseTick < pauseTicks {
+                currentPauseTick += 1
+                return
+            }
+        }
+        
+        // 2. Pause at End
+        if scrollOffset == maxOffset {
+             if currentEndPauseTick < pauseTicks {
+                currentEndPauseTick += 1
+                return
+            }
+            // End pause finished, reset to start
+            scrollOffset = 0
+            currentPauseTick = 0
+            currentEndPauseTick = 0
+            updateScrollingTitle()
+            return
+        }
+        
+        // 3. Scroll
+        scrollOffset += 1
+        updateScrollingTitle()
+    }
+
+    private func updateScrollingTitle() {
+        // Safe slicing
+        guard scrollOffset + maxDisplayLength <= currentScrollText.count else { return }
+        
+        let startIndex = currentScrollText.index(currentScrollText.startIndex, offsetBy: scrollOffset)
+        let endIndex = currentScrollText.index(startIndex, offsetBy: maxDisplayLength)
+        let visibleText = String(currentScrollText[startIndex..<endIndex])
+        
+        statusItem.button?.title = visibleText
     }
     
     private var eventMonitors: [Any] = []

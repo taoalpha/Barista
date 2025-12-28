@@ -8,6 +8,30 @@ struct BaristaView: View {
         VStack(spacing: 16) {
             if sourceManager.isDynamicSource {
                 VStack(spacing: 8) {
+                    if let item = sourceManager.currentItem {
+                        VStack(spacing: 4) {
+                            Text(item.text)
+                                .font(.headline)
+                                .multilineTextAlignment(.center)
+                                .fixedSize(horizontal: false, vertical: true)
+                            
+                            if let fullText = item.fullText {
+                                Text(fullText)
+                                    .font(.body)
+                                    .multilineTextAlignment(.leading)
+                                    .fixedSize(horizontal: false, vertical: true)
+                            }
+                            
+                            if let linkString = item.link, let url = URL(string: linkString) {
+                                Link("Read More", destination: url)
+                                    .font(.caption)
+                            }
+                        }
+                        .padding(.bottom, 8)
+                    }
+                    
+                    Divider()
+                    
                     // Footer: Source Info & Controls
                     HStack(alignment: .top, spacing: 12) {
                         VStack(alignment: .leading, spacing: 4) {
@@ -25,16 +49,18 @@ struct BaristaView: View {
                         
                         Spacer()
                         
-                        Button(action: {
-                            sourceManager.toggleFavorite(text)
-                        }) {
-                            let isFavorited = sourceManager.favorites.contains(text)
-                            Image(systemName: isFavorited ? "heart.fill" : "heart")
-                                .foregroundColor(isFavorited ? .red : .secondary)
+                        if let item = sourceManager.currentItem, item.isFavoritable {
+                            Button(action: {
+                                sourceManager.toggleFavorite(item)
+                            }) {
+                                let isFavorited = sourceManager.favorites.contains(item)
+                                Image(systemName: isFavorited ? "heart.fill" : "heart")
+                                    .foregroundColor(isFavorited ? .red : .secondary)
+                            }
+                            .buttonStyle(.plain)
+                            .help("Toggle Favorite")
+                            .padding(.trailing, 4)
                         }
-                        .buttonStyle(.plain)
-                        .help("Toggle Favorite")
-                        .padding(.trailing, 4)
                         
                         Button("Next") {
                             sourceManager.forceRefresh()

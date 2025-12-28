@@ -29,9 +29,9 @@ struct SettingsView: View {
                 
                 if sourceManager.isDynamicSource {
                     Picker("Source", selection: $sourceManager.selectedSourceID) {
-                        Text("Select a Source").tag(nil as UUID?)
+                        Text("Select a Source").tag(nil as String?)
                         ForEach(sourceManager.availableSources) { source in
-                            Text(source.name).tag(source.id as UUID?)
+                            Text(source.name).tag(source.id)
                         }
                     }
                     
