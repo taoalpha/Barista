@@ -47,24 +47,7 @@ struct SettingsView: View {
                 Text("Content Source")
             }
             
-            Section {
-                Button("Clear All Favorites") {
-                    sourceManager.favorites.removeAll()
-                }
-                .foregroundColor(.red)
-                
-                Button("Clear Barista Text") {
-                    UserDefaults.standard.removeObject(forKey: "baristaText")
-                }
-                .foregroundColor(.red)
-                
-                Button("Open Favorites File") {
-                    let url = FileManager.default.urls(for: .documentDirectory, in: .userDomainMask)[0].appendingPathComponent("barista_favorites.json")
-                    NSWorkspace.shared.open(url)
-                }
-            } header: {
-                Text("Debug")
-            }
+
         }
         .formStyle(.grouped)
         // Removed fixed frame to allow dynamic sizing
