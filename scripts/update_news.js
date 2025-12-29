@@ -38,12 +38,30 @@ async function fetchNews() {
       link: article.url
     }));
     
-    // Write content file
-    fs.writeFileSync(OUTPUT_FILE, JSON.stringify(baristaItems, null, 2));
-    console.log(`Wrote ${baristaItems.length} items to ${OUTPUT_FILE}`);
+    // Check if content changed
+    let contentChanged = true;
+    if (fs.existsSync(OUTPUT_FILE)) {
+        const existingData = fs.readFileSync(OUTPUT_FILE, 'utf8');
+        const newData = JSON.stringify(baristaItems, null, 2);
+        if (existingData === newData) {
+            contentChanged = false;
+            console.log("Content has not changed. Skipping update.");
+        }
+    }
     
-    // Update sources.json
-    updateSourcesMetadata(sourceFilename);
+    if (contentChanged) {
+        // Write content file
+        fs.writeFileSync(OUTPUT_FILE, JSON.stringify(baristaItems, null, 2));
+        console.log(`Wrote ${baristaItems.length} items to ${OUTPUT_FILE}`);
+        
+        // Update sources.json
+        updateSourcesMetadata(sourceFilename);
+        
+        // Signal GitHub Actions to commit
+        if (process.env.GITHUB_OUTPUT) {
+            fs.appendFileSync(process.env.GITHUB_OUTPUT, `should_commit=true\n`);
+        }
+    }
     
   } catch (error) {
     console.error('Failed to fetch news:', error);

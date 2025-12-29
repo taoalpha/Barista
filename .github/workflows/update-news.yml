@@ -30,11 +30,13 @@ jobs:
           node-version: '22'
 
       - name: Fetch and Update News
+        id: fetch-news
         env:
           NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
         run: node scripts/update_news.js ${{ matrix.country }}
 
       - name: Commit and Push
+        if: steps.fetch-news.outputs.should_commit == 'true'
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
