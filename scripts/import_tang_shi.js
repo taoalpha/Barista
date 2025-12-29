@@ -65,9 +65,8 @@ async function main() {
 
             return {
                 text: text,
-                fullText: fullText,
-                link: null, // No specific link provided
-                isFavoritable: true
+                fullText: fullText
+                // Omit link (default nil) and isFavoritable (default true) to save space
             };
         });
 

@@ -61,7 +61,7 @@ class MenuBarManager: NSObject {
 
         
         let window = BaristaWindow(
-            contentRect: NSRect(x: 0, y: 0, width: 250, height: 180),
+            contentRect: NSRect(x: 0, y: 0, width: 400, height: 180),
             styleMask: [.borderless],
             backing: .buffered,
             defer: false

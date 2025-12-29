@@ -48,7 +48,7 @@ struct SettingsView: View {
                     Text("Content Source")
                     Spacer()
                     Button(action: {
-                        sourceManager.checkForUpdates()
+                        sourceManager.checkForUpdates(force: true)
                     }) {
                         Image(systemName: "arrow.clockwise")
                     }

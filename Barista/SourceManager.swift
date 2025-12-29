@@ -84,16 +84,20 @@ class SourceManager: ObservableObject {
         }
     }
     
-    func checkForUpdates() {
+    func checkForUpdates(force: Bool = false) {
         // Fetch sources.json silently
         let filename = "sources.json"
-        let url = baseURL.appendingPathComponent(filename)
+        
+        // Append cache buster if forcing (though we usually trust sources.json to be small/frequently updated, but good to ensure)
+        var url = baseURL.appendingPathComponent(filename)
+        if force {
+             var components = URLComponents(url: url, resolvingAgainstBaseURL: true)!
+             components.queryItems = [URLQueryItem(name: "t", value: "\(Int(Date().timeIntervalSince1970))")]
+             if let newUrl = components.url { url = newUrl }
+        }
         
         URLSession.shared.dataTask(with: url) { [weak self] data, response, error in
             guard let self = self, let data = data, error == nil else { return }
-            
-            // Note: We don't cache here immediately, we only care if selected source changed.
-            // But we should probably update availableSources silently if it changed.
             
             if let sources = try? JSONDecoder().decode([Source].self, from: data) {
                 DispatchQueue.main.async {
@@ -112,17 +116,15 @@ class SourceManager: ObservableObject {
                     if let currentID = self.selectedSourceID,
                        let newSource = sources.first(where: { $0.id == currentID }) {
                         
-                        print("check if source \(newSource.name) has a newer update...")
-
-                        // We need to compare against the LAST FETCHED time, not just the old source object
-                        // Because availableSources is now updated, we essentially need to check if we need to fetch content.
-                        
                         let lastFetchKey = "lastFetch_\(currentID)"
                         let lastFetchTime = UserDefaults.standard.double(forKey: lastFetchKey)
                         
-                        if Double(newSource.updatedAt) > lastFetchTime {
-                             print("Detected update for \(newSource.name). Refetching content...")
-                             self.fetchContent()
+                        // Refetch if forced OR if timestamp is newer
+                        if force || Double(newSource.updatedAt) > lastFetchTime {
+                             print("Update detected or forced for \(newSource.name). Refetching content...")
+                             self.fetchContent(force: force)
+                        } else {
+                            print("Source \(newSource.name) is up to date.")
                         }
                     }
                 }
@@ -210,7 +212,7 @@ class SourceManager: ObservableObject {
     }
     private var isFetchingContent: Bool = false
     
-    func fetchContent() {
+    func fetchContent(force: Bool = false) {
         guard let source = availableSources.first(where: { $0.id == selectedSourceID }) else { return }
         
         // Concurrent fetch guard
@@ -238,14 +240,17 @@ class SourceManager: ObservableObject {
         // Assuming updatedAt is a unix timestamp of when the content on server changed.
         // If we fetched recently (lastFetchTime > sourceUpdatedAt), we are good.
         // Also ensure we actually have cached data.
-        if lastFetchTime > sourceUpdatedAt, let cachedData = loadCachedData(filename: source.id) {
+        if !force, lastFetchTime > sourceUpdatedAt, let cachedData = loadCachedData(filename: source.id) {
             print("Content for \(source.id) is up to date (Last fetch: \(lastFetchTime) > UpdatedAt: \(sourceUpdatedAt)). Using cache.")
             decodeAndSetItems(data: cachedData, source: source)
             return
         }
         
         isFetchingContent = true
-        let url = baseURL.appendingPathComponent(source.id)
+        // Append cache buster to timestamp
+        var urlComponents = URLComponents(url: baseURL.appendingPathComponent(source.id), resolvingAgainstBaseURL: true)!
+        urlComponents.queryItems = [URLQueryItem(name: "t", value: "\(Int(Date().timeIntervalSince1970))")]
+        let url = urlComponents.url!
         print("Fetching content for \(source.name) from: \(url.absoluteString)")
         
         URLSession.shared.dataTask(with: url) { [weak self] data, response, error in
