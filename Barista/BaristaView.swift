@@ -54,10 +54,20 @@ struct BaristaView: View {
                             
                             VStack(spacing: 4) {
                                 if let fullText = item.fullText {
-                                    Text(fullText)
-                                        .font(.body)
-                                        .multilineTextAlignment(.leading)
-                                        .fixedSize(horizontal: false, vertical: true)
+                                    if let linkString = item.link, let url = URL(string: linkString) {
+                                        Link(destination: url) {
+                                            Text(fullText)
+                                                .font(.body)
+                                                .multilineTextAlignment(.leading)
+                                                .fixedSize(horizontal: false, vertical: true)
+                                                .foregroundColor(.primary) // Keep text color normal
+                                        }
+                                    } else {
+                                        Text(fullText)
+                                            .font(.body)
+                                            .multilineTextAlignment(.leading)
+                                            .fixedSize(horizontal: false, vertical: true)
+                                    }
                                 }
                                 
                                 if let linkString = item.link, let url = URL(string: linkString) {
