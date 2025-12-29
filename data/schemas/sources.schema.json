@@ -22,6 +22,11 @@
         "type": "string",
         "pattern": "^[a-zA-Z0-9_-]+\\.json$",
         "description": "Filename of the content JSON file relative to the data directory"
+      },
+      "randomize": {
+        "type": "boolean",
+        "description": "If true, items are shown in random order. If false, items are shown sequentially.",
+        "default": false
       }
     },
     "required": ["name", "description", "updatedAt", "filename"],

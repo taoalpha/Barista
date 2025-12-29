@@ -8,28 +8,7 @@ struct BaristaView: View {
         VStack(spacing: 16) {
             if sourceManager.isDynamicSource {
                 VStack(spacing: 8) {
-                    if let item = sourceManager.currentItem {
-                        if item.fullText != nil || item.link != nil {
-                            VStack(spacing: 4) {
-                                if let fullText = item.fullText {
-                                    Text(fullText)
-                                        .font(.body)
-                                        .multilineTextAlignment(.leading)
-                                        .fixedSize(horizontal: false, vertical: true)
-                                }
-                                
-                                if let linkString = item.link, let url = URL(string: linkString) {
-                                    Link("Read More", destination: url)
-                                        .font(.caption)
-                                }
-                            }
-                            .padding(.bottom, 8)
-                            
-                            Divider()
-                        }
-                    }
-                    
-                    // Footer: Source Info & Controls
+                    // Header: Source Info & Controls
                     VStack(spacing: 8) {
                         Text(sourceManager.availableSources.first(where: { $0.id == sourceManager.selectedSourceID })?.name ?? "Unknown")
                             .font(.caption2)
@@ -66,6 +45,27 @@ struct BaristaView: View {
                             }
                             .buttonStyle(.plain)
                             .help("Next Item")
+                        }
+                    }
+                    
+                    if let item = sourceManager.currentItem {
+                        if item.fullText != nil || item.link != nil {
+                            Divider()
+                            
+                            VStack(spacing: 4) {
+                                if let fullText = item.fullText {
+                                    Text(fullText)
+                                        .font(.body)
+                                        .multilineTextAlignment(.leading)
+                                        .fixedSize(horizontal: false, vertical: true)
+                                }
+                                
+                                if let linkString = item.link, let url = URL(string: linkString) {
+                                    Link("Read More", destination: url)
+                                        .font(.caption)
+                                }
+                            }
+                            .padding(.top, 4)
                         }
                     }
                 }

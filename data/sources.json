@@ -3,7 +3,8 @@
     "name": "Inspirational Quotes",
     "description": "Your dose of inspiration.",
     "updatedAt": 1735428000,
-    "filename": "quotes.json"
+    "filename": "quotes.json",
+    "randomize": true
   },
   {
     "name": "Top Headlines (US)",

@@ -34,13 +34,15 @@ struct Source: Identifiable, Codable, Hashable {
     let name: String
     let description: String
     let updatedAt: Int
+    let randomize: Bool
     
     // Manual creation
-    init(id: String = "local://manual", name: String, description: String, updatedAt: Int = 0) {
+    init(id: String = "local://manual", name: String, description: String, updatedAt: Int = 0, randomize: Bool = false) {
         self.id = id
         self.name = name
         self.description = description
         self.updatedAt = updatedAt
+        self.randomize = randomize
     }
     
     // Custom decoding to map filename -> id
@@ -51,6 +53,7 @@ struct Source: Identifiable, Codable, Hashable {
         self.name = try container.decode(String.self, forKey: .name)
         self.description = try container.decodeIfPresent(String.self, forKey: .description) ?? ""
         self.updatedAt = try container.decodeIfPresent(Int.self, forKey: .updatedAt) ?? 0
+        self.randomize = try container.decodeIfPresent(Bool.self, forKey: .randomize) ?? false
     }
     
     // Custom encoding to map id -> filename
@@ -59,12 +62,13 @@ struct Source: Identifiable, Codable, Hashable {
         try container.encode(name, forKey: .name)
         try container.encode(description, forKey: .description)
         try container.encode(updatedAt, forKey: .updatedAt)
+        try container.encode(randomize, forKey: .randomize)
         
         // Encode ID back to "filename" for consistent JSON structure
         try container.encode(id, forKey: .filename)
     }
     
     enum CodingKeys: String, CodingKey {
-        case name, description, updatedAt, filename
+        case name, description, updatedAt, filename, randomize
     }
 }

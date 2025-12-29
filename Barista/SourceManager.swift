@@ -179,7 +179,6 @@ class SourceManager: ObservableObject {
                     
                     // Initial content fetch if dynamic
                     if self.isDynamicSource {
-                        self.fetchContent()
                         self.updateTimer()
                     }
                 } else {
@@ -293,7 +292,18 @@ class SourceManager: ObservableObject {
                     itemsWithSource[i].isFavoritable = true // Explicitly true for fetched items
                 }
                 self?.sourceItems = itemsWithSource
-                self?.rotateItem()
+                
+                // Try to restore state if this is the first load (currentItem is nil)
+                if self?.currentItem == nil,
+                   let savedText = UserDefaults.standard.string(forKey: "baristaText"),
+                   let restoredItem = itemsWithSource.first(where: { $0.text == savedText }) {
+                    
+                    self?.currentItem = restoredItem
+                    print("Restored last viewed item: \(savedText)")
+                    
+                } else {
+                    self?.rotateItem()
+                }
             } else {
                 print("Failed to decode BaristaItems from \(source.id)")
             }
@@ -303,7 +313,35 @@ class SourceManager: ObservableObject {
     func rotateItem() {
         let validItems = sourceItems // Assume valid
         guard !validItems.isEmpty else { return }
-        let newItem = validItems.randomElement()
+        
+        // Find current source configuration
+        let source = availableSources.first(where: { $0.id == selectedSourceID })
+        let shouldRandomize = source?.randomize ?? false
+        
+        var newItem: BaristaItem?
+        
+        if shouldRandomize {
+            // Random selection (avoid same item if >1 items)
+            if validItems.count > 1, let current = currentItem {
+                var potential = validItems.randomElement()
+                while potential == current {
+                    potential = validItems.randomElement()
+                }
+                newItem = potential
+            } else {
+                newItem = validItems.randomElement()
+            }
+        } else {
+            // Ordered selection
+            if let current = currentItem, let index = validItems.firstIndex(of: current) {
+                let nextIndex = (index + 1) % validItems.count
+                newItem = validItems[nextIndex]
+            } else {
+                // specific start? or just first
+                newItem = validItems.first
+            }
+        }
+        
         currentItem = newItem
         
         // Update main app storage so the menu bar updates automatically
