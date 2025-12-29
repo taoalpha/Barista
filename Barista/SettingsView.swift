@@ -44,7 +44,17 @@ struct SettingsView: View {
                     }
                 }
             } header: {
-                Text("Content Source")
+                HStack {
+                    Text("Content Source")
+                    Spacer()
+                    Button(action: {
+                        sourceManager.checkForUpdates()
+                    }) {
+                        Image(systemName: "arrow.clockwise")
+                    }
+                    .buttonStyle(.plain)
+                    .help("Check for updates")
+                }
             }
             
 

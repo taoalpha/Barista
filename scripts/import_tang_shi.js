@@ -60,8 +60,8 @@ async function main() {
             const flatContent = poem.contents.replace(/\n/g, ' ');
             const text = `${flatContent} — ${poem.author}`;
 
-            // FullText: title - (author, type) \n content
-            const fullText = `${poem.title} - (${poem.author}, ${poem.type})\n\n${poem.contents}`;
+            // FullText:     title \n   (author, type) \n\n content
+            const fullText = `     ${poem.title}\n   (${poem.author}, ${poem.type})\n\n${poem.contents}`;
 
             return {
                 text: text,
