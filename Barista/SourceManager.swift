@@ -6,6 +6,7 @@ class SourceManager: ObservableObject {
     static let shared = SourceManager()
     static let favoritesSourceID = "local://favorites"
     static let manualSourceID = "local://manual"
+    static let sourceRefreshInterval = TimeInterval(600) // 10 minutes
     
     // Base URL for data. Using remote GitHub raw content.
     private let baseURL = URL(string: "https://raw.githubusercontent.com/taoalpha/Barista/refs/heads/main/data/")!
@@ -58,6 +59,7 @@ class SourceManager: ObservableObject {
     
     private var sourceItems: [BaristaItem] = []
     private var timer: Timer?
+    private var refreshTimer: Timer? // Background timer for source metadata updates
     private var cancellables = Set<AnyCancellable>()
     
     private init() {
@@ -71,8 +73,63 @@ class SourceManager: ObservableObject {
         
         loadFavorites()
         fetchSourcesMetadata() // Load sources.json
+        startSourceRefreshTimer()
     }
     
+    func startSourceRefreshTimer() {
+        refreshTimer?.invalidate()
+        refreshTimer = Timer.scheduledTimer(withTimeInterval: SourceManager.sourceRefreshInterval, repeats: true) { [weak self] _ in
+            print("Background check for source updates...")
+            self?.checkForUpdates()
+        }
+    }
+    
+    func checkForUpdates() {
+        // Fetch sources.json silently
+        let filename = "sources.json"
+        let url = baseURL.appendingPathComponent(filename)
+        
+        URLSession.shared.dataTask(with: url) { [weak self] data, response, error in
+            guard let self = self, let data = data, error == nil else { return }
+            
+            // Note: We don't cache here immediately, we only care if selected source changed.
+            // But we should probably update availableSources silently if it changed.
+            
+            if let sources = try? JSONDecoder().decode([Source].self, from: data) {
+                DispatchQueue.main.async {
+                    // Always update available sources to reflect new/removed items
+                    var newSourcesList = sources
+                    let favSource = Source(id: SourceManager.favoritesSourceID, name: "Favorites", description: "Your saved items", updatedAt: 0)
+                    newSourcesList.insert(favSource, at: 0)
+                    
+                    // Store strict update of sources
+                    self.availableSources = newSourcesList
+                    
+                    // Also update the cache for sources.json immediately since we trust it
+                    self.cacheData(data, filename: filename)
+                    
+                    // Check if selected source has a newer update
+                    if let currentID = self.selectedSourceID,
+                       let newSource = sources.first(where: { $0.id == currentID }) {
+                        
+                        print("check if source \(newSource.name) has a newer update...")
+
+                        // We need to compare against the LAST FETCHED time, not just the old source object
+                        // Because availableSources is now updated, we essentially need to check if we need to fetch content.
+                        
+                        let lastFetchKey = "lastFetch_\(currentID)"
+                        let lastFetchTime = UserDefaults.standard.double(forKey: lastFetchKey)
+                        
+                        if Double(newSource.updatedAt) > lastFetchTime {
+                             print("Detected update for \(newSource.name). Refetching content...")
+                             self.fetchContent()
+                        }
+                    }
+                }
+            }
+        }.resume()
+    }
+
     func fetchSourcesMetadata() {
         let filename = "sources.json"
         let url = baseURL.appendingPathComponent(filename)
@@ -139,13 +196,16 @@ class SourceManager: ObservableObject {
         // Use global setting for rotation interval
         let interval = itemRotationInterval
         
+        // Ensure we don't spam if interval is tiny/broken
+        let safeInterval = max(interval, 1.0) 
+        
         if sourceItems.isEmpty {
            fetchContent()
         } else if currentItem == nil {
             rotateItem()
         }
         
-        timer = Timer.scheduledTimer(withTimeInterval: interval, repeats: true) { [weak self] _ in
+        timer = Timer.scheduledTimer(withTimeInterval: safeInterval, repeats: true) { [weak self] _ in
             self?.rotateItem()
         }
     }
