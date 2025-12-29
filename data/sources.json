@@ -4,5 +4,11 @@
     "description": "Your dose of inspiration.",
     "updatedAt": 1735428000,
     "filename": "quotes.json"
+  },
+  {
+    "name": "Top Headlines (US)",
+    "description": "Latest headlines from NewsAPI for US",
+    "updatedAt": 1766966935,
+    "filename": "top-headlines-us.json"
   }
 ]

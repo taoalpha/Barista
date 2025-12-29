@@ -24,7 +24,7 @@
         "description": "Filename of the content JSON file relative to the data directory"
       }
     },
-    "required": ["name", "description", "refreshInterval", "filename"],
+    "required": ["name", "description", "updatedAt", "filename"],
     "additionalProperties": false
   }
 }
