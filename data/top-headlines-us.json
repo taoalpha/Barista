@@ -1,13 +1,28 @@
 [
   {
-    "text": "S&P 500 futures slip after benchmark index hits fresh record: Live updates - CNBC",
-    "fullText": "Stock futures were little changed Sunday night after the S&P 500 scaled to fresh record levels, with traders set to wrap up a strong 2025.",
-    "link": "https://www.cnbc.com/2025/12/28/stock-market-today-live-updates.html"
+    "text": "‘Malcolm in the Middle’ Revival Trailer: Frankie Muniz and Bryan Cranston Reunite After Nearly 20 Years; April Release Date Set - Variety",
+    "fullText": "Hulu and Disney+'s 'Malcolm in the Middle' revival revealed its first footage featuring Frankie Muniz, Bryan Cranston as well as a release date.",
+    "link": "https://variety.com/2025/tv/news/malcolm-in-the-middle-revival-trailer-april-release-date-1236618966/"
   },
   {
-    "text": "NEXT Weather: Aftereffects of Sunday snowstorm impacting road conditions Monday - CBS News",
-    "fullText": "A major winter storm that blasted Minnesota on Sunday is still impacting travel conditions on Monday. Follow live updates.",
-    "link": "https://www.cbsnews.com/minnesota/live-updates/next-weather-major-winter-storm-dec-28-2025/"
+    "text": "French split over Brigitte Bardot tribute due to her far right views - CBS News",
+    "fullText": "French politicians were divided on Monday over how to pay tribute to the late Brigitte Bardot who, despite her screen legend, courted controversy in later life with her far-right views.",
+    "link": "https://www.cbsnews.com/news/brigitte-bardot-tribute-france-split-far-right-views/"
+  },
+  {
+    "text": "'Avatar' and 'Marty Supreme' propel strong ticket sales to wrap a turbulent 2025 for Hollywood - NBC News",
+    "fullText": "Hollywood wrapped up a turbulent year with big ticket sales for “Avatar: Fire and Ash” and a box-office hit for Timothée Chalamet with “Marty Supreme” over a busy holiday weekend in movie theaters.",
+    "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/avatar-marty-supreme-propel-strong-ticket-sales-wrap-turbulent-2025-ho-rcna251326"
+  },
+  {
+    "text": "Lululemon Founder Chip Wilson Launches Proxy Fight to Change Board - Yahoo Finance",
+    "fullText": "Proposal seeks to make boardroom revisions before athletic-apparel company chooses a new CEO",
+    "link": "https://www.wsj.com/business/lululemon-activist-investor-campaign-70c61e8e"
+  },
+  {
+    "text": "Official says 6 Islamic State militants and 3 police officers killed in clash in northwest Turkey - AP News",
+    "fullText": "Turkey’s interior minister says six Islamic State militants and three police officers were killed in a clash in northwest Turkey. The shooting occurred in Yalova province, south of Istanbul, on Monday. Police stormed a house where the militants were hiding. E…",
+    "link": "https://apnews.com/article/turkey-police-wounded-islamic-state-group-militants-e0f7e22314d7b790c20ffb15ae817aa6"
   },
   {
     "text": "Wild things we learned about Earth in 2025 - CNN",
@@ -15,9 +30,19 @@
     "link": "https://www.cnn.com/2025/12/29/science/earth-wild-things-we-learned-2025"
   },
   {
-    "text": "Electric vehicles had a bumpy road in 2025 — and one pleasant surprise - NPR",
-    "fullText": "A suite of pro-EV federal policies have been reversed. Well-known vehicles have been discontinued. Sales plummeted. But interest is holding steady.",
-    "link": "https://www.npr.org/2025/12/29/nx-s1-5638592/electric-vehicles-2025"
+    "text": "Lchashen wagon: A 3,500-year-old covered wagon that transported a deceased chief to the next world - Live Science",
+    "fullText": "This 3,500-year-old covered wagon is the best-preserved example in the world of this ancient form of wheeled transport.",
+    "link": "https://www.livescience.com/archaeology/lchashen-wagon-a-3-500-year-old-covered-wagon-that-transported-a-deceased-chief-to-the-next-world"
+  },
+  {
+    "text": "Thailand accuses Cambodia of breaking newly signed ceasefire - BBC",
+    "fullText": "The ceasefire took effect at noon local time (05:00 GMT) on Saturday.",
+    "link": "https://www.bbc.com/news/articles/c9w7wgrk01do"
+  },
+  {
+    "text": "US offers Ukraine 15-year security guarantee as part of peace plan, Zelenskyy says - AP News",
+    "fullText": "The United States is offering Ukraine security guarantees for 15 years as part of a proposed peace plan, according to Ukrainian President Volodymyr Zelenskyy. He expressed a preference for a longer commitment to deter Russian aggression. U.S. President Donald…",
+    "link": "https://apnews.com/article/russia-ukraine-war-trump-zelenskyy-peace-b784a9af1803995bfb7152eceb5477f1"
   },
   {
     "text": "Teens are having disturbing interactions with chatbots. Here's how to lower the risks - NPR",
@@ -25,63 +50,48 @@
     "link": "https://www.npr.org/2025/12/29/nx-s1-5646633/teens-ai-chatbot-sex-violence-mental-health"
   },
   {
-    "text": "Pipe bomb suspect told FBI he targeted U.S. political parties, memo says - NPR",
-    "fullText": "The man accused of placing two pipe bombs in Washington on the eve of Jan. 6, 2021 told investigators someone needed to \"speak up\" for people who believed the 2020 election was stolen, prosecutors said Sunday.",
-    "link": "https://www.npr.org/2025/12/29/g-s1-103881/pipe-bomb-suspect-targeted-political-parties"
+    "text": "Electric vehicles had a bumpy road in 2025 — and one pleasant surprise - NPR",
+    "fullText": "A suite of pro-EV federal policies have been reversed. Well-known vehicles have been discontinued. Sales plummeted. But interest is holding steady.",
+    "link": "https://www.npr.org/2025/12/29/nx-s1-5638592/electric-vehicles-2025"
   },
   {
-    "text": "Science history: Richard Feynman gives a fun little lecture — and dreams up an entirely new field of physics — Dec. 29, 1959 - Live Science",
-    "fullText": "In a short talk at Caltech, physicist Richard Feynman laid out a vision of manipulating and controlling atoms at the tiniest scale. It would precede the field of nanotechnology by decades.",
-    "link": "https://www.livescience.com/physics-mathematics/particle-physics/science-history-richard-feynman-gives-a-fun-little-lecture-and-dreams-up-an-entirely-new-field-of-physics-dec-29-1959"
+    "text": "Sam Altman and Alex Karp are learning to hate one of Elon Musk's most frequent enemies - Business Insider",
+    "fullText": "Just like a long line of executives before them, leaders of some of the world's hottest firms are learning to hate an age-old enemy: short sellers.",
+    "link": "https://www.businessinsider.com/sam-altman-alex-karp-short-sellers-openai-palantir-elon-musk-2025-12"
   },
   {
-    "text": "\"Bomb cyclone\" winter storm brings ice and snow, snarls thousands of flights. Maps show the latest forecast. - CBS News",
-    "fullText": "More than 51 million Americans live in areas under winter storm alerts stretching from northern Minnesota to the Eastern Seaboard.",
-    "link": "https://www.cbsnews.com/news/winter-storm-forecast-ice-snow-northeast-great-lakes/"
+    "text": "Train accident in southern Mexico leaves at least 13 dead and dozens injured - CBS News",
+    "fullText": "Officials said a train accident in southern Mexico killed at least 13 people and injured dozens, halting traffic along a rail line connecting the Pacific Ocean with the Gulf of Mexico.",
+    "link": "https://www.cbsnews.com/news/train-accident-in-southern-mexico-leaves-at-least-13-dead-and-dozens-injured/"
   },
   {
-    "text": "US-Nigeria strikes: Living in fear of Lakurawa - the militant group Trump targeted - BBC",
-    "fullText": "\"We cannot live freely. You cannot even play music\" - residents tell the BBC of militants' rule.",
-    "link": "https://www.bbc.com/news/articles/cy7vr76l521o"
+    "text": "Kratom and 7-OH products are widely available. They’re also at the heart of a public health debate. : Short Wave - NPR",
+    "fullText": "Kratom and 7-OH products are available in many smoke shops. But earlier this year, the FDA recommended certain 7-OH products be scheduled alongside opioids. This isn’t the first time kratom has come under scrutiny. Nearly a decade ago, the DEA wanted to make …",
+    "link": "https://www.npr.org/2025/12/29/nx-s1-5633323/kratom-fda-drug-addictive-opioids"
   },
   {
-    "text": "Kosovo's ruling party wins election after months of political deadlock - BBC",
-    "fullText": "The decisive victory for the Albanian nationalist Vetevendosje party means a third term for leader Albin Kurti.",
-    "link": "https://www.bbc.com/news/articles/ce3z3w4wy0go"
+    "text": "What's at stake in the NFL playoff race in Week 18? Both No. 1 seeds, 4 division titles and more - NFL.com",
+    "fullText": "In this edition of The First Read, Jeffri Chadiha provides an overview of everything that's at stake in the final week of the 2025 NFL regular season. Plus, a special ranking of Coach of the Year candidates and the must-see game in Week 18.",
+    "link": "https://www.nfl.com/news/what-s-at-stake-in-the-nfl-playoff-race-in-week-18-both-no-1-seeds-4-division-titles-and-more"
   },
   {
-    "text": "Miley Cyrus Admits She Went to the 2025 Oscars to Pitch Original Songs to Filmmakers - The Hollywood Reporter",
-    "fullText": "\"Everybody that came up and introduced themselves, I said, 'Well, if you need any music, I'm around,'\" the Grammy winner says.",
-    "link": "http://www.hollywoodreporter.com/movies/movie-news/miley-cyrus-attended-2025-oscars-pitch-songs-filmmakers-1236460048/"
+    "text": "Purdy 'playing as good as it gets'; 49ers eye 1-seed - ESPN",
+    "fullText": "For the second week in a row, QB Brock Purdy accounted for five touchdowns as the 49ers outlasted the Bears 42-38 in a wild shootout on \"Sunday Night Football\" to set up a Week 18 showdown with the Seahawks for the NFC's top seed.",
+    "link": "https://www.espn.com/nfl/story/_/id/47441508/brock-purdy-big-night-snf-win-vs-bears-sets-49ers-seahawks-showdown-nfc-top-seed"
   },
   {
-    "text": "Samsung Plans To Bring Google Photos to Samsung AI TV Lineup, Helping Users Relive Their Favorite Memories on the Big Screen - samsung.com",
-    "fullText": "Samsung Electronics today announced that they are working to bring Google Photos to Samsung TVs to give users a seamless way to enjoy the moments that matter most, from trips and hobbies to everyday memories with loved ones — now on an immersive and larger sc…",
-    "link": "https://news.samsung.com/global/samsung-plans-to-bring-google-photos-to-samsung-ai-tv-lineup-helping-users-relive-their-favorite-memories-on-the-big-screen"
+    "text": "The Winners and Losers of the NFL Week 17 - The Ringer",
+    "fullText": "The 49ers and Bears had an offensive battle for the ages, Josh Allen flubbed a potential game-winning throw, and Week 18 is all set up to have three divisional title bouts",
+    "link": "https://www.theringer.com/2025/12/29/nfl/winners-losers-nfl-week-17-josh-allen-mike-tomlin-nfc-south-demeco-ryans"
   },
   {
-    "text": "Ewers delivers win for Dolphins in second start - ESPN",
-    "fullText": "Dolphins quarterback Quinn Ewers earned his first regular-season win in a 20-17 victory Sunday over the Tampa Bay Buccaneers, with the rookie notching a handful of milestones in the process.",
-    "link": "https://www.espn.com/nfl/story/_/id/47438055/quinn-ewers-leads-dolphins-buccaneers-first-nfl-win"
+    "text": "Trump and Netanyahu to meet in Florida at a crucial moment for the Gaza ceasefire - NPR",
+    "fullText": "President Trump could use the face-to-face at his Mar-a-Lago estate to look for ways to speed up the peace process, as Israel's leader has been accused of not pushing his side to move fast enough.",
+    "link": "https://www.npr.org/2025/12/29/g-s1-103875/trump-netanyahu-meet-in-florida"
   },
   {
-    "text": "Guineans vote in first election since 2021 coup with junta leader likely to win - AP News",
-    "fullText": "Guineans were voting to elect a new president in the country’s first election since a 2021 coup. The election on Sunday featured a weakened opposition with a total of nine candidates. Analysts have predicted a likely win for junta leader Gen. Mamadi Doumbouya…",
-    "link": "https://apnews.com/article/guinea-election-voting-conakry-9c51dff8b5d244b5c5f2157be6eaf1d2"
-  },
-  {
-    "text": "A weekend of harsh winter weather brings more death and despair to people in Gaza - CNN",
-    "fullText": "Fierce rain and bitter cold continued to batter Gaza this weekend, as the number of Palestinians killed by the harsh winter weather continues to rise.",
-    "link": "https://www.cnn.com/2025/12/28/middleeast/harsh-winter-weather-flooding-despair-gaza-intl"
-  },
-  {
-    "text": "NASA Found This on Top of Mars’s Biggest Volcano - The Daily Galaxy",
-    "fullText": "Its existence challenges what we know about planetary activity in the absence of tectonic plates.",
-    "link": "https://dailygalaxy.com/2025/12/mars-biggest-volcano-olympus-mons/"
-  },
-  {
-    "text": "4 Exciting Smart TVs Coming Out In 2026 - bgr.com",
-    "fullText": "The 2026 TV lineup features the LG Micro RGB evo, Samsung's expanded Micro RGB series, and the flagship S99H OLED. See the top 4 TVs redefining entertainment.",
-    "link": "https://www.bgr.com/2057922/smart-tvs-coming-out-2026/"
+    "text": "Horoscope for Monday, December 29, 2025 - Chicago Sun-Times",
+    "fullText": null,
+    "link": "https://chicago.suntimes.com/horoscopes/2025/12/29/horoscopes-today-monday-december-29-2025"
   }
 ]
