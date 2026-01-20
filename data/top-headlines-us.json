@@ -1,5 +1,10 @@
 [
   {
+    "text": "Trump tariffs live updates: EU discusses $108 billion in retaliatory tariffs; Danish PM says Europe 'will not be blackmailed' - Yahoo Finance",
+    "fullText": "President Trump has said the acquisition of Greenland is crucial for the US but European allies, including Denmark and Greenland, remain staunchly opposed to...",
+    "link": "https://finance.yahoo.com/news/live/trump-tariffs-live-updates-eu-discusses-108-billion-in-retaliatory-tariffs-danish-pm-says-europe-will-not-be-blackmailed-152657886.html"
+  },
+  {
     "text": "FBI opened probe on Minneapolis shooting; none exists now, Justice Dept. says - The Washington Post",
     "fullText": "After the death of Renée Good in Minneapolis, FBI agents launched a civil rights probe into the shooting. The Justice Department says no such case now exists.",
     "link": "https://www.washingtonpost.com/national-security/2026/01/18/fbi-minnesota-shooting-civil-rights-investigation/"
@@ -10,9 +15,14 @@
     "link": "https://www.cnn.com/sport/live-news/nfl-playoffs-texans-patriots-rams-bears-01-18-26"
   },
   {
-    "text": "Texans’ C.J. Stroud Makes Unfortunate NFL History With Wild Run of Turnovers in Playoffs - Sports Illustrated",
-    "fullText": "C.J. Stroud’s turnover numbers this postseason are unlike anything the NFL has ever seen.",
-    "link": "https://www.si.com/nfl/texans-cj-stroud-unfortunate-nfl-history-turnovers-in-playoffs"
+    "text": "Patriots favored by 4.5 at Broncos in AFC Championship Game - NBC Sports",
+    "fullText": "The Patriots will be road favorites in Denver in next weekend's AFC Championship Game.",
+    "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patriots-favored-by-4-5-at-broncos-in-afc-championship-game"
+  },
+  {
+    "text": "Erie County issues a travel advisory as major winter storm approaches - WGRZ",
+    "fullText": "Erie County will be under a Travel Advisory starting at 10 tonight as a long-duration winter storm moves into the region.",
+    "link": "https://www.wgrz.com/article/weather/weather-impact/erie-county-issues-travel-advisory-winter-storm-approaches/71-90adaba1-894e-46de-a474-f1f7775163dd"
   },
   {
     "text": "Man detained in Minneapolis dies in ICE custody in Texas - MPR News",
@@ -20,9 +30,19 @@
     "link": "https://www.mprnews.org/story/2026/01/18/man-detained-in-minneapolis-dies-in-ice-custody-in-texas"
   },
   {
+    "text": "Why Seahawks defense’s fourth-down stops were critical vs. 49ers | Four Downs - The Seattle Times",
+    "fullText": "How big were the Seahawks' fourth-down stops vs. the 49ers? And what advice did Grey Zabel give Leonard Williams before his fourth-down sack?",
+    "link": "https://www.seattletimes.com/sports/seahawks/seahawks-defenses-fourth-down-stops-critical-vs-49ers-four-downs/"
+  },
+  {
     "text": "Canada’s Tariff Cut Just Made This High-Tech Chinese EV 50% Cheaper - InsideEVs",
     "fullText": "A high-end electric performance SUV that's made in China is about to get dramatically cheaper for Canadians.",
     "link": "https://insideevs.com/news/784754/lotus-eletre-price-cut-canada-tariff-chinese-evs/"
+  },
+  {
+    "text": "EXCLUSIVE: Xbox Cloud Gaming is getting ad-supported access VERY soon - Windows Central",
+    "fullText": "Users have been noticing that Xbox Cloud Gaming has begun referencing \"ad support\" while launching games.",
+    "link": "https://www.windowscentral.com/gaming/xbox/exclusive-xbox-cloud-gaming-will-get-an-ad-supported-tier-this-year-rumors-coalesce-after-ad-support-notices-appear-prematurely"
   },
   {
     "text": "Center left wins Portugal presidential election first round, setting up showdown with far right - politico.eu",
@@ -30,19 +50,9 @@
     "link": "https://www.politico.eu/article/far-right-wins-portugal-presidential-election-first-round-exit-poll-says/"
   },
   {
-    "text": "Homeless warming fire ignites Portland Red Robin, firefighters say - OregonLive.com",
-    "fullText": "Firefighters managed to quench the blaze before it engulfed the whole building.",
-    "link": "https://www.oregonlive.com/crime/2026/01/homeless-warming-fire-ignites-portland-red-robin-firefighters-say.html"
-  },
-  {
-    "text": "Oregon man buys four 'refurbished' video game consoles from Temu and opens them up to see if they're legit - supercarblondie.com",
-    "fullText": "This Oregon man got his hands on four refurbished video game consoles from Temu to have a closer look at whether or not they were worth the investment",
-    "link": "https://supercarblondie.com/are-refurbished-video-game-consoles-temu-legit/"
-  },
-  {
-    "text": "Millions use the Epic Games Store, but almost nobody buys games there - Windows Central",
-    "fullText": "Epic’s free game strategy worked for sign‑ups, but trained users to never buy, leaving revenue growth nearly nonexistent.",
-    "link": "https://www.windowscentral.com/gaming/pc-gaming/epic-games-store-grew-from-108m-to-295m-users-but-third-party-revenue-barely-moved"
+    "text": "Here’s why Walmart still doesn’t support Apple Pay - 9to5Mac",
+    "fullText": "Walmart still doesn’t accept Apple Pay (or any NFC tap-to-pay) in U.S. stores. Here are a few reasons why it doesn't.",
+    "link": "https://9to5mac.com/2026/01/18/heres-why-walmart-still-doesnt-support-apple-pay/"
   },
   {
     "text": "7 police officers killed in attacks in Guatemala after prison crackdown on gangs - CBS News",
@@ -50,9 +60,9 @@
     "link": "https://www.cbsnews.com/news/police-officers-killed-guatemala-prison-crackdown/"
   },
   {
-    "text": "Syria, SDF agree ceasefire and integration deal - BBC",
-    "fullText": "President Ahmed al-Sharaa said the deal would allow the Syrian state to reassert control over most areas.",
-    "link": "https://www.bbc.com/news/articles/c4gwk37ewvwo"
+    "text": "‘Avatar: Fire And Ash’ Hits $1.3B, ‘Housemaid’ Paul Feig’s 2nd Highest Grossing Pic, ’28 Years Later: Bone Temple’ $31M WW Debut – Global Box Office - Deadline",
+    "fullText": "The MLK weekend box office might have been sleep in the U.S., but overseas, Disney continued to reign with milestones, Zootopia 2, as we just told you becoming the highest grossing MPA animated movie ever with $1.7 billion, but also James Cameron’s Avatar: Fi…",
+    "link": "http://deadline.com/2026/01/box-office-global-avatar-fire-and-ash-28-years-later-bone-temple-1236689254/"
   },
   {
     "text": "Colin Jost Reacts to Wife Scarlett Johansson Losing Top-Grossing Title - Yahoo",
@@ -60,9 +70,9 @@
     "link": "https://www.eonline.com/news/1427471/colin-jost-on-scarlett-johansson-replaced-as-highest-grossing-star?cmpid=sn-syndicate-aolfeed-us-"
   },
   {
-    "text": "5 Clever Uses For Your Old PlayStation 3 - bgr.com",
-    "fullText": "Even though the PlayStation 3 is going on 20 years old, turning it into an emulator or media server can breathe new life into that old console.",
-    "link": "https://www.bgr.com/2074854/uses-for-your-old-ps3/"
+    "text": "Microsoft’s first Windows 11 update of 2026 stopped some computers from shutting down - The Verge",
+    "fullText": "Microsoft was forced to release an emergency update after the first Windows 11 update of 2026 stopped some computers from shutting down or hibernating.",
+    "link": "https://www.theverge.com/news/864032/microsofts-out-of-band-windows-11-update-bug"
   },
   {
     "text": "Why is flu season so bad this year? - Live Science",
@@ -70,23 +80,13 @@
     "link": "https://www.livescience.com/health/flu/why-is-flu-season-so-bad-this-year"
   },
   {
-    "text": "Indiana football is one win from joining the greatest sports stories ever - CBS Sports",
-    "fullText": "Indiana football is one win from a place usually reserved for miracles, movies and legends",
-    "link": "https://www.cbssports.com/college-football/news/indiana-football-greatest-sports-stories/"
+    "text": "Opening & Matches Revealed for January 19 WWE RAW - Ringside News",
+    "fullText": "WWE is stacking the deck for this Monday’s RAW, and it’s all going down on Netflix starting at 3 PM ET. Gunther is slated to open the show, as confirmed",
+    "link": "https://www.ringsidenews.com/opening-matches-revealed-january-19-wwe-raw/"
   },
   {
-    "text": "NASA Caught The Ocean Turning Strange Colors Around These Islands - The Daily Galaxy",
-    "fullText": "A glowing ring just appeared in the Pacific, and NASA caught it on camera.",
-    "link": "https://dailygalaxy.com/2026/01/nasa-ocean-strange-colors-around-islands/"
-  },
-  {
-    "text": "Ketsu Battler adds Narmaya from Granblue Fantasy Versus: Rising - Gematsu",
-    "fullText": "Ketsu Battler, the one-on-one butt shaking fighting game, has added Narmaya from Granblue Fantasy Versus: Rising as a free guest character today alongside the previously announced Beelzebub via its…",
-    "link": "https://www.gematsu.com/2026/01/ketsu-battler-adds-narmaya-from-granblue-fantasy-versus-rising"
-  },
-  {
-    "text": "Trump suffers major losses in his war on offshore wind - Politico",
-    "fullText": "The administration’s arguments that offshore wind farms present a national security risk failed to convince judges in three separate courts.",
-    "link": "https://www.politico.com/news/2026/01/18/trump-offshore-wind-problems-00734850"
+    "text": "German Soldiers Leave Greenland After 44 Hours, Bild Reports - Bloomberg.com",
+    "fullText": "The German military reconnaissance team that arrived in Greenland on Friday is on its way back after a 44-hour deployment on the Arctic island, Bild newspaper reported on Sunday.",
+    "link": "https://www.bloomberg.com/news/articles/2026-01-18/german-soldiers-leave-greenland-after-44-hour-stay-bild-reports"
   }
 ]
