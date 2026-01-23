@@ -1,43 +1,78 @@
 [
   {
+    "text": "House passes DHS funding bill despite Democratic opposition over ICE - The Washington Post",
+    "fullText": "Lawmakers are still on track to prevent another government shutdown at the end of the month.",
+    "link": "https://www.washingtonpost.com/politics/2026/01/22/homeland-security-funding-ice-opposition/"
+  },
+  {
+    "text": "Trump sues JPMorgan, Jamie Dimon over cutting off banking access - The Washington Post",
+    "fullText": "President Donald Trump filed suit against JPMorgan Chase and its CEO, Jamie Dimon, saying the bank abruptly closed his accounts.",
+    "link": "https://www.washingtonpost.com/business/2026/01/22/trump-lawsuit-jpmorganchase-dimon/"
+  },
+  {
+    "text": "After ‘good’ Trump meeting, Zelensky pushes Europe hard to do more - The Washington Post",
+    "fullText": "President Trump and White House envoy Steve Witkoff have said a deal to resolve nearly four years of war between Russia and Ukraine is close.",
+    "link": "https://www.washingtonpost.com/world/2026/01/22/trump-zelensky-davos-ukraine-russia/"
+  },
+  {
+    "text": "Maps show where winter storm threatens to bring heavy snow, ice, brutal cold this weekend - CBS News",
+    "fullText": "Heavy snow, ice and brutal cold are expected to make this winter storm a potentially life-threatening weather event for 35 states.",
+    "link": "https://www.cbsnews.com/news/maps-winter-storm-snow-cold-weekend/"
+  },
+  {
+    "text": "US officially exits World Health Organization, accusing agency of straying 'from its core mission' - ABC News",
+    "fullText": null,
+    "link": "https://abcnews.go.com/Health/us-officially-exits-world-health-organization-accusing-agency/story?id\\\\u003d129455089"
+  },
+  {
+    "text": "Exclusive | Capital One Strikes $5.15 Billion Deal for Fintech Brex - The Wall Street Journal",
+    "fullText": "Deal gives credit-card issuer access to technology used by thousands of companies for corporate credit cards",
+    "link": "https://www.wsj.com/finance/banking/capital-one-to-buy-fintech-brex-e2dacc67"
+  },
+  {
+    "text": "Epic and Google have a secret $800 million Unreal Engine and services deal - The Verge",
+    "fullText": "Antitrust settlement talks have revealed a deal between Epic and Google over the Unreal Engine and unspecified services, which could impact the judge’s decision.",
+    "link": "https://www.theverge.com/policy/866140/epic-google-fortnite-android-unreal-deal-antitrust-settlement"
+  },
+  {
+    "text": "Dow climbs 300 points, rebounds from Greenland tariff turmoil in two-day rally: Live updates - CNBC",
+    "fullText": "Stocks rose on Thursday, extending their gains from the previous session after easing geopolitical fears sparked a broad-based market rally.",
+    "link": "https://www.cnbc.com/2026/01/21/stock-market-today-live-updates.html"
+  },
+  {
     "text": "5,500-year-old DNA shows syphilis was rooted in the Americas, before Columbus - The Washington Post",
     "fullText": "Analysis of a shin bone found in a rock cave in Colombia suggests the sexually transmitted disease is much older than previously believed.",
     "link": "https://www.washingtonpost.com/health/2026/01/22/std-syphilis-origins-dna-sexual-health/"
   },
   {
-    "text": "After ‘good’ Trump meeting, Zelensky pushes Europe hard to do more - The Washington Post",
-    "fullText": "Trump and White House envoy Witkoff have said a deal to resolve nearly four years of war between Russia and Ukraine is close.",
-    "link": "https://www.washingtonpost.com/world/2026/01/22/trump-zelensky-davos-ukraine-russia/"
+    "text": "Veteran Detroit Lions OT ‘reports as retired,’ plans to transition to coaching - mlive.com",
+    "fullText": "“It’s time for me to ‘report’ as retired. (Sorry I had to do it one last time!).”",
+    "link": "https://www.mlive.com/lions/2026/01/veteran-detroit-lions-ot-reports-as-retired-plans-to-transition-to-coaching.html"
   },
   {
-    "text": "Trump budget office orders review of funds to Democratic-controlled states - The Washington Post",
-    "fullText": "President Donald Trump said his administration would cut off federal resources to “sanctuary cities” on Feb. 1.",
-    "link": "https://www.washingtonpost.com/business/2026/01/22/democratic-states-federal-funding-review/"
+    "text": "Businesses close, Minnesotans to stay home Friday in protest of ICE - Star Tribune",
+    "fullText": "From restaurants to schools and more, hundreds of locals plan to participate in the “ICE Out! Statewide shutdown” on Jan. 23 to show community unity against federal immigration action in the Twin Cities.",
+    "link": "https://www.startribune.com/ice-out-statewide-shutdown-minnesota-business-school-closed-protest-economic-blackout-immigration/601567509"
   },
   {
-    "text": "Winter storm updates: Heavy snow, crippling ice and frigid temperatures forecast to hit more than 2 dozen states this weekend - Yahoo",
-    "fullText": "Meteorologists say it could be one of the most significant winter events this season.",
-    "link": "https://www.yahoo.com/news/weather-news/live/winter-storm-updates-heavy-snow-crippling-ice-and-frigid-temperatures-forecast-to-hit-more-than-2-dozen-states-this-weekend-154833002.html"
+    "text": "Our most anticipated films of Sundance 2026 - AV Club",
+    "fullText": "From a timely immigration doc to the greatest party of Black luminaries ever held, Sundance 2026 closes out its stint in Utah with a bang.",
+    "link": "https://www.avclub.com/sundance-2026-most-anticipated"
   },
   {
-    "text": "Scientists discover new clue linking obesity to dementia risk - The Washington Post",
-    "fullText": "European researchers trace a path that shows how high blood pressure caused by excess weight could be the link to certain cognitive brain disease.",
-    "link": "https://www.washingtonpost.com/health/2026/01/22/dementia-obesity-blood-pressure-science/"
-  },
-  {
-    "text": "ICE memo allows agents to enter homes without judge’s warrant, legal group says - The Washington Post",
-    "fullText": "The memo, seen by The Washington Post, was included in a disclosure to U.S. senators by Whistleblower Aid, a legal group representing two government employees.",
-    "link": "https://www.washingtonpost.com/immigration/2026/01/22/ice-memo-enter-homes-warrant/"
-  },
-  {
-    "text": "France seizes suspected Russian 'shadow fleet' tanker in the Mediterranean - BBC",
-    "fullText": "The vessel, named Grinch, was stopped by the French navy as it travelled through waters between Spain and Morocco.",
-    "link": "https://www.bbc.com/news/articles/cdexxr2y907o"
+    "text": "The Texas snow and ice forecast is changing. Here’s an update. - expressnews.com",
+    "fullText": "Models show the arctic cold front is trending slower than previously expected, which could have a big effect on how much snow and ice will fall.",
+    "link": "https://www.expressnews.com/san-antonio-weather/article/cold-arctic-snow-texas-ice-storm-freeze-21309181.php"
   },
   {
     "text": "Mexican authorities arrest alleged crime figure ‘El Botox’ in killing of lime growers’ leader - AP News",
     "fullText": "Mexican authorities have arrested an alleged organized crime figure in Michoacan linked to the killing of a lime growers' leader. Security Secretary Omar García Harfuch said the man known as “El Botox” was arrested for extorting lime growers and various homic…",
     "link": "https://apnews.com/article/mexico-michoacan-sheinbaum-limes-botox-536262256e71ef85b2841035dede8d31"
+  },
+  {
+    "text": "US optimistic on end to war as Zelensky says Ukraine to talk to US and Russia - BBC",
+    "fullText": "The meeting came as US envoy Steve Witkoff headed to Moscow for a meeting with Russia's Vladimir Putin.",
+    "link": "https://www.bbc.com/news/articles/c4g44r22j5jo"
   },
   {
     "text": "A vaccine trial is called 'unethical' and a 'unique' opportunity. Is it on or off? - NPR",
@@ -50,43 +85,18 @@
     "link": "https://www.businessinsider.com/ftx-exec-caroline-ellison-prison-release-2026-1"
   },
   {
-    "text": "PFT’s 2025 NFL Conference Championship picks: Florio vs. Simms - NBC Sports",
-    "fullText": "And then there were four.",
-    "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/pfts-2025-nfl-conference-championship-picks-florio-vs-simms"
+    "text": "Top CDC vaccine adviser questions need for polio shot, other longstanding recommendations - statnews.com",
+    "fullText": "The chair of a federal vaccine advisory panel charted a new course for the committee in a podcast released Thursday, questioning longstanding recommendations.",
+    "link": "https://www.statnews.com/2026/01/22/vaccine-policy-adviser-kirk-milhoan-individual-rights-trump-public-health/"
   },
   {
-    "text": "NC ticket wins $209.3 million Powerball jackpot - WRAL",
-    "fullText": "A Powerball ticket purchased in Roanoke Rapids won the $209.3 million jackpot drawing Wednesday night.",
-    "link": "https://www.wral.com/news/local/nc-ticket-wins-powerball-jackpot-roanoke-rapids-january-2026/"
+    "text": "Harry Styles Announces 2026 Tour Dates, Including 30 Nights in New York City - Variety",
+    "fullText": "Harry Styles has announced dates for his hotly anticipated tour in support of his forthcoming fourth solo album 'Kiss All the Time. Disco, Occasionally.'",
+    "link": "https://variety.com/2026/music/news/harry-styles-2026-tour-dates-1236638023/"
   },
   {
-    "text": "ISS astronaut spots Artemis 2 moon rocket on the launch pad from space (photo) - Space",
-    "fullText": "A NASA astronaut on the ISS captured the Space Launch System rocket for Artemis 2, a mission that aims to bring four astronauts around the moon as soon as Feb. 6.",
-    "link": "https://www.space.com/space-exploration/human-spaceflight/iss-astronaut-spots-artemis-2-moon-rocket-on-the-launch-pad-from-space-photo"
-  },
-  {
-    "text": "Chicago weather forecast: Extreme Cold Warning Friday for Cook County, IL as dangerous polar plunge nears - abc7chicago.com",
-    "fullText": "Metra will operate a reduced schedule on all its lines Friday.",
-    "link": "https://abc7chicago.com/post/chicago-weather-forecast-extreme-cold-warning-friday-cook-county-il-dangerous-polar-plunge-nears/18447515/"
-  },
-  {
-    "text": "Dow jumps 400 points as stocks rebound for a second day after Trump calls off Greenland-related tariffs: Live updates - CNBC",
-    "fullText": "Major U.S. stock averages immediately jumped after President Donald Trump said he would no longer impose his new Europe tariffs that were set to begin Feb. 1.",
-    "link": "https://www.cnbc.com/2026/01/21/stock-market-today-live-updates.html"
-  },
-  {
-    "text": "Newsom shows off knee pads for CEOs 'selling out' to the Trump administration - CNBC",
-    "fullText": "The Governor of California showed off knee pads that he suggested were for leaders \"selling out\" to the Trump administration, during an interview at Davos.",
-    "link": "https://www.cnbc.com/2026/01/22/newsom-makes-knee-pads-for-ceos-selling-out-to-trump.html"
-  },
-  {
-    "text": "Emma Stone Just Broke Oscar Nominations Records With Her ‘Bugonia’ Nods - hollywoodreporter.com",
-    "fullText": "Stone was nominated in the best actress and best picture categories, the latter for her producer role on the film.",
-    "link": "http://www.hollywoodreporter.com/movies/movie-news/emma-stone-oscar-nominations-records-1236480529/"
-  },
-  {
-    "text": "‘Fake as F-ck’: The Wannabe Rock Star Accused of Scamming Streamers - Rolling Stone",
-    "fullText": "Inside the first case of music-streaming fraud in the U.S., where prosecutors say musician Mike Smith used bots to earn millions in fake royalties.",
-    "link": "http://www.rollingstone.com/music/music-features/streaming-fraud-fake-streams-mike-smith-1235500686/"
+    "text": "Star Wars: Maul – Shadow Lord Teaser Trailer and First Poster Arrive - StarWars.com",
+    "fullText": "Executive producers break down new characters and locations from the animated series, which premieres on Disney+ April 6, 2026, with the full cast announcement and a first look at the story to come.",
+    "link": "https://www.starwars.com/news/star-wars-maul-shadow-lord-first-trailer-poster-art"
   }
 ]
