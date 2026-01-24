@@ -1,13 +1,28 @@
 [
   {
-    "text": "Stock Market Today: Dow falls 300 points as bank stocks struggle; S&P 500 wavers, tech-heavy Nasdaq rises; U.S. stocks mostly on pace for weekly losses - MarketWatch",
-    "fullText": "U.S. stocks were mixed Friday afternoon, with the S&P 500 heading for a weekly loss despite rebounding from Tuesday's selloff sparked by worries over Greenland. Banks stocks were under pressure Friday, with Goldman Sachs among the Dow's worst performers in af…",
-    "link": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-and-nasdaq-set-to-advance-as-gold-nears-5-000"
+    "text": "Thousands march through downtown Minnapolis protesting against ICE as state workers hold general strike - CBS News",
+    "fullText": "Hundreds of businesses in the Twin Cities are closed Friday to protest the presence of federal immigration agents in Minnesota, as thousands of demonstrators have taken to the streets of downtown Minneapolis in a show of solidarity.",
+    "link": "https://www.cbsnews.com/minnesota/live-updates/general-strike-rally-planned-in-minnesota-friday-to-protest-ice/"
   },
   {
-    "text": "Ex-NFL player Kevin Johnson fatally stabbed in Los Angeles homeless encampment - NBC News",
-    "fullText": "Former NFL player Kevin Johnson, who played with the Philadelphia Eagles and Oakland Raiders, was beaten and stabbed to death in a Los Angeles homeless encampment.",
-    "link": "https://www.nbcnews.com/news/us-news/ex-nfl-player-kevin-johnson-fatally-stabbed-homeless-encampment-rcna255617"
+    "text": "No. 17 Alabama plans to play 7-footer Charles Bediako, who turned pro in 2023, against Tennessee - AP News",
+    "fullText": "Alabama coach Nate Oats says 7-foot center Charles Bediako, who gave up his college eligibility in 2023 to enter the NBA draft, will play against Tennessee on Saturday. Although Oats called the NCAA system that is allowing professional players to return to co…",
+    "link": "https://apnews.com/article/alabama-charles-bediako-ncaa-lawsuit-c30d6c071e71a297598d9676c8a054c9"
+  },
+  {
+    "text": "Unvaccinated child marks Bay Area county's first measles case in over a decade - SFGATE",
+    "fullText": "On Wednesday, Napa County public health officials announced that an unvaccinated child was the third person in the Bay Area with a confirmed measles case.",
+    "link": "https://www.sfgate.com/bayarea/article/unvaccinated-child-bay-area-measles-21311776.php"
+  },
+  {
+    "text": "Dabo Swinney incriminates Pete Golding, Ole Miss with detailed timeline on Luke Ferrelli transfer, flip - On3",
+    "fullText": ".",
+    "link": "https://www.on3.com/news/dabo-swinney-incriminates-pete-golding-ole-miss-detailed-timeline-luke-ferrelli-transfer-flip-cal-clemson/"
+  },
+  {
+    "text": "Vance addresses criticism that Trump admin has not done enough to move anti-abortion rights agenda forward - ABC News",
+    "fullText": null,
+    "link": "https://abcnews.go.com/Politics/vance-addresses-criticism-trump-admin-move-anti-abortion/story?id\\\\u003d129497076"
   },
   {
     "text": "Indonesian Influencer Lula Lahfah Found Dead at 26 - TMZ",
@@ -15,19 +30,29 @@
     "link": "https://www.tmz.com/2026/01/23/lula-lahfah-indonesian-influencer-dead/"
   },
   {
-    "text": "Patriots vs. Broncos Friday injury report: Harold Landry III out, three questionable - Pats Pulpit",
-    "fullText": "Game statuses for the AFC Championship Game at Mile High.",
-    "link": "https://www.patspulpit.com/new-england-patriots-news/120187/patriots-vs-broncos-friday-injury-report-harold-landry-iii-out-afc-championship-game"
-  },
-  {
     "text": "Trump administration weighs naval blockade to halt Cuban oil imports - Politico",
     "fullText": "“Energy is the chokehold to kill” the Cuban regime, said a person familiar with the discussions.",
     "link": "https://www.politico.com/news/2026/01/23/trump-administration-weighs-naval-blockade-to-halt-cuban-oil-imports-00744708"
   },
   {
-    "text": "‘Mercy’ Mints $1.5M Previews, Eyes $12M+ Opening, But Monster Winter Storm Could Snow Cinemas In - Deadline",
-    "fullText": "There's one major studio wide entry this weekend, Amazon MGM Studios' $60M dystopian future thriller, Mercy starring Chris Pratt, and while it did $1.5M in previews in yesterday, the entire 3-day outlook could be impacted by the looming winter storm that's hi…",
-    "link": "http://deadline.com/2026/01/box-office-mercy-chris-pratt-1236694631/"
+    "text": "Kushner’s vision for rebuilding Gaza faces major obstacles - AP News",
+    "fullText": "Jared Kushner envisions a rebuilt Gaza with high-rises, a coastline that attracts tourists and a bustling port. Speaking at an economic forum in Davos, U.S. President Donald Trump’s son-in-law and Middle East adviser claimed Gaza could be rebuilt quickly, so …",
+    "link": "https://apnews.com/article/israel-hamas-ceasefire-trump-gaza-kushner-758867a971b917f8f21b056fe9a281ca"
+  },
+  {
+    "text": "The Chevy Bolt EV never got a fighting chance as GM flips back to gas cars - Electrek",
+    "fullText": "The new Chevy Bolt EV just went into production at GM’s Fairfax plant in Kansas in November, but it won’t...",
+    "link": "http://electrek.co/2026/01/23/chevy-bolt-ev-never-got-chance-gm-flips-to-gas-cars/"
+  },
+  {
+    "text": "CISA confirms active exploitation of four enterprise software bugs - BleepingComputer",
+    "fullText": "The Cybersecurity and Infrastructure Security Agency (CISA) in the U.S. warned of active exploitation of four vulnerabilities impacting enterprise software from Versa and Zimbra, the Vite frontend tooling framework, and the Prettier code formatter.",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-confirms-active-exploitation-of-four-enterprise-software-bugs/"
+  },
+  {
+    "text": "Ukraine, Russia, US to discuss fraught issue of territorial concessions in Abu Dhabi - AP News",
+    "fullText": "Ukrainian President Volodymyr Zelenskyy says the future of Ukraine’s eastern Donbas region is a key focus as negotiators from Ukraine, Russia, and the United States meet in Abu Dhabi. Friday's talks are the latest aiming to end Russia’s nearly four-year full-…",
+    "link": "https://apnews.com/article/russia-ukraine-trump-putin-witkoff-kushner-zelenskyy-e985cdc189a479c7618ba4523a50463a"
   },
   {
     "text": "Philadelphia sues after slavery exhibits were taken down from President's House site - NBC News",
@@ -45,14 +70,9 @@
     "link": "https://www.espn.com/mma/story/_/id/47706166/ufc-fighter-cameron-smotherman-collapses-making-weight"
   },
   {
-    "text": "Mets Notes: Peralta, Senga, Benge - MLB Trade Rumors",
-    "fullText": "The Mets have shaken things up quite a bit this month. MLBTR looks at some of the latest developments.",
-    "link": "https://www.mlbtraderumors.com/2026/01/mets-notes-peralta-senga-benge.html"
-  },
-  {
-    "text": "ARC Raiders Roadmap: January - April 2026 - arcraiders.com",
-    "fullText": "ARC Raiders is a multiplayer extraction adventure, set in a lethal future earth, ravaged by a mysterious mechanized threat known as ARC.",
-    "link": "https://arcraiders.com/news/roadmap-january-april-2026"
+    "text": "Nicole 'Snooki' Polizzi Reveals Doctors Found Cancerous Cells in Her Cervix: ‘I’m Scared’ - Yahoo News UK",
+    "fullText": "Nicole \"Snooki\" Polizzi revealed she recently had a biopsy where cancerous cells were discovered on her cervix. The ‘Jersey Shore’ star, 38, admitted that she delayed her routine screenings and urged other women to stay on top of their health.",
+    "link": "https://people.com/nicole-snooki-polizzi-reveals-cervical-cancer-scare-11891378"
   },
   {
     "text": "Google Photos’ latest feature lets you meme yourself - TechCrunch",
@@ -78,20 +98,5 @@
     "text": "Renée Fleming cancels Kennedy Center appearances - AP News",
     "fullText": "Renée Fleming is withdrawing from two May appearances at the Kennedy Center. This follows a wave of cancellations since President Trump ousted the previous leadership and announced the venue's renaming. Fleming was set to perform with conductor James Gaffigan…",
     "link": "https://apnews.com/article/renee-fleming-kennedy-center-cancellations-9ed539d9e42c47d700196e72beb5ca26"
-  },
-  {
-    "text": "Iran protests: Eyewitness tells of people getting shot - BBC",
-    "fullText": "An Iranian who got out of the country describes scenes of chaos as security forces opened fire in her home town.",
-    "link": "https://www.bbc.com/news/articles/c9dvvzzpwylo"
-  },
-  {
-    "text": "Monster Neutrino Could Be a Messenger of Ancient Black Holes - Quanta Magazine",
-    "fullText": "Primordial black holes could rewrite our understanding of dark matter and the early universe. A record-breaking detection at the bottom of the Mediterranean Sea has some physicists wondering if we just spotted one.",
-    "link": "https://www.quantamagazine.org/monster-neutrino-could-be-a-messenger-of-ancient-black-holes-20260123/"
-  },
-  {
-    "text": "Live updates: Minnesota ‘economic blackout’ planned in protest of ICE as immigration crackdown fuels tensions - CNN",
-    "fullText": "There are heightened tensions over the Trump administration’s expansive immigration crackdown. Follow for live updates.",
-    "link": "https://www.cnn.com/us/live-news/ice-minnesota-minneapolis-maine-immigration-01-23-26"
   }
 ]
