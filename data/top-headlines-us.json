@@ -1,18 +1,58 @@
 [
   {
+    "text": "S&P 500 rises to record high, led by gains in tech: Live updates - CNBC",
+    "fullText": "More than 90 S&P 500 companies are slated to report quarterly results this week.",
+    "link": "https://www.cnbc.com/2026/01/26/stock-market-today-live-updates.html"
+  },
+  {
+    "text": "One person in critical condition after being shot in incident involving Border Patrol in Arizona - NBC News",
+    "fullText": "A person was shot in an incident involving U.S. Border Patrol in Arizona on Tuesday, according to a Pima County Sheriff spokeswoman.",
+    "link": "https://www.nbcnews.com/news/us-news/person-shot-border-patrol-involved-arizona-rcna256137"
+  },
+  {
+    "text": "US to send ICE agents to Winter Olympics, prompting Italian anger - BBC",
+    "fullText": "The US federal agency says it will not play an immigration role at February's event in Milan-Cortina.",
+    "link": "https://www.bbc.com/news/articles/c5y29xzjdzvo"
+  },
+  {
+    "text": "Yankees Claim Dom Hamel; Designate Marco Luciano, Jayvien Sandridge For Assignment - MLB Trade Rumors",
+    "fullText": "Yankees do some roster shuffling.",
+    "link": "https://www.mlbtraderumors.com/2026/01/yankees-claim-dom-hamel-designate-marco-luciano-jayvien-sandridge-for-assignment.html"
+  },
+  {
+    "text": "South Carolina measles outbreak is largest in US since measles was declared eliminated - CNN",
+    "fullText": "The fast-growing measles outbreak in South Carolina is now the largest in the United States since the disease was declared eliminated in this country more than two decades ago.",
+    "link": "https://www.cnn.com/2026/01/27/health/largest-us-measles-outbreak-south-carolina"
+  },
+  {
+    "text": "Trump aides declared 16 DHS shootings since July justified before probes completed - The Washington Post",
+    "fullText": "The Trump administration’s rush to defend the officers and accuse the victims of attacking them has sparked widespread outrage and demands for accountability.",
+    "link": "https://www.washingtonpost.com/immigration/2026/01/27/ice-border-patrol-shootings-immigration-trump/"
+  },
+  {
     "text": "Amazon to Shut Down All Amazon Go and Amazon Fresh Stores - The Wall Street Journal",
     "fullText": "Online retail giant will convert some locations into Whole Foods Market stores as it expands the brand’s footprint",
     "link": "https://www.wsj.com/business/retail/amazon-to-shut-down-all-amazon-go-and-amazon-fresh-stores-0301dfb7"
   },
   {
-    "text": "World pauses to commemorate International Holocaust Remembrance Day - AP News",
-    "fullText": "People across Europe and beyond are commemorating International Holocaust Remembrance Day. They are pausing to reflect on the killing of millions of lives and attempts to wipe out Jewish life in Europe more than eight decades ago. International Holocaust Reme…",
-    "link": "https://apnews.com/article/holocaust-remembrance-auschwitz-un-anniversary-2273ee4e2b86ee9161c8ccc4c543851a"
+    "text": "Kylie Jenner and Timothée Chalamet Shop for Bikinis on Mexico Vacation - TMZ",
+    "fullText": "Kylie Jenner and Timothée Chalamet must've packed light for their trip to Los Cabos, because they went shopping for some sexy swimwear ... and it's all on video.",
+    "link": "https://www.tmz.com/2026/01/27/timothee-chalamet-kylie-jenner-buying-bikini-mexico/"
   },
   {
-    "text": "U.S. judge orders ICE chief to appear in court, threatens contempt ruling - The Washington Post",
-    "fullText": "Minnesota’s chief federal judge demands that the head of Immigration and Customs Enforcement personally appear in court Friday to explain repeated failures to comply with court orders.",
-    "link": "https://www.washingtonpost.com/national-security/2026/01/27/ice-federal-judge-contempt/"
+    "text": "Why There's Simply No Need For An iPad Anymore - bgr.com",
+    "fullText": "Apple may finally be releasing the iPhone Fold this year, as well as a MacBook with touchscreen capabilities, eliminating the need for an iPad.",
+    "link": "https://www.bgr.com/2081519/why-no-one-needs-ipads-anymore/"
+  },
+  {
+    "text": "Carney denies walking back Davos speech in phone call with Trump - BBC",
+    "fullText": "The Canadian prime minister confirmed that he and the US president spoke by phone after Trump threatened 100% tariffs on Canada.",
+    "link": "https://www.bbc.com/news/articles/c9qp3x5x2jpo"
+  },
+  {
+    "text": "Android adds ‘Failed Authentication Lock’ setting, boosts failed passcode lockout - 9to5Google",
+    "fullText": "Google today detailed the latest device theft protection features for Android across stronger authentication and enhanced recovery tools.",
+    "link": "http://9to5google.com/2026/01/27/android-failed-authentication-lock/"
   },
   {
     "text": "Sri Lanka vs England: Joe Root and Harry Brook centuries take tourists to ODI series win - BBC",
@@ -25,9 +65,9 @@
     "link": "https://www.washingtonpost.com/world/2026/01/27/britain-china-starmer-economic-relations/"
   },
   {
-    "text": "Timothée Chalamet helps Kylie Jenner pick out bikinis during Mexico getaway - Page Six",
-    "fullText": "The “Kardashians” star, 28, and the actor, 30, jetted off to Cabo San Lucas last week and were photographed enjoying an intimate date night.",
-    "link": "https://pagesix.com/2026/01/27/celebrity-news/timothee-chalamet-helps-kylie-jenner-pick-out-bikinis-during-mexico-getaway/"
+    "text": "What to know about the deadly Nipah virus, amid outbreak in India - The Washington Post",
+    "fullText": "Some airports in Asia are on alert after confirmed cases in West Bengal of the  Nipah virus, which has no cure. South Asia sees outbreaks nearly every year.",
+    "link": "https://www.washingtonpost.com/world/2026/01/27/nipah-virus-outbreak-india/"
   },
   {
     "text": "Philip Glass pulls world premiere from Kennedy Center - The Washington Post",
@@ -40,19 +80,14 @@
     "link": "https://www.washingtonpost.com/weather/2026/01/27/east-coast-winter-storm-possibilities-snow/"
   },
   {
+    "text": "Consumer confidence collapses to lowest level since 2014 - CNN",
+    "fullText": "America’s economic mood deteriorated in January to its lowest level in more than a decade as consumers fretted about geopolitical tensions, affordability and President Donald Trump’s unrelenting trade war.",
+    "link": "https://www.cnn.com/2026/01/27/economy/us-consumer-confidence-january"
+  },
+  {
     "text": "First wrongful death lawsuit filed against Trump administration over drug boat strikes - NBC News",
     "fullText": "WASHINGTON — Family members of two Trinidadian men who were killed in a U.S. strike on an alleged drug-smuggling boat in October sued the U.S. government Tuesday, accusing it of wrongful death and extrajudicial killings",
     "link": "https://www.nbcnews.com/politics/white-house/first-wrongful-death-lawsuit-filed-trump-administration-drug-boat-stri-rcna256022"
-  },
-  {
-    "text": "ADDRESSING STATE AND LOCAL FAILURES TO REBUILD LOS ANGELES AFTER WILDFIRE DISASTERS - The White House (.gov)",
-    "fullText": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered: Section 1.  Purpose.",
-    "link": "https://www.whitehouse.gov/presidential-actions/2026/01/addressing-state-and-local-failures-to-rebuild-los-angeles-after-wildfire-disasters/"
-  },
-  {
-    "text": "Inside Google's vision to make Gmail your personal AI agent command center - ZDNET",
-    "fullText": "I spoke with Gmail VP of Product Blake Barnes to better understand Gmail's latest AI updates. Behind them lies a much larger idea.",
-    "link": "https://www.zdnet.com/article/future-of-gmail-ai-interview-blake-barnes/"
   },
   {
     "text": "NBA mock draft 2026: Lottery simulation delivers young star to big winner - SB Nation",
@@ -60,38 +95,8 @@
     "link": "https://www.sbnation.com/nba/1101047/nba-mock-draft-2026-one-spin-of-tankahon"
   },
   {
-    "text": "Exclusive: In major test for longevity field, FDA greenlights study on a 'near total reset' of cells - Endpoints News",
-    "fullText": "Life Biosciences gets FDA approval to test aging reversal gene therapy in vision loss patients, using proteins discovered in David Sinclair's Harvard lab.",
-    "link": "https://endpoints.news/exclusive-fda-greenlights-gene-therapy-study-to-rewind-the-age-of-cells/"
-  },
-  {
     "text": "After rocky start, Bari Weiss to cut staff, add commentators at CBS News - NPR",
     "fullText": "CBS News Editor-in-Chief Bari Weiss came in with a mandate to reshape coverage. She laid out her strategy in a staff meeting Tuesday.",
     "link": "https://www.npr.org/2026/01/27/nx-s1-5689849/after-rocky-start-bari-weiss-to-cut-staff-add-commentators-at-cbs-news"
-  },
-  {
-    "text": "A LeBron James-Cleveland Cavaliers Trade that Actually Makes Sense - Bleacher Report",
-    "fullText": "Lord of the Rings. The Dark Knight. The Godfather (at least, the first two).",
-    "link": "https://bleacherreport.com/articles/25370089-lebron-james-cleveland-cavaliers-trade-actually-makes-sense"
-  },
-  {
-    "text": "The Fed has four new voters this year. They may complicate Trump’s push for lower rates - CNN",
-    "fullText": "President Donald Trump could announce his nominee for the next Federal Reserve chair as soon as this week, and has signaled that his pick must push for significant interest rate cuts. But whoever he chooses will face a new policymaking committee — and one tha…",
-    "link": "https://www.cnn.com/2026/01/27/economy/fed-committee-rate-decisions-new-voters"
-  },
-  {
-    "text": "Trump policies at odds with emerging understanding of COVID's long-term harm - CBS News",
-    "fullText": "Studies offer insights into the health risks and burdens faced by people who have had COVID infections. Meanwhile, the Trump administration has narrowed COVID vaccine recommendations and cut research.",
-    "link": "https://www.cbsnews.com/news/covid-long-term-harm-health-policies/"
-  },
-  {
-    "text": "In China, AI is no longer optional for some kids. It’s part of the curriculum - NPR",
-    "fullText": "While debate rages in the U.S. about the merits and risks of AI in schools, it's become a state-mandated part of the curriculum in China, as the authorities try to create a pool of AI-savvy professionals.",
-    "link": "https://www.npr.org/2026/01/27/nx-s1-5683821/china-ai-schools-curriculum"
-  },
-  {
-    "text": "'The Weight' Review: Ethan Hawke, Russell Crowe In Old-School Adventure - Deadline",
-    "fullText": "A review of The Weight with Ethan Hawke leading a treacherous journey through the backwoods and rivers of 1933 Oregon to smuggle Russell Crowe's gold.",
-    "link": "http://deadline.com/2026/01/the-weight-review-ethan-hawke-russell-crowe-movie-1236697873/"
   }
 ]
