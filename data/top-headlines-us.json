@@ -1,13 +1,28 @@
 [
   {
+    "text": "Anthropic’s Move Into Legal Is Sinking Data Services Stocks - Bloomberg",
+    "fullText": "Once again, artificial intelligence is dominating investors’ attention in the stock market. These days, however, the focus is turning more and more toward companies that may get disrupted by the new technology rather than those who stand to profit from it.",
+    "link": "https://www.bloomberg.com/news/articles/2026-02-03/legal-software-stocks-plunge-as-anthropic-releases-new-ai-tool"
+  },
+  {
+    "text": "Bitcoin breaks below $73,000 to lowest since November 2024 as heavy selling resumes - CNBC",
+    "fullText": "Bitcoin fell below $73,000 on Tuesday as investors sold the asset to hedge against heightened geopolitical and economic uncertainties.",
+    "link": "https://www.cnbc.com/2026/02/03/bitcoin-price-today.html"
+  },
+  {
+    "text": "French prosecutors request 5-year ban on Marine Le Pen from holding office - AP News",
+    "fullText": "French prosecutors have requested a five-year ban on holding elected office against far-right leader Marine Le Pen at a crucial appeal trial in Paris. It's an outcome that may prevent her from running in the 2027 presidential election. Le Pen, 57, is seeking …",
+    "link": "https://apnews.com/article/marine-le-pen-appeal-trial-france-presidential-election-726408584ad5126901fd101f6ccf47d9"
+  },
+  {
     "text": "Dow drops 400 points, S&P 500 sheds 1% as investors rotate out of tech: Live updates - CNBC",
     "fullText": "Shares of Palantir jumped after the defense tech company gave strong fourth-quarter financial results and upbeat guidance, boosting tech.",
     "link": "https://www.cnbc.com/2026/02/02/stock-market-today-live-updates.html"
   },
   {
-    "text": "House clears way for final vote to end government shutdown as Trump meets Colombian president - CNN",
-    "fullText": "The House is holding critical votes on a funding package today amid a partial government shutdown. Follow for live updates.",
-    "link": "https://www.cnn.com/politics/live-news/trump-administration-news-02-03-26"
+    "text": "A new generation revives 'The Muppet Show' and it's as delightful as ever - NPR",
+    "fullText": "This isn't the first reincarnation of Jim Henson's crew, but it's one of the best in a very long time. Seth Rogen is an executive producer, and Maya Rudolph and Sabrina Carpenter guest star.",
+    "link": "https://www.npr.org/2026/02/03/nx-s1-5697369/the-muppet-show-review"
   },
   {
     "text": "Don’t tune into the Super Bowl hoping for a break from politics - AP News",
@@ -15,14 +30,19 @@
     "link": "https://apnews.com/article/super-bowl-bad-bunny-trump-politics-1447163cfa820cbb0c96973c20ccd976"
   },
   {
-    "text": "Trump wants to ‘nationalize the voting,’ seeking to grab states’ power - The Washington Post",
-    "fullText": "Trump, who continues to falsely claim that he won the 2020 election, has baselessly alleged widespread fraud. The Senate’s Republican leader says he does not favor federalizing elections.",
-    "link": "https://www.washingtonpost.com/politics/2026/02/02/trump-elections-nationalize-fraud/"
+    "text": "Did we just see a black hole explode? Physicists think so—and it could explain (almost) everything - Phys.org",
+    "fullText": "In 2023, a subatomic particle called a neutrino crashed into Earth with such a high amount of energy that it should have been impossible. In fact, there are no known sources anywhere in the universe capable of producing such energy—100,000 times more than the…",
+    "link": "https://phys.org/news/2026-02-black-hole-physicists.html"
   },
   {
-    "text": "Artemis 2 SLS wet dress rehearsal latest news: NASA to update public on moon launch after fueling test - Space",
-    "fullText": "Tuesday, Feb. 3, 2026: Follow NASA's last major test of SLS before the launch of Artemis 2 and a crew of astronauts around the moon.",
-    "link": "https://www.space.com/news/live/artemis-2-moon-rocket-nasa-fueling-test-feb-3-2026"
+    "text": "Iran wants to change venue and format of nuclear talks with U.S. - Axios",
+    "fullText": "The demands risk pushing Trump closer to military action.",
+    "link": "https://www.axios.com/2026/02/03/iran-us-nuclear-negotiations-format"
+  },
+  {
+    "text": "Ex-No. 1 NFL Pick Explains Why Super Bowl Coaches Were ‘The Smartest in My Career’ - Sports Illustrated",
+    "fullText": "Much of how Seattle’s Mike Macdonald and Mike Vrabel operate is in contrast to each other. Plus, a retired Olympic surfer defends Sam Darnold and more in Greg Bishop’s newsletter.",
+    "link": "https://www.si.com/nfl/why-super-bowl-coaches-were-smartest-in-my-career-mike-vrabel-mike-macdonald"
   },
   {
     "text": "Opinion | RFK Jr.’s attacks on vaccines just hit a wall of pediatricians - The Washington Post",
@@ -30,14 +50,14 @@
     "link": "https://www.washingtonpost.com/opinions/2026/02/03/vaccine-guidance-aap-pediatrics-rfk/"
   },
   {
-    "text": "'Finally got him to go today': Mandelson's emails to Epstein on Gordon Brown - BBC",
-    "fullText": "Emails released by the US appear to shed new light on the dying days of Gordon Brown's government.",
-    "link": "https://www.bbc.com/news/articles/cvgx9525qy9o"
-  },
-  {
     "text": "X offices raided in France as prosecutors investigate child abuse images and deepfakes - AP News",
     "fullText": "French prosecutors have raided the offices of social media platform X as part of an investigation into allegations of spreading child sexual abuse images and deepfakes. They have also summoned owner Elon Musk for questioning. The investigation, which began in…",
     "link": "https://apnews.com/article/france-x-investigation-seach-elon-musk-1116be84d84201011219086ecfd4e0bc"
+  },
+  {
+    "text": "FX's 'Love Story': JFK Jr and Carolyn Bessette's Sex, Lies and Politics - Variety",
+    "fullText": null,
+    "link": "https://variety.com/2026/tv/features/love-story-fx-jfk-jr-carolyn-bessette-sex-politics-1236648235/"
   },
   {
     "text": "Nick Diaz plans to continue fighting following Mexico rehab stint: ‘I see myself becoming world champion’ - MMA Fighting",
@@ -45,34 +65,19 @@
     "link": "https://www.mmafighting.com/ufc/469095/nick-diaz-plans-to-continue-fighting-following-mexico-rehab-stint-i-see-myself-becoming-world-champion"
   },
   {
-    "text": "The wealthy ramp up spending while other Americans tread water, new study finds - AP News",
-    "fullText": "Higher-income Americans and those with college degrees have ramped up their spending more quickly in the past three years than lower-income households and those without college diplomas, according to new data released Tuesday, evidence of worsening inequality…",
-    "link": "https://apnews.com/article/wealth-inequality-spending-americans-economy-994f4d4ffec7eaa3b0f5369a7cd3225c"
-  },
-  {
     "text": "Fitbit founders launch AI platform to help families monitor their health - TechCrunch",
     "fullText": "Luffu uses AI in the background to gather and organize family information, learn day-to-day patterns, and flag notable changes so families can stay aligned and address potential well-being issues.",
     "link": "https://techcrunch.com/2026/02/03/fitbit-founders-launch-ai-platform-to-help-families-monitor-their-health/"
   },
   {
-    "text": "Thousands of Epstein documents taken down after victims identified - BBC",
-    "fullText": "The US Department of Justice faces criticism from victims after names and unredacted images included in latest release.",
-    "link": "https://www.bbc.com/news/articles/cn0k65pnxjxo"
+    "text": "Just When Flu Cases Dropped, Doctors Say They Noticed This Concerning Pattern - AOL.com",
+    "fullText": "Flu cases are increasing after weeks of decline; infectious disease doctors warn a second peak is likely. What’s behind the rise and how to protect yourself.",
+    "link": "https://www.prevention.com/health/a70224732/flu-cases-increasing-second-peak/"
   },
   {
-    "text": "Samsung Galaxy S26 Ultra Release Date: New Leaks, Disappointing News - Forbes",
-    "fullText": "The Samsung Galaxy S26 Ultra release date has been confirmed, but some of the new specifications reveal disappointing news.",
-    "link": "https://www.forbes.com/sites/jaymcgregor/2026/02/03/samsung-galaxy-s26-ultra-release-date-leak-battery-spec/"
-  },
-  {
-    "text": "Seeking shelter from Trump’s fury, US trade partners reach deals with each other - AP News",
-    "fullText": "Bullied and buffeted by President Donald Trump’s tariffs for the past year, America’s longstanding allies are desperately seeking ways to shield themselves from the president’s impulsive wrath. U.S. trade partners are cutting deals among themselves —- sometim…",
-    "link": "https://apnews.com/article/trump-tariffs-us-trade-deals-0f824d3023f1dc91d30b4f236950e24f"
-  },
-  {
-    "text": "‘The Muppet Show’ Returns for a Cute and Nostalgic Special - Gizmodo",
-    "fullText": "The one-off episode celebrates the series’ 50th anniversary with special guest (and Miss Piggy superfan) Sabrina Carpenter.",
-    "link": "https://gizmodo.com/muppet-show-50th-review-disney-sabrina-carpenter-2000713495"
+    "text": "Satellite imagery shows where the U.S. military is positioned near Iran - The Washington Post",
+    "fullText": "The scale of the buildup seems aimed at readying forces for expansive operations, analysts said.",
+    "link": "https://www.washingtonpost.com/national-security/2026/02/03/trump-iran-military-equipment-strikes/"
   },
   {
     "text": "Google Home finally adds support for buttons - The Verge",
@@ -80,18 +85,13 @@
     "link": "https://www.theverge.com/tech/872927/google-home-button-support-arrives"
   },
   {
-    "text": "ICE Barbie Announces Major Change for Agents as Furious Backlash Rages - The Daily Beast",
-    "fullText": "Kristi Noem touts bodycams for all even as footage of two fatal shootings is withheld.",
-    "link": "https://www.thedailybeast.com/ice-barbie-announces-major-change-for-agents-as-furious-backlash-rages/"
+    "text": "Russian hits Ukraine energy sites in 'most powerful blow\" so far this year - BBC",
+    "fullText": "The attack - which reportedly consisted of more than 70 missiles and 450 drones - comes after a so-called \"energy truce\" expired at the weekend.",
+    "link": "https://www.bbc.com/news/articles/cpwng25114ro"
   },
   {
     "text": "LA28 Unveils Seven Venues for the 2028 Olympic Football (Soccer) Tournament Matches - Columbus Crew",
     "fullText": "LOS ANGELES \\[February 3, 2026\\] — The LA28 Olympic and Paralympic Games today announced six additional venues across the United States that will hold matches for the highly anticipated 2028 Olympic Football (Soccer) Tournaments, generating new excitement whi…",
     "link": "https://www.columbuscrew.com/news/la28-unveils-seven-venues-for-the-2028-olympic-football-soccer-tournament-matches"
-  },
-  {
-    "text": "We Were Wrong About How Much Your Genes Shape Your Lifespan - ScienceAlert",
-    "fullText": "Putting aside the risk of an early grave by accident or injury, your genes may have a much greater impact on your lifespan than previously thought, according to an unparalleled study of twin data.",
-    "link": "https://www.sciencealert.com/we-were-wrong-about-how-much-your-genes-shape-your-lifespan"
   }
 ]
