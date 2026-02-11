@@ -1,8 +1,53 @@
 [
   {
-    "text": "Coca-Cola is about to report earnings. Here's what to expect - CNBC",
-    "fullText": "Like rival PepsiCo, Coke has seen demand for its drinks fall as budget-conscious shoppers try to save more on their grocery bills.",
-    "link": "https://www.cnbc.com/2026/02/10/coca-cola-ko-q4-2025-earnings.html"
+    "text": "How this French building behemoth wants to solve the U.S. housing dilemma - CNBC",
+    "fullText": "Saint-Gobain is focusing on speed and affordability in construction through materials, assembly and other tools, according to North America CEO Mark Rayfield.",
+    "link": "https://www.cnbc.com/2026/02/10/saint-gobain-us-housing-dilemma.html"
+  },
+  {
+    "text": "Democrats add five red-leaning House seats to their battleground map - Politico",
+    "fullText": "The DCCC is targeting new seats in Colorado, Minnesota, Montana, South Carolina and Virginia.",
+    "link": "https://www.politico.com/live-updates/2026/02/10/congress/house-democrats-battleground-list-new-seats-00772976"
+  },
+  {
+    "text": "An ape, a tea party — and the ability to imagine - NPR",
+    "fullText": "The ability to imagine — to play pretend — has long been thought to be unique to humans. A new study suggests one of our closest living relatives can do it too.",
+    "link": "https://www.npr.org/2026/02/10/nx-s1-5707560/apes-imagination-research-bonobos-cognition"
+  },
+  {
+    "text": "US figure skater Amber Glenn resolves copyright issue with a Canadian music artist at the Olympics - AP News",
+    "fullText": "U.S. figure skater Amber Glenn says she has resolved copyright concerns with Canadian artist Seb McKinnon over her free skate music. McKinnon, who produces music as CLANN, expressed surprise on social media after Glenn used his song “The Return” during the Ol…",
+    "link": "https://apnews.com/article/milan-cortina-olympics-figure-skating-music-glenn-7fef2709962cd814f427474c6bf2a1c9"
+  },
+  {
+    "text": "Spotify Stock Jumps On Improved Profitability, User Growth - Investor's Business Daily",
+    "fullText": "The streaming music leader beat estimates for subscribers and total users in Q4.",
+    "link": "https://www.investors.com/news/technology/spotify-stock-spot-q4-2025-earnings/"
+  },
+  {
+    "text": "CVS tops quarterly estimates, reaffirms profit outlook as turnaround plan takes effect - CNBC",
+    "fullText": "The results signal steady progress in the health-care giant's aggressive turnaround plan under CEO David Joyner, who stepped into the role in late 2024.",
+    "link": "https://www.cnbc.com/2026/02/10/cvs-health-earnings-q4-2025.html"
+  },
+  {
+    "text": "Opinion | We may be doing breast cancer screening all wrong - The Washington Post",
+    "fullText": "This test may be crucial for breast cancer screening. It’s not a mammogram.",
+    "link": "https://www.washingtonpost.com/opinions/2026/02/10/breast-cancer-screening-mammograms/"
+  },
+  {
+    "text": "Putin thinks he can outsmart the US during Ukraine peace talks, a European intelligence chief says - AP News",
+    "fullText": "A senior European intelligence chief says Russia cannot launch an attack on NATO this year or next but is planning to increase its forces significantly along the alliance’s eastern flank, depending on the outcome of the war in Ukraine. The head of Estonia’s f…",
+    "link": "https://apnews.com/article/russia-ukraine-war-talks-united-states-estonia-b3fadd771c01be2240a1f72f76202769"
+  },
+  {
+    "text": "AMA joins effort to launch vaccine science review amid CDC turmoil - The Washington Post",
+    "fullText": "The American Medical Association and a partner group are taking on a new role in reviewing vaccine safety and effectiveness as the CDC’s review process faces criticism.",
+    "link": "https://www.washingtonpost.com/health/2026/02/10/new-vaccine-review-system-launched/"
+  },
+  {
+    "text": "Ohio GOP leader says no to Trump election plan - Ohio Capital Journal",
+    "fullText": "Ohio's Republican legislative leader is rejecting President Donald Trump's push to federalize elections. House Speaker Matt Huffman, known as the most effective lawmaker in the state, categorically shut down any effort by the president to take over Ohio's ele…",
+    "link": "https://ohiocapitaljournal.com/2026/02/10/ohio-gop-leader-says-no-to-trump-election-plan/"
   },
   {
     "text": "How the Trump administration skirts — and defies — court rulings on ICE detentions - Politico",
@@ -10,83 +55,33 @@
     "link": "https://www.politico.com/news/2026/02/10/ice-immigration-detention-court-orders-00771727"
   },
   {
-    "text": "After Greenland, it’s the micro-agressions - Politico",
-    "fullText": "President Trump has backed off his threats toward Denmark's territorial sovereignty, but he and aides have continued to irritate much of Europe.",
-    "link": "https://www.politico.com/news/2026/02/10/after-greenland-its-the-micro-agressions-00772114"
+    "text": "‘We’re hooping on vibes’: Cavs have different energy, new belief with James Harden on roster - Cleveland.com",
+    "fullText": "Despite trailing for nearly 43 minutes, on the road, boisterous building, at the end of an exhausting 12-day, five-city trip, against the championship hopeful Denver Nuggets, the revamped Cavs snatched away one of their most impressive wins.",
+    "link": "https://www.cleveland.com/cavs/2026/02/were-hooping-on-vibes-cavs-have-different-energy-new-belief-with-james-harden-on-roster.html"
   },
   {
-    "text": "Gucci-owner Kering jumps 12% as new CEO maps revival, sales beats estimates - CNBC",
-    "fullText": "The luxury group said it sees a return to growth this year even as it posted another quarter of sales declines.",
-    "link": "https://www.cnbc.com/2026/02/10/gucci-kering-earnings-stock-sales-q4-fy-new-ceo.html"
+    "text": "Office Hours: Is Trump Really, Truly, Finally Losing His Mind? - Robert Reich | Substack",
+    "fullText": null,
+    "link": "https://robertreich.substack.com/p/office-hours-is-trump-really-truly"
   },
   {
-    "text": "BP shares fall 5% after oil major suspends share buyback plan - CNBC",
-    "fullText": "BP on Tuesday posted fourth-quarter profit in line with expectations, after crude prices dipped below $60 a barrel for the first time in nearly five years.",
-    "link": "https://www.cnbc.com/2026/02/10/bp-earnings-q4-full-year-oil-energy.html"
+    "text": "2025 Corruption Index flags drops in Western nations - dw.com",
+    "fullText": "Once seen as anti-graft strongholds, the US, UK, Canada and Sweden are slipping into decline due to a lack of political leadership, Transparency International's Corruption Perception Index has revealed.",
+    "link": "https://www.dw.com/en/2025-corruption-index-flags-drops-in-western-nations/a-75838368"
   },
   {
-    "text": "Jon Stewart Exposes Real Reason for Kid Rock’s Sad Halftime Show - The Daily Beast",
-    "fullText": "Stewart mocked Turning Point USA’s “safe space” alternative.",
-    "link": "https://www.thedailybeast.com/obsessed/jon-stewart-exposes-real-reason-for-kid-rocks-sad-halftime-show/"
+    "text": "Tesla goes through another head of North American sales - Electrek",
+    "fullText": null,
+    "link": "http://electrek.co/2026/02/09/tesla-goes-through-another-head-of-north-american-sales/"
   },
   {
-    "text": "'Despicable and reprehensible': China lashes out at UK expansion of visa scheme following Jimmy Lai conviction - CNBC",
-    "fullText": "The diplomatic tensions came after pro-democracy tycoon Jimmy Lai was sentenced to 20 years in one of the city's most prominent prosecutions.",
-    "link": "https://www.cnbc.com/2026/02/10/china-uk-hong-kong-visa-jimmy-lai-sentencing-visa-bno.html"
-  },
-  {
-    "text": "Donovan Mitchell, James Harden clutch late as Cavs punctuate road trip with 119-117 win over Nuggets - Cleveland.com",
-    "fullText": "Going into the game, Cavs coach Kenny Atkinson knew what Cleveland was up against.",
-    "link": "https://www.cleveland.com/cavs/2026/02/donovan-mitchell-james-harden-come-through-in-clutch-as-cavs-punctuate-road-trip-with-119-117-win-over-nuggets.html"
-  },
-  {
-    "text": "Luck Improves For 3 Zodiac Signs On February 10, 2026 - YourTango",
-    "fullText": "Luck improves for Leo, Virgo, and Aquarius zodiac signs on February 10, 2026, during the Waning Crescent Moon in Sagittarius.",
-    "link": "https://www.yourtango.com/2026394049/zodiac-signs-luck-improves-february-10-2026"
-  },
-  {
-    "text": "House approves housing bill, setting stage for tough Senate negotiations - Politico",
-    "fullText": "After a bipartisan House vote, the housing deal faces a bicameral test.",
-    "link": "https://www.politico.com/live-updates/2026/02/09/congress/house-approves-housing-bill-setting-stage-for-tough-senate-negotiations-00772552"
-  },
-  {
-    "text": "Fans blown away after Chinese superstar denied gold by move never seen before - Yahoo News Australia",
-    "fullText": "Mathilde Gremaud defended her crown from four years ago. Read more here.",
-    "link": "https://au.news.yahoo.com/fans-blown-away-after-eileen-gu-denied-gold-by-move-never-seen-before-at-winter-olympics-000234397.html"
-  },
-  {
-    "text": "Thailand election: The result the polls never saw coming - BBC",
-    "fullText": "Why did a youthful, progressive party do so poorly compared to a transactional, old-style party?",
-    "link": "https://www.bbc.com/news/articles/c5y6534y3y5o"
-  },
-  {
-    "text": "Oppo Find N6 launch date tipped, said to feature industry’s shallowest display crease - GSMArena.com news - GSMArena.com",
-    "fullText": "The foldable is tipped to use the Snapdragon 8 Elite Gen 5 chipset. Oppo recently confirmed that it plans to launch its next foldable after the Chinese New...",
-    "link": "https://www.gsmarena.com/oppo_find_n6_launch_date_tipped_said_to_feature_industrys_shallowest_display_crease-news-71473.php"
-  },
-  {
-    "text": "Just look at Ayaneo's absolute unit of a Windows gaming \"handheld\" - Ars Technica",
-    "fullText": "The Ayaneo Next II pushes past 3 pounds, 13 inches wide, and costs up to $4,300.",
-    "link": "https://arstechnica.com/gaming/2026/02/just-look-at-ayaneos-absolute-unit-of-a-windows-gaming-handheld/"
-  },
-  {
-    "text": "Instagram and YouTube owners built 'addiction machines', trial told - BBC",
-    "fullText": "The tech giants are under scrutiny over social media addiction in a landmark jury trial in Los Angeles",
-    "link": "https://www.bbc.com/news/articles/c3wlpqpe2z4o"
+    "text": "Rivian launching Apple Watch app with remote controls and Gen 1 digital key feature - 9to5Mac",
+    "fullText": "Back in December, Rivian released support for using an Apple Watch as a digital key. Next, the EV maker is...",
+    "link": "https://9to5mac.com/2026/02/09/rivian-launching-apple-watch-app-with-remote-controls-and-gen-1-digital-key-feature/"
   },
   {
     "text": "Over 50 cases of measles confirmed at Ave Maria University - WINK News",
     "fullText": "AVE MARIA, Fla.—Over 50 cases of Measles have been reported at Ave Maria University, according to the Florida Department of Health's latest update.",
     "link": "https://www.winknews.com/news/collier/over-50-cases-of-measles-confirmed-at-ave-maria-university/article_298f2922-a5b2-4b67-a0cd-24009dc56801.html"
-  },
-  {
-    "text": "WhatsApp is bringing video and voice calls to its web app - 9to5Google",
-    "fullText": "WhatsApp is now rolling out support for video and voice calls through its web app, bringing support for calls to...",
-    "link": "http://9to5google.com/2026/02/09/whatsapp-testing-web-app-calls/"
-  },
-  {
-    "text": "Howard Lutnick, Trump's commerce secretary, faces calls to resign over Epstein ties - ABC News",
-    "fullText": null,
-    "link": "https://abcnews.go.com/Politics/howard-lutnick-trumps-commerce-secretary-faces-calls-resign/story?id\\\\u003d130002715"
   }
 ]
