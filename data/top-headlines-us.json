@@ -1,8 +1,53 @@
 [
   {
-    "text": "Powerful coastal storm to bring snow, wind to D.C. area; worst Sunday night - The Washington Post",
-    "fullText": "Snow could continue into Monday and cause delays and closings; precipitation to begin as mix of rain and snow early Sunday morning",
-    "link": "https://www.washingtonpost.com/weather/2026/02/21/winter-storm-dc-snow-wind-forecast/"
+    "text": "Blizzard Warning for part of the area; heavy snow expected for Philadelphia region | Live Updates - 6abc Philadelphia",
+    "fullText": "A Blizzard Warning will go into effect on Sunday morning for parts of the area, while the rest of the region will be under a Winter Storm Warning as a major storm is set to bring heavy snow to the Philadelphia area.",
+    "link": "https://6abc.com/live-updates/winter-storm-set-bring-foot-snow-parts-philadelphia-region-live-updates/18625971/"
+  },
+  {
+    "text": "Mike Eruzione and the ‘Miracle on Ice’ team are looking for some company - The Washington Post",
+    "fullText": "The U.S. men’s hockey team has a chance to win its first gold medal since the celebrated 1980 squad made history.",
+    "link": "https://www.washingtonpost.com/sports/olympics/2026/02/21/miracle-on-ice-us-hockey/"
+  },
+  {
+    "text": "Trump’s response to Supreme Court tariff ruling opens new era of uncertainty - The Washington Post",
+    "fullText": "Trump increased the rate of a new global tariff to 15 percent, vowing to work around the ruling that invalidated his emergency tariffs.",
+    "link": "https://www.washingtonpost.com/business/2026/02/21/supreme-court-tariff-ruling/"
+  },
+  {
+    "text": "LIVE! UFC Houston Results: Strickland vs. Hernandez - MMA Fighting",
+    "fullText": "Get UFC Houston results for the Strickland vs. Hernandez event Saturday night.",
+    "link": "https://www.mmafighting.com/ufc/472534/ufc-houston-results-strickland-vs-hernandez"
+  },
+  {
+    "text": "Nasa astronauts' moon mission likely to be delayed due to rocket issue - BBC",
+    "fullText": "The mission to the far side of the Moon and back will be postponed after problems with were spotted with its rocket, a Nasa official said.",
+    "link": "https://www.bbc.com/news/articles/c626v265zqlo"
+  },
+  {
+    "text": "US ambassador causes uproar by claiming Israel has a right to much of the Middle East - Politico",
+    "fullText": null,
+    "link": "https://www.politico.com/news/2026/02/21/us-ambassador-causes-uproar-by-claiming-israel-has-a-right-to-much-of-the-middle-east-00792218"
+  },
+  {
+    "text": "Mark Ruffalo Fires Back at James Cameron After ‘Avatar’ Director Slammed Netflix-Warner Bros. Deal: ‘Are You Also Against the Monopolization That a Paramount Acquisition Would Create?’ - Variety",
+    "fullText": "Mark Ruffalo fired back at James Cameron after the 'Avatar' director said that Netflix buying Warner Bros. Discovery would be 'disastrous.'",
+    "link": "https://variety.com/2026/film/news/mark-ruffalo-james-cameron-netflix-warner-bros-paramount-1236669351/"
+  },
+  {
+    "text": "Virginia mass shooting leaves 2 dead, 7 wounded, Richmond police say - USA Today",
+    "fullText": "Richmond Police Chief Rick Edwards told reporters there are multiple suspected shooters as the investigation is ongoing.",
+    "link": "https://www.usatoday.com/story/news/nation/2026/02/21/mass-shooting-richmond-virginia-police-suspects/88797059007/"
+  },
+  {
+    "text": "Latham & Watkins poaches two more partners from rival Wachtell Lipton - Financial Times",
+    "fullText": "The New York-based Wachtell has suffered rare defections in a hot market for top deals lawyers",
+    "link": "https://www.ft.com/content/5d5af0c0-d46b-4bdb-8455-0564d56104ee"
+  },
+  {
+    "text": "Vietnam Veterans sue to block proposed 'Independence Arch' near Arlington National Cemetery - NPR",
+    "fullText": "The lawsuit challenges President Trump's plans for \"Independence Arch,\" a 250-foot structure proposed for Memorial Circle.",
+    "link": "https://www.npr.org/2026/02/21/nx-s1-5721786/vietnam-veterans-sue-trump-arch"
   },
   {
     "text": "Atlanta NASCAR Cup qualifying cancelled, Tyler Reddick on pole - Motorsport.com",
@@ -10,24 +55,14 @@
     "link": "https://www.motorsport.com/nascar-cup/news/atlanta-nascar-cup-qualifying-cancelled-tyler-reddick-on-pole/10799496/"
   },
   {
-    "text": "Inside RFK Jr.’s push against the flu vaccine that he links to his voice condition - The Washington Post",
-    "fullText": "Trump’s health secretary has halted federal flu vaccine promotions, citing personal beliefs about vaccine risks.",
-    "link": "https://www.washingtonpost.com/health/2026/02/21/vaccine-safety-risk-kennedy-rfk/"
+    "text": "Saturday Pre-orders – Knock knock, it’s time to give up the bone-tithe - Warhammer Community",
+    "fullText": "Check out all of today’s new pre-orders.",
+    "link": "https://www.warhammer-community.com/articles/pjnhbg01/saturday-pre-orders-knock-knock-its-time-to-give-up-the-bone-tithe"
   },
   {
-    "text": "Ex-UK Prime Minister Johnson calls on allies to send noncombat troops to Ukraine ahead of ceasefire - Yahoo",
-    "fullText": "Former British Prime Minister Boris Johnson says the U.K. and its European allies should immediately deploy noncombat troops to Ukraine to show Russian...",
-    "link": "https://www.yahoo.com/news/articles/ex-uk-prime-minister-johnson-172130008.html"
-  },
-  {
-    "text": "Did James Van Der Beek Really Die Broke? - The Hollywood Reporter",
-    "fullText": "Hollywood has rallied behind the late 'Dawson’s Creek' star, raising $2.6 million for his widow and six children. But the internet has been less generous, with scores of posters wondering why such a famous actor would need a fundraiser in the first place.",
-    "link": "http://www.hollywoodreporter.com/news/general-news/james-van-der-beek-financial-struggles-gofundme-1236510777/"
-  },
-  {
-    "text": "Eddie Hearn ‘devastated’ to lose Conor Benn to Dana White and Zuffa Boxing: ‘I blame myself’ - MMA Fighting",
-    "fullText": "Eddie Hearn opens up on Conor Benn leaving Matchroom Boxing for Zuffa Boxing.",
-    "link": "https://www.mmafighting.com/boxing/472615/eddie-hearn-devastated-to-lose-conor-benn-to-dana-white-and-zuffa-boxing-i-blame-myself"
+    "text": "Israeli strikes kill at least 10 in Lebanon, officials say - BBC",
+    "fullText": "The strikes are among the deadliest in Lebanon since a ceasefire ended the war between Israel and Hezbollah.",
+    "link": "https://www.bbc.com/news/articles/cvg8914dkl0o"
   },
   {
     "text": "White House dinner closes a turbulent week for governors in Washington - AP News",
@@ -35,9 +70,14 @@
     "link": "https://apnews.com/article/trump-wes-moore-kevin-stitt-governors-dinner-58d6381ed18334e8c35af35ef2ce4122"
   },
   {
-    "text": "Team USA Women’s Curling Results: U.S. Falls Short of Bronze Medal in 10–7 Loss to Canada - Sports Illustrated",
-    "fullText": "Tabitha Peterson’s team finished fourth at the 2026 Milan Cortina Games, tied for Team USA’s best showing in women’s curling at the Olympics.",
-    "link": "https://www.si.com/winter-olympics/team-usa-womens-curling-live-updates-bronze-medal-match-canada"
+    "text": "Strip out Windows 11’s bloatware, ads, and other grossness—for free - PCWorld",
+    "fullText": "A new Windows PC can be full of bloat. But this handy app can help you streamline it in minutes!",
+    "link": "https://www.pcworld.com/article/3056694/strip-out-windows-11s-bloatware-ads-and-other-grossness-for-free.html"
+  },
+  {
+    "text": "Can you really survive on Mars? What science fiction gets wrong about off-world living - Space",
+    "fullText": "Arnie said, \"Get your ass to Mars\", but is it really a good idea? We asked the experts about our Martian future.",
+    "link": "https://www.space.com/entertainment/space-movies-shows/can-you-really-survive-on-mars-what-science-fiction-gets-wrong-about-off-world-living"
   },
   {
     "text": "A huge study finds a link between cannabis use in teens and psychosis later - NPR",
@@ -45,53 +85,13 @@
     "link": "https://www.npr.org/2026/02/21/nx-s1-5719338/cannabis-marijuana-weed-teens-psychosis-jama"
   },
   {
-    "text": "Johnson Rejects Ask for Jesse Jackson to Lie in Honor at Capitol - Newser",
-    "fullText": "House speaker rebuffs request from civil rights leader's family for his body to lie in honor at Capitol",
-    "link": "https://www.newser.com/story/384133/johnson-rejects-ask-for-jesse-jackson-to-lie-in-honor-at-capitol.html"
+    "text": "‘I have a chip on my shoulder.’ Phoebe Gates wants her $185 million AI startup Phia to succeed with ‘no ties to my privilege or my last name’ - Fortune",
+    "fullText": "The daughter of Bill Gates and Melinda French Gates acknowledges her privilege, but says she’s building her own thing without their help.",
+    "link": "https://fortune.com/2026/02/21/phoebe-gates-startup-phia-succeed-without-help-parents-bill-gates-melinda-french-gates/"
   },
   {
     "text": "U.S. closes in on 1,000 measles cases in first two months of 2026 - NBC News",
     "fullText": "The U.S. has officially logged 982 measles cases in 2026, the Centers for Disease Control and Prevention said Friday.",
     "link": "https://www.nbcnews.com/health/health-news/us-closes-1000-measles-cases-first-two-months-2026-rcna259998"
-  },
-  {
-    "text": "Bills QB Josh Allen’s Wife Hailee Steinfeld Drops Pregnancy News - heavy.com",
-    "fullText": "Josh Allen and the Buffalo Bills are officially in the offseason, and Allen and his wife Hailee Steinfeld are getting ready to be parents.",
-    "link": "https://heavy.com/sports/nfl/buffalo-bills/josh-allen-wife-hailee-steinfeld-news-pregnancy/"
-  },
-  {
-    "text": "A high-stakes State of the Union just got harder for Trump - Politico",
-    "fullText": "Trump heads to the Hill for a primetime address to Congress on Tuesday amid a torrent of negative news.",
-    "link": "https://www.politico.com/news/2026/02/21/a-high-stakes-state-of-the-union-just-got-even-harder-for-trump-00791753"
-  },
-  {
-    "text": "RFK Jr.’s days of going wild on health may be over - Politico",
-    "fullText": "After letting the health secretary have his way in 2025, Trump is reining him in now that it’s an election year.",
-    "link": "https://www.politico.com/news/2026/02/21/rfk-midterms-maha-pesticides-vaccines-food-00792018"
-  },
-  {
-    "text": "'Given a gun and sent to die': Kenyans lured to fight for Russia in Ukraine - NPR",
-    "fullText": "Kenya's intelligence service warns that over 1,000 citizens may have been recruited to fight for Russia in Ukraine, many under false pretenses.",
-    "link": "https://www.npr.org/2026/02/21/nx-s1-5720226/kenya-ukraine-russia-war"
-  },
-  {
-    "text": "Bambi, Buses and Bureaucracy: Cortina’s Pace of Life Prospers Despite Olympic Buzz - Sports Illustrated",
-    "fullText": "American efficiency and enterprise be damned: This host city offers a refreshing lesson in carpe diem to anyone willing to sit back and take in the splendor of Dolomite living.",
-    "link": "https://www.si.com/winter-olympics/cortina-pace-of-life-prospers-despite-olympic-buzz"
-  },
-  {
-    "text": "Why people are buying iPods again - Axios",
-    "fullText": "Nostalgia and digital burnout are driving a new rush for Apple's retired iPods.",
-    "link": "https://www.axios.com/2026/02/21/ipods-music-genz-nostalgia"
-  },
-  {
-    "text": "Former top general calls military's removal of trans troops a costly mistake - NPR",
-    "fullText": "As several global tensions simmer, the Pentagon is removing thousands of transgender troops under an anti-DEI push. How might a focus on gender identity distract from mission readiness?",
-    "link": "https://www.npr.org/2026/02/21/nx-s1-5720178/trump-military-ban-rights-transgender-troops"
-  },
-  {
-    "text": "Four years on, Russia is still paying for a fatal miscalculation in Ukraine - CNN",
-    "fullText": "In the early hours of February 24 2022, standing on the freezing roof of a hotel in Kyiv, the idea that Russia would launch a full-scale assault on Ukraine, despite a troop buildup on the border, still seemed almost impossible to imagine.",
-    "link": "https://www.cnn.com/2026/02/21/europe/russia-putin-ukraine-war-intl"
   }
 ]
