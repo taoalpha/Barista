@@ -1,13 +1,23 @@
 [
   {
+    "text": "Minnesota officials sue federal government over Renee Good, Alex Pretti investigations - CBS News",
+    "fullText": "Minnesota officials allege they're being blocked from probing the shootings of Renee Good, Alex Pretti and Julio Cesar Sosa-Celis by federal agents.",
+    "link": "https://www.cbsnews.com/news/minnesota-state-county-sue-government-renee-good-alex-pretti-investigations/"
+  },
+  {
     "text": "Pakistan is poised to host the U.S. and Iran for talks to end the war - NPR",
     "fullText": "President Trump said on Tuesday Iran made a valuable offer to reach a deal with the United States, in talks that Iran has denied are taking place. \"We've won this. This war has been won,\" Trump said.",
     "link": "https://www.npr.org/2026/03/24/nx-s1-5759000/iran-war-talks"
   },
   {
-    "text": "US Set to Deploy 2,000 Troops From 82nd Airborne to Middle East - Bloomberg.com",
-    "fullText": "The Trump administration has ordered the 82nd Airborne Division to deploy about 2,000 soldiers to the Middle East, a person familiar with the matter said, as the White House weighs options to ease Iran’s chokehold on the Strait of Hormuz.",
-    "link": "https://www.bloomberg.com/news/articles/2026-03-24/us-set-to-deploy-82nd-airborne-troops-to-mideast-journal-says"
+    "text": "Photos show ICE agents at US airports where the partial government shutdown triggered delays - AP News",
+    "fullText": "Federal immigration officers have arrived at U.S. airports, fulfilling President Donald Trump's pledge to deploy them to help the Transportation Security Administration during a partial government shutdown.",
+    "link": "https://apnews.com/photo-gallery/airports-tsa-federal-immigration-agents-ice-police-b2cefb8141675e315243e97caed351d4"
+  },
+  {
+    "text": "Colon cancer leading cause of cancer deaths under 50: When to see a doctor and get a colonoscopy - KSL.com",
+    "fullText": "Colorectal cancer is now the leading cause of cancer-related death for both men and women under age 50 in the U.S.",
+    "link": "https://www.ksl.com/article/51466741/colon-cancer-leading-cause-of-cancer-deaths-under-50-when-to-see-a-doctor-and-get-a-colonoscopy"
   },
   {
     "text": "Israel, Iran trade strikes as U.S. says it is pausing attacks on energy targets - The Washington Post",
@@ -15,19 +25,34 @@
     "link": "https://www.washingtonpost.com/world/2026/03/24/us-trump-iran-israel-tel-aviv-strike/"
   },
   {
-    "text": "S&P 500 is little changed as traders take a breather after Monday's rally: Live updates - CNBC",
-    "fullText": "The major averages slipped on Tuesday, taking a breather from their rally in the prior session.",
-    "link": "https://www.cnbc.com/2026/03/23/stock-market-today-live-updates.html"
+    "text": "Nobel laureate calls it 'treason': $580 million traded minutes before Trump's oil reversal - Fortune",
+    "fullText": "Approximately $580 million of oil futures were sold before Trump shocked the markets with a dubious statement.",
+    "link": "https://fortune.com/2026/03/24/paul-krugman-treason-oil-futures-trading-trump-white-house/"
   },
   {
-    "text": "LaGuardia plane crash: Runway safety system 'did not alert,' NTSB says - ABC7 New York",
-    "fullText": "LaGuardia has a runway safety system allowing air traffic controllers to track surface movement of planes and vehicles, but that system \"did not alert,\" the NTSB said.",
-    "link": "https://abc7ny.com/live-updates/laguardia-plane-crash-airport-reopens-collision-kills-pilots-air-canada-flight/18756609/"
+    "text": "Apple releases iOS, iPadOS, macOS 26.4 with a long list of medium-size tweaks - Ars Technica",
+    "fullText": "The 26.4 updates are more significant than the last few updates have been.",
+    "link": "https://arstechnica.com/gadgets/2026/03/apple-releases-ios-ipados-macos-26-4-with-a-long-list-of-medium-size-tweaks/"
   },
   {
-    "text": "‘Project Hail Mary’ adds to a winning streak for originality at the movies - AP News",
-    "fullText": "Franchise movies have been the dominant currency in Hollywood for years, but, lately, the upside of originality has been hard to miss. A week after “One Battle After Another,” “Sinners” and “KPop Demon Hunters” triumphed at the Academy Awards, “Project Hail M…",
-    "link": "https://apnews.com/article/project-hail-mary-b0a693d3160a90c1724248151edeea34"
+    "text": "Danish election: Exit poll says Frederiksen is on track to win after Trump clash - politico.eu",
+    "fullText": "Victory for the center-left prime minister will set up tricky coalition talks, with centrist chief Lars Løkke Rasmussen as potential kingmaker.",
+    "link": "https://www.politico.eu/article/danish-election-exit-poll-says-mette-frederiksen-is-on-track-to-win/"
+  },
+  {
+    "text": "Alan Ritchson Was Wearing a Body Cam When He Beat Up His Neighbor and the Footage Looks Like a First-Person Reacher Scene - Yahoo",
+    "fullText": "On Sunday, Alan Ritchson was wearing a body cam when he got on his green Kawasaki and rode through his Brentwood, Tennessee neighborhood with his two sons",
+    "link": "https://wealthofgeeks.com/alan-ritchson-was-wearing-a-body-cam-when-he-beat-up-his-neighbor-and-the-footage-looks-like-a-first-person-reacher-scene/"
+  },
+  {
+    "text": "March Madness 2026: One reason to root for every team playing in the NCAA Tournament Sweet 16 - CBS Sports",
+    "fullText": "Every team has a story, and we have one for all 16 teams left in this year's NCAA Tournament field",
+    "link": "https://www.cbssports.com/college-basketball/news/march-madness-2026-ncaa-tournament-sweet-16/"
+  },
+  {
+    "text": "Pentagon prepares to send another 3,000 troops to Middle East - Politico",
+    "fullText": "The decision to move the Army’s 82nd Airborne Division to the region heightens the possibility U.S. troops will enter Iran.",
+    "link": "https://www.politico.com/news/2026/03/24/pentagon-troops-deploy-middle-east-00841827"
   },
   {
     "text": "Buccaneers star Lavonte David retiring after 14 seasons - New York Post",
@@ -40,53 +65,18 @@
     "link": "https://apnews.com/article/homeland-security-funding-ice-airport-security-lines-ed04ac573dfb27e939b7234cc8245b16"
   },
   {
-    "text": "Apple releases iOS 26.4 with 8 new emoji and 12 more changes to your iPhone - 9to5Mac",
-    "fullText": "Apple has released iOS 26.4, bringing 13 enhancements to your iPhone. The new software update includes 8 new emoji characters,...",
-    "link": "https://9to5mac.com/2026/03/24/apple-releases-ios-26-4-with-8-new-emoji-and-12-more-changes-to-your-iphone/"
+    "text": "Albert Breer’s Notes: Inside Jaxon Smith-Njigba’s Market-Moving Contract - Sports Illustrated",
+    "fullText": "The Seahawks’ deal could impact Puka Nacua’s negotiations with the Rams. Plus, Trent Williams’s standoff with San Francisco and more.",
+    "link": "https://www.si.com/nfl/albert-breer-notes-inside-jaxon-smith-njigba-market-moving-contract"
   },
   {
-    "text": "Pentagon to Order 3,000 82nd Airborne Soldiers to Middle East - WSJ",
-    "fullText": "The Pentagon is planning to deploy a brigade combat team from the Army’s elite 82nd Airborne Division to the Middle East to support operations against Iran, according to two U.S. officials.A written order to deploy the unit, made up of roughly 3,000 soldiers,…",
-    "link": "https://www.wsj.com/livecoverage/iran-war-us-israel-news-updates-2026/card/pentagon-to-order-3-000-82nd-airborne-soldiers-to-middle-east-3H7VxKvxkaorsOLcRt5g"
+    "text": "The biggest takeaways from the 'Hannah Montana 20th Anniversary Special' - NBC News",
+    "fullText": "Her voice might be a few octaves lower, but as Hannah Montana, Miley Cyrus' star still reaches its highest point",
+    "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/hannah-montana-20th-anniversary-special-disney-miley-cyrus-alex-cooper-rcna264876"
   },
   {
-    "text": "Marco Rubio testifies in former housemate's Maduro lobbying trial - BBC",
-    "fullText": "Rubio's former housemate is charged with illegally trying to influence the first Trump administration on behalf of the Venezuelan government.",
-    "link": "https://www.bbc.com/news/articles/cj940j7ngwyo"
-  },
-  {
-    "text": "‘Harry Potter’ Series Is ‘A Lot of Pressure’ but It’s ‘Very Special,’ Says HBO Max Exec: ‘The World That Has Been Created Is Absolutely Extraordinary’ - Variety",
-    "fullText": "HBO Max exec Sarah Aubrey teased the upcoming \"Harry Potter\" series at Series Mania, saying \"the world that has been created is extraordinary.\"",
-    "link": "https://variety.com/2026/tv/global/harry-potter-series-a-lot-of-pressure-special-hbo-exec-1236696849/"
-  },
-  {
-    "text": "Epic Games to Lay Off 1,000 Staffers and Cut $500 Million in Costs Amid ‘Fortnite’ Downturn - Variety",
-    "fullText": "Epic Games will lay off 1,000 staffers and another $500 million in costs amid a slump in engagement with 'Fortnite,' CEO Tim Sweeney confirmed in a memo.",
-    "link": "https://variety.com/2026/gaming/news/epic-games-layoff-1000-fortnite-downturn-500-million-1236697837/"
-  },
-  {
-    "text": "NASA halts work on Gateway to develop a lunar base - SpaceNews",
-    "fullText": "NASA is halting plans to develop the lunar Gateway and instead focusing on the development of a lunar base.",
-    "link": "http://spacenews.com/nasa-halts-work-on-gateway-to-develop-a-lunar-base/"
-  },
-  {
-    "text": "Scientists Tried to Clone Clones Forever. It Didn’t End Well - Gizmodo",
-    "fullText": "The practice of cloning clones indefinitely appears to be a reproductive dead end, for now.",
-    "link": "https://gizmodo.com/how-many-times-can-you-clone-a-clone-science-finally-hits-the-wall-2000737412"
-  },
-  {
-    "text": "“Reacher” star Alan Ritchson posts cryptic quote after alleged altercation with neighbor - Yahoo",
-    "fullText": "Alan Ritchson's latest social media post seemingly references the alleged physical altercation with his neighbor caught on camera over the weekend.",
-    "link": "https://ew.com/reacher-star-alan-ritchson-posts-cryptic-quote-after-alleged-altercation-11933035"
-  },
-  {
-    "text": "Quadruple amputee cornhole player fatally shoots man, authorities say - ESPN",
-    "fullText": "A county sheriff's office in Maryland said Monday that a professional cornhole player who's also a quadruple amputee fatally shot a passenger in the front seat of a car he was driving during an argument.",
-    "link": "https://www.espn.com/espn/story/_/id/48295975/quadruple-amputee-cornhole-player-fatally-shoots-man-authorities-say"
-  },
-  {
-    "text": "Stitt picks energy executive Alan Armstrong as next Oklahoma senator - Politico",
-    "fullText": "Armstrong will fill Markwayne Mullin’s Senate seat until the November election.",
-    "link": "https://www.politico.com/live-updates/2026/03/24/congress/oklahoma-senator-alan-armstrong-00841481"
+    "text": "Delta suspends 'specialty services' perk for members of Congress, cites DHS shutdown - CNBC",
+    "fullText": "Delta Air Lines' move comes as airports around the U.S. are seeing extra-long security lines as a result of elevated absences by TSA agents.",
+    "link": "https://www.cnbc.com/2026/03/24/delta-airlines-congress-dhs-shutdown-tsa.html"
   }
 ]
