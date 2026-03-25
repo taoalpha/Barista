@@ -1,8 +1,28 @@
 [
   {
-    "text": "Stock Market Today: Nasdaq Slips, Brent Crude Rises Above $100 — Live Updates - WSJ",
-    "fullText": null,
-    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-24-2026"
+    "text": "Live Updates: Iran war rages as oil and stock markets grapple with conflicting messages from Trump and Tehran - CBS News",
+    "fullText": "President Trump's optimism about talks to end the Iran war has been tempered by denials from Tehran, and violence that continues to keep the Strait of Hormuz gridlocked.",
+    "link": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-talks-israel-oil-prices-stocks-react/"
+  },
+  {
+    "text": "Trump says peace talks progressing as Iran officials deny negotiations - The Washington Post",
+    "fullText": "Egypt, Pakistan and Turkey have taken the lead in efforts to broker a peace deal between the United States and Iran, though conversations have been indirect thus far.",
+    "link": "https://www.washingtonpost.com/national-security/2026/03/24/us-iran-peace-talks-pakistan-turkey-egypt/"
+  },
+  {
+    "text": "Senators consider deal to fund Homeland Security but not ICE enforcement - The Washington Post",
+    "fullText": "Senators are racing to clinch a proposal to end the Homeland Security shutdown",
+    "link": "https://www.washingtonpost.com/politics/2026/03/24/homeland-security-funding-ice-airport-security-lines/dcf7f396-2736-11f1-a0f2-3ba4c9fe08ac_story.html"
+  },
+  {
+    "text": "A professional cornhole player and quadruple amputee is arrested for murder - NPR",
+    "fullText": "Dayton Webber, 27, is accused of shooting a man in his car during an argument. He has shared his story of becoming a pro athlete after losing his arms and legs to a childhood bacterial infection.",
+    "link": "https://www.npr.org/2026/03/24/nx-s1-5759259/cornhole-amputee-dayton-webber-murder-arrest"
+  },
+  {
+    "text": "Lines grow to 4 hours at Houston's IAH after hundreds of TSA officers quit - Houston Chronicle",
+    "fullText": "Houston Bush Airport TSA wait times topped 4 hours Tuesday as the government shutdown worsened staffing shortages.",
+    "link": "https://www.houstonchronicle.com/news/houston-texas/trending/article/iah-tsa-wait-times-22092875.php"
   },
   {
     "text": "‘Harry Potter’ First Look: The Wizarding World of Hogwarts Is Revealed - Variety",
@@ -15,29 +35,39 @@
     "link": "https://www.bloomberg.com/news/articles/2026-03-24/iran-charges-some-ships-hormuz-transit-fees-for-safe-passage"
   },
   {
+    "text": "Epic Games lays off over 1,000 employees following \"downturn in Fortnite engagement\" - GamesIndustry.biz",
+    "fullText": "CEO Tim Sweeney says cuts are necessary to \"keep the company funded\" and to put it \"in a more stable place\"",
+    "link": "https://www.gamesindustry.biz/epic-games-lays-off-over-1000-employees-following-downturn-in-fortnite-engagement"
+  },
+  {
     "text": "Stitt picks energy executive Alan Armstrong as next Oklahoma senator - Politico",
     "fullText": "Armstrong will fill Markwayne Mullin’s Senate seat until the November election.",
     "link": "https://www.politico.com/live-updates/2026/03/24/congress/oklahoma-senator-alan-armstrong-00841481"
   },
   {
-    "text": "Fortnite Maker Epic Games Cuts About 1,000 Jobs Across Company - Bloomberg.com",
-    "fullText": "CEO Tim Sweeney says market conditions are the “most extreme” in years.",
-    "link": "https://www.bloomberg.com/news/articles/2026-03-24/fortnite-maker-epic-games-cuts-about-1-000-jobs-across-company"
+    "text": "Pokémon Champions Releases on Nintendo Switch and Nintendo Switch 2 on April 8, 2026 - Pokemon.com",
+    "fullText": "Take on Trainers from around the world and battle with recently discovered Mega-Evolved Pokémon.",
+    "link": "https://www.pokemon.com/us/pokemon-news/pokemon-champions-releases-on-nintendo-switch-and-nintendo-switch-2-on-april-8-2026"
   },
   {
-    "text": "‘US will never give up the Moon again’: Nasa unveils lunar base roadmap, nuclear Mars mission - The Times of India",
-    "fullText": "Science News: Nasa on Tuesday unveiled a broad set of agencywide initiatives at its “Ignition” event, laying out plans to speed up its return to the Moon, build a l.",
-    "link": "https://timesofindia.indiatimes.com/science/us-will-never-give-up-the-moon-again-nasa-unveils-lunar-base-roadmap-nuclear-mars-mission/articleshow/129778955.cms"
+    "text": "Exclusive: Samsung Galaxy Z Fold 8 Official CAD Renders & Rumors - Android Headlines",
+    "fullText": "This is the Samsung Galaxy Z Fold 8. After a pretty huge upgrade last year, for the Galaxy Z Fold 7, Samsung doesn't appear to be making any massive",
+    "link": "https://www.androidheadlines.com/samsung-galaxy-z-fold-8"
   },
   {
-    "text": "Live updates: War with Iran; Iranian source acknowledges US ‘outreach’ as war rages on and oil prices climb over $100 - CNN",
-    "fullText": "An Iranian source told CNN that there had been “outreach” between the US and Tehran and that Iran is willing to listen to “sustainable” proposals to end the war. Meanwhile, Israel and Iran continue to trade strikes. Follow for the latest live news updates.",
-    "link": "https://www.cnn.com/world/live-news/iran-war-us-israel-trump-03-24-26"
+    "text": "Buccaneers, Lavonte David schedule press conference amid talk of retirement - NBC Sports",
+    "fullText": "Longtime Buccaneers linebacker Lavonte David may be ready to call it a career.",
+    "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/buccaneers-lavonte-david-schedule-press-conference-amid-talk-of-retirement"
   },
   {
-    "text": "Quadruple amputee cornhole player fatally shoots man, Maryland authorities say - The Seattle Times",
-    "fullText": "Dayton James Webber went on to become a professional player of cornhole, a game in which players throw bean bags though a hole in a slanted wooden board to score points.",
-    "link": "https://www.seattletimes.com/nation-world/nation/quadruple-amputee-cornhole-player-fatally-shoots-man-authorities-say/"
+    "text": "Pakistan ‘ready to host US-Iran talks’: Can latest peace push work? - Al Jazeera",
+    "fullText": "Pakistan, Turkiye and Egypt are trying to broker talks. Analysts caution the chasm between the US and Iran remains wide.",
+    "link": "https://www.aljazeera.com/news/2026/3/24/pakistan-ready-to-host-us-iran-talks-can-latest-peace-push-work"
+  },
+  {
+    "text": "Anthropic’s Claude Code and Cowork can control your computer - The Verge",
+    "fullText": "Anthropic has updated Claude to perform tasks in its Code and Cowork AI tools autonomously by using your computer for you.",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/899430/anthropic-claude-code-cowork-ai-control-computer"
   },
   {
     "text": "Gerry McNamara ’06 Named Head Coach of Syracuse Men's Basketball - Syracuse University Athletics",
@@ -45,43 +75,13 @@
     "link": "https://cuse.com/news/2026/3/24/gerry-mcnamara-06-named-head-coach-of-syracuse-mens-basketball"
   },
   {
-    "text": "TSA wait times stretch up to 6 hours as ICE and other Homeland Security agents deployed to 14 airports - CBS News",
-    "fullText": "Nearly 12% of all TSA officers who were scheduled to work on Sunday called out — the most since the start of the partial government shutdown.",
-    "link": "https://www.cbsnews.com/news/tsa-wait-times-6-hours-ice-homeland-security-agents-airports/"
+    "text": "Denmark votes in an early election that follows a crisis over US designs on Greenland - AP News",
+    "fullText": "Danish voters are going to the polls in a general election. Prime Minister Mette Frederiksen is seeking a third term at the helm of the Scandinavian country after a standoff with President Donald Trump over the future of the kingdom’s semiautonomous territory…",
+    "link": "https://apnews.com/article/denmark-general-election-parliament-greenland-frederiksen-a47b681838c18ef9b7b4fe63fd4b3b0c"
   },
   {
-    "text": "It’s not just vaccines: Parents are refusing other routine preventive care for newborns - CNN",
-    "fullText": "Doctors across the nation are alarmed that skepticism fueled by rising anti-science sentiment and medical mistrust is increasingly reaching beyond vaccines to other proven, routine, preventive care for babies.",
-    "link": "https://www.cnn.com/2026/03/24/health/newborn-preventive-care-refusals"
-  },
-  {
-    "text": "Exclusive: The Jay-Z Interview - GQ",
-    "fullText": "In a rare interview, Jay-Z puts everything on the table—business, family and 30 years of music.",
-    "link": "https://www.gq.com/story/jay-z-cover-interview-april-2026"
-  },
-  {
-    "text": "2026 MLB Opening Day Power Rankings: Who can stop the Dodgers from a three-peat? - NBC Sports",
-    "fullText": "Ranking all 30 MLB teams leading into the start of the 2026 season.",
-    "link": "https://www.nbcsports.com/mlb/news/2026-mlb-opening-day-power-rankings-who-can-stop-the-dodgers-from-a-three-peat"
-  },
-  {
-    "text": "Post-Free Agency NFL Power Rankings: Bengals, Commanders Are Contenders Again - Sports Illustrated",
-    "fullText": "With the first wave of veteran free agency behind us, Conor Orr ranks all 32 teams ahead of the draft.",
-    "link": "https://www.si.com/nfl/power-rankings-free-agency-bengals-commanders-contenders"
-  },
-  {
-    "text": "The world’s deadliest infectious disease is on the rise in the US - Vox",
-    "fullText": "﻿We discovered its cause 144 years ago. It’s still a massive problem.",
-    "link": "https://www.vox.com/future-perfect/483649/world-tuberculosis-day-tb-rates-usa"
-  },
-  {
-    "text": "Global oil prices trade above $103 a barrel after reports that Saudi Arabia and U.A.E. are weighing joining war against Iran - MarketWatch",
-    "fullText": "The potential for further attacks on energy infrastructure in the Persian Gulf remains a key worry",
-    "link": "https://www.marketwatch.com/story/oil-rises-as-saudi-arabia-and-uae-reportedly-weigh-joining-iran-war-d1236604"
-  },
-  {
-    "text": "No evidence of arson found in White Bear Lake fire that killed Jessi Pierce and 3 children - Star Tribune",
-    "fullText": "The cause is still under investigation, but so far there is nothing that suggests the fire was intentionally set.",
-    "link": "https://www.startribune.com/no-evidence-of-arson-found-in-white-bear-lake-fire-that-killed-jessi-pierce-and-3-children/601631204"
+    "text": "Now a true pop star, Miley Cyrus returns to her 'Hannah Montana' roots to fete anniversary special - AP News",
+    "fullText": "Miley Cyrus went back to her “Hannah Montana” blond mane and to her roots as Miley Stewart, the tween with a big secret. The now real-life pop star reunited Monday evening with cast members in Los Angeles to celebrate the “Hannah Montana 20th Anniversary Spec…",
+    "link": "https://apnews.com/article/miley-cyrus-hannah-montana-anniversary-special-27130985d898f0108b7972e16b851cd0"
   }
 ]
