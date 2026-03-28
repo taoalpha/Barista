@@ -1,8 +1,53 @@
 [
   {
-    "text": "Stock Market Today: Dow Futures Slip, Brent Climbs — Live Updates - WSJ",
-    "fullText": null,
-    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-27-2026"
+    "text": "Dow tumbles 500 points, enters correction territory as Trump's Iran extension fails to soothe markets: Live updates - CNBC",
+    "fullText": "Wall Street is coming off a losing session in which higher oil prices and spiking Treasury yields weighed on equities.",
+    "link": "https://www.cnbc.com/2026/03/26/stock-market-today-live-updates.html"
+  },
+  {
+    "text": "House panel finds Rep. Sheila Cherfilus-McCormick guilty of 25 ethics charges - NBC News",
+    "fullText": "A House Ethics subcommittee found Rep. Sheila Cherfilus-McCormick guilty of 25 ethics charges, capping a three-year investigation into allegations she stole millions in federal relief funds and funneled some of that to her congressional campaign.",
+    "link": "https://www.nbcnews.com/politics/politics-news/ethics-committee-finds-rep-sheila-cherfilus-mccormick-guilty-violating-rcna265459"
+  },
+  {
+    "text": "Iran's response to U.S. peace proposal expected Friday, sources say - CBS News",
+    "fullText": "The Iranian response to the U.S.' 15-point peace proposal is expected on Friday, multiple sources familiar with the matter told CBS News.",
+    "link": "https://www.cbsnews.com/news/iran-response-us-peace-proposal-war/"
+  },
+  {
+    "text": "Apple has finally discontinued the Mac Pro desktop after years of fitful effort - Ars Technica",
+    "fullText": "M2 Ultra Mac Pro is no longer for sale, and Apple says no replacement is planned.",
+    "link": "https://arstechnica.com/gadgets/2026/03/apple-has-finally-discontinued-the-mac-pro-desktop-after-years-of-fitful-effort/"
+  },
+  {
+    "text": "Funding TSA won’t fix long airport lines overnight - CNN",
+    "fullText": "Funding to pay Transportation Security Administration officers may be on its way soon, but despite this, frontline workers and hours-long lines of travelers at US airports may not return to normal right away.",
+    "link": "https://www.cnn.com/2026/03/27/us/tsa-lines-not-fixed-overnight"
+  },
+  {
+    "text": "Even wealthy Americans are souring on the economy as gas prices spike and stocks fall - CNN",
+    "fullText": "Americans are growing more pessimistic about the US economy as the war on Iran continues to roil markets, with sentiment falling across all income groups — including the wealthiest.",
+    "link": "https://www.cnn.com/2026/03/27/economy/us-consumer-sentiment-march-iran-war"
+  },
+  {
+    "text": "Does Anyone Remember Laura Nyro? - Rolling Stone",
+    "fullText": "Laura Nyro was a hugely influential singer-songwriter, but are her complex life and incredible legacy at risk of being forgotten?",
+    "link": "http://www.rollingstone.com/music/music-features/laura-nyro-life-legend-legacy-1234855330/"
+  },
+  {
+    "text": "Trump's paused attack on Iran's energy - for diplomacy or escalation? - BBC",
+    "fullText": "The US president's commitment to deadlines is fluid but he uses them for a purpose, writes the BBC's James Landale.",
+    "link": "https://www.bbc.com/news/articles/c2evg2m3ye2o"
+  },
+  {
+    "text": "Android 17 Beta 3 finally restores the single tap Wi-Fi toggle - 9to5Google",
+    "fullText": "Google has decided to restore the ability to enable and disable Wi-Fi connections with a single tap of the QS toggle in Android 17 Beta 3.",
+    "link": "http://9to5google.com/2026/03/27/android-17-beta-3-finally-restores-the-single-tap-wi-fi-toggle/"
+  },
+  {
+    "text": "Iran starts to formalize its chokehold on the Strait of Hormuz with a ‘toll booth’ regime - AP News",
+    "fullText": "Iran is cementing its hold over the Strait of Hormuz, demanding vessels give up detailed information and detour into Iranian waters before being vetted by Iran’s Islamic Revolutionary Guards Corps. In some cases, vessels have paid for passage. Traffic through…",
+    "link": "https://apnews.com/article/iran-hormuz-shipping-tolls-china-de5159966cde7de7b964b3c2c67eec07"
   },
   {
     "text": "DHS funding bill moves to House after early morning passage in Senate - The Washington Post",
@@ -10,14 +55,14 @@
     "link": "https://www.washingtonpost.com/politics/2026/03/27/dhs-funding-house-tsa/"
   },
   {
-    "text": "Epstein survivors sue Justice Department and Google over release of private information - CNN",
-    "fullText": "A group of Jeffrey Epstein survivors filed a class action lawsuit against the Department of Justice and Google on Thursday over the release of victim-identifying information in files related to the late convicted sex offender.",
-    "link": "https://www.cnn.com/2026/03/27/us/epstein-survivors-sue-doj-google-hnk"
-  },
-  {
     "text": "Sony is raising PS5 prices by $100 in April - The Verge",
     "fullText": "Sony is raising the prices across all of its PS5 models, with the standard version costing $649.99 instead of $549.99.",
     "link": "https://www.theverge.com/games/902224/sony-ps5-playstation-price-hike"
+  },
+  {
+    "text": "Anthropic accidentally leaked details of a new AI model that poses unprecedented cybersecurity risks - Fortune",
+    "fullText": "Everything you need to know before you reach the office this morning.",
+    "link": "https://fortune.com/2026/03/27/anthropic-leaked-ai-mythos-cybersecurity-risk/"
   },
   {
     "text": "U.S. uses hundreds of Tomahawk missiles on Iran, alarming some at Pentagon - The Washington Post",
@@ -25,14 +70,14 @@
     "link": "https://www.washingtonpost.com/national-security/2026/03/27/iran-war-tomahawk-missiles/"
   },
   {
-    "text": "Savannah Guthrie to return to Today show as search for mother continues - BBC",
-    "fullText": "The US television presenter will return to hosting the NBC news programme in April.",
-    "link": "https://www.bbc.com/news/articles/c79jd4x572qo"
+    "text": "Protests from Alabama to Wyoming — and on the Arctic Circle: What to know about Saturday’s third ‘No Kings’ rally - CNN",
+    "fullText": "Millions of people are expected to join a national rally on Saturday to protest President Donald Trump’s policies, event organizers say.",
+    "link": "https://www.cnn.com/2026/03/27/us/no-kings-protests"
   },
   {
-    "text": "This St. John’s season is already a success — what comes next is gravy - New York Post",
-    "fullText": "Win or lose Friday night at Capital One Arena, this St. John’s season will go down as the best this century.",
-    "link": "https://nypost.com/2026/03/27/sports/this-st-johns-season-is-already-a-success-what-comes-next-is-gravy/"
+    "text": "Ex-FBI Agent Reveals Why Savannah Guthrie’s Interview Will Leave Her Mother’s Abductors ‘Terrified’ - Yahoo News UK",
+    "fullText": "A former FBI agent has revealed that Savannah Guthrie's emotional interview will leave her mom's suspected abductor \"terrified.\"",
+    "link": "https://theblast.com/791364/savannah-guthrie-interview-mother-abductors-terrified/"
   },
   {
     "text": "Trey Kaufman-Renn's late tip-in sends Purdue to Elite Eight - On3",
@@ -40,58 +85,8 @@
     "link": "https://www.on3.com/teams/purdue-boilermakers/news/trey-kaufman-renns-late-tip-in-carres-no-2-purdue-to-elite-eight/"
   },
   {
-    "text": "A Build America, Buy America law is causing construction delays amid the US housing crisis - AP News",
-    "fullText": "A law requiring that most materials in federally funded affordable housing are made in America is fully kicking in. But it is wreaking havoc on affordable developments. Developers are reporting delays, higher costs and hundreds of hours spent figuring out how…",
-    "link": "https://apnews.com/article/affordable-housing-construction-baba-hud-delays-4302744b3b5839268acaee92bf172eb9"
-  },
-  {
-    "text": "Ukraine signs deal with Saudi Arabia offering drone expertise - BBC",
-    "fullText": "Volodymyr Zelensky says the Gulf kingdom faces the same type of attacks from Iran that Kyiv has been resisting.",
-    "link": "https://www.bbc.com/news/articles/cx2r4wxdw3no"
-  },
-  {
-    "text": "Taylor Swift Takes Home 2026 iHeartRadio Music Award for Artist of the Year - Billboard",
-    "fullText": "Taylor Swift accepted the award for Artist of the Year, as well as five others simultaneously, at the 2026 iHeartRadio Music Awards.",
-    "link": "http://www.billboard.com/music/awards/taylor-swift-2026-iheartradio-music-award-artist-of-the-year-1236208165/"
-  },
-  {
-    "text": "Rubio tries to sell Iran war to skeptical G7 diplomats after Trump insults allies - AP News",
-    "fullText": "U.S. Secretary of State Marco Rubio is in France to meet his Group of Seven counterparts after President Donald Trump attacked NATO over a reluctance or refusal to take part in the Iran war. Some of America’s closest and oldest allies have met the conflict wi…",
-    "link": "https://apnews.com/article/g7-france-rubio-iran-war-allies-trump-63a8ee21dcca5ecce0c6b1cb900a8c16"
-  },
-  {
-    "text": "Mullin has a limited window of time to prove himself at DHS - Politico",
-    "fullText": "“He didn’t exactly walk into the Pacific Ocean on a calm day,” said Republican Rep. Mark Amodei, who chairs the Appropriations subcommittee that funds DHS.",
-    "link": "https://www.politico.com/news/2026/03/27/mullin-dhs-window-00845962"
-  },
-  {
-    "text": "Judge weighs whether Venezuela can pay Maduro's legal costs in US drug trafficking case - NPR",
-    "fullText": "A U.S. judge pressed the Trump administration Thursday about its basis for barring Venezuela's government from paying former President Nicolás Maduro's legal fees in the drug trafficking case that has put him behind bars in New York.",
-    "link": "https://www.npr.org/2026/03/27/nx-s1-5763491/judge-venezuela-maduro-legal-costs-us-drug-trafficking"
-  },
-  {
-    "text": "Pentagon weighs sending 10,000 more combat troops to the Middle East - Axios",
-    "fullText": "The consideration is the latest signal that a U.S. ground operation in Iran is being prepared.",
-    "link": "https://www.axios.com/2026/03/27/iran-war-trump-pentagon-more-troops-middle-east"
-  },
-  {
-    "text": "Why hasn’t the US military used force to secure the Strait of Hormuz? - The Conversation",
-    "fullText": "There are 4 reasons why the US may be reluctant to risk such a massive operation.",
-    "link": "https://theconversation.com/why-hasnt-the-us-military-used-force-to-secure-the-strait-of-hormuz-279224"
-  },
-  {
-    "text": "House Ethics panel hears charges against Sheila Cherfilus-McCormick - Politico",
-    "fullText": "Lawmakers are beginning deliberations over her alleged guilt on dozens of charges.",
-    "link": "https://www.politico.com/news/2026/03/26/house-ethics-shelia-cherfilus-mccormick-00847808"
-  },
-  {
-    "text": "How ‘Love Story: John F. Kennedy Jr. & Carolyn Bessette’ Ends: A Heartbreaking Finale Explained - The Hollywood Reporter",
-    "fullText": "FX's anthology series from Ryan Murphy that follows the late '90s power couple wrapped up its nine-episode run with a tragic ending Thursday night.",
-    "link": "http://www.hollywoodreporter.com/tv/tv-news/love-story-fx-jfk-jr-carolyn-bessette-ending-explained-1236547161/"
-  },
-  {
-    "text": "Netflix’s MLB debut included “make-good” ads from NFL shortfalls - NBC Sports",
-    "fullText": "The 2026 Major League Baseball season opened Wednesday on Netflix.",
-    "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/netflixs-mlb-debut-included-make-good-ads-from-nfl-shortfalls"
+    "text": "Nepal’s youngest premier sworn in after releasing new rap song about unity - Al Jazeera",
+    "fullText": "At 35, Balen Shah becomes Nepal’s first Madhesi prime minister, representing the southern plains bordering India.",
+    "link": "https://www.aljazeera.com/news/2026/3/27/nepals-youngest-premier-sworn-in-after-releasing-new-rap-song-about-unity"
   }
 ]
