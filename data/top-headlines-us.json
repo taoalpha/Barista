@@ -1,13 +1,43 @@
 [
   {
+    "text": "Welcome Home, Artemis II - The Free Press",
+    "fullText": "This was the Artemis II mission: to push deeper into the unknown, with humanity, with feeling, with awe, and with an unwavering commitment to always, always choose Earth.",
+    "link": "https://www.thefp.com/p/welcome-home-artemis-ii"
+  },
+  {
+    "text": "Britney Spears voluntarily checks into treatment facility - NBC News",
+    "fullText": "Britney Spears has voluntarily checked herself into a treatment facility, according to a representative for the pop star.",
+    "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/britney-spears-voluntarily-checks-into-treatment-facility-rcna331449"
+  },
+  {
+    "text": "Oil Surges, US Futures Drop on Hormuz Blockade: Markets Wrap - Bloomberg.com",
+    "fullText": "Oil surged while stocks and bonds fell as a brief bout of market optimism unraveled after President Donald Trump ordered a blockade of the Strait of Hormuz, escalating tensions with Iran after weekend peace talks collapsed.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-12/oil-surges-us-futures-drop-on-hormuz-blockade-markets-wrap"
+  },
+  {
+    "text": "Pope prioritises world's fastest-growing Catholic region in major Africa tour - BBC",
+    "fullText": "Leo XIV wants the world's attention on a continent vital to the Church's future, an aide says.",
+    "link": "https://www.bbc.com/news/articles/cvg0jyx4qq7o"
+  },
+  {
+    "text": "Justin Bieber’s Low-Key Coachella Performance Fuels Sexism Debate - The Hollywood Reporter",
+    "fullText": "Fans have taken to social media, comparing Bieber's stripped-back headlining show to Sabrina Carpenter's full-on theatrical performance.",
+    "link": "http://www.hollywoodreporter.com/music/music-news/justin-biebers-coachella-performance-sexism-debate-1236562163/"
+  },
+  {
     "text": "2026 Masters live updates: Final-round leaderboard, scores, results, highlights and news - Golf Channel",
     "fullText": "Follow the final round of the 90th Masters with our live blog.",
     "link": "https://www.golfchannel.com/pga-tour/live/2026-masters-live-updates-final-round-leaderboard-scores-results-highlights-and-news"
   },
   {
-    "text": "Box Office Milestone: ‘Super Mario Galaxy’ and ‘Hail Mary’ Fuel Biggest January-April Revenue Gains Since COVID - The Hollywood Reporter",
-    "fullText": "In only its second weekend, 'Super Mario Galaxy Movie' crossed $300 million domestically and $600  million globally, while 'Hail Mary' soars past $500 million worldwide. Elsewhere, 'The Drama' gains traction and the new Black rom-com 'You, Me & Tuscany' opens.",
-    "link": "http://www.hollywoodreporter.com/movies/movie-news/super-mario-galaxy-box-office-milestones-1236561823/"
+    "text": "Box Office Global: 'Super Mario Galaxy Movie' Bound for $700M, 'Project Hail Mary' Crosses $500M - Deadline",
+    "fullText": "'Super Mario Galaxy Movie' is bound for a $700M WW running cume gross, 'Project Hail Mary' crossed a half billion worldwide and in Japan, 'Detective Conan' finds $26M+ at the global box office.",
+    "link": "http://deadline.com/2026/04/box-office-global-super-mario-galaxy-project-hail-mary-detective-conan-1236858491/"
+  },
+  {
+    "text": "Inside Vance’s Iran negotiations: No deal, but ‘friendly’ talks - The Washington Post",
+    "fullText": "Vice President JD Vance’s negotiations in Pakistan with Iran failed to end the war, but progress was reported on building goodwill.",
+    "link": "https://www.washingtonpost.com/politics/2026/04/12/jd-vance-inside-iran-negotiations/"
   },
   {
     "text": "Trump Weighs Limited Strikes on Iran After Talks Collapse - WSJ",
@@ -15,14 +45,9 @@
     "link": "https://www.wsj.com/world/middle-east/trump-weighs-limited-strikes-on-iran-after-talks-collapse-71908883"
   },
   {
-    "text": "Hungary’s Viktor Orban, ally of Trump and Putin, concedes election defeat - The Washington Post",
-    "fullText": "WIth record turnout, Hungarians chose to end the 16-year rule of the prime minister who was a self-proclaimed champion of illiberal Christian democracy.",
-    "link": "https://www.washingtonpost.com/world/2026/04/12/hungary-election-viktor-orban-trump/"
-  },
-  {
-    "text": "NASA already has next Artemis flight in its sights following astronauts’ triumphant moon flyby - AP News",
-    "fullText": "With NASA's lunar comeback a galactic-sized smash, the space agency already has the next Artemis flight in its sights. In a mission recently tacked on for next year, Artemis III’s yet-to-be -named crew will practice docking their Orion capsule with a lunar la…",
-    "link": "https://apnews.com/article/nasa-artemis-moon-astronauts-apollo-74008cb58e79ed525ae5e1fe08a04ad9"
+    "text": "Sam Altman’s home targeted in second attack - The San Francisco Standard",
+    "fullText": "Early Sunday morning, a car stopped and appears to have fired a gun at the Russian Hill home of OpenAI’s CEO, according to police.",
+    "link": "https://sfstandard.com/2026/04/12/sam-altman-s-home-targeted-second-attack/"
   },
   {
     "text": "Abuse allegations against lead Democrat shake race for California governor - Al Jazeera",
@@ -30,63 +55,23 @@
     "link": "https://www.aljazeera.com/news/2026/4/12/abuse-allegations-against-lead-democrat-shake-race-for-california-governor"
   },
   {
-    "text": "Georgie From 'Love on the Spectrum' Reveals New Boyfriend After Split From Connor - TMZ",
-    "fullText": "\"Love on the Spectrum\" star Georgie Harris wasted no time after splitting from Connor Tomlinson ... she announced she's got a new love dove in a post shared Sunday.",
-    "link": "https://www.tmz.com/2026/04/12/georgie-reveals-new-boyfriend-after-connor-tomlinson-split/"
-  },
-  {
     "text": "Monday severe weather in Minnesota: Tornadoes and baseball-sized hail possible - Bring Me The News",
     "fullText": "If storms fire, they'll be in an environment that allows them to spin up tornadoes and drop very large hail.",
     "link": "https://bringmethenews.com/minnesota-weather/monday-severe-weather-in-minnesota-tornadoes-and-baseball-sized-hail-possible"
   },
   {
-    "text": "Aussie dollar slide signals potential selloff in U.S. stocks after Trump Hormuz move - Seeking Alpha",
-    "fullText": "Risk-off markets as AUD slides after Trump’s Strait of Hormuz blockade and U.S.-Iran talks collapse—see what it signals for S&P 500 futures and stocks.",
-    "link": "https://seekingalpha.com/news/4574240-aussie-dollar-slide-signals-potential-selloff-in-u-s-stocks-after-trump-hormuz-move"
+    "text": "Apple reportedly testing four designs for upcoming smart glasses - TechCrunch",
+    "fullText": "These glasses are a step back from an ambitious plan that once called for Apple to launch a variety of mixed and augmented reality devices.",
+    "link": "https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/"
   },
   {
-    "text": "Vance, US negotiators depart meeting with Iran, Pakistan delegation after peace talks fail - Fox News",
-    "fullText": "Vice President JD Vance and White House officials departed Islamabad, Pakistan after failing to reach a peace agreement with Iran on Sunday.",
-    "link": "https://www.foxnews.com/live-news/us-iranar-vance-strait-hormuz-april-12"
+    "text": "Dolly Martinez Dead – ‘My 600-Lb. Life’ Star Dies at 30 - Just Jared",
+    "fullText": "Dolly Martinez, who appeared on a TLC reality series, has sadly passed away at the age of 30. Her family shared an emotional tribute.",
+    "link": "https://www.justjared.com/2026/04/12/dolly-martinez-dead-tlc-reality-star-season-10/"
   },
   {
-    "text": "'My 600-Lb. Life' Star Dolly Martinez Dead at 30 - TMZ",
-    "fullText": "Dolly Martinez, who appeared on \"My 600-Lb. Life,\" has died.",
-    "link": "https://www.tmz.com/2026/04/12/dolly-martinez-dead/"
-  },
-  {
-    "text": "Nigeria: Civilians feared dead after air strike at Borno market - BBC",
-    "fullText": "The Nigerian Air Force has not addressed reports it struck a village market while targeting militants.",
-    "link": "https://www.bbc.com/news/articles/cgk021z3ejpo"
-  },
-  {
-    "text": "Oregon transfer guard Jackson Shelstad commits to Louisville - 247Sports",
-    "fullText": "Oregon transfer guard Jackson Shelstad commits to Louisville",
-    "link": "https://247sports.com/college/louisville/article/pat-kelsey-oregon-transfer-guard-jackson-shelstad-commits-to-louisville-281318244/"
-  },
-  {
-    "text": "One dead and several injured after mass shooting at Chick-fil-A in New Jersey - Gothamist",
-    "fullText": "One of the victims was pronounced dead on the scene while six others were treated for non-life threatening injuries.",
-    "link": "https://gothamist.com/news/one-dead-and-several-injured-after-mass-shooting-at-chick-fil-a-in-new-jersey"
-  },
-  {
-    "text": "President Trump terminates Presidio Trust - KRON4",
-    "fullText": "Editor’s note: This story has been updated to clarify that President Trump has terminated the Trust’s board members. The Presidio Trust can still operate without board members in place. SAN FRANCISCO (KRON) — Efforts to get rid of the Presidio Board of Truste…",
-    "link": "https://www.kron4.com/news/bay-area/president-trump-terminates-presidio-trust/"
-  },
-  {
-    "text": "A country-by-country glance at Pope Leo XIV's trip to Africa - NPR",
-    "fullText": "Pope Leo XIV's four-nation, 11-day trip to Africa is so dizzying in its complexity it recalls some of the globetrotting odysseys of St. John Paul II in his early years.",
-    "link": "https://www.npr.org/2026/04/12/nx-s1-5782636/a-country-by-country-glance-at-pope-leo-xivs-trip-to-africa"
-  },
-  {
-    "text": "NFL Confidential: Scouts, Execs Dish on Most Underhyped, Overhyped 2026 Draft Prospects - FOX Sports",
-    "fullText": "Who is getting underhyped and overhyped ahead of the 2026 NFL Draft? Not everyone loves Ty Simpson, while there are several players scouts and execs want us to keep an eye on.",
-    "link": "https://www.foxsports.com/stories/nfl/2026-nfl-draft-underhyped-overhyped-prospects"
-  },
-  {
-    "text": "Astronomers find the strongest evidence yet for the universe's first stars - Phys.org",
-    "fullText": null,
-    "link": "https://phys.org/news/2026-04-astronomers-strongest-evidence-universe-stars.html"
+    "text": "Here's what smart people are saying about what the failed US-Iran peace talks and Trump's blockade mean for markets - markets.businessinsider.com",
+    "fullText": "Economists, foreign policy experts, and politicians weigh in on the failed US peace talks with Iran.",
+    "link": "https://markets.businessinsider.com/news/stocks/what-smart-people-saying-failed-us-iran-peace-talks-2026-4"
   }
 ]
