@@ -1,13 +1,58 @@
 [
   {
-    "text": "Welcome Home, Artemis II - The Free Press",
-    "fullText": "This was the Artemis II mission: to push deeper into the unknown, with humanity, with feeling, with awe, and with an unwavering commitment to always, always choose Earth.",
-    "link": "https://www.thefp.com/p/welcome-home-artemis-ii"
+    "text": "Dow futures drop 500 points after Trump announces Strait of Hormuz blockade as talks fail: Live updates - CNBC",
+    "fullText": "All three major averages are coming off their best week since November on hopes that the conflict will soon come to an end.",
+    "link": "https://www.cnbc.com/2026/04/12/stock-market-today-live-updates.html"
+  },
+  {
+    "text": "Eric Swalwell exits California governor race after sex assault allegations - Al Jazeera",
+    "fullText": "Democratic representative suspends campaign after media reports detailed alleged accounts of sexual assault.",
+    "link": "https://www.aljazeera.com/news/2026/4/12/abuse-allegations-against-lead-democrat-shake-race-for-california-governor"
+  },
+  {
+    "text": "Oil Climbs, Asian Equities Fall as U.S.-Iran Peace Talks Collapse - WSJ",
+    "fullText": "Oil surges back above $100 barrel after dipping following a cease-fire announcement last week",
+    "link": "https://www.wsj.com/finance/stocks/oil-climbs-asian-equities-fall-as-u-s-iran-peace-talks-collapse-d19ec1b7"
+  },
+  {
+    "text": "Trump takes aim at Pope Leo, calling him \"WEAK on Crime, and terrible for Foreign Policy.\" - CBS News",
+    "fullText": "Pope Leo has been critical of the war in Iran and other priorities of the Trump administration.",
+    "link": "https://www.cbsnews.com/news/trump-pope-leo-weak-on-crime-iran-truth-social/"
+  },
+  {
+    "text": "Rory McIlroy wins Masters to become fourth back-to-back champion - Al Jazeera",
+    "fullText": "The Northern Irishman becomes the first player to repeat at Augusta National since Tiger Woods back in 2001-2002.",
+    "link": "https://www.aljazeera.com/sports/2026/4/13/rory-mcilroy-wins-masters-to-become-fourth-back-to-back-champion"
+  },
+  {
+    "text": "Exclusive | McDonald’s to Add Energy Drinks, Crafted Sodas to Menus - WSJ",
+    "fullText": "Mango Pineapple Refresher and Red Bull Dragonberry Energizer joining fast-food giant’s new beverage lineup in U.S. restaurants",
+    "link": "https://www.wsj.com/business/hospitality/mcdonalds-to-add-energy-drinks-crafted-sodas-to-menus-6ea7c304"
+  },
+  {
+    "text": "‘Titaníque’ Broadway Review: Cult Musical Docks Uptown With Its Campy Outrageousness Intact - Variety",
+    "fullText": "Review: 'Titaníque,' a low-fi cult hit musical parody of 'Titanic' makes a smooth transition to Broadway.",
+    "link": "https://variety.com/2026/legit/reviews/titanique-broadway-review-musical-campy-fun-marla-mindelle-1236715253/"
+  },
+  {
+    "text": "Cam Young Says He Fell Short of a Green Jacket for One Reason - Sports Illustrated",
+    "fullText": "Add Cam Young to the long list of names that played in the final pairing on a Masters Sunday and didn’t secure a green jacket.",
+    "link": "https://www.si.com/golf/masters/cam-young-fell-short-green-jacket-one-reason"
+  },
+  {
+    "text": "Playoffs scenarios abound for final Sunday of NBA season - NBA",
+    "fullText": "Sunday’s 15-game slate to close out the regular season will determine 10 of the 20 postseason seeds.",
+    "link": "https://www.nba.com/news/playoffs-scenarios-abound-for-final-sunday-of-nba-season"
   },
   {
     "text": "Britney Spears voluntarily checks into treatment facility - NBC News",
     "fullText": "Britney Spears has voluntarily checked herself into a treatment facility, according to a representative for the pop star.",
     "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/britney-spears-voluntarily-checks-into-treatment-facility-rcna331449"
+  },
+  {
+    "text": "Strongest storm on planet bearing down on U.S. islands in Western Pacific - San Francisco Chronicle",
+    "fullText": "The planet’s strongest storm is threatening Guam and the Northern Mariana Islands with destructive wind, surge and flooding.",
+    "link": "https://www.sfchronicle.com/weather/article/sinlaku-typhoon-western-pacific-us-islands-22202607.php"
   },
   {
     "text": "Oil Surges, US Futures Drop on Hormuz Blockade: Markets Wrap - Bloomberg.com",
@@ -25,9 +70,9 @@
     "link": "http://www.hollywoodreporter.com/music/music-news/justin-biebers-coachella-performance-sexism-debate-1236562163/"
   },
   {
-    "text": "2026 Masters live updates: Final-round leaderboard, scores, results, highlights and news - Golf Channel",
-    "fullText": "Follow the final round of the 90th Masters with our live blog.",
-    "link": "https://www.golfchannel.com/pga-tour/live/2026-masters-live-updates-final-round-leaderboard-scores-results-highlights-and-news"
+    "text": "Joe Gibbs shows family’s importance in Victory Lane - NASCAR.com",
+    "fullText": "Joe Gibbs stresses the importance of God and family before he's happily interrupted by his grandson, race winner Ty Gibbs, in Victory Lane.",
+    "link": "https://www.nascar.com/videos/franchise/nascar-cup-post-race-reactions/joe-gibbs-shows-familys-importance-in-victory-lane/"
   },
   {
     "text": "Box Office Global: 'Super Mario Galaxy Movie' Bound for $700M, 'Project Hail Mary' Crosses $500M - Deadline",
@@ -41,7 +86,7 @@
   },
   {
     "text": "Trump Weighs Limited Strikes on Iran After Talks Collapse - WSJ",
-    "fullText": null,
+    "fullText": "The White House is considering a menu of options in addition to blockading the Strait of Hormuz",
     "link": "https://www.wsj.com/world/middle-east/trump-weighs-limited-strikes-on-iran-after-talks-collapse-71908883"
   },
   {
@@ -50,28 +95,8 @@
     "link": "https://sfstandard.com/2026/04/12/sam-altman-s-home-targeted-second-attack/"
   },
   {
-    "text": "Abuse allegations against lead Democrat shake race for California governor - Al Jazeera",
-    "fullText": "Media reports detailing sexual assault allegations against US Representative Eric Swalwell prompt resignation calls.",
-    "link": "https://www.aljazeera.com/news/2026/4/12/abuse-allegations-against-lead-democrat-shake-race-for-california-governor"
-  },
-  {
-    "text": "Monday severe weather in Minnesota: Tornadoes and baseball-sized hail possible - Bring Me The News",
-    "fullText": "If storms fire, they'll be in an environment that allows them to spin up tornadoes and drop very large hail.",
-    "link": "https://bringmethenews.com/minnesota-weather/monday-severe-weather-in-minnesota-tornadoes-and-baseball-sized-hail-possible"
-  },
-  {
-    "text": "Apple reportedly testing four designs for upcoming smart glasses - TechCrunch",
-    "fullText": "These glasses are a step back from an ambitious plan that once called for Apple to launch a variety of mixed and augmented reality devices.",
-    "link": "https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/"
-  },
-  {
-    "text": "Dolly Martinez Dead – ‘My 600-Lb. Life’ Star Dies at 30 - Just Jared",
-    "fullText": "Dolly Martinez, who appeared on a TLC reality series, has sadly passed away at the age of 30. Her family shared an emotional tribute.",
-    "link": "https://www.justjared.com/2026/04/12/dolly-martinez-dead-tlc-reality-star-season-10/"
-  },
-  {
-    "text": "Here's what smart people are saying about what the failed US-Iran peace talks and Trump's blockade mean for markets - markets.businessinsider.com",
-    "fullText": "Economists, foreign policy experts, and politicians weigh in on the failed US peace talks with Iran.",
-    "link": "https://markets.businessinsider.com/news/stocks/what-smart-people-saying-failed-us-iran-peace-talks-2026-4"
+    "text": "How Artemis II's Earthset photo compares with the iconic Earthrise image from 1968 - Phys.org",
+    "fullText": null,
+    "link": "https://phys.org/news/2026-04-artemis-ii-earthset-photo-iconic.html"
   }
 ]
