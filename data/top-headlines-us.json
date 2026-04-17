@@ -1,23 +1,48 @@
 [
   {
+    "text": "Jury finds that Live Nation acted as a monopoly and overcharged ticket buyers - NPR",
+    "fullText": "An antitrust suit alleged that the company unfairly controlled too much of the live music industry at the expense of venues, artists and fans. The decision could reshape the industry.",
+    "link": "https://www.npr.org/2026/04/15/nx-s1-5786715/live-nation-ticketmaster-antitrust-verdict-monopoly"
+  },
+  {
+    "text": "Stock Market Today: S&P 500 Ticks Higher as Bank Earnings Show U.S. Economy Holding Up - WSJ",
+    "fullText": null,
+    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-04-15-2026"
+  },
+  {
+    "text": "Scoop: Trump discussed \"Jesus\" meme with Bill Pulte before posting it, sources say - Axios",
+    "fullText": "The mystery of who may have helped introduce the meme to Trump wasn't clear, until now.",
+    "link": "https://www.axios.com/2026/04/15/trump-christian-meme-bill-pulte"
+  },
+  {
+    "text": "Senate rejects resolution to block Trump from striking Iran - The Washington Post",
+    "fullText": "The war powers resolution was the fourth to fail in the chamber since the war’s start — but some Republicans expressed fresh concern about the war as it approaches the two-month mark.",
+    "link": "https://www.washingtonpost.com/politics/2026/04/15/iran-war-powers-trump/"
+  },
+  {
+    "text": "NBA play-in tournament: Live updates from Wednesday's matchups - ESPN",
+    "fullText": "The NBA play-in tournament continues on Wednesday with four teams vying for a spot in the playoffs.",
+    "link": "https://www.espn.com/nba/story/_/id/48488725/nba-2026-play-tournament-magic-76ers-clippers-warriors-live-updates-results-highlights"
+  },
+  {
+    "text": "Justice Sonia Sotomayor issues unusual apology over 'hurtful' remarks about colleague Brett Kavanaugh - NBC News",
+    "fullText": "The liberal Supreme Court justice had criticized her conservative colleague while talking about an opinion he wrote last year in an immigration case.",
+    "link": "https://www.nbcnews.com/politics/supreme-court/justice-sonia-sotomayor-apologizes-brett-kavanaugh-hurtful-remarks-rcna332066"
+  },
+  {
     "text": "Republicans worry White House ‘nonsense’ is hurting midterm prospects - Politico",
     "fullText": "Trump’s weaves and fights come at an increasingly inconvenient time for a party clinging to razor-thin margins in Congress.",
     "link": "https://www.politico.com/news/2026/04/15/republicans-white-house-nonsense-midterms-00874332"
   },
   {
-    "text": "Live Updates: Trump says Iran war \"close to over\" as Pakistan pushes for new peace talks - CBS News",
-    "fullText": "With the Iran war paused halfway through a 2-week ceasefire, President Trump is again voicing optimism over the potential for a deal to end it for good.",
-    "link": "https://www.cbsnews.com/live-updates/trump-iran-war-strait-hormuz-ceasefire-pakistan-peace-talks-israel-lebanon/"
+    "text": "Sudan enters a fourth year of war as officials lament an ‘abandoned crisis’ - AP News",
+    "fullText": "Sudan is entering a fourth year of war marked by famine and massacres in what the United Nations calls an “abandoned crisis.” The conflict between the military and the paramilitary Rapid Support Forces has displaced 13 million people. At least 59,000 people h…",
+    "link": "https://apnews.com/article/sudan-war-military-rsf-anniversary-four-years-32a416bfbd680ea42edf6c0298d2617b"
   },
   {
-    "text": "Allbirds says it's ditching footwear and pivoting to become an AI company. - CBS News",
-    "fullText": "The sneaker maker is selling its footwear assets and rebranding as \"NewBird AI,\" betting on booming demand for AI computing power.",
-    "link": "https://www.cbsnews.com/news/allbirds-ai-pivot-sells-footwear-brand-stock-soars/"
-  },
-  {
-    "text": "S&P 500 hits new all-time high as investors shrug off Iran war oil price spike - NBC News",
-    "fullText": "The S&P 500 hit a new all-time high Wednesday, a remarkable turnaround for stocks while the war with Iran drives up energy prices and cuts into global growth.",
-    "link": "https://www.nbcnews.com/business/markets/sp-500-hits-new-high-iran-war-rcna331900"
+    "text": "S.F. infant diagnosed with measles, city’s first case in seven years - San Francisco Chronicle",
+    "fullText": "San Francisco health officials on Wednesday said an unvaccinated infant had the first case of measles reported in the city since 2019.",
+    "link": "https://www.sfchronicle.com/health/article/infant-measles-sf-first-case-since-2019-22208457.php"
   },
   {
     "text": "Trump threatens to fire Powell, won’t halt probe of Fed renovations - The Washington Post",
@@ -25,14 +50,19 @@
     "link": "https://www.washingtonpost.com/business/2026/04/15/trump-powell-threat/"
   },
   {
-    "text": "Ford’s EV and software chief Doug Field is leaving the company - The Verge",
-    "fullText": "The former Tesla and Apple executive joined the automaker five years ago to lead its EV and software efforts.",
-    "link": "https://www.theverge.com/transportation/912647/ford-doug-field-leaving-ev-software"
-  },
-  {
     "text": "CBS Fall 2026 Schedule: Fewer Comedies, FBI Block & ‘Elsbeth’ Shift; ‘Ghosts’ & ‘Matlock’ Benched - Deadline",
     "fullText": "CBS is introducing a fall schedule with only two half-hour comedies. It is believed to be an all-time low for the network.",
     "link": "http://deadline.com/2026/04/cbs-2026-27-schedule-fbi-block-elsbeth-shift-ghosts-1236861873/"
+  },
+  {
+    "text": "Popes have spoken out on politics before. But with Trump and Pope Leo it's different - NPR",
+    "fullText": "President Trump's attacks on Pope Leo are unprecedented, religious experts told NPR. Here's how the situation differs from other popes' political critiques.",
+    "link": "https://www.npr.org/2026/04/15/nx-s1-5779690/pope-leo-donald-trump-war-iran-vance-history"
+  },
+  {
+    "text": "Landmark ancient-genome study shows surprise acceleration of human evolution - Nature",
+    "fullText": "Data from more than 15,000 ancient people reveal natural selection of hundreds of genes linked to immunity, skin tone, behaviour and other traits.",
+    "link": "https://www.nature.com/articles/d41586-026-01204-5"
   },
   {
     "text": "Iran War News Live Updates: Blockade ‘Fully Implemented’ as Mediators Push for U.S.-Iran Ceasefire Extension - WSJ",
@@ -40,48 +70,18 @@
     "link": "https://www.wsj.com/livecoverage/iran-us-strait-of-hormuz-blockade-updates"
   },
   {
-    "text": "Pakistan and Bangladesh migrants are faking they are gay to get asylum in the UK: Report - The Times of India",
-    "fullText": "South Asia News: LONDON: A shady network of immigration advisers in the UK is charging migrants from Pakistan and Bangladesh thousands of pounds to pretend they are ga.",
-    "link": "https://timesofindia.indiatimes.com/world/south-asia/pakistan-and-bangladesh-migrants-are-faking-they-are-gay-to-get-asylum-in-the-uk/articleshow/130292874.cms"
+    "text": "Parents speak out after son accused of Molotov attack on Sam Altman’s SF home - SFGATE",
+    "fullText": "The parents of Daniel Moreno-Gama, the man who allegedly attacked Sam Altman's home and OpenAI headquarters, spoke out in his defense.",
+    "link": "https://www.sfgate.com/bayarea/article/altman-sf-attack-crisis-parents-22208428.php"
   },
   {
-    "text": "Jury finds that Ticketmaster and Live Nation had an anticompetitive monopoly over big concert venues - AP News",
-    "fullText": "A jury has found that concert giant Live Nation and its Ticketmaster subsidiary engaged in an anticompetitive monopoly. The New York jury decided Wednesday on claims from dozens of U.S. states that the entertainment ticketing behemoth was a monopoly that cost…",
-    "link": "https://apnews.com/article/live-nation-ticketmaster-antitrust-trial-f0ffdd20dd4f64e8b4bb9d97134b826f"
+    "text": "Trump Mobile Drops Trashy Update on New Phone - The Daily Beast",
+    "fullText": "The phone is marketed as being “designed with American values in mind.”",
+    "link": "https://www.thedailybeast.com/trump-mobile-drops-trashy-update-on-new-phone/"
   },
   {
-    "text": "Ancient DNA reveals pervasive directional selection across West Eurasia - Nature",
-    "fullText": "Analysis of 15,836 ancient West Eurasian genomes reveals hundreds of instances of directional selection, showing that sustained&nbsp;changes&nbsp;in allele frequency were widespread, rather than being rare over this period as previously assumed.",
-    "link": "https://www.nature.com/articles/s41586-026-10358-1"
-  },
-  {
-    "text": "Inside the sudden downfall of Eric Swalwell - CNN",
-    "fullText": "As one California Democrat prepared to formally endorse Rep. Eric Swalwell for governor this spring, the lawmaker hesitated. They had heard rumors the married father of three slept around in Washington and worried about putting their name behind him in a cruc…",
-    "link": "https://www.cnn.com/2026/04/15/politics/eric-swalwell-allegations-congress-downfall"
-  },
-  {
-    "text": "Husband of missing American woman in the Bahamas leaves country, lawyer says - NBC News",
-    "fullText": "The husband of an American woman who was reportedly swept out to sea in the Bahamas has left the country, his lawyer told NBC News.",
-    "link": "https://www.nbcnews.com/news/us-news/husband-missing-american-woman-bahamas-leaves-country-rcna332023"
-  },
-  {
-    "text": "Mike Band 2026 NFL mock draft 2.0: Cowboys take Rueben Bain Jr.; Steelers and Eagles select receivers - NFL.com",
-    "fullText": "In his second mock of the 2026 NFL Draft, Mike Band projects the Steelers and Eagles will both add receivers to the roster. Meanwhile, the Cowboys upgrade multiple levels of the defense. Check out the full first-round forecast, 1-32.",
-    "link": "https://www.nfl.com/news/mike-band-2026-nfl-mock-draft-2-0-cowboys-take-rueben-bain-jr-steelers-and-eagles-select-receivers"
-  },
-  {
-    "text": "Google launches a Gemini AI app on Mac - The Verge",
-    "fullText": "Google is launching a new Gemini app for Mac, allowing you to pull up the AI assistant from anywhere on your desktop.",
-    "link": "https://www.theverge.com/tech/912638/google-gemini-mac-app"
-  },
-  {
-    "text": "Pope at orphanage in Cameroon: No one is ever forgotten - Vatican News",
-    "fullText": "Pope Leo XIV visits the Ngul Zamba Orphanage in Yaoundé, and encourages children who have faced hardship to see themselves as part of a loving family, thanking caregivers for their dedicated service.",
-    "link": "https://www.vaticannews.va/en/pope/news/2026-04/pope-at-orphanage-in-cameroon-no-one-is-ever-forgotten.html"
-  },
-  {
-    "text": "Nine killed in second Turkish school shooting in two days - BBC",
-    "fullText": "Eight students and one teacher died in the attack, according to Interior Minister Mustafa Cifci.",
-    "link": "https://www.bbc.com/news/articles/cn088n9e6e9o"
+    "text": "MLB The Show 26 Celebrates Jackie Robinson Day with the most JRD content ever! - MLB® The Show",
+    "fullText": "Jackie Robinson Day arrives in MLB The Show 26 bringing a full slate of all-new content that honors one of the game’s most important figures.",
+    "link": "https://theshow.com/news/mlb-the-show-26-jackie-robinson-day/"
   }
 ]
