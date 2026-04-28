@@ -1,23 +1,78 @@
 [
   {
-    "text": "Column | I’m a gastroenterologist. Here are the IBS treatments that actually work. - The Washington Post",
-    "fullText": "Too often, people promote remedies for irritable bowel syndrome that have little to no scientific backing.",
-    "link": "https://www.washingtonpost.com/wellness/2026/04/27/how-to-treat-ibs/"
+    "text": "China says it will reverse major AI acquisition by Meta - The Washington Post",
+    "fullText": "The move against Manus AI is Beijing’s most aggressive step yet to stanch the loss of AI talent to the U.S., setting up a complicated legal and political fight.",
+    "link": "https://www.washingtonpost.com/world/2026/04/27/china-ai-meta-manus/"
   },
   {
-    "text": "Weijia Jiang: I was on stage last night with the president. This is what I saw. - CBS News",
-    "fullText": "CBS News senior White House correspondent Weijia Jiang was sitting next to President Trump at the White House Correspondents' Dinner when the chaos unfolded.",
-    "link": "https://www.cbsnews.com/news/white-house-correspondents-dinner-shooting-weijia-jiang/"
+    "text": "Dow Set to Open Down Ahead of Busy Week for Markets - Barron's",
+    "fullText": "Dow, S&P 500, Nasdaq futures are little changed as the stock market looks ahead to a busy week of Big Tech earnings.",
+    "link": "https://www.barrons.com/livecoverage/stock-market-news-today-042726"
   },
   {
-    "text": "Elon Musk and Sam Altman are about to face off in court. Is an impartial jury even possible? - CNN",
-    "fullText": "A group of regular people who might not even know much about artificial intelligence could soon determine OpenAI’s future.",
-    "link": "https://www.cnn.com/2026/04/27/tech/elon-musk-sam-altman-openai-lawsuit"
+    "text": "United Airlines CEO confirms he approached American Airlines about merger - CNBC",
+    "fullText": "United CEO Scott Kirby said American rejected the idea, \"and without a willing partner, something this big simply can't get done.\"",
+    "link": "https://www.cnbc.com/2026/04/27/united-airlines-merger-with-american-airlines-ceo-airline-confirms.html"
   },
   {
-    "text": "China Blocks Meta’s $2 Billion Acquisition of AI Firm Manus - Bloomberg",
-    "fullText": "China has decided to block Meta Platforms Inc.’s $2 billion acquisition of agentic AI startup Manus, a surprise move to unwind a controversial deal that’s drawn fire for the leakage of technology to the US.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-27/china-blocks-meta-s-2-billion-acquisition-of-ai-startup-manus"
+    "text": "Albert Breer’s NFL Draft Takeaways: How the Rams Landed on Ty Simpson - Sports Illustrated",
+    "fullText": "Sean McVay and the Rams brass took a long look at the Alabama QB before selecting their Matthew Stafford successor. Plus, a full deep dive on standout picks from the 2026 draft.",
+    "link": "https://www.si.com/nfl/albert-breer-nfl-draft-takeaways-rams-ty-simpson"
+  },
+  {
+    "text": "A record-breaking measles outbreak in the US has ended. It may have helped drive a spike in vaccination rates - CNN",
+    "fullText": "The measles outbreak in South Carolina — the largest the United States has had in decades — has ended, state health officials announced Monday.",
+    "link": "https://www.cnn.com/2026/04/27/health/south-carolina-measles-outbreak-over"
+  },
+  {
+    "text": "Meet the players who lost big money on Peter Molyneux’s failed Legacy - Ars Technica",
+    "fullText": "After millions in NFT sales, the hyped “play to earn” game was effectively dead in weeks.",
+    "link": "https://arstechnica.com/gaming/2026/04/how-legacy-became-a-costly-crypto-bust-for-players-and-a-business-win-for-peter-molyneux/"
+  },
+  {
+    "text": "This touchscreen mouse is my over-engineering nightmare - The Verge",
+    "fullText": "The Turtle Beach Command Series MC7 has a 2.25-inch display that’s begging to be accidentally brushed against.",
+    "link": "https://www.theverge.com/gadgets/918919/turtle-beach-mc7-gaming-mouse-touchscreen-command-series"
+  },
+  {
+    "text": "Photos show British royal visits to the U.S. through history as King Charles III makes a state visit - CBS News",
+    "fullText": "King Charles is making his first state visit to the U.S. as monarch, though he traveled here 19 times before his coronation. Many of his royal relatives have also made memorable trips over the years.",
+    "link": "https://www.cbsnews.com/news/british-royal-visits-us-king-charles-history-photos/"
+  },
+  {
+    "text": "The Michael Jackson Movie Fails at the Basic Duty of a Biopic - Slate",
+    "fullText": "Michael doesn’t even succeed at what it tries to do, let alone at what it ignores.",
+    "link": "https://slate.com/culture/2026/04/michael-jackson-movie-2026-new-biopic-reviews-jaafar.html"
+  },
+  {
+    "text": "North Korea opens museum commemorating troops killed fighting for Russia - Al Jazeera",
+    "fullText": "Russia and North Korea deepen ties with plans for military cooperation and a symbolic memorial museum in Pyongyang.",
+    "link": "https://www.aljazeera.com/gallery/2026/4/27/north-korea-opens-museum-for-troops-killed-fighting-for-russia"
+  },
+  {
+    "text": "Inflation is sucking the life out of teacher pay raises, report says - NPR",
+    "fullText": "A new review of state education data shows teacher pay increases can't keep up with inflation and fewer students are enrolled in public schools.",
+    "link": "https://www.npr.org/2026/04/27/nx-s1-5791733/teacher-pay-rising-inflation"
+  },
+  {
+    "text": "Musk vs. Altman: Tech CEOs head to court over the fate of OpenAI - NPR",
+    "fullText": "The former OpenAI business partners are embroiled in a high-stakes dispute over the future of one of the world's top AI companies.",
+    "link": "https://www.npr.org/2026/04/27/nx-s1-5795661/trial-openai-elon-musk-sam-altman"
+  },
+  {
+    "text": "Scientists search the microbiome for clues to the rise in colorectal cancers - NPR",
+    "fullText": "Unlike many cancers, colorectal cancer has become more lethal for people at younger ages. Doctors are sleuthing out why.",
+    "link": "https://www.npr.org/2026/04/27/nx-s1-5766512/colorectal-cancer-rise-young-gut-microbes"
+  },
+  {
+    "text": "Intel’s Budget Wildcat Lake Chip Beats Apple’s MacBook Neo by 27% in Multi-Core, Matches A18 Pro Single-Thread Performance - Wccftech",
+    "fullText": "Intel Core 5 320, a Wildcat Lake CPU for budget laptops, has been tested, showcasing good numbers vs competition such as MacBook Neo.",
+    "link": "https://wccftech.com/intel-budget-wildcat-lake-chip-beats-apples-macbook-neo-a18-pro/"
+  },
+  {
+    "text": "Iran reportedly proposes Hormuz Strait deal to U.S. Here’s where things stand — and what’s next for markets - CNBC",
+    "fullText": "U.S.-Iran peace talks stall. Here's where things stand — and what's next for markets",
+    "link": "https://www.cnbc.com/2026/04/27/us-iran-peace-talks-stall-global-markets-stocks-oil-treasurys.html"
   },
   {
     "text": "Horoscope for Monday, April 27, 2026 - Chicago Sun-Times",
@@ -25,73 +80,13 @@
     "link": "https://chicago.suntimes.com/horoscopes/2026/04/27/horoscopes-today-monday-april-27-2026"
   },
   {
+    "text": "Human remains found in search for missing University of South Florida doctoral student - CBS News",
+    "fullText": "Hisham Abugharbieh, 26, has been charged with the murders of Nahida Bristy and Zamil Limon, whose body was found Friday.",
+    "link": "https://www.cbsnews.com/news/human-remains-found-search-nahida-bristy-university-south-florida/"
+  },
+  {
     "text": "Virginia Supreme Court considers whether to block voter-approved US House map favoring Democrats - AP News",
     "fullText": "The Virginia Supreme Court is considering whether to block new U.S. House districts narrowly approved by voters. The court is to hear arguments Monday in a case contending that the Democratic-led General Assembly violated procedural rules when it placed a con…",
     "link": "https://apnews.com/article/redistricting-congress-virginia-court-trump-8b6faf14a1786a3f90cb2d3941e41103"
-  },
-  {
-    "text": "OpenAI Building A Custom Smartphone Processor With Qualcomm and MediaTek, Targeting 300-400 Million Annual Smartphone Shipments to Dethrone Apple’s iPhone - Wccftech",
-    "fullText": "OpenAI's strategy upends Apple's business model, which is all about milking revenue from its ecosystem of services built on smartphone apps.",
-    "link": "https://wccftech.com/openai-building-a-custom-smartphone-processor-with-qualcomm-and-mediatek-targeting-300-400-million-annual-smartphone-shipments-to-dethrone-apples-iphone/"
-  },
-  {
-    "text": "'The Lost Boys' Broadway Review: Vampire Musical Scores - Variety",
-    "fullText": "'The Lost Boys,' a musical adaptation of the ‘80s teen vampire flick, features stunning special effects and great music by The Rescues.",
-    "link": "https://variety.com/2026/legit/reviews/lost-boys-broadway-review-musical-teen-vampire-movie-spectacular-effects-1236730779/"
-  },
-  {
-    "text": "Alleged Colorado attacker’s family released after nearly a year in detention - NPR",
-    "fullText": "A Texas judge ordered Hayam El Gamal and her five children released Thursday. Two days later, their lawyers say, ICE re-arrested and tried to deport them.",
-    "link": "https://www.npr.org/2026/04/26/nx-s1-5800196/alleged-colorado-attacker-family-released-detention"
-  },
-  {
-    "text": "Russia, North Korea agree 'long-term' military cooperation - DW.com",
-    "fullText": "Russia's defense minister and the chairman of the State Duma are both visiting North Korea. One helped inaugurate a memorial to North Korean soldiers killed fighting Ukraine, the other hashed out a new defense deal.",
-    "link": "https://www.dw.com/en/russia-north-korea-agree-long-term-military-cooperation/a-76945404"
-  },
-  {
-    "text": "Human Remains Recovered In Pinellas County - Hillsborough County Sheriff's Office",
-    "fullText": "HCSO Hillsborough County Sheriff's Office, Sheriff Chad Chronister, Tampa, FL",
-    "link": "https://teamhcso.com/News/PressRelease/f3186610-a60f-44af-b940-db5088f2671d/26-78"
-  },
-  {
-    "text": "Connelly Early solid as Red Sox win first game under interim manager Chad Tracy - The Boston Globe",
-    "fullText": "The Red Sox stole four bases in five tries, both highs on the season after they swiped 16 bags in their first 27 games.",
-    "link": "https://www.bostonglobe.com/2026/04/26/sports/red-sox-win-chad-tracy-debut/"
-  },
-  {
-    "text": "Trail Blazers Setting Wrong Records Against Spurs in NBA Playoffs - Blazer's Edge",
-    "fullText": "The Blazers should get an NBA Cup for being first-half champions.",
-    "link": "https://www.blazersedge.com/trail-blazers-analysis/111937/portland-trail-blazers-san-antonio-spurs-final-score-game-4-stats-wembanyama-avdija-scoot-nba-record-playoffs-2026"
-  },
-  {
-    "text": "At least 2 dead after tornadoes destroy homes in northern Texas - PBS",
-    "fullText": "A tornado-producing thunderstorm left at least two people dead in northern Texas and displaced at least 20 families, with many homes sustaining major damage, authorities said Sunday.",
-    "link": "https://www.pbs.org/newshour/nation/at-least-2-dead-after-tornadoes-destroy-homes-in-northern-texas"
-  },
-  {
-    "text": "2026 Chevron Championship ends with a Nelly Korda coronation — and a cannonball - NBC Sports",
-    "fullText": "Nelly Korda won the 2026 Chevron Championship after a dominating wire-to-wire performance, celebrating her latest major title with a cannonball into the pool near Memorial Park's 18th green.",
-    "link": "https://www.nbcsports.com/golf/news/nelly-korda-wins-2026-chevron-championship-victory-jump"
-  },
-  {
-    "text": "Israeli strikes kill 14 in Lebanon amid ongoing ceasefire - BBC",
-    "fullText": "The US announced three days ago that the ceasefire was extended by three weeks after talks.",
-    "link": "https://www.bbc.com/news/articles/c4gxgv8j7zlo"
-  },
-  {
-    "text": "Wall Street’s Super Bowl Wednesday: Alphabet, Amazon, Microsoft and Meta report along with Powell’s last Fed meeting - MarketWatch",
-    "fullText": "Wednesday will be ‘one of the most significant earnings days in recent memory’",
-    "link": "https://www.marketwatch.com/story/wall-streets-super-bowl-wednesday-alphabet-amazon-microsoft-and-meta-report-along-with-powells-last-fed-meeting-88eb1710"
-  },
-  {
-    "text": "A fast-growing Georgia wildfire tops 31 square miles, with evacuations possible - NPR",
-    "fullText": "One of two large wildfires in southeastern Georgia continues to grow and now exceeds 31 square miles.",
-    "link": "https://www.npr.org/2026/04/26/nx-s1-5800174/georgia-wildfire-evacuations"
-  },
-  {
-    "text": "Michael Jackson biopic is hit with audiences despite critical backlash - Financial Times",
-    "fullText": "‘Michael’ earns $217mn on opening weekend in boon for Lionsgate, Universal and the late singer’s estate",
-    "link": "https://www.ft.com/content/4407fd76-75a4-4ac4-87ea-aa0ce51fc0bc?syn-25a6b1a6\\\\u003d1"
   }
 ]
