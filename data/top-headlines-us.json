@@ -1,13 +1,73 @@
 [
   {
-    "text": "'General Hospital' Star Kirsten Storms' Ex Granted Restraining Order Due to 'Mental Health Crisis' - TMZ",
-    "fullText": "Kirsten Storms' ex-husband Brandon Barash claims the soap star is exhibiting concerning behavior and he fears for their son's well-being, and now a judge agrees she is suffering from a mental health crisis ... TMZ has learned.",
-    "link": "https://www.tmz.com/2026/04/27/kirsten-storms-ex-granted-restraining-order/"
+    "text": "Red Sox Add Interim Coaches To Staff - MLB Trade Rumors",
+    "fullText": "The Red Sox are still patching together a coaching staff after this week's red wedding.",
+    "link": "https://www.mlbtraderumors.com/2026/04/red-sox-add-three-interim-coaches-to-staff.html"
   },
   {
-    "text": "China says it will reverse major AI acquisition by Meta - The Washington Post",
-    "fullText": "The move against Manus AI is Beijing’s most aggressive step yet to stanch the loss of AI talent to the United States, setting up a complicated legal and political fight.",
-    "link": "https://www.washingtonpost.com/world/2026/04/27/china-ai-meta-manus/"
+    "text": "Meta Is Preparing to Have to Undo Its Manus Acquisition After China Ban - WSJ",
+    "fullText": null,
+    "link": "https://www.wsj.com/tech/ai/meta-is-preparing-to-have-to-undo-its-manus-acquisition-after-china-ban-a4ffbefb"
+  },
+  {
+    "text": "Ty Simpson says he had \"secret meeting\" with Sean McVay before draft - NBC Sports",
+    "fullText": "Simpson previously had said he had only a \"brief\" meeting with Rams scouts at the Alabama Pro Day.",
+    "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ty-simpson-says-he-had-secret-meeting-with-sean-mcvay-before-draft"
+  },
+  {
+    "text": "ULA launches 29 Amazon Leo satellites on Atlas 5 rocket from Cape Canaveral - Spaceflight Now",
+    "fullText": null,
+    "link": "https://spaceflightnow.com/2026/04/27/live-coverage-ula-to-launch-29-amazon-leo-satellites-on-atlas-5-rocket-from-cape-canaveral/"
+  },
+  {
+    "text": "In pictures: King Charles and Queen Camilla begin US state visit - BBC",
+    "fullText": "King Charles III and Queen Camilla were greeted by a military band and honour guard as they arrived for their four-day state visit.",
+    "link": "https://www.bbc.com/news/articles/c86e6z26xdpo"
+  },
+  {
+    "text": "Some Musk v. Altman Jurors Don't Like Elon Musk - WIRED",
+    "fullText": "Musk’s lawsuit challenges OpenAI’s evolution under Sam Altman. But during jury selection, several potential jurors voiced negative views of Musk himself.",
+    "link": "https://www.wired.com/story/some-musk-v-altman-jurors-dont-like-elon-musk/"
+  },
+  {
+    "text": "Brother of suspect in deaths of 2 Tampa doctoral students: \"We tried to warn police in the past\" - CBS News",
+    "fullText": "Ahmad Abugharbieh, the younger brother of the man suspected of killing two University of South Florida doctoral students, told CBS News, \"My entire family feels so much shame and guilt.\"",
+    "link": "https://www.cbsnews.com/news/university-of-south-florida-doctoral-students-deaths-hisham-abugharbieh-brother-police/"
+  },
+  {
+    "text": "Megan Thee Stallion Exits ‘Moulin Rouge’ Early on Heels of Breakup With NBA Star Klay Thompson - The Hollywood Reporter",
+    "fullText": "“Unfortunately, my last performance on ‘Moulin Rouge! The Musical' will be May 1,” Megan said of her exit, which was originally scheduled for May 17. “I’ve met so many amazing people in this theater.”",
+    "link": "http://www.hollywoodreporter.com/lifestyle/arts/megan-thee-stallion-moulin-rouge-exit-breakup-klay-thompson-1236578656/"
+  },
+  {
+    "text": "‘Jeopardy!’: Jamie Ding Reacts After Shocking Result Leaves Fans ‘Gasping’ - TV Insider",
+    "fullText": "'Wow! What a game!'",
+    "link": "https://www.tvinsider.com/1260755/jeopardy-jamie-ding-game-32-loss-greg-shahade-win/"
+  },
+  {
+    "text": "South Carolina's measles outbreak is over. But more are brewing around the country - NPR",
+    "fullText": "The virus infected nearly 1,000 people in the state before the state declared it over. Meanwhile, cases are spreading across many parts of the U.S., with more than 20 outbreaks currently active.",
+    "link": "https://www.npr.org/2026/04/27/nx-s1-5801665/south-carolina-measles-outbreak-vaccination"
+  },
+  {
+    "text": "Qualcomm stock draws attention after major OpenAI news - thestreet.com",
+    "fullText": "QCOM shares reacted to a major development with the AI giant ahead of earnings this week.",
+    "link": "https://www.thestreet.com/investing/stocks/qualcomm-stock-draws-attention-after-major-openai-news"
+  },
+  {
+    "text": "Trump administration to pay 2 more companies to walk away from US offshore wind leases - AP News",
+    "fullText": "The Trump administration has announced two more payouts for energy companies to walk away from U.S. offshore wind projects under development. Bluepoint Wind and Golden State Wind have agreed to end their offshore wind leases in exchange for reimbursements tot…",
+    "link": "https://apnews.com/article/trump-offshore-wind-energy-climate-interior-02a1fa04b750809bbe035a70256c734d"
+  },
+  {
+    "text": "DeSantis unveils gerrymandered Florida map as redistricting war rages - Axios",
+    "fullText": "The state constitution bans intentionally drawing maps to benefit either party.",
+    "link": "https://www.axios.com/2026/04/27/desantis-florida-map-gerrymandering-redistricting-war"
+  },
+  {
+    "text": "Undrafted Vanderbilt QB Diego Pavia could become a Baltimore Raven ... or Winnipeg Blue Bomber - NFL.com",
+    "fullText": "Just more than four months ago, Vanderbilt’s Diego Pavia was a Heisman Trophy finalist. Now, he’s an invitee to Baltimore Ravens rookie camp and drawing interest from the Canadian Football League.",
+    "link": "https://www.nfl.com/news/undrafted-vanderbilt-qb-diego-pavia-could-become-a-baltimore-raven-or-winnipeg-blue-bomber"
   },
   {
     "text": "Mexico’s Sheinbaum rules out a conflict with US over 2 CIA agents killed in Chihuahua accident - Politico",
@@ -15,68 +75,18 @@
     "link": "https://www.politico.com/news/2026/04/27/mexicos-sheinbaum-rules-out-a-conflict-with-us-over-2-cia-agents-killed-in-chihuahua-accident-00894034"
   },
   {
-    "text": "Iran offers to reopen Strait of Hormuz if US lifts its blockade and the war ends, officials say - AP News",
-    "fullText": "Iran has offered to end its control over the Strait of Hormuz if the U.S. lifts its blockade and ends the war. That's according to regional officials. The proposal that emerged Monday would delay discussions on Iran’s nuclear program. U.S. President Donald Tr…",
-    "link": "https://apnews.com/article/us-iran-war-hormuz-april-27-2026-374d81d1aac6d8f19c21e1d1e10ab103"
-  },
-  {
-    "text": "Prosecutors say suspect in missing students' killings asked ChatGPT about disposing of a body - AP News",
-    "fullText": "Prosecutors say the suspect in the killings of two University of South Florida doctoral students from Bangladesh had asked ChatGPT days before the pair went missing what would happen if a human body was put in a garbage bag and thrown in a dumpster. According…",
-    "link": "https://apnews.com/article/missing-graduate-students-florida-bangladesh-8c51e7fabbf62c2c7ca91b7f04883ba6"
-  },
-  {
     "text": "Apple introduces monthly subscriptions with a 12-month commitment on the App Store - 9to5Mac",
     "fullText": "Developers can now set up and test monthly subscriptions with a 12-month commitment on the App Store, ahead of the public rollout nex month.",
     "link": "https://9to5mac.com/2026/04/27/apple-introduces-monthly-subscriptions-with-a-12-month-commitment-on-the-app-store/"
   },
   {
-    "text": "Supreme Court heard case on how to label risks of popular weed killer - NPR",
-    "fullText": "How the Supreme Court rules could have implications for tens of thousands of lawsuits against Roundup maker Monsanto, which is now owned by Bayer.",
-    "link": "https://www.npr.org/2026/04/27/nx-s1-5793804/supreme-court-monsanto-roundup-arguments"
+    "text": "Trumps call for ABC to fire Jimmy Kimmel — again — after morbid joke about first lady - PBS",
+    "fullText": "The remark about the president's wife was part of a routine on Thursday's “Jimmy Kimmel Live” where the host pretended to deliver a comedy routine at the White House Correspondents' Association dinner. That event two nights later was cut short when a man arme…",
+    "link": "https://www.pbs.org/newshour/politics/trumps-call-for-abc-to-fire-jimmy-kimmel-again-after-morbid-joke-about-first-lady"
   },
   {
-    "text": "White House Correspondents' Association Dinner shooting suspect makes first court appearance - Fox News",
-    "fullText": "Authorities said Cole Allen prepared a manifesto and shared posts to social media outlining his intent to target Trump administration officials ahead of the White House Correspondents' Association Dinner shooting. Allen is expected to make his first court app…",
-    "link": "https://www.foxnews.com/live-news/white-house-correspondents-dinner-shooting-04-27-26"
-  },
-  {
-    "text": "CDC warns of drug-resistant salmonella infections linked to backyard poultry - ABC News - Breaking News, Latest News and Videos",
-    "fullText": "Federal health officials are investigating an outbreak of salmonella poisoning linked to backyard poultry that has sickened at least 34 people since February",
-    "link": "https://abcnews.com/Health/wireStory/cdc-warns-drug-resistant-salmonella-infections-linked-backyard-132427798"
-  },
-  {
-    "text": "Diego Pavia has ‘other teams’ interested with Ravens getting first crack at undrafted QB - New York Post",
-    "fullText": "Diego Pavia may not have been drafted over the weekend, but there’s still some potential demand for his services.",
-    "link": "https://nypost.com/2026/04/27/sports/diego-pavia-has-other-teams-interested-with-ravens-getting-first-crack/"
-  },
-  {
-    "text": "South Carolina’s measles outbreak is over after sickening nearly 1,000 people - NBC News",
-    "fullText": "South Carolina’s measles outbreak — the worst in the U.S. in more than 35 years — is over, state health officials declared Monday",
-    "link": "https://www.nbcnews.com/health/health-news/south-carolina-measles-outbreak-over-nearly-1000-cases-rcna342358"
-  },
-  {
-    "text": "Study: Infrasound likely a key factor in alleged hauntings - Ars Technica",
-    "fullText": "Low-frequency infrasound (below 20 Hz) can raise cortisol levels in saliva and increase irritability.",
-    "link": "https://arstechnica.com/science/2026/04/that-spooky-sensation-likely-due-to-rumbling-pipes-not-spirits/"
-  },
-  {
-    "text": "Olivia Rodrigo’s ‘Drop Dead’ Debuts at No. 1 on Hot 100 - Billboard",
-    "fullText": "Olivia Rodrigo’s “Drop Dead” blasts in at No. 1 on the Billboard Hot 100, arriving as her fourth career leader.",
-    "link": "http://www.billboard.com/lists/olivia-rodrigo-drop-dead-hot-100-number-one-debut/"
-  },
-  {
-    "text": "'A perfect storm': What BYU coach Ed Eyestone said about historic 2-hour barrier falling at the London Marathon - Deseret News",
-    "fullText": "BYU coach Ed Eyestone applauds barrier breakers. Who is Sebastian Sawe? What shoe was Sebastian Sawe wearing when during barrier-breaking run?",
-    "link": "https://www.deseret.com/sports/2026/04/27/byu-coach-ed-eyestone-talks-about-historic-feats-at-london-marathon/"
-  },
-  {
-    "text": "Valve launches the Steam Controller without the Steam Machine - The Verge",
-    "fullText": "Valve is releasing the Steam Controller on May 4th for $99. It was originally designed alongside the Steam Machine, but will now launch separately.",
-    "link": "https://www.theverge.com/games/918622/valve-steam-controller-price-release-date-steam-machine-delay"
-  },
-  {
-    "text": "In Honor of Nelly Korda’s 2026 Chevron Championship Victory, Here’s a Look Back at Her SI Swimsuit Debut - swimsuit.si.com",
-    "fullText": "The professional golfer was photographed for last year’s magazine at The Boca Raton in Boca Raton, Fla.",
-    "link": "https://swimsuit.si.com/swimnews/nelly-korda-chevron-championship-si-swimsuit-throwback"
+    "text": "‘Michael’ Hits A Higher Note In Global Opening With $218.8M – Box Office Update - Deadline",
+    "fullText": "Michael came in higher in both its domestic and global take respectively with $97.2M and $218.8M worldwide.",
+    "link": "http://deadline.com/2026/04/box-office-michael-global-opening-1236873806/"
   }
 ]
