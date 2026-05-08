@@ -1,8 +1,53 @@
 [
   {
+    "text": "U.S. and Iran trade fire in Strait of Hormuz; each claims other shot first - CNBC",
+    "fullText": "CENTCOM's statement does not mention the status of the U.S.-Iran ceasefire, which has already been frayed by repeated claims that its terms are being breached.",
+    "link": "https://www.cnbc.com/2026/05/07/iran-war-hormuz-strait-ceasefire-trump.html"
+  },
+  {
+    "text": "Stock market today: Dow, S&P 500, Nasdaq slip as oil rises, AI trade takes a breather - Yahoo Finance",
+    "fullText": "More records are in play amid optimism for a US-Iran peace deal and for AI-fueled earnings growth.",
+    "link": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-dow-sp-500-nasdaq-slip-as-oil-rises-ai-trade-takes-a-breather-231446670.html"
+  },
+  {
+    "text": "Yankees reportedly calling up top prospect Spencer Jones with Jasson Domínguez out 'a few weeks' - CBS Sports",
+    "fullText": "Domínguez, the 23-year-old Yankees outfielder, had to be carted off in the first inning of Thursday's game vs. Texas",
+    "link": "https://www.cbssports.com/mlb/news/yankees-jasson-dominguez-injury-spencer-jones-prospect/"
+  },
+  {
+    "text": "Tennessee lawmakers approve new House map to eliminate Democratic-held seat - The Washington Post",
+    "fullText": "Republicans in the state could hold a 9-0 advantage in the U.S. House with their new map, after the Supreme Court weakened the Voting Rights Act last week.",
+    "link": "https://www.washingtonpost.com/politics/2026/05/07/tennessee-redistricting-voting-rights-black/"
+  },
+  {
+    "text": "Blake Lively Sees Attorney Fee Motion as Act of Advocacy: ‘This Is About So Much More to Her’ - Variety",
+    "fullText": "Blake Lively is still pursuing attorney fees for having to defend against Justin Baldoni's defamation lawsuit.",
+    "link": "https://variety.com/2026/film/news/blake-lively-attorney-fee-advocacy-justin-baldoni-1236740807/"
+  },
+  {
+    "text": "Christian missionary hailed as ‘holiest man alive’ pleads guilty to abusing boys in Texas - NBC News",
+    "fullText": "Daniel Savala, who preached for decades in an Assemblies of God-run college ministry, was sentenced to 30 years in prison without the possibility of parole.",
+    "link": "https://www.nbcnews.com/news/us-news/daniel-savala-christian-missionary-pleads-guilty-abusing-boys-rcna343859"
+  },
+  {
     "text": "Mira Murati’s deposition pulled back the curtain on Sam Altman’s ouster - The Verge",
     "fullText": "Thanks to Musk v. Altman, the public is getting a concrete look at details of Sam Altman’s ouster from OpenAI, much of it centered on former CTO Mira Murati.",
     "link": "https://www.theverge.com/ai-artificial-intelligence/926383/mira-murati-sam-altman-musk-trial-ouster"
+  },
+  {
+    "text": "Live updates: US awaits Iran’s response to latest proposal to end war - CNN",
+    "fullText": "US forces targeted Iranian military facilities responsible for launching a series of “unprovoked” missile, drone and small boat attacks against warships transiting the Strait of Hormuz, Central Command said. Follow for live news updates.",
+    "link": "https://www.cnn.com/2026/05/07/world/live-news/trump-iran-war-news"
+  },
+  {
+    "text": "Corporate Card Startup Ramp Raising Funds at $40 Billion Valuation - WSJ",
+    "fullText": "The financing target represents a more than 30% increase from six months ago",
+    "link": "https://www.wsj.com/business/entrepreneurship/corporate-card-startup-ramp-raising-funds-at-40-billion-valuation-0e2e8333"
+  },
+  {
+    "text": "ICE Barbie’s Final Humiliation Revealed - The Daily Beast",
+    "fullText": "The cause of death for “Alligator Alcatraz” has been determined.",
+    "link": "https://www.thedailybeast.com/ice-barbie-kristi-noems-final-humiliation-revealed-as-alligator-alcatraz-to-close/"
   },
   {
     "text": "A judge unsealed Epstein's purported 2019 suicide note. More documents could follow - NPR",
@@ -10,49 +55,24 @@
     "link": "https://www.npr.org/2026/05/07/nx-s1-5814808/jeffrey-epstein-suicide-note"
   },
   {
-    "text": "Tennessee Republicans pass a map to break up the state's lone Democratic House seat - NPR",
-    "fullText": "Tennessee Republicans' map would crack Shelby County — home to majority-Black Memphis — into three different districts, in an effort to eliminate the state's lone remaining Democratic-held seat.",
-    "link": "https://www.npr.org/2026/05/07/nx-s1-5815023/tennessee-redistricting-map-passage"
+    "text": "Sources: Aaron Rodgers and the Steelers will meet soon to discuss his potential return - Pittsburgh Post-Gazette",
+    "fullText": "False",
+    "link": "https://www.post-gazette.com/sports/steelers/2026/05/07/rodgers-return-mccarthy-rooney-khan-qb-offseason-nfl/stories/202605070052"
   },
   {
-    "text": "Kelly’s profile rises as he heads toward another likely victory over Hegseth - Politico",
-    "fullText": "The saga has turned the Democratic senator into a high-profile opponent of the administration and elevated his national standing ahead of a possible presidential run.",
-    "link": "https://www.politico.com/news/2026/05/07/kelly-trump-hegseth-seditious-court-00910006"
+    "text": "Perplexity AI app introduces ‘all-new native Mac experience’ for Personal Computer - 9to5Mac",
+    "fullText": "Perplexity has released a brand new version of its macOS app that is replacing the company’s previous Mac software. Perplexity...",
+    "link": "https://9to5mac.com/2026/05/07/perplexity-ai-app-introduces-all-new-native-mac-experience-for-personal-computer/"
   },
   {
-    "text": "Stock Market Today: Dow falls back below 50,000, S&P 500 and Nasdaq slip after hitting record highs; investors watch oil prices in hopes of end to Iran war - MarketWatch",
-    "fullText": "The U.S. stock-market indexes were lower on Thursday, as investors watched for Iran's response to the U.S. proposal for peace and shares of Big Tech companies attempted to hold onto their gains",
-    "link": "https://www.marketwatch.com/livecoverage/stock-market-today-sp500-nasdaq-consolidate-at-record-dow-shy-of-peak-oil-dips-earnings"
+    "text": "Google's New 24/7 AI Agent Can Make Purchases on Your Behalf - Droid Life",
+    "fullText": "Google is internally working on Remy, a Gemini-powered AI Agent that will have the ability to learn your preferences and take action your behalf. Currently being used and tested by Google employees, Business Insider reports that Remy will have power to do muc…",
+    "link": "https://www.droid-life.com/2026/05/07/google-ai-agent-remy/"
   },
   {
-    "text": "Verdict reached in lawsuit over deadly LAPD shooting of 14-year-old girl at Burlington store - ABC7 Los Angeles",
-    "fullText": "A jury found that the Los Angeles Police Department was not liable for an officer's fatal shooting of a 14-year-old girl in North Hollywood.",
-    "link": "https://abc7.com/post/verdict-reached-lawsuit-deadly-lapd-shooting-teen-valentina-orellana-peralta-burlington-store-north-hollywood/19058419/"
-  },
-  {
-    "text": "Valve is fighting Steam Controller scalpers with a new reservations system - The Verge",
-    "fullText": "Valve’s Steam Controller sold out quickly when it went on sale on Monday, and the company is going to open a “reservations queue” on Friday at 1PM ET for anyone who missed that initial run.",
-    "link": "https://www.theverge.com/games/926286/valve-steam-controller-reservations-queue-scalpers"
-  },
-  {
-    "text": "Iran creates new agency to control shipping in Strait of Hormuz while reviewing peace deal with US - AP News",
-    "fullText": "Iran has created a government agency to control and tax vessels passing through the Strait of Hormuz. That’s according to the shipping data company Lloyd’s List Intelligence, which reported the move Thursday. The Iranian effort to formalize control over the c…",
-    "link": "https://apnews.com/article/iran-us-israel-war-may-7-2026-fdc6d2ae9396377919c967746fa9996b"
-  },
-  {
-    "text": "Did Microsoft just tease a new Xbox UI? - The Verge",
-    "fullText": "Microsoft is working on a more consistent Xbox UI across consoles, PC, and cloud gaming.",
-    "link": "https://www.theverge.com/news/926170/new-xbox-ui-dashboard-console-handheld-cloud"
-  },
-  {
-    "text": "Top Storylines, Expert Predictions and Champion Picks for the 2026 WNBA Season - Sports Illustrated",
-    "fullText": "Who will win MVP? What about ROY? Our writers and editors make their predictions for the upcoming season.",
-    "link": "https://www.si.com/wnba/top-storylines-expert-predictions-champion-picks-for-2026-season"
-  },
-  {
-    "text": "US Official: Reports On Preparations To Resume Operation Freedom To Reopen The Strait Of Hormuz Are Inaccurate - Al Jazeera - Forex Factory",
-    "fullText": "US Official: Reports On Preparations To Resume Operation Freedom To Reopen The Strait Of Hormuz Are Inaccurate - Al Jazeera",
-    "link": "https://www.forexfactory.com/news/1397358-us-official-reports-on-preparations-to-resume-operation"
+    "text": "Cybersecurity breach hits Canvas learning platform used by CMS, other Charlotte-area school districts - WCNC",
+    "fullText": "Multiple NC school districts are investigating a nationwide Canvas breach that exposed basic student info.",
+    "link": "https://www.wcnc.com/article/news/education/nc-sc-schools-impacted-by-data-breach-cavas-instructure/275-38f70c77-bb72-4eb4-94fe-b9e3a00ec736"
   },
   {
     "text": "Health officials track dozens who left hantavirus-stricken ship after 1st fatality - AP News",
@@ -60,38 +80,13 @@
     "link": "https://apnews.com/article/hantavirus-cruise-ship-st-helena-9c70878b2ff59d187f1e34c12627cea7"
   },
   {
-    "text": "The future of Disney Plus is a confused mess - The Verge",
-    "fullText": "Disney Plus might start to feel like like a streaming platform and more like a maze-like mall.",
-    "link": "https://www.theverge.com/streaming/925973/josh-damaro-disney-plus-disney-parks"
+    "text": "Stephen Colbert Gets Grilled by His Fellow Late Night Hosts - The Hollywood Reporter",
+    "fullText": "As he prepares to leave 'The Late Show,' THR’s cover star fields questions from the only people who really know the job — fellow kings of the after-hours realm.",
+    "link": "http://www.hollywoodreporter.com/lists/colbert-questioned-late-night-hosts/"
   },
   {
-    "text": "McDonald’s Presses Ahead in Fast Food’s Value-Menu Wars - WSJ",
-    "fullText": "Burger giant’s profit increases despite tough economic conditions, outpacing expectations; pressures dent Shake Shack",
-    "link": "https://www.wsj.com/business/earnings/mcdonalds-mcd-earnings-q1-2026-stock-a2b67d93"
-  },
-  {
-    "text": "Google unveils Whoop-like screenless Fitbit Air - TechCrunch",
-    "fullText": "The device comes with health and fitness tracking like 24/7 heart rate, heart rhythm monitoring with A-fib alerts, SpO2, resting heart rate, heart rate variability, sleep stages and duration, and more.",
-    "link": "https://techcrunch.com/2026/05/07/google-unveils-whoop-like-screenless-fitbit-air/"
-  },
-  {
-    "text": "China hands two former defence ministers suspended death sentences - Financial Times",
-    "fullText": "Punishment underlines severity of Xi Jinping’s sweeping purge of powerful military",
-    "link": "https://www.ft.com/content/570ffd58-14cd-4ad3-880d-e234a7c8749a?syn-25a6b1a6\\\\u003d1"
-  },
-  {
-    "text": "‘Today’: Savannah Guthrie Gets Emotional Over Childhood Photo as Nancy Guthrie Search Continues - TV Insider",
-    "fullText": "Star looked teary-eyed as search for her missing mom continues.",
-    "link": "https://www.tvinsider.com/1262796/savannah-guthrie-gets-emotional-over-childhood-photo-today-nbc/"
-  },
-  {
-    "text": "Billie Eilish and Nat Wolff Made Their Red-carpet Debut - The Cut",
-    "fullText": "The couple stepped out for the premiere of Eilish’s new concert film, ‘Billie Eilish – Hit Me Hard and Soft: The Tour (Live in 3D).’",
-    "link": "http://www.thecut.com/article/billie-eilish-nat-wolff-made-red-carpet-debut.html"
-  },
-  {
-    "text": "Mayor Brandon Johnson Seeks To Block Bears Stadium Deal In Springfield - Block Club Chicago",
-    "fullText": "Mayor Brandon Johnson and other mayors are also asking Illinois lawmakers to increase the share of income tax revenue that goes to local governments.",
-    "link": "https://blockclubchicago.org/2026/05/07/mayor-brandon-johnson-seeks-to-block-bears-stadium-deal-in-springfield/"
+    "text": "Former ‘bad for you’ food can actually lower your Alzheimer’s risk by up to 27% - New York Post",
+    "fullText": "Incredible, edible, scientifically credible?",
+    "link": "https://nypost.com/2026/05/07/health/former-bad-for-you-food-can-lower-alzheimers-risk-by-up-to-27/"
   }
 ]
