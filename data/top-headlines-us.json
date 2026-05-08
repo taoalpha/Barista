@@ -1,28 +1,48 @@
 [
   {
-    "text": "Musk’s biggest loyalist became his biggest liability - The Verge",
-    "fullText": "Shivon Zillis is a former OpenAI board member and the mother of several of Musk’s children. Her notes might be the most important evidence we’ve seen so far.",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/925665/musk-altman-trial-shivon-zilis-testimony"
+    "text": "Court releases purported suicide note from Jeffrey Epstein - The Washington Post",
+    "fullText": "The note, which was discovered by Epstein’s former cellmate, had been under seal for years. No court or investigative agency has vouched for its authenticity.",
+    "link": "https://www.washingtonpost.com/national-security/2026/05/06/jeffrey-epstein-suicide-note/"
+  },
+  {
+    "text": "Live updates: Iran reviewing US proposal as source says both sides moving toward memo to end war - CNN",
+    "fullText": "President Donald Trump said the US has had “very good talks” with Iran over the past 24 hours. Follow for live news updates.",
+    "link": "https://www.cnn.com/2026/05/06/world/live-news/iran-war-trump-strait-of-hormuz"
+  },
+  {
+    "text": "3 evacuated from hantavirus cruise ship as Spain says it will dock in Canary Islands despite local opposition - CBS News",
+    "fullText": "Three passengers have been evacuated from a cruise ship hit by a hantavirus outbreak, as related cases are confirmed in Switzerland and South Africa.",
+    "link": "https://www.cbsnews.com/news/hantavirus-canary-islands-cruise-ship-new-case-switzerland/"
+  },
+  {
+    "text": "Justice Department can keep 2020 election ballots seized from Georgia’s Fulton County, judge rules - AP News",
+    "fullText": "The federal government doesn't have to return the 2020 election ballots from Georgia’s Fulton County that were seized by the FBI from a warehouse near Atlanta. U.S. District Judge J.P. Boulee issued the ruling Wednesday. Lawyers for the county had argued that…",
+    "link": "https://apnews.com/article/trump-2020-election-fulton-county-fbi-ballots-1c425a1d1d04bf4ea2178c2a5443f2e9"
+  },
+  {
+    "text": "Blake Shelton Missing Gwen Stefani's No Doubt Sphere Opening Night - TMZ",
+    "fullText": "No Doubt, fronted by Gwen Stefani, is kicking off their Sphere residency in Las Vegas in a big way ... but Blake Shelton won't be there to watch his lady light up the stage ... TMZ has learned.",
+    "link": "https://www.tmz.com/2026/05/06/blake-shelton-missing-gwen-stefani-opening-performance/"
+  },
+  {
+    "text": "'That's not how it works' - the judge crossing swords with Musk in court - BBC",
+    "fullText": "The feud has fuelled a costly showdown between two tech titans.",
+    "link": "https://www.bbc.com/news/articles/cx214rnlpn7o"
+  },
+  {
+    "text": "Justin Baldoni's lawyer addresses reports that no money was exchanged in Blake Lively settlement - Yahoo",
+    "fullText": "In the wake of the Justin Baldoni and Blake Lively settlement, Baldoni's lawyer is addressing whether any money was exchanged in the agreement.",
+    "link": "https://ew.com/justin-baldoni-lawyer-addresses-reports-that-no-money-was-exchanged-in-blake-lively-settlement-11968933"
+  },
+  {
+    "text": "18 arrested, 40 pounds of fentanyl seized in massive drug raid at MacArthur Park, South LA, Calabasas, San Gabriel - ABC7 Los Angeles",
+    "fullText": "Federal and local law enforcement announced a massive drug raid and arrested 18 people on Wednesday in multiple SoCal locations -- mainly MacArthur Park.",
+    "link": "https://abc7.com/post/least-17-arrested-19-kilos-fentanyl-seized-massive-drug-raid-macarthur-park-south-la-calabasas-san-gabriel/19052628/"
   },
   {
     "text": "Specific expansion of motor cortical projections in a singing mouse - Nature",
-    "fullText": null,
+    "fullText": "High-throughput barcoded neuroanatomy&nbsp;of two closely related&nbsp;rodent&nbsp;species with&nbsp;divergent vocalizations reveals differences in long-range projection motifs in the brain that may support these differences in vocal complexity.",
     "link": "https://www.nature.com/articles/s41586-026-10458-y"
-  },
-  {
-    "text": "Judge denies Fulton County's request to return 2020 ballots seized by FBI - CBS News",
-    "fullText": "A federal judge in Georgia denied a motion by officials in Fulton County, Georgia, to return ballots and other materials from the 2020 election that were taken by the FBI earlier this year.",
-    "link": "https://www.cbsnews.com/news/judge-denies-fulton-county-request-to-return-2020-ballots-seized-by-fbi/"
-  },
-  {
-    "text": "Israel strikes Beirut suburbs, threatening already shaky ceasefire - The Washington Post",
-    "fullText": "The airstrike on the Haret Hreik neighborhood targeted the leader of the Radwan forces, Hezbollah’s elite and battle-hardened fighting unit, Israeli authorities said.",
-    "link": "https://www.washingtonpost.com/world/2026/05/06/israel-hezbollah-radwan-beirut-attack-haret-hreik/"
-  },
-  {
-    "text": "How a deadly hantavirus outbreak unfolded on a cruise ship for weeks before it was identified - AP News",
-    "fullText": "A deadly outbreak of the rare hantavirus unfolded over the course of weeks on a cruise ship that sailed from Argentina toward Antarctica and then across the Atlantic Ocean. Information from the cruise operator, health authorities and ship tracking data shows …",
-    "link": "https://apnews.com/article/hantavirus-outbreak-cruise-ship-timeline-a04e0f8097d068a00fe94bf19f840240"
   },
   {
     "text": "Kentucky Derby winner Golden Tempo is not running in the Preakness - ABC News - Breaking News, Latest News and Videos",
@@ -30,63 +50,43 @@
     "link": "https://abcnews.com/Sports/wireStory/kentucky-derby-winner-golden-tempo-running-preakness-132723108"
   },
   {
+    "text": "Nintendo announces a new Star Fox for the Switch 2 - The Verge",
+    "fullText": "Nintendo held a surprise Nintendo Direct presentation, where it announced a new Star Fox game for the Switch 2.",
+    "link": "https://www.theverge.com/entertainment/925601/star-fox-nintendo-switch-2"
+  },
+  {
+    "text": "Expanding the human proteome with microproteins and peptideins - Nature",
+    "fullText": "A large-scale proteomics analysis of the dark proteome by the TransCODE Consortium reveals many translated non-canonical open reading frames to encode microproteins and peptideins.",
+    "link": "https://www.nature.com/articles/s41586-026-10459-x"
+  },
+  {
     "text": "RNA-triggered cell killing with CRISPR–Cas12a2 - Nature",
     "fullText": "Cas12a2 enables RNA-triggered, sequence-specific killing of eukaryotic cells via widespread DNA shredding, allowing selective elimination of cells on the basis of gene expression, including virus-infected or mutation-bearing cells.",
     "link": "https://www.nature.com/articles/s41586-026-10466-y"
   },
   {
-    "text": "Craig Berry: Veteran accused of trying to kill his wife is found dead after dayslong manhunt in Tennessee - CNN",
-    "fullText": "The manhunt for a special forces veteran accused of shooting his wife ended when his body was found Wednesday, the Stewart County Sheriff’s Office said.",
-    "link": "https://www.cnn.com/2026/05/06/us/dover-tn-craig-berry-manhunt-found-dead"
-  },
-  {
-    "text": "Trump’s success at purging Republican dissenters may not help in midterm elections - AP News",
-    "fullText": "The primary election results in Indiana have shown how President Donald Trump can punish Republican lawmakers who defy him. His endorsed challengers have defeated several state lawmakers who had gone against his wishes on redistricting. The success of his fav…",
-    "link": "https://apnews.com/article/trump-redistricting-indiana-primaries-republicans-influence-aab11a571343f430c06b679bb401a32d"
-  },
-  {
-    "text": "Warner Bros. Discovery books $2.9 billion net loss tied to Paramount deal, restructuring costs - CNBC",
-    "fullText": "Paramount agreed to pay a Netflix termination fee, but the cost lives on WBD's books until the close of the deal.",
-    "link": "https://www.cnbc.com/2026/05/06/warner-bros-discovery-net-loss-paramount-deal.html"
-  },
-  {
-    "text": "Champions League semifinal live updates: Bayern Munich host PSG - ESPN",
-    "fullText": "Who will qualify for the Champions League final? Enjoy all the updates from the second leg of the semifinal tie between Bayern Munich and Paris Saint-Germain.",
+    "text": "Champions League semifinal recap: Dembelé KOs Bayern, sends PSG to final - ESPN",
+    "fullText": "Paris Saint-Germain will look to retain their Champions League title in the final against Arsenal after eliminating Bayern Munich, winning 6-5 on aggregate.",
     "link": "https://www.espn.com/soccer/story/_/id/48678489/uefa-champions-league-semifinal-live-updates-bayern-munich-host-paris-saint-germain"
   },
   {
-    "text": "Lutnick admits to having prolonged ties to Epstein in closed-door interview - Politico",
-    "fullText": "The Commerce Secretary sat for a transcribed interview with the House Oversight and Government Reform Committee as part of the panel’s Jeffrey Epstein investigation.",
-    "link": "https://www.politico.com/news/2026/05/06/howard-lutnick-commerce-epstein-00908865"
+    "text": "‘Devil Wears Prada 2’ costume designer ‘disappointed’ in stars who attended Bezos-backed Met Gala 2026 - Page Six",
+    "fullText": "Famed costumer Molly Rogers also skewered Bezos’s bride and her custom red carpet gown, quipping: “How did she make Schiaparelli look so cheap?!”",
+    "link": "https://pagesix.com/2026/05/06/style/devil-wears-prada-2-costume-designer-disappointed-in-stars-who-attended-bezos-backed-met-gala-2026/"
+  },
+  {
+    "text": "WBD Sees $2.9 Billion Q1 Loss On M&A Charges Including Termination Fee Paramount Paid Netflix - Deadline",
+    "fullText": "Warner Bros. Discovery posted a $2.9 billion Q1 loss that will likely be a one-time accounting blip, it hopes. It includes the termination fee Netflix paid Paramount.",
+    "link": "http://deadline.com/2026/05/warner-bros-discovery-q1-loss-termination-fee-paramount-netflix-1236882987/"
+  },
+  {
+    "text": "Israel strikes Beirut for first time since Hezbollah ceasefire - BBC",
+    "fullText": "Israel says it targeted a senior Hezbollah figure in the capital, the first strike of its kind since mid-April.",
+    "link": "https://www.bbc.com/news/articles/crmpjjl02l2o"
   },
   {
     "text": "Beaver that bit ‘several people’ in New Jersey tests positive for rabies - Global News",
     "fullText": "'On Sunday, May 3rd, it was reported that a beaver at Lake Henry had contact with several people and has since tested positive for rabies,' the Mahwah Health Department said.",
     "link": "https://globalnews.ca/news/11837450/beaver-tests-positive-rabies-new-jersey-park-attack/"
-  },
-  {
-    "text": "Watch NASA’s Curiosity Rover Struggle to Break Loose From a Rock on Mars - Gizmodo",
-    "fullText": "The rover spent five days with the rock attached to its arm before finally shaking it off.",
-    "link": "https://gizmodo.com/watch-nasas-curiosity-struggle-to-break-loose-from-a-rock-on-mars-2000755142"
-  },
-  {
-    "text": "Bonnie Tyler rushed to hospital for surgery - BBC",
-    "fullText": "The Total Eclipse of the Heart singer is being treated in Faro, Portugal, where she has a home.",
-    "link": "https://www.bbc.com/news/articles/clyprk8prmzo"
-  },
-  {
-    "text": "Blake Lively Poses Makeup-Free With Ryan Reynolds in Rare Selfie After He Skipped Met Gala 2026 - instyle.com",
-    "fullText": "Ryan Reynolds snapped a rare selfie with his makeup-free wife, Blake Lively, on May 5, just hours after he skipped the 2026 Met Gala.",
-    "link": "https://www.instyle.com/blake-lively-makeup-free-selfie-ryan-reynolds-after-he-skips-met-gala-2026-11968150"
-  },
-  {
-    "text": "The animated version of Artemis' \"Hello, world\" is even better than the original - Ars Technica",
-    "fullText": "What's going on with those satellites, anyway?",
-    "link": "https://arstechnica.com/space/2026/05/the-animated-version-of-artemis-hello-world-is-even-better-than-the-original/"
-  },
-  {
-    "text": "Republicans unveil proposed congressional map that carves up Tennessee's lone Democratic district - NBC News",
-    "fullText": "Republican legislative leaders in Tennessee on Wednesday released a congressional map proposal they are hoping to put in place before the midterm elections that would eliminate the state's only Democratic-controlled district",
-    "link": "https://www.nbcnews.com/politics/2026-election/republicans-unveil-congressional-carves-tennessee-democratic-district-rcna343873"
   }
 ]
