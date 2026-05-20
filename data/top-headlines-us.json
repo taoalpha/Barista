@@ -1,8 +1,83 @@
 [
   {
+    "text": "OpenAI co-founder Andrej Karpathy joins Anthropic’s pre-training team - TechCrunch",
+    "fullText": "Pre-training is responsible for the large-scale training runs that give Claude its core knowledge and capabilities, according to the company. It's also one of the most expensive, compute-intensive phases of building a frontier model.",
+    "link": "https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team/"
+  },
+  {
+    "text": "‘Grey’s Anatomy’ Spinoff Set in Texas Ordered at ABC - Variety",
+    "fullText": "ABC has greenlit a Texas-set 'Grey's Anatomy' spinoff.",
+    "link": "https://variety.com/2026/tv/news/greys-anatomy-texas-spinoff-abc-1236753678/"
+  },
+  {
+    "text": "Iran stages mass weddings for couples said to have volunteered for \"self-sacrifice\" in war with U.S. - CBS News",
+    "fullText": "Iranian state media showed wedding ceremonies in Tehran for dozens of couples said to have volunteered for \"self-sacrifice\" in the war with the U.S.",
+    "link": "https://www.cbsnews.com/news/iran-war-mass-weddings-tehran-couples-volunteer-self-sacrifice/"
+  },
+  {
+    "text": "'Ebola has tortured us': Fear as DR Congo outbreak spreads - BBC",
+    "fullText": "Hundreds of cases are suspected in central Africa but experts fear the actual number may be much higher.",
+    "link": "https://www.bbc.com/news/articles/ceqp11gn1l8o"
+  },
+  {
+    "text": "What to know about today's primaries in Georgia, Kentucky, Pennsylvania and more - CBS News",
+    "fullText": "Voters are going to the polls Tuesday for primaries in several states, including the most expensive House primary in history.",
+    "link": "https://www.cbsnews.com/news/2026-midterm-elections-primaries-kentucky-georgia-pennsyvlania-alabama-idaho/"
+  },
+  {
+    "text": "‘The Mandalorian And Grogu’: Reviews & Reactions To Star Wars Movie - Deadline",
+    "fullText": "‘The Mandalorian And Grogu’: What The Critics Are Saying About Star Wars Universe Movie With Pedro Pascal.",
+    "link": "http://deadline.com/2026/05/the-mandalorian-and-grogu-reviews-reactions-star-wars-film-1236915523/"
+  },
+  {
+    "text": "Meghan Markle Marriage a ‘Disaster’ for Prince Harry — Expert - Yahoo",
+    "fullText": "A royal commentator has claimed that Prince Harry's marriage to Meghan Markle has been a \"disaster\" on their eighth marriage anniversary.",
+    "link": "https://www.realitytea.com/2026/05/19/meghan-markle-prince-harry-marriage-disaster-expert/"
+  },
+  {
+    "text": "Anker fixes the two worst things about power stations - The Verge",
+    "fullText": "The Solix S2000 is nearly half of the size of its 2kWh competition and won’t die when idling in your closet for a few days.",
+    "link": "https://www.theverge.com/tech/928420/anker-solix-s2000-power-station"
+  },
+  {
+    "text": "‘Star Wars’ and ‘Powerpuff Girls’ voice actor Tom Kane dies at 64 - NBC News",
+    "fullText": "Tom Kane, who voiced characters in the “Star Wars” franchise and Professor Utonium in Cartoon Network’s “The Powerpuff Girls,” died Monday from complications of a stroke he suffered in 2020",
+    "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/star-wars-powerpuff-girls-voice-actor-tom-kane-dies-64-rcna345853"
+  },
+  {
+    "text": "Simi Valley and Santa Rosa fires: Active California wildfires seen from space - BBC",
+    "fullText": "Some 750 firefighters are tackling the uncontrolled blazes supported by water-dropping helicopters.",
+    "link": "https://www.bbc.com/news/articles/cg4pn0e2yp6o"
+  },
+  {
+    "text": "How to watch Google I/O 2026 kick off live - 9to5Google",
+    "fullText": "Google I/O 2026 starts today, and every bit of developer and Android news that comes with it will be announced...",
+    "link": "http://9to5google.com/2026/05/19/how-to-watch-google-i-o-2026/"
+  },
+  {
+    "text": "Progressives seek another big primary win in the nation’s bluest House district - NBC News",
+    "fullText": "Progressives are cautiously optimistic that they can capture the nomination for a congressional seat in Philadelphia in a race against the Democratic Party’s center-left establishment Tuesday",
+    "link": "https://www.nbcnews.com/politics/2026-election/progressives-seek-another-big-primary-win-nations-bluest-house-distric-rcna344974"
+  },
+  {
+    "text": "Microsoft launches Surface Pro 12 and Surface Laptop 8 with Intel chips - The Verge",
+    "fullText": "Three new Intel-powered Surface devices arrive for businesses, but they all have high price tags.",
+    "link": "https://www.theverge.com/news/933269/microsoft-surface-pro-12-surface-laptop-8-specs-pricing-release-date"
+  },
+  {
     "text": "Russia holds massive drills of its nuclear forces - NBC News",
     "fullText": "Russia on Tuesday began massive maneuvers of its nuclear forces featuring practice launches of nuclear-capable ballistic and cruise missiles in drills that come amid surge in Ukrainian drone strikes",
     "link": "https://www.nbcnews.com/world/russia/russia-conducts-major-nuclear-drills-rcna345828"
+  },
+  {
+    "text": "Apple unveils new accessibility features, and updates with Apple Intelligence - Apple",
+    "fullText": "Apple announced major accessibility updates powered by Apple Intelligence, including new capabilities for VoiceOver, Magnifier, and Voice Control.",
+    "link": "https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/"
+  },
+  {
+    "text": "Capitol agenda: Trump turns to Massie after Cassidy revenge - Politico",
+    "fullText": "Massie would be the ultimate trophy in Trump’s payback crusade.",
+    "link": "https://www.politico.com/live-updates/2026/05/19/congress/massie-trump-cassidy-revenge-primary-00927568"
   },
   {
     "text": "Surprising drug combo could reshape treatment for suicide risk - The Washington Post",
@@ -10,78 +85,13 @@
     "link": "https://www.washingtonpost.com/health/2026/05/19/surprising-drug-combo-could-reshape-suicide-treatment/"
   },
   {
-    "text": "A critical window to stop hantavirus is opening. Not all countries are managing exposed travelers the same way - CNN",
-    "fullText": "The hantavirus-stricken cruise ship MV Hondius arrived at its last stop Monday. Now, the waiting begins.",
-    "link": "https://www.cnn.com/2026/05/19/health/countries-managing-hantavirus-travelers-different-ways"
+    "text": "Guardiola set to leave - Five star players that could depart Man City this summer - Transfermarkt",
+    "fullText": "Perhaps the most consequential story in English football for quite some time erupted on to the scene on Monday night, when numerous reports from across the British media stated that Pep Guardiola will [...]",
+    "link": "https://www.transfermarkt.com/guardiola-set-to-leave-five-star-players-that-could-depart-man-city-this-summer/view/news/479667"
   },
   {
-    "text": "The First Reactions to ‘Masters of the Universe’ Are Here - Gizmodo",
-    "fullText": "Nicholas Galitzine, Camila Mendes, Idris Elba, and Jared Leto star in the Mattel film, out June 5.",
-    "link": "https://gizmodo.com/masters-of-the-universe-movie-live-action-first-reactions-2000760230"
-  },
-  {
-    "text": "Gemini is in danger of going full Copilot - The Verge",
-    "fullText": "Google is getting ready to launch more Gemini features at I/O 2026. Let’s hope the company learned from Microsoft’s Copilot mistakes.",
-    "link": "https://www.theverge.com/tech/931752/google-io-2026-gemini-icon-docs-workspace"
-  },
-  {
-    "text": "Mango founder’s son detained over father’s mountain death - Financial Times",
-    "fullText": "Fashion chain boss Isak Andic died while on a hiking trip with his son Jonathan two years ago",
-    "link": "https://www.ft.com/content/17b2b6a3-a7f2-40b4-8c16-9161045fedb4?syn-25a6b1a6\\\\u003d1"
-  },
-  {
-    "text": "Sebastian Stan Slams Donald Trump at Cannes: America Is in a 'Bad Place' - Variety",
-    "fullText": "Sebastian Stan slammed Trump during a Cannes press conference, saying America is \"in a really, really bad place.\"",
-    "link": "https://variety.com/2026/film/festivals/sebastian-stan-slams-donald-trump-america-in-bad-place-cannes-1236753405/"
-  },
-  {
-    "text": "Mother’s call to police sparked urgent search before San Diego mosque shooting - The Washington Post",
-    "fullText": "Police said that the suspects had made no known threat to the mosque but that \"hate rhetoric was involved,” and investigators are treating the shooting as a hate crime.",
-    "link": "https://www.washingtonpost.com/nation/2026/05/18/one-dead-shooting-san-diego-islamic-center/"
-  },
-  {
-    "text": "‘We are facing an existential crisis’: Redistricting rocks the race for the nation’s bluest House seat - Politico",
-    "fullText": "The looming loss of Black House districts across the South has raised the stakes in an open-seat primary in Philadelphia.",
-    "link": "https://www.politico.com/news/2026/05/19/philadelphia-redistricting-election-congressional-black-caucus-00926803"
-  },
-  {
-    "text": "Trump's revenge tour comes for Massie - Axios",
-    "fullText": "The outcome is being closely watched as a test of Trump's grip on the party.",
-    "link": "https://www.axios.com/2026/05/19/thomas-massie-trump-republican-primary"
-  },
-  {
-    "text": "In Musk v. Altman trial, the entire AI industry lost - Axios",
-    "fullText": "No one emerged from the trial looking good.",
-    "link": "https://www.axios.com/2026/05/19/musk-altman-openai-trial"
-  },
-  {
-    "text": "Ebola death toll in Congo rises to 131 amid concern over lack of vaccine or treatment for current strain - CBS News",
-    "fullText": "The virus behind the latest Ebola outbreak is the Bundibugyo virus, which is less common and there is no vaccine or treatment.",
-    "link": "https://www.cbsnews.com/news/ebola-outbreak-bundibugyo-congo-uganda-vaccine-treatment-symptoms/"
-  },
-  {
-    "text": "U.S. Treasury sell-off eases, traders eye highest 30-year yield since 1999 - CNBC",
-    "fullText": "Global bond markets remain on edge as traders monitor central bank responses to renewed inflation fears.",
-    "link": "https://www.cnbc.com/2026/05/19/treasurys-yields-inflation-traders-fed-interest-rates.html"
-  },
-  {
-    "text": "Alexa+ now generates podcast episodes on demand - About Amazon",
-    "fullText": "A new feature creates AI-generated audio episodes on any topic, ready to listen wherever you are.",
-    "link": "https://www.aboutamazon.com/news/devices/alexa-podcasts-ai-generated-audio-episodes"
-  },
-  {
-    "text": "Kicking the Cannes: No Fun at the Beach for Dealmakers This Year - The Hollywood Reporter",
-    "fullText": "A24 and Amazon added some last minute sizzle, but the real story was the deals that didn’t get done.",
-    "link": "http://www.hollywoodreporter.com/business/business-news/cannes-deals-2026-1236599130/"
-  },
-  {
-    "text": "Live Updates: Trump calls off scheduled attack on Iran amid \"serious negotiations\" toward peace deal - CBS News",
-    "fullText": "President Trump had warned Sunday that \"the Clock is Ticking\" for Iran to accept a peace agreement.",
-    "link": "https://www.cbsnews.com/live-updates/iran-war-trump-warning-oil-stock-prices-futures-ceasefire-diplomacy/"
-  },
-  {
-    "text": "Vega C rocket launches European-Chinese space weather satellite to orbit - Space",
-    "fullText": "The SMILE mission lifted off at 11:52 p.m. ET on Monday (May 18).",
-    "link": "https://www.space.com/space-exploration/launches-spacecraft/european-chinese-space-weather-mission-smile-launch"
+    "text": "Home Depot profit falls, but it tops expectations in the face of growing economic uncertainty - ABC News - Breaking News, Latest News and Videos",
+    "fullText": "Home Depot’s results beat Wall Street’s expectations in the fiscal first quarter on a strong showing from professional customers while homeowners started stocking up on some of their spring supplies",
+    "link": "https://abcnews.com/Business/wireStory/home-depots-quarter-driven-homeowner-spring-buying-professionals-133100579"
   }
 ]
