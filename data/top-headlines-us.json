@@ -1,18 +1,43 @@
 [
   {
-    "text": "'Hate rhetoric' under investigation in San Diego mosque shooting by teen suspects, say police - BBC",
-    "fullText": "Three men were killed in the mosque shooting and two teen suspects were found dead in a car nearby, police say.",
-    "link": "https://www.bbc.com/news/live/c8jv0x2vp8wt"
+    "text": "Sandy Fire in Simi Valley: 836 acres scorched, evacuations expanded - ABC7 Los Angeles",
+    "fullText": "A fast-moving brush fire dubbed the Sandy Fire broke out in Simi Valley on Monday, forcing residents to evacuate their homes.",
+    "link": "https://abc7.com/live-updates/sandy-fire-simi-valley-several-structures-burned-184-acres-scorched/19125501/"
   },
   {
-    "text": "Nancy Pelosi endorses Connie Chan to succeed her in S.F. House race - San Francisco Chronicle",
-    "fullText": "Speaker Emerita Nancy Pelosi called Chan “the leader best prepared to carry forward the fight for San Francisco in the Congress of the United States.”",
-    "link": "https://www.sfchronicle.com/politics/joegarofoli/article/nancy-pelosi-connie-chan-endorsement-22265327.php"
+    "text": "Gunmen kill 3 people at San Diego Islamic centre in suspected hate crime - Al Jazeera",
+    "fullText": "‘We are considering this a hate crime until it’s not,’ San Diego police chief says, adding that both shooters are dead.",
+    "link": "https://www.aljazeera.com/news/2026/5/18/san-diego-police-say-responding-to-an-active-shooter-at-islamic-center"
   },
   {
-    "text": "Live Updates: Trump calls off scheduled attack on Iran amid \"serious negotiations\" toward peace deal - CBS News",
-    "fullText": "President Trump had warned Sunday that \"the Clock is Ticking\" for Iran to accept a peace agreement.",
-    "link": "https://www.cbsnews.com/live-updates/iran-war-trump-warning-oil-stock-prices-futures-ceasefire-diplomacy/"
+    "text": "American tests positive for Ebola; U.S. to screen travelers at airports - The Washington Post",
+    "fullText": "Health experts are growing increasingly concerned about the outbreak, given that cases could have been spreading undetected for weeks.",
+    "link": "https://www.washingtonpost.com/health/2026/05/18/ebola-outbreak-prompts-us-screen-travelers-airports-other-ports-entry/"
+  },
+  {
+    "text": "All of Musk’s claims in lawsuit against OpenAI dismissed in federal trial - The Washington Post",
+    "fullText": "Elon Musk’s claims against ChatGPT maker OpenAI were rejected by a jury that found he missed the statute of limitations. Musk attacked the judge in an online post.",
+    "link": "https://www.washingtonpost.com/technology/2026/05/18/jury-rejects-elon-musk-lawsuit-against-openai-its-ceo-sam-altman/"
+  },
+  {
+    "text": "Long Island Rail Road strike to end as MTA, unions reach tentative deal - CBS News",
+    "fullText": "New York Gov. Kathy Hochul said the MTA and LIRR unions reached \"a fair deal\" to end the strike after three days.",
+    "link": "https://www.cbsnews.com/newyork/news/lirr-strike-mta-unions-tentative-agreement-hochul/"
+  },
+  {
+    "text": "Trump’s deal to drop suit against IRS creates $1.8B ‘Anti-Weaponization Fund’ - The Washington Post",
+    "fullText": "The deal, laid out in a document signed by acting attorney general Todd Blanche, could result in taxpayer payouts to the president’s allies.",
+    "link": "https://www.washingtonpost.com/national-security/2026/05/18/trump-will-end-10-billion-lawsuit-against-irs-over-leaked-tax-records/"
+  },
+  {
+    "text": "Trump: TrumpRx site adds hundreds of generic drugs - Axios",
+    "fullText": "Offering hundreds of generic drugs on TrumpRx fills a key gap on the direct-to-consumer site.",
+    "link": "https://www.axios.com/2026/05/18/trumprx-site-generics-expansion"
+  },
+  {
+    "text": "ICE agent charged in shooting of immigrant during Operation Metro Surge - Star Tribune",
+    "fullText": "The Hennepin County Attorney’s Office issued a nationwide arrest warrant, saying agent shot the man and then lied about it. The Department of Homeland Security has referred to the charges as an unlawful “political stunt.”",
+    "link": "https://www.startribune.com/ice-agent-charged-in-shooting-of-man-in-north-minneapolis-during-operation-metro-surge/601843874"
   },
   {
     "text": "Man crashed into Channel Islands, set off major wildfire, officials say - SFGATE",
@@ -20,9 +45,19 @@
     "link": "https://www.sfgate.com/national-parks/article/national-park-largest-wildfire-22264388.php"
   },
   {
+    "text": "Contractor Dies at SpaceX’s Starbase Facility in Texas - WSJ",
+    "fullText": null,
+    "link": "https://www.wsj.com/tech/contractor-dies-at-spacexs-starbase-facility-in-texas-429b8e91"
+  },
+  {
     "text": "Newly discovered asteroid to pass closer to Earth than the moon on Monday - NBC News",
     "fullText": "A newly discovered asteroid estimated to be about 62 feet wide will zoom near Earth on Monday, though it isn’t expected to pose a threat to the planet.",
     "link": "https://www.nbcnews.com/science/space/asteroid-pass-close-earth-newly-discovered-rcna345687"
+  },
+  {
+    "text": "SpaceX Starship Flight 12 launch updates: 1st-ever Starship V3 test gets new launch date - Space",
+    "fullText": "SpaceX is targeting a Wednesday, May 20, launch for its newest Starship design, the Starship V3 megarocket. See our latest updates here.",
+    "link": "https://www.space.com/news/live/spacex-starship-flight-12-launch-updates-may-18-2026"
   },
   {
     "text": "Gina Carano releases first statement after loss to Ronda Rousey: ‘If I hadn’t tapped she would’ve broken my arm’ - Yahoo Sports",
@@ -35,24 +70,19 @@
     "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brendan-sorsby-files-suit-to-restore-ncaa-eligibility"
   },
   {
-    "text": "Here’s What Science Tells Us About the Risks of Hantavirus - WSJ",
-    "fullText": null,
-    "link": "https://www.wsj.com/health/wellness/heres-what-science-tells-us-about-the-risks-of-hantavirus-56e204d5"
-  },
-  {
-    "text": "Minnesota county charges an ICE officer in a nonfatal shooting during Trump's immigration crackdown - AP News",
-    "fullText": "A Minnesota county prosecutor has charged an Immigration and Customs Enforcement officer in the nonfatal shooting of a Venezuelan man during the Trump administration’s immigration crackdown in the state. Hennepin County Attorney Mary Moriarty said at a news c…",
-    "link": "https://apnews.com/article/minneapolis-immigration-crackdown-charges-sosacelis-bd78efd7f341a9bd9c1acc2c0037a958"
-  },
-  {
-    "text": "This Ebola outbreak raises questions about when it all began — and the U.S. response - NPR",
-    "fullText": "The sheer number of cases and deaths are a sign that the outbreak might have been smoldering before the virus was identified.",
-    "link": "https://www.npr.org/2026/05/18/g-s1-122655/ebola-outbreak-democratic-republic-congo-uganda"
+    "text": "Shifting momentum in the Russia-Ukraine war - NPR",
+    "fullText": "It has been more than four years since Russia’s full-scale invasion of Ukraine.  It is a war that has been grinding on without major changes in battle lines, but the conflict may have reached a turning point.  There are signs that Russians are growing weary o…",
+    "link": "https://www.npr.org/2026/05/18/nx-s1-5826018/shifting-momentum-in-the-russia-ukraine-war"
   },
   {
     "text": "Sebastian Stan and Renate Reinsve Shed Tears as Devastating Family Drama ‘Fjord’ Gets 10-Minute Cannes Premiere Standing Ovation - Variety",
     "fullText": "Palme d'Or winner Cristian Mungiu returns to Cannes with 'Fjord,' a disturbing family drama starring Sebastian Stan and Renate Reinsve.",
     "link": "https://variety.com/2026/film/news/sebastian-stan-fjord-cannes-premeire-renate-reinsve-1236736780/"
+  },
+  {
+    "text": "Report: Saros And Ghost Of Yōtei Aren't Coming To PC As PlayStation Charts A Return To Console Exclusivity - Game Informer",
+    "fullText": "It sounds like multiplayer titles like Marathon will launch on PC as well, though.",
+    "link": "https://gameinformer.com/2026/05/18/report-saros-and-ghost-of-yotei-arent-coming-to-pc-as-playstation-charts-a-return-to"
   },
   {
     "text": "Steelers teammates ecstatic to welcome QB Aaron Rodgers back to Pittsburgh - NFL.com",
@@ -63,30 +93,5 @@
     "text": "PlayStation Plus to raise monthly subscription by £1 in UK - BBC",
     "fullText": "The videogame firm says the increase is due to \"ongoing market conditions\"",
     "link": "https://www.bbc.com/news/articles/c1e24z2q7xqo"
-  },
-  {
-    "text": "Trump creates $1.8B \"anti-weaponization\" fund after dropping IRS suit - Axios",
-    "fullText": "The fund creates an unprecedented, taxpayer-backed mechanism to compensate those claiming the Biden administration wrongfully targeted them.",
-    "link": "https://www.axios.com/2026/05/18/trump-irs-lawsuit-dropped"
-  },
-  {
-    "text": "2026 ACM Awards red carpet: Every look from country music’s biggest night - Fox News",
-    "fullText": "Country music’s biggest stars hit the red carpet at the 2026 ACM Awards, showcasing everything from classic glamour to bold modern fashion. See standout looks from Lainey Wilson, Ella Langley, Shania Twain and more.",
-    "link": "https://www.foxnews.com/entertainment/2026-acm-awards-red-carpet-every-look-from-country-musics-biggest-night"
-  },
-  {
-    "text": "Elon Musk loses lawsuit against OpenAI - Al Jazeera",
-    "fullText": "In a unanimous verdict, the jury in the Oakland, California, federal court said Musk had brought his case ⁠too late.",
-    "link": "https://www.aljazeera.com/news/2026/5/18/elon-musk-loses-lawsuit-against-openai"
-  },
-  {
-    "text": "Trump's economic polling is in freefall - Axios",
-    "fullText": "Trump's failure to temper inflation and the fallout of the Iran war have turned voters against him.",
-    "link": "https://www.axios.com/2026/05/18/trump-approval-rating-second-term-low"
-  },
-  {
-    "text": "Apple Readies AI Writing Help, App Shortcuts and Wallpapers for iOS 27 - Bloomberg.com",
-    "fullText": "Apple Inc. is preparing a wave of artificial intelligence features for its next iPhone and iPad operating systems, including a grammar checker and new shortcut options, part of an effort to narrow the gap with capabilities available on rival devices.",
-    "link": "https://www.bloomberg.com/news/articles/2026-05-18/apple-ios-27-ai-writing-grammar-help-new-shortcuts-app-custom-wallpapers"
   }
 ]
