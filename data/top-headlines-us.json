@@ -1,8 +1,23 @@
 [
   {
+    "text": "Booming Expedition-Cruise Business Grapples With Fallout From Hantavirus Outbreak - WSJ",
+    "fullText": null,
+    "link": "https://www.wsj.com/lifestyle/travel/why-hantavirus-might-not-dent-the-booming-expedition-cruise-business-2e3f3eb6"
+  },
+  {
+    "text": "Live Updates: The Spurs-Thunder rivalry reignites - NBA",
+    "fullText": "Follow along with Game 1 of the Western Conference Finals with the NBA.com live blog, featuring highlights, stats and more.",
+    "link": "https://www.nba.com/news/live-updates-2026-nba-playoffs-western-conference-finals-the-spurs-thunder-rivalry-reignites"
+  },
+  {
     "text": "Sandy Fire in Simi Valley: 836 acres scorched, evacuations expanded - ABC7 Los Angeles",
     "fullText": "A fast-moving brush fire dubbed the Sandy Fire broke out in Simi Valley on Monday, forcing residents to evacuate their homes.",
     "link": "https://abc7.com/live-updates/sandy-fire-simi-valley-several-structures-burned-184-acres-scorched/19125501/"
+  },
+  {
+    "text": "Steelers LB Payton Wilson was \"a little shocked\" to see Aaron Rodgers - NBC Sports",
+    "fullText": "The news broke over the weekend that quarterback Aaron Rodgers is back with the Steelers.",
+    "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-lb-payton-wilson-was-a-little-shocked-to-see-aaron-rodgers"
   },
   {
     "text": "Gunmen kill 3 people at San Diego Islamic centre in suspected hate crime - Al Jazeera",
@@ -20,6 +35,11 @@
     "link": "https://www.washingtonpost.com/technology/2026/05/18/jury-rejects-elon-musk-lawsuit-against-openai-its-ceo-sam-altman/"
   },
   {
+    "text": "Holly Madison Dating Las Vegas Attorney Steve Dimopoulos - TMZ",
+    "fullText": "Holly Madison has a new man in her life ... 'cause TMZ has learned she's dating prominent Las Vegas attorney Steve Dimopoulos.",
+    "link": "https://www.tmz.com/2026/05/18/holly-madison-dating-las-vegas-attorney-steve-dimopoulos/"
+  },
+  {
     "text": "Long Island Rail Road strike to end as MTA, unions reach tentative deal - CBS News",
     "fullText": "New York Gov. Kathy Hochul said the MTA and LIRR unions reached \"a fair deal\" to end the strike after three days.",
     "link": "https://www.cbsnews.com/newyork/news/lirr-strike-mta-unions-tentative-agreement-hochul/"
@@ -30,24 +50,34 @@
     "link": "https://www.washingtonpost.com/national-security/2026/05/18/trump-will-end-10-billion-lawsuit-against-irs-over-leaked-tax-records/"
   },
   {
-    "text": "Trump: TrumpRx site adds hundreds of generic drugs - Axios",
-    "fullText": "Offering hundreds of generic drugs on TrumpRx fills a key gap on the direct-to-consumer site.",
-    "link": "https://www.axios.com/2026/05/18/trumprx-site-generics-expansion"
+    "text": "GOP Rep. Thomas Massie defiant as Trump seeks to oust him in primary: \"I'm going to win\" - CBS News",
+    "fullText": "Massie said the president is worried about his preferred candidate Ed Gallrein's chances in the Kentucky race.",
+    "link": "https://www.cbsnews.com/news/thomas-massie-trump-ed-gallrein-kentucky-republican-primary/"
   },
   {
-    "text": "ICE agent charged in shooting of immigrant during Operation Metro Surge - Star Tribune",
-    "fullText": "The Hennepin County Attorney’s Office issued a nationwide arrest warrant, saying agent shot the man and then lied about it. The Department of Homeland Security has referred to the charges as an unlawful “political stunt.”",
-    "link": "https://www.startribune.com/ice-agent-charged-in-shooting-of-man-in-north-minneapolis-during-operation-metro-surge/601843874"
+    "text": "Iran more than doubled executions in 2025 as global use of the death penalty hit 44-year high, report says - CBS News",
+    "fullText": "Iran executed more than twice as many people last year as it did in 2024, according to a new report by Amnesty International.",
+    "link": "https://www.cbsnews.com/news/iran-doubled-executions-2025-global-use-death-penalty-hit-44-year-high/"
   },
   {
-    "text": "Man crashed into Channel Islands, set off major wildfire, officials say - SFGATE",
-    "fullText": "More than 70 firefighting personnel have responded to the fire on Santa Rosa Island, which has scorched over 10,000 acres.",
-    "link": "https://www.sfgate.com/national-parks/article/national-park-largest-wildfire-22264388.php"
+    "text": "Minnesota county charges an ICE officer in a nonfatal shooting during Trump's immigration crackdown - AP News",
+    "fullText": "A Minnesota county prosecutor has charged an Immigration and Customs Enforcement officer in the nonfatal shooting of a Venezuelan man during the Trump administration’s immigration crackdown in the state. Hennepin County Attorney Mary Moriarty said at a news c…",
+    "link": "https://apnews.com/article/minneapolis-immigration-crackdown-charges-sosacelis-bd78efd7f341a9bd9c1acc2c0037a958"
   },
   {
-    "text": "Contractor Dies at SpaceX’s Starbase Facility in Texas - WSJ",
-    "fullText": null,
-    "link": "https://www.wsj.com/tech/contractor-dies-at-spacexs-starbase-facility-in-texas-429b8e91"
+    "text": "William Daniels and Bonnie Bartlett clarify 'open marriage' ahead of 75th anniversary - Entertainment Weekly",
+    "fullText": "'Boy Meets World' actor William Daniels and his wife Bonnie Bartlett clarify 'open marriage' remarks ahead of 75th wedding anniversary: We 'did go in different directions,' she admits.",
+    "link": "https://ew.com/william-daniels-bonnie-bartlett-clarify-open-marriage-before-75th-anniversary-11978134"
+  },
+  {
+    "text": "Live Updates: Trump calls off scheduled attack on Iran amid \"serious negotiations\" toward peace deal - CBS News",
+    "fullText": "President Trump had warned Sunday that \"the Clock is Ticking\" for Iran to accept a peace agreement.",
+    "link": "https://www.cbsnews.com/live-updates/iran-war-trump-warning-oil-stock-prices-futures-ceasefire-diplomacy/"
+  },
+  {
+    "text": "Fact Sheet: President Donald J. Trump Announces Expansion of TrumpRx.gov to Bring Americans Transparency and Choice on Everyday Medicines - The White House (.gov)",
+    "fullText": "HISTORIC LAUNCH TO LOWER DRUG PRICES FOR AMERICAN PATIENTS: Today, President Donald J. Trump announced an expansion of TrumpRx.gov to provide",
+    "link": "http://www.whitehouse.gov/fact-sheets/2026/05/fact-sheet-president-donald-j-trump-announces-expansion-of-trumprx-gov-to-bring-americans-transparency-and-choice-on-everyday-medicines/"
   },
   {
     "text": "Newly discovered asteroid to pass closer to Earth than the moon on Monday - NBC News",
@@ -55,43 +85,8 @@
     "link": "https://www.nbcnews.com/science/space/asteroid-pass-close-earth-newly-discovered-rcna345687"
   },
   {
-    "text": "SpaceX Starship Flight 12 launch updates: 1st-ever Starship V3 test gets new launch date - Space",
-    "fullText": "SpaceX is targeting a Wednesday, May 20, launch for its newest Starship design, the Starship V3 megarocket. See our latest updates here.",
-    "link": "https://www.space.com/news/live/spacex-starship-flight-12-launch-updates-may-18-2026"
-  },
-  {
-    "text": "Gina Carano releases first statement after loss to Ronda Rousey: ‘If I hadn’t tapped she would’ve broken my arm’ - Yahoo Sports",
-    "fullText": "Gina Carano addresses her loss to Ronda Rousey in her first fight back in 17 years",
-    "link": "https://www.mmafighting.com/mvp-mma/489336/gina-carano-releases-first-statement-after-loss-to-ronda-rousey-if-i-hadnt-tapped-she-wouldve-broken-my-arm"
-  },
-  {
-    "text": "Brendan Sorsby files suit to restore NCAA eligibility - NBC Sports",
-    "fullText": "The legal battle over the eligibility of Brendan Sorsby has begun.",
-    "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brendan-sorsby-files-suit-to-restore-ncaa-eligibility"
-  },
-  {
-    "text": "Shifting momentum in the Russia-Ukraine war - NPR",
-    "fullText": "It has been more than four years since Russia’s full-scale invasion of Ukraine.  It is a war that has been grinding on without major changes in battle lines, but the conflict may have reached a turning point.  There are signs that Russians are growing weary o…",
-    "link": "https://www.npr.org/2026/05/18/nx-s1-5826018/shifting-momentum-in-the-russia-ukraine-war"
-  },
-  {
-    "text": "Sebastian Stan and Renate Reinsve Shed Tears as Devastating Family Drama ‘Fjord’ Gets 10-Minute Cannes Premiere Standing Ovation - Variety",
-    "fullText": "Palme d'Or winner Cristian Mungiu returns to Cannes with 'Fjord,' a disturbing family drama starring Sebastian Stan and Renate Reinsve.",
-    "link": "https://variety.com/2026/film/news/sebastian-stan-fjord-cannes-premeire-renate-reinsve-1236736780/"
-  },
-  {
-    "text": "Report: Saros And Ghost Of Yōtei Aren't Coming To PC As PlayStation Charts A Return To Console Exclusivity - Game Informer",
-    "fullText": "It sounds like multiplayer titles like Marathon will launch on PC as well, though.",
-    "link": "https://gameinformer.com/2026/05/18/report-saros-and-ghost-of-yotei-arent-coming-to-pc-as-playstation-charts-a-return-to"
-  },
-  {
-    "text": "Steelers teammates ecstatic to welcome QB Aaron Rodgers back to Pittsburgh - NFL.com",
-    "fullText": "As Aaron Rodgers returned to Pittsburgh for his 22nd NFL season, Steelers teammates were ecstatic to welcome back the 42-year-old quarterback during Monday's organized team activities.",
-    "link": "https://www.nfl.com/news/steelers-teammates-ecstatic-to-welcome-qb-aaron-rodgers-back-to-pittsburgh"
-  },
-  {
-    "text": "PlayStation Plus to raise monthly subscription by £1 in UK - BBC",
-    "fullText": "The videogame firm says the increase is due to \"ongoing market conditions\"",
-    "link": "https://www.bbc.com/news/articles/c1e24z2q7xqo"
+    "text": "Disney Under Fire Over “Staged” Pedro Pascal ‘Mandalorian’ Fan Encounter - Yahoo",
+    "fullText": "'The Mandalorian and Grogu' star seemingly stunned a group of Disneyland tourists on Smuggler's Run. But things weren't exactly how they appeared. Here's what happened.",
+    "link": "http://www.hollywoodreporter.com/movies/movie-news/pedro-pascal-mandalorian-disney-staged-stunt-1236598888/"
   }
 ]
