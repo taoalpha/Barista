@@ -1,18 +1,63 @@
 [
   {
+    "text": "Air France flight to Detroit diverted to Canada under Ebola restrictions - The Washington Post",
+    "fullText": "A passenger from Congo should not have been aboard, authorities said. Under new DHS rules, people who recently visited any of three African countries must enter the U.S. via Dulles.",
+    "link": "https://www.washingtonpost.com/health/2026/05/21/air-france-flight-detroit-diverted-canada-under-ebola-travel-restrictions/"
+  },
+  {
+    "text": "Republicans stall votes on partisan ICE funding amid party infighting - NPR",
+    "fullText": "Republicans planned to vote on a major funding bill for Immigration and Customs Enforcement this week but plans collapsed amid GOP rancor over Trump's policy demands.",
+    "link": "https://www.npr.org/2026/05/21/g-s1-123455/republicans-ice-spending-trump"
+  },
+  {
+    "text": "Kyle Busch, two-time NASCAR Cup Series champion, dies at age 41 - NASCAR.com",
+    "fullText": "Kyle Busch, a two-time NASCAR Cup Series champion, winner of 234 national series races and Las Vegas native dies at age 41.",
+    "link": "https://www.nascar.com/news-media/2026/05/21/kyle-busch-two-time-nascar-cup-series-champion-dies-at-age-41/"
+  },
+  {
+    "text": "Jeep and Ram vehicles are about to get more affordable with prices under $40,000 - Electrek",
+    "fullText": "Stellantis plans to launch seven new Jeep, Ram, and Chrysler vehicles priced under $40,000, and two that will cost less...",
+    "link": "http://electrek.co/2026/05/21/jeep-ram-more-affordable-prices-under-40000/"
+  },
+  {
+    "text": "‘T. rex of the sea’: D-FW researchers identify new ancient marine species - Dallas News",
+    "fullText": "Researchers at SMU and the Perot Museum have identified a new species of mosasaur, a 'T. rex of the sea' that lived alongside dinosaurs millions of years ago.",
+    "link": "https://www.dallasnews.com/news/article/perot-museum-new-species-dinosaurs-trex-sea-22264761.php"
+  },
+  {
+    "text": "American passenger feels 'betrayed' by federal order to stay in hantavirus quarantine - NPR",
+    "fullText": "Two passengers from the cruise ship that had a hantavirus outbreak were blocked by the federal government from leaving the quarantine unit. One says she is being detained against her will.",
+    "link": "https://www.npr.org/2026/05/21/nx-s1-5827015/american-passenger-order-hantavirus-quarantine"
+  },
+  {
+    "text": "Inside SpaceX’s IPO Filing: Musk’s Control, xAI Losses, and Anthropic’s Massive AI Deal - Barron's",
+    "fullText": "Investors are inching closer to the capital markets event of the century: SpaceX stock’s public market debut. The S-1 initial public offering registration statement for SpaceX arrived on Wednesday evening.",
+    "link": "https://www.barrons.com/articles/spacex-ipo-filing-musk-stock-ticker-74d9b0ca"
+  },
+  {
     "text": "JWST maps the weather on a hot gas giant 700 light-years away - Ars Technica",
     "fullText": "The differences seen here could be throwing off how we study planetary atmospheres.",
     "link": "https://arstechnica.com/science/2026/05/jwst-maps-the-weather-on-a-hot-gas-giant-700-light-years-away/"
   },
   {
-    "text": "Ebola outbreak live updates: Flight bound for Detroit diverted to Canada after Congolese passenger boarded 'in error,' U.S. officials say - Yahoo",
-    "fullText": "Meanwhile, an American doctor who was flown to Germany for treatment after contracting the virus in the Democratic Republic of Congo is \"critically ill,\" his...",
-    "link": "https://www.yahoo.com/news/world/live/ebola-outbreak-who-warns-deaths-will-rise-after-american-tests-positive--but-global-risk-remains-low-112950969.html"
+    "text": "DOJ charges 15 defendants accused of collectively defrauding $90 million - 5 EYEWITNESS NEWS",
+    "fullText": "Top federal officials on Thursday announced prosecutions against 15 defendants accused of defrauding government services.",
+    "link": "https://kstp.com/kstp-news/top-news/doj-files-charges-against-15-defendants-accused-of-defrauding-government-programs/"
   },
   {
-    "text": "SpaceX, OpenAI valuations would mean they leapfrog Berkshire Hathaway on first day of trading - CNBC",
-    "fullText": "Traders on prediction market Polymarket think SpaceX, OpenAI and Anthropic on their first day of trading will surpass valuations of at least $1.4 trillion.",
-    "link": "https://www.cnbc.com/2026/05/21/spacex-openai-valuations-to-leapfrog-berkshire-hathaway-traders-say.html"
+    "text": "Will Elon Musk eventually merge SpaceX with Tesla? Speculation is building - CNBC",
+    "fullText": "Analysts speculate that Elon Musk will merge his two companies but traders on prediction markets are not so certain.",
+    "link": "https://www.cnbc.com/2026/05/21/will-elon-musk-eventually-merge-spacex-with-tesla-speculation-builds.html"
+  },
+  {
+    "text": "'The report's so stupid': The DNC 2024 autopsy is roiling Democrats - Politico",
+    "fullText": "Democratic National Committee Chair Ken Martin is already working to weather the storm.",
+    "link": "https://www.politico.com/news/2026/05/21/democratic-party-2024-autopsy-00931754"
+  },
+  {
+    "text": "Indictment of former Cuban president includes 5 fighter jet pilots involved in 1996 plane downings - AP News",
+    "fullText": "Federal authorities in the United States have charged former Cuban President Raúl Castro and five fighter pilots in the 1996 downing of civilian planes operated by Miami-based exiles. The indictment announced Wednesday emerged as the Trump administration cont…",
+    "link": "https://apnews.com/article/cuba-raul-castro-us-indictment-associates-9522edaf65977013e02c09422190cc16"
   },
   {
     "text": "Acting head of NIH’s infectious disease institute reported to have stepped down - statnews.com",
@@ -20,9 +65,9 @@
     "link": "https://www.statnews.com/2026/05/21/nih-niaid-jeffrey-taubenberger-exit/"
   },
   {
-    "text": "Trump's \"anti-weaponization fund\" torpedoes ICE funding deal - Axios",
-    "fullText": "\"I'm not sure the fund should exist,\" one senator said.",
-    "link": "https://www.axios.com/2026/05/21/trump-weaponization-fund-senate-ice-funding"
+    "text": "Google accidentally exposed details of unfixed Chromium flaw - BleepingComputer",
+    "fullText": "Google has accidentally leaked details about an unfixed issue in Chromium that keeps JavaScript running in the background even when the browser is closed, allowing remote code execution on the device.",
+    "link": "https://www.bleepingcomputer.com/news/security/google-accidentally-exposed-details-of-unfixed-chromium-flaw/"
   },
   {
     "text": "Mars flyby captures spectacular, unique views of the red planet - CNN",
@@ -35,63 +80,13 @@
     "link": "https://www.nbcnews.com/news/us-news/lawyers-tony-carruthers-file-emergency-stay-stop-execution-rcna346344"
   },
   {
-    "text": "Democrats finally release 2024 election autopsy after criticism - Axios",
-    "fullText": "DNC chair Ken Martin's handling of the report has led to a crisis of confidence in his leadership.",
-    "link": "https://www.axios.com/2026/05/21/democrats-2024-autopsy-released"
+    "text": "Ronda Rousey reveals the key to female MMA fighters succeeding like she has after her retirement - Bloody Elbow",
+    "fullText": "Ronda Rousey sees one key ingredient missing in most of the women...",
+    "link": "https://bloodyelbow.com/2026/05/21/ronda-rousey-reveals-the-key-to-female-mma-fighters-succeeding-like-she-has-after-her-retirement/"
   },
   {
-    "text": "Donald Trump abruptly postpones AI order after White House infighting - Financial Times",
-    "fullText": "President refuses to approve order hours before planned signing due to fears US innovators will lose out to China",
-    "link": "https://www.ft.com/content/14213cb0-8d11-4118-bac0-12a403696185?syn-25a6b1a6\\\\u003d1"
-  },
-  {
-    "text": "DOJ charges 15 in 'shocking' $90M Minnesota fraud schemes; Feeding Our Future 'ringleader' sentenced - Fox News",
-    "fullText": "The Justice Department charged 15 people in alleged $90 million Minnesota fraud schemes as Feeding Our Future founder Aimee Bock was sentenced in the pandemic-era meal fraud case.",
-    "link": "https://www.foxnews.com/live-news/doj-minnesota-fraud-announcement-feeding-our-future-sentencing-may-21"
-  },
-  {
-    "text": "Below-average hurricane season forecast for 2026 as El Niño set to strengthen - BBC",
-    "fullText": "US forecasters say 2026 is likely to produce fewer named storms than normal but warn it only takes one hurricane to cause devastation, as Ben Rich explains.",
-    "link": "https://www.bbc.com/weather/articles/cg5pg9prp3go"
-  },
-  {
-    "text": "U.S. Markets Decline as Tech-Stock Rebound Loses Steam After Nvidia Earnings - WSJ",
-    "fullText": "Oil turns lower; Nvidia slips despite strong results",
-    "link": "https://www.wsj.com/finance/stocks/u-s-stock-futures-fall-as-equities-rally-loses-steam-b262224e"
-  },
-  {
-    "text": "Read the DOJ's memo to Republican senators on how Trump's $1.8 billion 'anti-weaponization' fund will work - PBS",
-    "fullText": "PBS News obtained the one-page summary given to Republican senators Thursday on the $1.776 billion billion fund.",
-    "link": "https://www.pbs.org/newshour/politics/read-the-dojs-memo-to-republican-senators-on-how-trumps-1-8-billion-anti-weaponization-fund-will-work"
-  },
-  {
-    "text": "Gaza flotilla activists deported from Israel as backlash over treatment grows - BBC",
-    "fullText": "A video showing a far-right Israeli minister taunting activists who were kneeling with their hands tied behind their backs has been widely condemned.",
-    "link": "https://www.bbc.com/news/articles/c9d3v2d6p1eo"
-  },
-  {
-    "text": "Exclusive: There’s a new T. rex in town—and this giant beast ruled the seas - Yahoo",
-    "fullText": "Equipped with powerful jaws and finely serrated teeth, paleontologists say the 43-foot-long prehistoric marine reptile deserves the name Tylosaurus rex.",
-    "link": "https://www.nationalgeographic.com/science/article/tylosaurus-rex-mosasaur"
-  },
-  {
-    "text": "Ebola responders say aid cuts by Western nations left them ill-equipped for outbreak - The Washington Post",
-    "fullText": "The sweeping aid cuts have left the Democratic Republic of Congo struggling to contain an Ebola outbreak despite its extensive experience with the disease.",
-    "link": "https://www.washingtonpost.com/world/2026/05/21/ebola-responders-say-aid-cuts-under-trump-left-them-unprepared-outbreak/"
-  },
-  {
-    "text": "Spotify Introduces AI-Generated Personal Podcasts - The Hollywood Reporter",
-    "fullText": "Per the new feature, Spotify will create a audio based on prompts such as \"Share my daily city updates, and tell me about local concerts from artists I love.\"",
-    "link": "http://www.hollywoodreporter.com/business/digital/spotify-ai-generated-personal-podcasts-1236603314/"
-  },
-  {
-    "text": "New Shohei Ohtani Trade Rumors Uncover Failed Blockbuster Talks Between Rays and Angels - Bleacher Report",
-    "fullText": "The Tampa Bay Rays aren't known for taking big swings on the trade market, but they tried to go after the biggest fish in MLB before Arte Moreno stepped in to shut it down.",
-    "link": "https://bleacherreport.com/articles/25429983-new-shohei-ohtani-trade-rumors-uncover-failed-blockbuster-talks-between-rays-and-angels"
-  },
-  {
-    "text": "Walmart warns US shoppers are cutting spending as higher petrol prices bite - BBC",
-    "fullText": "The retail giant said it expects customers to cut back in the coming months due to higher pump prices.",
-    "link": "https://www.bbc.com/news/articles/cj9prkzwr8vo"
+    "text": "Conor McGregor: ‘I am better than ever’ ahead of ending 5-year layoff in rematch with Max Holloway - MMA Fighting",
+    "fullText": "Conor McGregor sends a message to fans ahead of his long-awaited return to the UFC octagon.",
+    "link": "https://www.mmafighting.com/ufc/489851/conor-mcgregor-i-am-better-than-ever-ahead-of-ending-5-year-layoff-in-rematch-with-max-holloway"
   }
 ]
