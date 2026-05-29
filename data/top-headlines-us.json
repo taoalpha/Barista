@@ -1,8 +1,78 @@
 [
   {
+    "text": "A rare blue micromoon rises this weekend - AP News",
+    "fullText": "Get set for a rare blue micromoon this weekend. It's when a blue moon that's also the most distant and smallest-looking full moon of the year rises. The brilliant star Antares will photobomb Sunday's spectacle for a celestial three-for-one. A blue moon occurs…",
+    "link": "https://apnews.com/article/blue-micromoon-supermoon-astronomy-52449eae9ac9cc2c3fd42e4805d66cee"
+  },
+  {
+    "text": "Live Updates: Iran fires missile at Kuwait after U.S. strikes, as Trump says regime \"negotiating on fumes\" - CBS News",
+    "fullText": "Iran says it targeted a U.S. base in retaliation for the second set of what the Pentagon calls \"purely defensive\" strikes carried out this week.",
+    "link": "https://www.cbsnews.com/live-updates/iran-war-us-strikes-trump-oman-strait-of-hormuz-deal/"
+  },
+  {
+    "text": "\"Vast fortune\" belonging to legendary Mafia boss seized by police in Italy - CBS News",
+    "fullText": "Italy said it was seizing $232 million in assets belonging to the late Mafia boss Matteo Messina Denaro, who was captured after 30 years on the run.",
+    "link": "https://www.cbsnews.com/news/mafia-matteo-messina-denaro-vast-fortune-seized-police-italy/"
+  },
+  {
+    "text": "Caesars Entertainment Agrees to $5.7 Billion Fertitta Takeover - Bloomberg.com",
+    "fullText": "Caesars Entertainment Inc. has agreed to be bought by Fertitta Entertainment Inc. in a $5.7 billion, all-cash deal that stands to form a massive entertainment empire in the US.",
+    "link": "https://www.bloomberg.com/news/articles/2026-05-28/caesars-entertainment-agrees-to-5-7-billion-fertitta-takeover"
+  },
+  {
+    "text": "A federal judge in D.C. declines to block Trump's executive order on voting by mail - NPR",
+    "fullText": "A federal judge in Washington, D.C., has declined to temporarily block President Trump's executive order that calls for restricting mail-in voting. Another judge may rule on the order soon.",
+    "link": "https://www.npr.org/2026/05/28/nx-s1-5797889/trump-mail-in-voting-order"
+  },
+  {
+    "text": "Plans for the Gaza International Stabilization Force are in question as troop pledges stall - AP News",
+    "fullText": "An international stabilization force promised for Gaza has yet to materialize three months after it was announced at an event hosted by U.S. President Donald Trump. None of the five countries that pledged troops have come through with any significant contribu…",
+    "link": "https://apnews.com/article/israel-hamas-gaza-trump-indonesia-stabilization-force-a5e1d4a894746104c1335b6962c0ab69"
+  },
+  {
+    "text": "US justice department launches criminal investigation into Trump accuser E Jean Carroll, reports say - BBC",
+    "fullText": "The case centres on whether the former columnist lied about the funding she received for her civil lawsuit against the US president.",
+    "link": "https://www.bbc.com/news/articles/clyp77jd407o"
+  },
+  {
+    "text": "Chinese online retailer Temu hit with $232 million fine over illegal products - AP News",
+    "fullText": "European Union regulators have fined Chinese online retailer Temu for failing to protect consumers from illegal products. The 27-nation bloc's investigation found that Temu exposed consumers to high-risk items like baby toys and small electronics that didn't …",
+    "link": "https://apnews.com/article/temu-european-union-brussels-ecommerce-digital-07f53e968da89562e3f032abfa626fa4"
+  },
+  {
+    "text": "Paxton win sparks GOP money panic - Politico",
+    "fullText": "The challenge for both parties is that Texas is a uniquely expensive state to campaign in.",
+    "link": "https://www.politico.com/news/2026/05/28/republicans-texas-money-concerns-battlegrounds-00939207"
+  },
+  {
+    "text": "‘It isn’t canceled’: Inside the White House divisions on AI - Politico",
+    "fullText": "Trump’s abandoned AI order emerged from weeks of NDA-bound talks with OpenAI, Anthropic and Google.",
+    "link": "https://www.politico.com/news/2026/05/28/it-isnt-canceled-inside-the-white-house-divisions-on-ai-00938557"
+  },
+  {
+    "text": "Stock Market Today: Dow Futures Slip, Oil Rises as Mideast Hostilities Flare — Live Updates - WSJ",
+    "fullText": null,
+    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-28-2026"
+  },
+  {
+    "text": "Trump wants a gas tax holiday. There’s a much bigger problem looming - NPR",
+    "fullText": "Suspending the federal gasoline tax could save drivers up to 18.4 cents per gallon. But it would drain the fund meant to cover roadbuilding and repairs — a fund that's already in trouble.",
+    "link": "https://www.npr.org/2026/05/28/nx-s1-5835634/gasoline-tax-holiday-trump-potholes"
+  },
+  {
     "text": "Chris Brown's Security Head Says He Paid Ex-Housekeeper 5-Figure Sum After Dog Attack - TMZ",
     "fullText": "Chris Brown's security guard says he personally handed over close to $40K to the singer's ex-housekeeper after his dog allegedly attacked her ... according to the transcript of his deposition.",
     "link": "https://www.tmz.com/2026/05/28/chris-brown-security-paid-ex-housekeeper-almost-40-thousand/"
+  },
+  {
+    "text": "Vertu wants CEOs to run companies from an AI foldable starting at $6,880 - TechCrunch",
+    "fullText": "Built on top of the open-source Hermes project, Vertu's new foldable combines AI-agent workflows, enterprise integrations, and ultra-premium luxury finishes.",
+    "link": "https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/"
+  },
+  {
+    "text": "A Google engineer made $1.2 million by insider trading on Polymarket under the name 'AlphaRaccoon': DOJ - Business Insider",
+    "fullText": "The DOJ charged Michele Spagnuolo, accusing him of using confidential Google information to mint over $1 million.",
+    "link": "https://www.businessinsider.com/google-engineer-polymarket-insider-trading-doj-2026-5"
   },
   {
     "text": "The golden age of handheld gaming is already over - The Verge",
@@ -10,83 +80,8 @@
     "link": "https://www.theverge.com/games/938451/steam-deck-price-hike-end-of-handheld-gaming-era"
   },
   {
-    "text": "Israel issues evacuation order for swathes of southern Lebanon - BBC",
-    "fullText": "The military says areas south of the Zahrani River are now \"combat zones\" as it begins fresh strikes.",
-    "link": "https://www.bbc.com/news/articles/cj3pgrpmlklo"
-  },
-  {
-    "text": "Ex-CIA official charged with stealing millions of dollars in gold bars - NPR",
-    "fullText": "A former senior CIA official with top secret-level clearance is accused of stealing hundreds of gold bars worth more than $40 million from the federal government and stashing them in his home.",
-    "link": "https://www.npr.org/2026/05/28/nx-s1-5837160/ex-cia-official-stealing-gold-bars"
-  },
-  {
-    "text": "Trump Files Revised Defamation Lawsuit Against WSJ Publisher - WSJ",
-    "fullText": null,
-    "link": "https://www.wsj.com/us-news/law/trump-files-revised-defamation-lawsuit-against-wsj-publisher-3c944f80"
-  },
-  {
-    "text": "Ex-federal judges ask court to reopen Trump’s IRS lawsuit, probe payout fund - The Washington Post",
-    "fullText": "The 35 former judges want a court to investigate whether the unusual agreement to create the $1.8 billion fund was an act of fraud.",
-    "link": "https://www.washingtonpost.com/national-security/2026/05/28/ex-federal-judges-ask-court-reopen-trumps-irs-lawsuit-probe-payout-fund/"
-  },
-  {
-    "text": "Poll shows Becerra opening lead in California governor’s race - Politico",
-    "fullText": "The Democratic frontrunner is in position to draw a Republican matchup in November.",
-    "link": "https://www.politico.com/news/2026/05/28/poll-becerra-lead-governors-race-00939121"
-  },
-  {
-    "text": "Anger and suspicion as Ebola spreads through eastern DR Congo - Financial Times",
-    "fullText": "Disinformation and mistrust have hampered efforts to contain third-worst outbreak of virus in history",
-    "link": "https://www.ft.com/content/24b6d503-47ac-4c2c-9ebf-c87d94e5d647?syn-25a6b1a6\\\\u003d1"
-  },
-  {
-    "text": "US strikes Iran targets for second time in three days - BBC",
-    "fullText": "The hostilities come during a fragile ceasefire between the US and Iran, and protracted negotiations to end the three-month war.",
-    "link": "https://www.bbc.com/news/articles/c98r2qy5809o"
-  },
-  {
-    "text": "Google engineer made $1.2M by placing bets on Polymarket using confidential info, prosecutors allege - NBC News",
-    "fullText": "A Google software engineer was accused Wednesday of using confidential company information to make over $1.2 million on Polymarket in the second significant criminal case tied to trades on the prediction market platform.",
-    "link": "https://www.nbcnews.com/news/us-news/google-engineer-polymarket-bets-confidential-information-rcna347249"
-  },
-  {
-    "text": "Why Google’s AI can’t spell Google (or anything else) - TechCrunch",
-    "fullText": "Google is embarrassing itself, again.",
-    "link": "https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/"
-  },
-  {
-    "text": "'Disclosure Day' First Reactions: Praise for Spielberg and Emily Blunt - Variety",
-    "fullText": "First reactions to Steven Spielberg's \"Disclosure Day\" praise the director and star Emily Blunt's performance.",
-    "link": "https://variety.com/2026/film/news/disclosure-day-first-reactions-spielberg-emily-blunt-praise-1236760402/"
-  },
-  {
-    "text": "The Texas Senate candidates have two radically different visions of Christianity - vox.com",
-    "fullText": "A religious fight is brewing in the Lone Star state.",
-    "link": "https://www.vox.com/politics/490105/talarico-paxton-texas-christian-religious-senate-election-primary-nationalism-love-presbyterian-baptist"
-  },
-  {
-    "text": "New York, New Jersey subpoena FIFA over World Cup ticket pricing - NBC Sports",
-    "fullText": "As it turns out, there's a limit to the power of FIFA.",
-    "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/new-york-new-jersey-subpoena-fifa-over-world-cup-ticket-pricing"
-  },
-  {
-    "text": "'Mobland' star Tom Hardy accused of 'career suicide' after allegedly leaving castmates stranded on set: report - Yahoo",
-    "fullText": "Tom Hardy reportedly refused to leave his trailer for hours on the \"Mobland\" set, allegedly stalling production and leaving co-stars idle on set.",
-    "link": "https://www.foxnews.com/entertainment/mobland-star-tom-hardy-accused-career-suicide-allegedly-leaving-castmates-stranded-set-report"
-  },
-  {
-    "text": "Gayle King Has a Bonkers Cheating Story for You - The Cut",
-    "fullText": "On an episode of ‘Call Her Daddy,’ Gayle King told Alex Cooper in visceral detail about catching her now-ex-husband, William Bumpus, cheating on her with her close friend. It’s a doozy.",
-    "link": "http://www.thecut.com/article/gayle-king-bonkers-cheating-story-call-her-daddy.html"
-  },
-  {
-    "text": "Pentagon puts building blocks in place for Cuba invasion - Politico",
-    "fullText": "The Navy’s presence in the Caribbean has not reduced despite the Iran war.",
-    "link": "https://www.politico.com/news/2026/05/27/cuba-us-military-attack-00938740"
-  },
-  {
-    "text": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips - TechCrunch",
-    "fullText": "Snowflake has signed a new, enormous five-year deal with Amazon to secure chips for AI usage. Nvidia is once again being put on notice.",
-    "link": "https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/"
+    "text": "Ferrari Asked Its F1 Drivers About The Luce EV. Here’s What They Said - Motor1.com",
+    "fullText": "F1 drivers Charles Leclerc and Lewis Hamilton star in a new video featuring the electric Luce. The two speak their mind about Ferrari's first EV.",
+    "link": "https://www.motor1.com/news/797130/lewis-hamilton-charles-leclerc-ferrari-luce/"
   }
 ]
