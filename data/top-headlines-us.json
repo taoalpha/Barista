@@ -1,13 +1,58 @@
 [
   {
+    "text": "Stock Market Today: Nasdaq Drops 2% After Strong Jobs Report — Live Updates - WSJ",
+    "fullText": null,
+    "link": "https://www.wsj.com/livecoverage/may-jobs-report-stock-market-06-05-2026"
+  },
+  {
+    "text": "Israel-Hezbollah ceasefire remains elusive, leaving Lebanon in the crossfire - The Washington Post",
+    "fullText": "The latest attempt at an effective truce fails as fighting along the border intensifies.",
+    "link": "https://www.washingtonpost.com/world/2026/06/05/israel-hezbollah-ceasefire-remains-elusive-leaving-lebanon-crossfire/"
+  },
+  {
+    "text": "Space station crew briefly moves to \"safe haven\" amid concerns over leaks - CBS News",
+    "fullText": "Out of an abundance of caution, NASA briefly directed five of the seven crew members aboard the International Space Station to wait inside the docked SpaceX Crew Dragon \"Freedom\" spacecraft.",
+    "link": "https://www.cbsnews.com/news/space-station-crew-iss-safe-haven-leak-repair/"
+  },
+  {
+    "text": "Graham Platner accuser calls NYT article 'a gift' to his Senate campaign - WMTW",
+    "fullText": "In her first public statements, the woman who accused Graham Platner of abuse during their relationship in a New York Times report is now criticizing the journalists of \"shattering the trust\" she placed in them.",
+    "link": "https://www.wmtw.com/article/graham-platner-accuser-calls-nyt-article-a-gift-to-his-senate-campaign/71504589"
+  },
+  {
+    "text": "Bears edge closer to move for new stadium in northwest Indiana - ESPN",
+    "fullText": "The Bears took a significant step toward leaving Chicago on Friday after the team's board of directors voted Thursday to advance their stadium development plans in nearby Hammond, Indiana.",
+    "link": "https://www.espn.com/nfl/story/_/id/48976141/bears-edge-closer-move-new-stadium-northwest-indiana"
+  },
+  {
     "text": "Lesley Stahl, Bill Whitaker and Jon Wertheim say they’ll stay at ‘60 Minutes’ - NBC News",
     "fullText": "“60 Minutes” correspondents Leslie Stahl, Bill Whitaker and Jon Wertheim said Friday that they planned to stay on at the newsmagazine, capping days of turmoil.",
     "link": "https://www.nbcnews.com/business/media/60-minutes-lesley-stahl-bill-whitaker-jon-wertheim-stay-rcna348676"
   },
   {
-    "text": "Anthony Head, ‘Buffy’ and ‘Ted Lasso’ Star, Dies at 72 - Variety",
-    "fullText": "Anthony Head, the British actor known for his roles in 'Buffy the Vampire Slayer' and 'Ted Lasso,' has died. He was 72.",
-    "link": "https://variety.com/2026/tv/news/anthony-head-dead-buffy-ted-lasso-1236767881/"
+    "text": "LIVE: 2026 F1 Monaco Grand Prix - Free Practice 2 - racingnews365.com",
+    "fullText": "Follow all the action live from the second free practice session for the 2026 F1 Monaco Grand Prix.",
+    "link": "https://racingnews365.com/live-2026-f1-monaco-grand-prix-free-practice-2"
+  },
+  {
+    "text": "Inside Trump’s suddenly softened new green card policy - The Washington Post",
+    "fullText": "Big business, including tech and AI companies, launched a quiet but extensive lobbying effort against the green card policy requiring applicants to apply from abroad.",
+    "link": "https://www.washingtonpost.com/business/2026/06/05/how-big-business-tech-ai-softened-trump-new-green-card-policy/"
+  },
+  {
+    "text": "Ebola figures appear to offer hope as case numbers drop in DR Congo but it's not that simple - BBC",
+    "fullText": "There are now 380 confirmed cases of Ebola in DR Congo, far lower than initial estimates of suspected cases, writes Fergus Walsh.",
+    "link": "https://www.bbc.com/news/articles/c0q2q4y09elo"
+  },
+  {
+    "text": "Box Office: ‘Scary Movie’ Earns $7.7M, ‘Masters’ Summons $4.4M - The Hollywood Reporter",
+    "fullText": "This weekend, ’Backrooms’ and ‘Obsession’ are expected to continue record-breaking box office runs.",
+    "link": "http://www.hollywoodreporter.com/movies/movie-news/backrooms-obsession-box-office-scary-movie-masters-1236613838/"
+  },
+  {
+    "text": "South Africa rolls out game-changing HIV shot amid funding shortfalls - NPR",
+    "fullText": "A new twice-yearly HIV prevention injection could transform South Africa's fight against the epidemic — but U.S. aid cuts and limited doses threaten to slow its impact.",
+    "link": "https://www.npr.org/2026/06/05/nx-s1-5846846/south-africa-hiv-lenacapavir-aid"
   },
   {
     "text": "Here's an early look at the Steam Frame Welcome Tour after Valve officially announces summer release window - PC Guide",
@@ -15,78 +60,18 @@
     "link": "https://www.pcguide.com/news/heres-an-early-look-at-the-steam-frame-welcome-tour-after-valve-officially-announces-summer-release-window/"
   },
   {
+    "text": "'Top Gun: Maverick' actor James Handy stabbed to death in L.A.; girlfriend's son is arrested - Yahoo",
+    "fullText": "Handy appeared in a number of films including \"Top Gun: Maverick,\" \"Jumanji\" and \"Arachnophobia.\"",
+    "link": "https://www.yahoo.com/news/us/article/top-gun-maverick-actor-james-handy-stabbed-to-death-in-la-girlfriends-son-is-arrested-091453918.html"
+  },
+  {
+    "text": "The Top 10 Nintendo Switch 2 Games - Game Informer",
+    "fullText": "In honor of one full year of the Switch 2, here are the best games to play on Nintendo's latest console.",
+    "link": "https://gameinformer.com/2026/06/05/the-top-10-nintendo-switch-2-games"
+  },
+  {
     "text": "2027 NFL Mock Draft After Browns Add Another 1st in Myles Garrett Trade - Bleacher Report",
     "fullText": "June 1 unlocked a flurry of moves around the NFL, with the Myles Garrett trade serving as the headliner. By making the deal now, the Cleveland Browns immediately made themselves a primary player for the 2027 draft—which is already being lauded as the deepest …",
     "link": "https://bleacherreport.com/articles/25433568-2027-nfl-mock-draft-after-browns-add-another-1st-myles-garrett-trade"
-  },
-  {
-    "text": "U.S. job growth blows past forecasts, setting stage for Fed rate hikes - CoinDesk",
-    "fullText": "Bitcoin is now facing another headwind — the prospect of higher interest rates.",
-    "link": "https://www.coindesk.com/markets/2026/06/05/u-s-job-growth-blows-past-forecasts-setting-stage-for-fed-rate-hikes"
-  },
-  {
-    "text": "House GOP endorses Trump's Department of War renaming - Politico",
-    "fullText": "The move by the House Armed Services Committee injects another partisan wedge issue into an already fraught defense bill.",
-    "link": "https://www.politico.com/news/2026/06/05/house-republicans-war-department-ndaa-00951582"
-  },
-  {
-    "text": "Ukraine strikes cargo ships and admits Romania drone blast as Putin prepares for key speech - BBC",
-    "fullText": "Ukraine says it struck five ships carrying illegal cargo in the Sea of Azov and in coastal waters of Russian-occupied territories.",
-    "link": "https://www.bbc.com/news/articles/c707098wkzpo"
-  },
-  {
-    "text": "Graham Platner Faces Accusations Of 'Toxic' Relationships And Disturbing Behavior—Days After Sexting Scandal - Forbes",
-    "fullText": "Multiple women who had romantic relationships with Platner alleged to The New York Times that the presumptive Democratic nominee for the Senate in Maine showed disturbing or intimidating behavior.",
-    "link": "https://www.forbes.com/sites/antoniopequenoiv/2026/06/05/graham-platner-faces-accusations-of-toxic-relationships-and-disturbing-behavior-days-after-sexting-scandal/"
-  },
-  {
-    "text": "LIVE: Charles Leclerc sends statement in disrupted Monaco FP1 - racingnews365.com",
-    "fullText": "Follow all the action live as F1 returns to European soil with the first free practice session for the 2026 F1 Monaco Grand Prix.",
-    "link": "https://racingnews365.com/live-2026-f1-monaco-grand-prix-free-practice-1"
-  },
-  {
-    "text": "Xbox boss Asha Sharma still can't seem to decide on a stance regarding console exclusivity - Eurogamer",
-    "fullText": "The Xbox exclusivity conversation continues, and it doesn't look like much is actually changing.",
-    "link": "https://www.eurogamer.net/xbox-exclusives-asha-sharma-interview"
-  },
-  {
-    "text": "Senate OKs $70B immigration bill after rejecting efforts to permanently ban Trump's settlement fund - AP News",
-    "fullText": "The Senate has passed legislation to fund President Donald Trump’s immigration enforcement agencies, sending it to the House. The Friday morning passage came after weeks of delays and fierce backlash to an unrelated $1.776 billion settlement fund that threate…",
-    "link": "https://apnews.com/article/trump-settlement-fund-ice-border-patrol-vote-93b9f5b487997b629d87bf59a046d7ec"
-  },
-  {
-    "text": "Veteran actor James Handy fatally stabbed in Los Angeles, police say - ABC News - Breaking News, Latest News and Videos",
-    "fullText": null,
-    "link": "https://abcnews.com/US/veteran-actor-james-handy-fatally-stabbed-los-angeles/story?id\\\\u003d133611290"
-  },
-  {
-    "text": "The World Cup vs. bugs, germs and heat: Here's the game plan - NPR",
-    "fullText": "Despite a diminished federal presence, public health departments are preparing for common ailments that could afflict fans who gather for the event — and are keeping an eye on the Ebola outbreak, too.",
-    "link": "https://www.npr.org/2026/06/05/nx-s1-5846403/world-cup-mosquitoes-ebola-heat"
-  },
-  {
-    "text": "DOJ could still pay Jan. 6 rioters even without ‘anti-weaponization’ fund - NBC News",
-    "fullText": "Trump’s DOJ could still pay Jan. 6 rioters even without ‘anti-weaponization fund’",
-    "link": "https://www.nbcnews.com/politics/justice-department/doj-still-pay-jan-6-rioters-even-anti-weaponization-fund-rcna348426"
-  },
-  {
-    "text": "Newly-released bigoted police texts are ‘significant problem for the whole commonwealth’ - MassLive",
-    "fullText": null,
-    "link": "https://www.masslive.com/news/2026/06/newly-released-bigoted-police-texts-are-significant-problem-for-the-whole-commonwealth.html"
-  },
-  {
-    "text": "Niger: Nearly 50 people die of thirst after lorry breaks down in Sahara desert - BBC",
-    "fullText": "Only two survived after trekking more than 50km (30 miles) across the desert to alert the authorities.",
-    "link": "https://www.bbc.com/news/articles/c62r2ldyejro"
-  },
-  {
-    "text": "What to Expect From Apple’s AI, Siri and iOS 27 Launch at WWDC 2026 - Bloomberg.com",
-    "fullText": "The iPhone maker will attempt its artificial intelligence turnaround on Monday.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-05/wwdc-2026-preview-ios-27-siri-ai-features-macos-27-more-apple-will-announce"
-  },
-  {
-    "text": "There’s More to Space Stocks Than SpaceX - WSJ",
-    "fullText": "Rocket Lab gives investors another way to play the space race",
-    "link": "https://www.wsj.com/finance/stocks/theres-more-to-space-stocks-than-spacex-282c71f2"
   }
 ]
