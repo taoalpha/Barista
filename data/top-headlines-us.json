@@ -1,97 +1,92 @@
 [
   {
+    "text": "Pentagon labels tech giant Alibaba and electric car maker BYD as aiding Chinese military - AP News",
+    "fullText": "The Pentagon has added several prominent Chinese businesses to its list of Chinese military companies. The list includes tech giant Alibaba, electric car maker BYD and search engine Baidu. The move prevents them from securing U.S. defense contracts. The list,…",
+    "link": "https://apnews.com/article/china-military-pentagon-alibaba-byd-baidu-unitree-4d664a6f164538b451263eafcceddaa5"
+  },
+  {
+    "text": "Apple introduces Siri AI, a profoundly more capable and personal assistant - Apple",
+    "fullText": "Apple introduces Siri AI, a profoundly more capable and personal assistant powered by Apple Intelligence, with personal context, world knowledge, and onscreen awareness.",
+    "link": "https://www.apple.com/newsroom/2026/06/apple-introduces-siri-ai-a-profoundly-more-capable-and-personal-assistant/"
+  },
+  {
+    "text": "Wembanyama, Spurs stun Knicks in MSG to revive Finals hopes - ESPN",
+    "fullText": "Victor Wembanyama had 32 points, eight rebounds and six assists in his first NBA Finals win as the Spurs cut the series lead to 2-1.",
+    "link": "https://www.espn.com/nba/story/_/id/49005881/wembanyama-spurs-stun-knicks-msg-revive-finals-hopes"
+  },
+  {
+    "text": "Nick Reiner Claims He's Being Blocked From Inheritance Left Behind By Parents - TMZ",
+    "fullText": "Nick Reiner wants the money he says he's owed from the trust his parents Rob and Michele Reiner set up for him ... as he awaits trial for their murders.",
+    "link": "https://www.tmz.com/2026/06/08/nick-reiner-wants-trust-fund-money/"
+  },
+  {
+    "text": "Trump’s $100,000 fee on H-1B visas for highly skilled workers is struck down - The Washington Post",
+    "fullText": "A judge declared President Donald Trump’s fee unlawful. The fee narrowed a major pathway for legal immigration that is used by tech companies, hospitals and universities.",
+    "link": "https://www.washingtonpost.com/business/2026/06/08/court-strike-down-trumps-h-1b-100000-fee/"
+  },
+  {
+    "text": "Trump is greeted by boos at Madison Square Garden during the NBA Finals - The Washington Post",
+    "fullText": "The president's arrival added tension and chaos to an already historic run by his hometown Knicks.",
+    "link": "https://www.washingtonpost.com/sports/2026/06/09/president-trump-greeted-by-boos-arrives-madison-square-garden-nba-finals/"
+  },
+  {
+    "text": "Republicans hope Trump retreats on Pulte to save spy law - Politico",
+    "fullText": "The president has interviewed other potential intelligence directors as lawmakers seek off-ramp.",
+    "link": "https://www.politico.com/news/2026/06/08/bill-pulte-dni-fisa-section-702-00954114"
+  },
+  {
+    "text": "Amid Georgia directive to not schedule Texas Tech, Cody Campbell calls out Georgia football program - DawgNation",
+    "fullText": "Josh Brooks suggests programs consider not playing Texas Tech in any sports after judge grants injunction overriding NCAA ban on QB who gambled.",
+    "link": "https://www.dawgnation.com/football/amid-georgia-directive-not-schedule-texas-tech-cody-campbell-calls-out-georgia-football-program/L2OMRV5GOVDYLMROOYD2FTEMXM/"
+  },
+  {
+    "text": "Instagram is finally letting everyone reorganize their profile grid - The Verge",
+    "fullText": "On June 8th, Instagram widely launched the ability to freely rearrange the order of photos and videos on your profile page.",
+    "link": "https://www.theverge.com/tech/946458/instagram-is-finally-letting-everyone-reorganize-their-grid"
+  },
+  {
+    "text": "'Wicked' actors Ariana Grande and Ethan Slater split after 3 years - Entertainment Weekly",
+    "fullText": "Ariana Grande and Ethan Slater's relationship of nearly three years has ended, a source confirms to 'Entertainment Weekly.'",
+    "link": "https://ew.com/wicked-actors-ariana-grande-and-ethan-slater-split-after-three-years-11993638"
+  },
+  {
+    "text": "USDA Secretary Rollins calls Texas ag chief 'unserious' amid screwworm threat - CNBC",
+    "fullText": "Texas Agriculture Commissioner Sid Miller lost his bid for a fourth term in a March Republican primary, despite Trump's endorsement.",
+    "link": "https://www.cnbc.com/2026/06/08/rollins-miller-texas-ag-chief-unserious-screwworm-threat-trump.html"
+  },
+  {
+    "text": "ICC chief prosecutor suspended pending decision by oversight body over sexual misconduct allegations - AP News",
+    "fullText": "The embattled chief prosecutor of the International Criminal Court has been suspended from his duties after the court’s oversight body referred Karim Khan for disciplinary proceedings. In a scandal that has dragged on for more than two years, Khan is facing a…",
+    "link": "https://apnews.com/article/international-criminal-court-khan-suspended-8d7b68e361a27ef08cfe515a131af230"
+  },
+  {
+    "text": "iOS 27 Tidbits: Share a Phone Number on Two iPhones, Independent Alarm Volume, Faster AirPlay and More - MacRumors",
+    "fullText": "At the WWDC 2026 keynote, Apple detailed iOS 27 changes like a new version of Siri with a dedicated Siri app and Apple Intelligence features across...",
+    "link": "https://www.macrumors.com/2026/06/08/ios-27-tidbits/"
+  },
+  {
+    "text": "Karmelo Anthony Murder Trial Detective Says Knife in Stabbing Was Legal in Texas - TMZ",
+    "fullText": "The knife Karmelo Anthony allegedly used to fatally stab Austin Metcalf at a high school track meet wasn't illegal under Texas law ... according to a police detective who testified in Anthony's murder trial.",
+    "link": "https://www.tmz.com/2026/06/08/karmelo-anthony-murder-trial-police-detective-testifies-knife-legal/"
+  },
+  {
+    "text": "Stock Market News June 8, 2026: Dow ends lower, S&P 500 rises, while Nasdaq snaps three-day losing streak as tech bounces; oil rises even after Iran and Israel say they have halted strikes - MarketWatch",
+    "fullText": "Follow stock market actions on Monday. Tech was a bright spot, with Intel's shares surging after Google reportedly placed an order with the company to make AI chips.",
+    "link": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-set-to-weaken-nasdaq-to-rise-after-worst-day-for-stocks-in-ten-months"
+  },
+  {
+    "text": "Check Out Knicks Shirts Given to All Fans at MSG for NBA Finals Game 3 vs. Spurs in Photos - Bleacher Report",
+    "fullText": "Madison Square Garden is ready for Game 3 of the NBA Finals.",
+    "link": "https://bleacherreport.com/articles/25435399-check-out-knicks-shirts-given-all-fans-msg-nba-finals-game-3-vs-spurs-photos"
+  },
+  {
     "text": "Targeting Cancer-Specific Mutations with RNA-Triggered Chromatin Shredding - Nature",
     "fullText": "Nature - Targeting Cancer-Specific Mutations with RNA-Triggered Chromatin Shredding",
     "link": "https://www.nature.com/articles/s41586-026-10738-7"
   },
   {
-    "text": "Stock Market Today: Nasdaq Opens Higher; Oil Rallies After Iran-Israel Trade Strikes — Live Update - WSJ",
-    "fullText": null,
-    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-08-2026"
-  },
-  {
-    "text": "Following Anthropic, OpenAI files confidentially for IPO - TechCrunch",
-    "fullText": "The filing comes a little more than a week after its main rival, Anthropic, also filed to go public, ramping up the race between the two AI firms.",
-    "link": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/"
-  },
-  {
-    "text": "tvOS 27 Drops Support for Two Apple TV Models - MacRumors",
-    "fullText": "The upcoming tvOS 27 update that was previewed today drops support for two Apple TV models.   The two Apple TV models that are compatible with tvOS...",
-    "link": "https://www.macrumors.com/2026/06/08/tvos-27-compatible-apple-tv-models/"
-  },
-  {
-    "text": "iOS 27 and iPadOS 27 don’t drop support for any iPhones—and just a few iPads - Ars Technica",
-    "fullText": "This promises to be a solid release for aging iPhones.",
-    "link": "https://arstechnica.com/gadgets/2026/06/ios-27-and-ipados-27-dont-drop-support-for-any-iphones-and-just-a-few-ipads/"
-  },
-  {
-    "text": "After escalating strikes, Israel and Iran signal end to attacks - The Washington Post",
-    "fullText": "President Donald Trump had urged restraint after the two countries intensified attacks, and Iran said it would halt its strikes.",
-    "link": "https://www.washingtonpost.com/world/2026/06/08/airstrikes-intensify-israel-iran-clashes-leave-ceasefire-brink/"
-  },
-  {
-    "text": "Karmelo Anthony trial updates: Defense rests case after Anthony not called to testify - Dallas News",
-    "fullText": "Karmelo Anthony’s murder trial resumed Monday after prosecutors rested and the defense began calling witnesses in the fatal stabbing of Austin Metcalf.",
-    "link": "https://www.dallasnews.com/news/courts/article/karmelo-anthony-trial-live-updates-austin-metcalf-22294444.php"
-  },
-  {
-    "text": "Trump, Mamdani slated to cheer on Knicks during finals game in New York - ABC News - Breaking News, Latest News and Videos",
-    "fullText": null,
-    "link": "https://abcnews.com/US/trump-mamdani-slated-cheer-knicks-finals-game-new/story?id\\\\u003d133649027"
-  },
-  {
-    "text": "Pentagon revises religious classification list after Utah lawmakers push for change - KUTV",
-    "fullText": "Pentagon officials revised the new religious classification list after several days of criticism from Utah lawmakers.Sen. John Curtis announced the change Monda",
-    "link": "https://kutv.com/news/local/pentagon-revises-religious-classification-list-after-utah-lawmakers-push-for-change"
-  },
-  {
-    "text": "Everything Apple Announced at WWDC 2026 - WIRED",
-    "fullText": "Updates include a new souped-up Siri, lots of iOS enhancements, and some inkling on how an AI partnership with Google has come to power Apple’s products.",
-    "link": "https://www.wired.com/story/everything-apple-announced-at-wwdc-2026/"
-  },
-  {
-    "text": "John Summit Responds to His Set Being Shut Down After Interruption By Travis Scott: ‘Last Night Was Out of Control’ - Yahoo",
-    "fullText": "John Summit's Monaco set shut down after Travis Scott interruption.",
-    "link": "http://www.billboard.com/music/music-news/john-summit-travis-scott-show-monaco-france-1236267462/"
-  },
-  {
-    "text": "Knicks say $1 million was the winning bid for 2 celebrity row seats for Game 3 of the NBA Finals - AP News",
-    "fullText": "In the NBA Finals, celebrity row property is worth $1 million. The New York Knicks announced that was the winning bid in an auction for two seats for Game 3 on Monday night, the first NBA Finals game at Madison Square Garden since 1999. The winning bid was sp…",
-    "link": "https://apnews.com/article/nba-finals-knicks-celebrity-row-auction-89652bc45d464496b45a7359a625615f"
-  },
-  {
-    "text": "Big 12 teams consider not playing Texas Tech, given the Brendan Sorsby ruling - NBC Sports",
-    "fullText": "Would other Big 12 teams boycott Texas Tech games?",
-    "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/big-12-teams-consider-not-playing-texas-tech-given-the-brendan-sorsby-ruling"
-  },
-  {
-    "text": "Strong earthquake off northwest Cuba felt in South Florida - NBC 6 South Florida",
-    "fullText": "A strong earthquake in the southern Gulf off Cuba was felt in parts of South Florida and the rest of the state on Monday.",
-    "link": "https://www.nbcmiami.com/news/local/strong-earthquake-off-northwest-cuba-reportedly-felt-in-florida/3818106/"
-  },
-  {
-    "text": "Due to DMA, Siri AI delayed in EU for iOS 27 and iPadOS 27 - Apple",
-    "fullText": "Due to the Digital Markets Act, Apple will not be able to ship Siri AI in the European Union with the release of iOS 27 and iPadOS 27.",
-    "link": "https://www.apple.com/newsroom/2026/06/due-to-dma-siri-ai-delayed-in-eu-for-ios-27-and-ipados-27/"
-  },
-  {
-    "text": "Developing | US adds Alibaba, BYD and other Chinese tech champions to military company blacklist - South China Morning Post",
-    "fullText": "Trump administration has designated top China firms as ‘Chinese military companies’ operating in the United States.",
-    "link": "https://www.scmp.com/news/china/diplomacy/article/3356419/us-adds-alibaba-byd-and-other-chinese-tech-champions-military-company-list"
-  },
-  {
-    "text": "Bowen Yang Explains His Truncated Final SNL Season - Vulture",
-    "fullText": "Bowen Yang explained why he came back to ‘Saturday Night Live’ season 51 for just half a season. ‘Lorne called me while I was at the U.S. Open eating Coqodaq chicken.’",
-    "link": "http://www.vulture.com/article/bowen-yang-saturday-night-live-departure-explanation.html"
-  },
-  {
-    "text": "Spencer Pratt Is Doing Totally Fine, Okay? - The Cut",
-    "fullText": "After former reality star and registered Republican Spencer Pratt dropped to third place in the Los Angeles mayoral race, he insinuated Nithya Raman pulled ahead because of fraudulent votes.",
-    "link": "http://www.thecut.com/article/is-spencer-pratt-out-of-the-l-a-mayoral-race.html"
-  },
-  {
-    "text": "Berlin declares Franco-German fighter jet project dead in blow to Macron - politico.eu",
-    "fullText": "Paris and Berlin are pulling the plug on a key defense program in a decision likely to tarnish French President Emmanuel Macron’s legacy.",
-    "link": "https://www.politico.eu/article/berlin-declares-france-germany-next-gen-fighter-jet-project-dead/"
+    "text": "macOS 27 requires Apple Silicon, as Apple draws down the Intel Mac era - Ars Technica",
+    "fullText": "You'll need an M1 or better to run the next release of macOS.",
+    "link": "https://arstechnica.com/gadgets/2026/06/macos-27-requires-apple-silicon-as-apple-draws-down-the-intel-mac-era/"
   }
 ]
