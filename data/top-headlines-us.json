@@ -1,23 +1,68 @@
 [
   {
+    "text": "Afghan Taliban hold first, closed-door talks with EU on deportations - AP News",
+    "fullText": "A Taliban delegation has met in Brussels with European Union staff for closed-door talks focusing on deportations, according to a Taliban official. Afghans are among the largest groups seeking asylum in the EU, but many governments want to speed up deportatio…",
+    "link": "https://apnews.com/article/afghan-taliban-brussels-eu-deportations-migration-f5053fa8c915bf19d0f483ac55fea86e"
+  },
+  {
+    "text": "Infleqtion, IBM, and Other Quantum Stocks Defy the Tech Selloff - Barron's",
+    "fullText": "The quantum computing sector is broadly getting a boost from two new executive orders fast-tracking the technology.",
+    "link": "https://www.barrons.com/articles/ibm-stock-infleqtion-quantum-edd70949"
+  },
+  {
+    "text": "Covid vaccine study the acting CDC director blocked is published in an outside journal - NBC News",
+    "fullText": "A study on the effectiveness of Covid vaccines that the CDC’s acting director previously blocked from publiation came out Tuesday in a different journal.",
+    "link": "https://www.nbcnews.com/health/health-news/study-covid-vaccines-acting-cdc-director-blocked-published-rcna351174"
+  },
+  {
+    "text": "The Fitbit Air takes a smarter approach to the AI health dumpster fire - The Verge",
+    "fullText": "The $99 Google Fitbit Air adds an ambitious AI-powered Google Health Coach. It’s clearly a work in progress, but it’s one of the better implementations so far.",
+    "link": "https://www.theverge.com/tech/954768/google-fitbit-air-review-fitness-tracker-wearable-ai-health-coach"
+  },
+  {
+    "text": "The Sound of Music Is Coming Back to Broadway, Starring Jasmine Amy Rogers - Playbill",
+    "fullText": "Plus, Bradley Whitford and Tom Blyth will star in A Few Good Men at Lincoln Center Theater.",
+    "link": "https://playbill.com/article/the-sound-of-music-is-coming-back-to-broadway-starring-jasmine-amy-rogers"
+  },
+  {
     "text": "Supreme Court rules against Rastafarian man over religious rights claim against prison officials - NBC News",
     "fullText": "The Supreme Court ruled in the case of a devout Rastafarian who sought damages after Louisiana prison officials cut his dreadlocks in violation of his religious beliefs.",
     "link": "https://www.nbcnews.com/politics/supreme-court/supreme-court-rules-rastafarian-man-religious-rights-claim-prison-offi-rcna252594"
   },
   {
-    "text": "Iran’s President Pezeshkian lands in Pakistan for talks after US deal - Al Jazeera",
-    "fullText": "Pakistan hosts Iranian President Masoud Pezeshkian after mediating the breakthrough US-Iran negotiations in Switzerland.",
-    "link": "https://www.aljazeera.com/news/2026/6/23/irans-president-lands-in-pakistan-after-crucial-talks-with-us"
+    "text": "Meta debuts new, cheaper smart glasses under its own brand - TechCrunch",
+    "fullText": "The smart glasses are available in several countries starting today in a variety of color and lens combinations.",
+    "link": "https://techcrunch.com/2026/06/23/meta-debuts-new-cheaper-smart-glasses-under-its-own-brand/"
   },
   {
-    "text": "Charlie Kirk murder suspect's ex-roommate can't testify at hearing, judge rules - CBS News",
-    "fullText": "The Utah judge in the murder case of Charlie Kirk's alleged killer has denied a defense request to force Tyler Robinson's former roommate to testify in person during the preliminary hearing.",
-    "link": "https://www.cbsnews.com/news/charlie-kirk-murder-suspect-ex-roommate-cant-testify/"
+    "text": "Valve Explains Why You Have To Pay $1,050 To $1,430 For A Steam Machine - Forbes",
+    "fullText": "Valve has finally revealed the price of the Steam Machine, and it's more than almost anyone predicted. Can you afford it?",
+    "link": "https://www.forbes.com/sites/paultassi/2026/06/23/valve-explains-why-you-have-to-pay-1050-to-1430-for-a-steam-machine/"
   },
   {
-    "text": "Michael Caine AI Clone To Voice 'The Odyssey' Audiobook For ElevenLabs - Deadline",
-    "fullText": "Ahead of Christopher Nolan's adaptation of 'The Odyssey,' the Greek epic is getting another reimagining courtesy of an AI Michael Caine.",
-    "link": "http://deadline.com/2026/06/michael-caine-ai-clone-voice-the-odyssey-audiobook-1236964794/"
+    "text": "Clive Davis helped launch or shape the careers of these music stars, across genres and decades - AP News",
+    "fullText": "The legendary music executive Clive Davis, who has died at age 94, was known for deep, trusting relationships with the musicians he represented. It was a mutual respect that allowed him to shape their careers — and them to shape his. Among those artists were …",
+    "link": "https://apnews.com/article/clive-davis-music-star-careers-singer-influence-26f348bd5793aaa2d5f331f21f73ad34"
+  },
+  {
+    "text": "5 things to watch for New York's primary day - Politico",
+    "fullText": "New York City Mayor Zohran Mamdani is putting significant political capital on the line.",
+    "link": "https://www.politico.com/news/2026/06/23/5-things-to-watch-for-new-yorks-primary-day-00971579"
+  },
+  {
+    "text": "Olivia Rodrigo says Lilith Fair inspired new Daisy Chain Fields festival - ABC News - Breaking News, Latest News and Videos",
+    "fullText": null,
+    "link": "https://abcnews.com/GMA/Culture/olivia-rodrigo-lilith-fair-inspired-new-daisy-chain/story?id\\\\u003d134104459"
+  },
+  {
+    "text": "SpaceX launches reentry capsule demo mission called ‘Starfall’ - Spaceflight Now",
+    "fullText": null,
+    "link": "https://spaceflightnow.com/2026/06/23/live-coverage-spacex-to-launch-reentry-capsule-demo-mission-called-starfall/"
+  },
+  {
+    "text": "Andy Burnham prepares for a UK Labour leadership contest that may be a coronation - AP News",
+    "fullText": "Andy Burnham is preparing for a Labour Party leadership contest that could make him Britain's prime minister within weeks. He's the strong front-runner to replace Prime Minister Keir Starmer who has announced that he will step down. Burnham is a former Cabine…",
+    "link": "https://apnews.com/article/andy-burnham-uk-labour-leadership-contest-starmer-693acb49a71838b7acf3f8fa4663f8bc"
   },
   {
     "text": "Live Updates: Trump says Iran \"completely agreed\" to nuclear inspections, but Tehran denies any such plans - CBS News",
@@ -25,24 +70,9 @@
     "link": "https://www.cbsnews.com/live-updates/iran-us-war-trump-nuclear-sites-strait-of-hormuz/"
   },
   {
-    "text": "Taylor Swift and Travis Kelce Fuel Speculation They May Secretly Tie the Knot in Rhode Island - Yahoo",
-    "fullText": "Taylor Swift and Travis Kelce have clearly mastered the art of keeping fans guessing. Rumors surrounding the couple’s wedding continue to dominate headlines, with much of the speculation centered on reports that they could exchange vows on July 3 at Madison S…",
-    "link": "https://intouchweekly.com/taylor-swift-and-travis-kelce-fuel-speculation-they-may-secretly-tie-the-knot-in-rhode-island/"
-  },
-  {
-    "text": "Column | A new subscription model could make rooftop solar as easy as Netflix - The Washington Post",
-    "fullText": "The end of federal tax credits for rooftop solar and flexible new subscriptions have changed the pros and cons of leasing versus buying.",
-    "link": "https://www.washingtonpost.com/climate-environment/2026/06/23/leasing-rooftop-solar-panels-your-home-can-be-better-than-buying-them/"
-  },
-  {
     "text": "Reports: Julius Randle traded to Nets on eve of draft - NBA.com",
     "fullText": "Minnesota reportedly deals star forward Julius Randle to the Nets as part of a 3-team swap on 2026 NBA Draft eve.",
     "link": "https://www.nba.com/news/reports-julius-randle-traded-to-nets-on-eve-of-draft"
-  },
-  {
-    "text": "Jimmy Haslam was reportedly a \"driving force\" in Giannis Antetokounmpo trade to Miami - NBC Sports",
-    "fullText": "Browns owner is taking a more active role in the Milwaukee Bucks.",
-    "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jimmy-haslam-was-reportedly-a-driving-force-in-giannis-antetokounmpo-trade-to-miami"
   },
   {
     "text": "France records hottest-ever night as 40 drown trying to escape heatwave - Al Jazeera",
@@ -50,38 +80,8 @@
     "link": "https://www.aljazeera.com/news/2026/6/23/about-20-drown-in-france-trying-to-escape-heatwave-sweeping-much-of-europe"
   },
   {
-    "text": "2026 NBA Mock Draft: Gary Parrish's final projections following Giannis Antetokounmpo blockbuster trade - CBS Sports",
-    "fullText": "With the draft now just hours away, AJ Dybantsa is poised to go to the Washington Wizards with the top pick",
-    "link": "https://www.cbssports.com/nba/news/2026-nba-mock-draft-giannis-antetokounmpo-trade/"
-  },
-  {
-    "text": "U.S. lifts Iran oil sanctions. And, federal judge rules SAVE voter tool unlawful - NPR",
-    "fullText": "The U.S. has temporarily lifted oil sanctions on Iran as peace talks continue. And, a federal judge ruled that the Trump administration's data system, known as SAVE, is unlawful.",
-    "link": "https://www.npr.org/2026/06/23/g-s1-129603/up-first-newsletter-iran-oil-sanctions-trump-economy-minnesota-subpoenas-save-voter-info"
-  },
-  {
-    "text": "Want to age better? Researchers say 4-minute routine may help prevent dangerous falls - Fox News",
-    "fullText": "A Penn State clinical trial finds just four minutes of daily strength exercise can improve mobility, balance, and leg strength in older adults.",
-    "link": "https://www.foxnews.com/health/want-age-better-researchers-say-4-minute-routine-may-help-prevent-dangerous-falls"
-  },
-  {
-    "text": "When falling housing prices are good news — and when they're not : Planet Money - NPR",
-    "fullText": "Denver renters are celebrating falling housing costs. But sometimes cheaper housing is a sign of economic decline. How can you tell the difference?",
-    "link": "https://www.npr.org/sections/planet-money/2026/06/23/g-s1-129339/when-falling-housing-prices-are-good-news-and-when-theyre-not"
-  },
-  {
-    "text": "What Owners Say Is The Biggest Problem With Foldable Phones - bgr.com",
-    "fullText": "Some of the things people don't like about foldables are the durability of the hinge, the subpar battery life, and the strange aspect ratio.",
-    "link": "https://www.bgr.com/2196864/what-do-owners-say-problem-foldable-phones/"
-  },
-  {
-    "text": "Democrats' Jeffries and Mamdani wings face off in New York - Axios",
-    "fullText": "Two Jeffries-backed incumbents are facing off against Mamdani-supported challengers.",
-    "link": "https://www.axios.com/2026/06/22/nyc-mamdani-goldman-lander-espaillat-jeffries"
-  },
-  {
-    "text": "White-collar baby boomers are facing a dilemma: Embrace AI or retire early - Business Insider",
-    "fullText": "They worked through Y2K, the Great Recession, and COVID. Then came AI.",
-    "link": "https://www.businessinsider.com/white-collar-baby-boomer-dilemma-embrace-ai-retire-early-2026-6#article"
+    "text": "10 years after Brexit, Starmer’s resignation highlights Britain’s deeper issues - NBC News",
+    "fullText": "10 years to the day after the Brexit vote, Britain was looking to Andy Burnham as its likely next leader after Prime Minister Keir Starmer announced his resignation.",
+    "link": "https://www.nbcnews.com/world/united-kingdom/starmer-resignation-britain-chaos-brexit-vote-burnham-economy-rcna351117"
   }
 ]
