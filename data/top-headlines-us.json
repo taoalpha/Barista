@@ -1,13 +1,58 @@
 [
   {
-    "text": "Stock Market Today: Dow Opens Higher After June Hiring Misses Expectations — Live Updates - WSJ",
-    "fullText": "Live updates on markets and the top finance, economics and business stories. Plus the latest on the jobs report, oil prices, the Dow, S&P 500 and Nasdaq.",
-    "link": "https://www.wsj.com/livecoverage/june-jobs-report-stock-market-07-02-2026"
+    "text": "Dow rises more than 300 points to record, Nasdaq falls again as chipmakers struggle: Live updates - CNBC",
+    "fullText": "The major averages ended lower Wednesday, with the Dow closing just below the flatline after erasing a 423.46-point jump that brought it to record highs.",
+    "link": "https://www.cnbc.com/2026/07/01/stock-market-today-live-updates.html"
   },
   {
-    "text": "Ford Q2 sales slide 10% on EV drop and model phase-outs; Bronco and Maverick hybrid set records - Yahoo Finance",
-    "fullText": "Ford (F) reported a 10.3% drop in second-quarter US sales, to 549,200 vehicles, as electric-vehicle demand tumbled, F-Series and SUV volumes slipped, and the...",
-    "link": "https://finance.yahoo.com/markets/stocks/article/ford-q2-sales-slide-10-on-ev-drop-and-model-phase-outs-bronco-and-maverick-hybrid-set-records-135627404.html"
+    "text": "Taylor Swift Wedding Details Revealed in New York Police Memo - The Hollywood Reporter",
+    "fullText": "A rehearsal dinner. A huge party. Hundreds of cops. And, perhaps, a big twist.",
+    "link": "http://www.hollywoodreporter.com/lifestyle/lifestyle-news/taylor-swift-wedding-details-schedule-time-1236635852/"
+  },
+  {
+    "text": "Boy dies from rabies after waking up to bat on his face - WFLA",
+    "fullText": "According to a journal report, the unnamed boy died several weeks after the bat landed on his face while on vacation in Ontario.",
+    "link": "https://www.wfla.com/news/national/boy-dies-from-rabies-after-waking-up-to-bat-on-his-face/"
+  },
+  {
+    "text": "Russian attacks kills at least 21, injures scores in Kyiv after Zelenskyy warned of ‘massive strike’ - NBC News",
+    "fullText": "Russia launched a large-scale attack on Ukraine’s capital overnight into Thursday that killed at least 20 people and injured scores as loud explosions shook Kyiv for hours.",
+    "link": "https://www.nbcnews.com/world/ukraine/russian-drone-missile-attack-kyiv-injures-five-hits-residential-buildi-rcna352675"
+  },
+  {
+    "text": "Last-minute launch problem delays satellite rescue mission for NASA - AP News",
+    "fullText": "A rush rescue mission to save a NASA space telescope remains grounded, this time because of a last-minute launch problem. Northrop Grumman's rocket-launching plane took off from the Marshall Islands in the Pacific on Thursday, following weather delays all wee…",
+    "link": "https://apnews.com/article/swift-nasa-katalyst-satellite-rescue-3c3c5858b865064134a480295567f7f6"
+  },
+  {
+    "text": "US economy added jobs at a slower pace than expected in June - Fox Business",
+    "fullText": "The Labor Department released the June 2026 jobs report, which showed the U.S. economy added jobs at a steady pace last month despite uncertainty over inflation.",
+    "link": "https://www.foxbusiness.com/economy/us-jobs-report-june-2026"
+  },
+  {
+    "text": "USMNT cannot appeal Folarin Balogun red card, he could face extended World Cup ban - sources - ESPN",
+    "fullText": "The USMNT has no route to appeal Folarin Balogun's red card against Bosnia and Herzegovina, sources have told ESPN, and he could face an extended ban.",
+    "link": "https://www.espn.com/soccer/story/_/id/49248052/usmnt-cannot-appeal-folarin-balogun-red-card-face-extended-world-cup-ban-sources"
+  },
+  {
+    "text": "Albanian police use tear gas and pepper spray as Tirana protest turns violent - AP News",
+    "fullText": "Albanian police clashed with protesters in Tirana during a demonstration against government corruption and a luxury development linked to Jared Kushner, son-in-law of U.S. President Donald Trump. On Thursday, police used tear gas and pepper spray as protester…",
+    "link": "https://apnews.com/article/albania-kushner-trump-development-protest-tourism-clashes-063288405ee82156e32e6bde500d0569"
+  },
+  {
+    "text": "Tesla Sales Blow Away Expectations. Why The Stock Is Dropping. - Barron's",
+    "fullText": "Tesla reports second-quarter deliveries of 480,126 vehicles, up from 384,122 a year ago.",
+    "link": "https://www.barrons.com/articles/tesla-stock-price-deliveries-second-quarter-91c8e6af"
+  },
+  {
+    "text": "Prince Harry Is Reportedly “Close to Tears” Over Security Fiasco As Sussex Family Trip to U.K. Hangs in the Balance - instyle.com",
+    "fullText": "Prince Harry is reportedly \"close to tears\" over the security situation surrounding his visit to the U.K., where he had hoped to bring wife Meghan Markle and their children Prince Archie and Princess Lilibet. The trip, slated to take place beginning on July 7…",
+    "link": "https://www.instyle.com/prince-harry-close-to-tears-security-fiasco-sussex-family-uk-trip-12011330"
+  },
+  {
+    "text": "Sitcom star announces divorce from ‘baby momma’ after 10 years in now-deleted post - Syracuse.com",
+    "fullText": null,
+    "link": "https://www.syracuse.com/celebrity-news/2026/07/sitcom-star-announces-divorce-from-baby-momma-after-10-years-in-now-deleted-post.html"
   },
   {
     "text": "U.S.-Iran Latest: Talks pause for slain ayatollah's funeral after Trump and mediators claim progress - CBS News",
@@ -15,88 +60,33 @@
     "link": "https://www.cbsnews.com/live-updates/us-iran-war-trump-negotiations-pause-ayatollah-funeral/"
   },
   {
+    "text": "Apple Eyes 10 Million Foldable iPhones in Major Expansion Move - Yahoo Finance",
+    "fullText": "Apple's Foldable iPhone Strategy Just Got Bigger as Production Forecast Jumps",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/apple-eyes-10-million-foldable-135339191.html"
+  },
+  {
+    "text": "Rep. Alexandria Ocasio-Cortez endorses Abdul El-Sayed in Michigan Democratic primary - NBC News",
+    "fullText": "Rep. Alexandria Ocasio-Cortez is throwing her support behind former Wayne County health director Abdul El-Sayed in the hotly contested Michigan Democratic Senate primary.",
+    "link": "https://www.nbcnews.com/politics/2026-election/alexandria-ocasio-cortez-endorses-abdul-el-sayed-michigan-primary-rcna352705"
+  },
+  {
+    "text": "Empire State Building Skywalking Lovebirds Awaiting Arraignment On Multiple Charges Following Wednesday’s Stunt - Deadline",
+    "fullText": "The two people who climbed to the top of the Empire State Building spire today are the stars of Netflix’s 2024 documentary 'Skywalkers: A Love Story'.",
+    "link": "http://deadline.com/2026/07/empire-state-building-skywalkers-1236972496/"
+  },
+  {
     "text": "Winners, losers from Jaylen Brown to 76ers for Paul George trade - NBC Sports",
     "fullText": "It's a good day for Philadelphia 76ers fans. And their team.",
     "link": "https://www.nbcsports.com/nba/news/winners-losers-from-jaylen-brown-to-76ers-for-paul-george-trade"
   },
   {
-    "text": "Joe Lauzon reveals UFC’s reaction after explaining his desire to come back for BKFC fight - MMA Fighting",
-    "fullText": "Joe Lauzon reveals what UFC’s Hunter Campbell said to him after he revealed he was coming back for a BKFC fight.",
-    "link": "https://www.mmafighting.com/bkfc/497235/joe-lauzon-explains-why-hes-returning-for-bkfc-fight-reveals-ufcs-reaction-to-his-comeback"
-  },
-  {
-    "text": "AOC endorses El-Sayed in Michigan Senate race - Politico",
-    "fullText": "Her endorsement could provide El-Sayed with a critical boost just over a month before the state’s Aug. 4 primary.",
-    "link": "https://www.politico.com/live-updates/2026/07/02/congress/alexandria-ocasio-cortez-michigan-senate-endorsement-00985388"
+    "text": "What is cyclosporiasis? Know the signs, prevention as Michigan health officials investigate outbreak - ClickOnDetroit | WDIV Local 4",
+    "fullText": "Michigan health officials are investigating an outbreak of cyclosporiasis across the state after at least 170 cases were reported within days.",
+    "link": "https://www.clickondetroit.com/news/local/2026/07/02/what-is-cyclosporiasis-know-the-signs-prevention-as-michigan-health-officials-investigate-outbreak/"
   },
   {
     "text": "Explosion heard in Syria’s capital Damascus: state media - Al Jazeera",
     "fullText": "Blast at a cafe reportedly kills five people and injures many more.",
     "link": "https://www.aljazeera.com/news/2026/7/2/explosion-heard-in-syrias-capital-damascus-state-media"
-  },
-  {
-    "text": "Supergirl Fans Blame Men For The Movie’s Failure - Giant Freakin Robot",
-    "fullText": "Are poor reviews really driven by misogyny, or are fans overlooking the real reasons audiences stayed away?",
-    "link": "https://www.giantfreakinrobot.com/ent/super/supergirl-fans-blame-men.html"
-  },
-  {
-    "text": "U.S. economy added 57,000 jobs in June, less than expected; unemployment rate at 4.2% - CNBC",
-    "fullText": "Nonfarm payrolls were expected to rise by 115,000 in June and the unemployment rate to hold steady at 4.3%.",
-    "link": "https://www.cnbc.com/2026/07/02/jobs-report-june-2026-.html"
-  },
-  {
-    "text": "Graham Norton and Phoebe Waller-Bridge spotted before rumoured Swift wedding - BBC",
-    "fullText": "Stars have been spotted arriving in New York ahead of Taylor Swift's wedding.",
-    "link": "https://www.bbc.com/news/articles/ce8ml4q37veo"
-  },
-  {
-    "text": "A major Russian attack kills 20 in Kyiv as Ukrainian strikes disrupt Moscow’s oil sector - AP News",
-    "fullText": "Russia has launched a massive drone and missile attack on Kyiv, killing at least 21 civilians in the city and injuring many more. Moscow says the assault is in retaliation for Ukrainian strikes on Russian oil facilities. The attack lasted 11 hours overnight i…",
-    "link": "https://apnews.com/article/russia-ukraine-war-kyiv-missile-drone-attack-384d5b6bcdfc6e7d8c18f25130332ef7"
-  },
-  {
-    "text": "FBI says it’s still investigating some notes in Nancy Guthrie case as legitimate - NBC News",
-    "fullText": "The FBI is still evaluating some notes relating to the disappearance of Nancy Guthrie as potentially “legitimate,” it said in an update.",
-    "link": "https://www.nbcnews.com/news/us-news/nancy-guthrie-fbi-investigating-notes-legitimate-extortion-demands-rcna352692"
-  },
-  {
-    "text": "Donors were misled by Trump-backed Freedom 250, House Democrats allege - The Washington Post",
-    "fullText": "The lawmakers’ report alleges that Trump allies worked to divert funds away from America250, a bipartisan effort to mark the nation’s semiquincentennial.",
-    "link": "https://www.washingtonpost.com/politics/2026/07/02/donors-were-misled-by-trump-backed-freedom-250-house-democrats-allege/"
-  },
-  {
-    "text": "Mystery box shows are complicated for everyone — even the actors - The Verge",
-    "fullText": "Apple TV’s postapocalyptic thriller Silo returns for season 3 on July 3rd, and the cast, including Rebecca Ferguson, talk about dealing with an increasingly complicated story.",
-    "link": "https://www.theverge.com/entertainment/960265/silo-season-3-apple-tv-interview-mystery-box"
-  },
-  {
-    "text": "Ranking the Lakers’ place in NBA championship race after Walker Kessler trade, FA moves - SB Nation",
-    "fullText": "Where do the Lakers rank among NBA championship contenders?",
-    "link": "https://www.sbnation.com/nba/1121235/los-angeles-lakers-nba-championship-projected-lineup-walker-kessler-luka-doncic-free-agent"
-  },
-  {
-    "text": "Beachgoers warned of flesh-eating bacteria ahead of July 4 - NewsNation",
-    "fullText": "The bacteria can enter the body through open wounds or by consuming raw oysters.",
-    "link": "https://www.newsnationnow.com/health/beachgoers-flesh-eating-bacteria-warning/"
-  },
-  {
-    "text": "Survivor buried by Venezuela quakes eight days ago is cheering rescuers on - BBC",
-    "fullText": "Hernán Gil was trapped under a collapsed multi-storey car park, and cheered rescuers on as they inched closer to him.",
-    "link": "https://www.bbc.com/news/articles/ce375v12z0qo"
-  },
-  {
-    "text": "Parasitic illness cases are spiking: The symptoms to watch for, including ‘explosive’ diarrhea - FOX 8 News",
-    "fullText": null,
-    "link": "https://fox8.com/news/parasitic-illness-cases-are-spiking-the-symptoms-to-watch-for-including-explosive-diarrhea/"
-  },
-  {
-    "text": "Trump denies conflict of interest over crypto. And, Vatican excommunicates rebel group - NPR",
-    "fullText": "Trump and his family earned over $1 billion last year through cryptocurrency ventures and other businesses. And, the Vatican declared that the traditionalist Society of St. Pius X has entered schism.",
-    "link": "https://www.npr.org/2026/07/02/g-s1-131702/up-first-newsletter-trump-crypto-earnings-society-pope-pius-venezuela-world-cup"
-  },
-  {
-    "text": "Rocket issue delays NASA launch of rescue mission to save Swift space telescope - Space",
-    "fullText": "A rocket launching to space from an airplane is sort of like a hat on a hat, but you know what? The more hats, the better.",
-    "link": "https://www.space.com/space-exploration/launches-spacecraft/nasa-to-launch-ambitious-mission-to-save-a-space-telescope-from-burning-up-in-earths-atmosphere"
   }
 ]
