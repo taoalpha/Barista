@@ -1,5 +1,35 @@
 [
   {
+    "text": "Sam Neill, actor known for ‘Jurassic Park,’ dies at 78 - NBC News",
+    "fullText": "Sam Neill, the genre-spanning New Zealand actor best known for his starring role in the “Jurassic Park” movies, has died, his family said Monday.",
+    "link": "https://www.nbcnews.com/news/obituaries/sam-neill-actor-jurassic-park-dies-new-zealand-rcna587240"
+  },
+  {
+    "text": "Oil prices jump and world shares are mixed as US and Iran carry out airstrikes - AP News",
+    "fullText": "Oil prices have jumped and world shares are mixed after the U.S. carried out airstrikes and Iran retaliated. The prices of Brent crude and U.S. benchmark crude gained more than 2% early Monday. South Korea's Kospi sank 9%. On Friday, U.S. stocks rose as Wall …",
+    "link": "https://apnews.com/article/stocks-markets-iran-trump-ai-2d6744b09c68b5473d0bc8584b89e60e"
+  },
+  {
+    "text": "'Once it's gone, it's gone': How to future-proof your hearing - BBC",
+    "fullText": "It's not just rocket launches and death metal concerts that lead to hearing loss. Many everyday activities can cause damage. Here's what you can do to protect your ears.",
+    "link": "https://www.bbc.com/future/article/20260709-how-to-future-proof-your-ears"
+  },
+  {
+    "text": "US and Iran vie for Strait of Hormuz, waterway key to global energy supplies, in latest attacks - AP News",
+    "fullText": "The United States and Iran each are asserting they control the Strait of Hormuz after a weekend of attacks stretching across the wider Middle East. The attacks that continued into Monday morning further threatened any diplomacy to end the war. The attacks und…",
+    "link": "https://apnews.com/article/iran-us-hormuz-strait-war-july-13-2026-6c2c44cfdd089d6393d18fa5930ed620"
+  },
+  {
+    "text": "SK Hynix Shares Drop in Seoul After Much-Hyped US Trading Debut - Bloomberg.com",
+    "fullText": "South Korea’s AI-fueled stock rally came under renewed pressure Monday as SK Hynix Inc. tumbled by a record 15%, underscoring growing investor concerns that the boom has become overstretched.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-13/sk-hynix-shares-drop-in-seoul-after-much-hyped-us-trading-debut"
+  },
+  {
+    "text": "Jay-Z Addresses Three-Hour Delay at Yankee Stadium Concert, Says He Wanted to Avoid Fans Getting “Trampled” - The Hollywood Reporter",
+    "fullText": "\"I'm really sorry for the inconvenience, but I had to make sure everyone was OK,\" the rapper said after  his show started more than three hours after its original expected start time.",
+    "link": "http://www.hollywoodreporter.com/music/music-news/jay-z-addresses-three-hour-delay-yankee-stadium-concert-1236646285/"
+  },
+  {
     "text": "Europe's Anduril rival Helsing raises $1.8 billion at $18 billion valuation - CNBC",
     "fullText": "Helsing said \"investor demand significantly exceeded the available allocation\" for its $1.8 billion funding round.",
     "link": "https://www.cnbc.com/2026/07/13/helsing-fund-raise-defense-18-billion.html"
@@ -10,14 +40,14 @@
     "link": "https://apnews.com/article/thailand-bangkok-fire-pub-0869e3d356d4be11c5633f9ceb3dc329"
   },
   {
-    "text": "Oil Climbs, US Futures Dip on Fresh Iran Strikes: Markets Wrap - Bloomberg.com",
-    "fullText": "Stocks fell and bond yields climbed after a weekend of attacks and counterstrikes in the Middle East sent oil prices higher.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-12/oil-climbs-us-futures-dip-on-fresh-iran-strikes-markets-wrap"
+    "text": "U.S. and Iran exchange strikes as Strait of Hormuz standoff escalates - CNBC",
+    "fullText": "Iran responded to a fresh wave of strikes by U.S. forces by launching an attack on American military bases in several Gulf states.",
+    "link": "https://www.cnbc.com/2026/07/13/us-iran-war-hormuz-oil-trump.html"
   },
   {
-    "text": "What happens next with Lindsey Graham’s Senate seat - The Washington Post",
-    "fullText": "South Carolina's Republican governor is tasked with naming a replacement to serve out the rest of Graham's term, and a special primary is set for August.",
-    "link": "https://www.washingtonpost.com/politics/2026/07/12/south-carolina-gop-governor-name-graham-initial-replacement/"
+    "text": "Oil prices jump as US and Iran trade attacks over Strait of Hormuz - Al Jazeera",
+    "fullText": "Brent crude climbs more than 4 percent as Washington and Tehran clash over control of critical waterway.",
+    "link": "https://www.aljazeera.com/economy/2026/7/13/oil-prices-jump-as-us-and-iran-trade-attacks-over-strait-of-hormuz"
   },
   {
     "text": "McConnell says a fall led to his hospitalization, breaking weeks of silence - NPR",
@@ -25,39 +55,24 @@
     "link": "https://www.npr.org/2026/07/13/nx-s1-5891492/mcconnell-fall-hospitalization"
   },
   {
-    "text": "Sheikh Hamad: The Arab leader who broke Israel’s siege on Gaza - Al Jazeera",
-    "fullText": "A look at Sheikh Hamad bin Khalifa Al Thani’s enduring legacy of solidarity and support for the Palestinian people.",
-    "link": "https://www.aljazeera.com/news/2026/7/13/sheikh-hamad-the-arab-leader-who-broke-israels-siege-on-gaza"
+    "text": "Fever beat Aces again as Caitlin Clark scores 12 in 24 minutes - ESPN",
+    "fullText": "The Fever beat the defending champion Aces in Las Vegas for the second time in eight days. Caitlin Clark, who has been dealing with back issues, played 24 minutes and finished with 12 points, seven rebounds and six assists.",
+    "link": "https://www.espn.com/wnba/story/_/id/49347972/fever-beat-aces-las-vegas-again-caitlin-clark-scores-12-points-24-minutes"
   },
   {
-    "text": "Actor Sam Neill has died - Stuff",
-    "fullText": "Sam Neill has died in hospital, his family said in a statement on Monday.",
-    "link": "https://www.stuff.co.nz/culture/361005656/actor-sam-neill-has-died"
+    "text": "Ukraine reels after Sen. Lindsey Graham’s sudden death, fearing a weaker link to Trump - AP News",
+    "fullText": "Republican Sen. Lindsey Graham's death has left Ukraine without a key ally in President Donald Trump’s circle. Ukrainian lawmakers expressed concern over the loss of Graham, who was instrumental in advocating for Ukraine in Washington. Graham had recently vis…",
+    "link": "https://apnews.com/article/lindsey-graham-death-ukraine-russia-trump-zelenskyy-3a61ea0c1cf28b15660efa9338adcfee"
   },
   {
-    "text": "Horoscope for Monday, 07/13/26 by Christopher Renstrom - SFGATE",
-    "fullText": "TAURUS (April 19 - May 19): Never underestimate the power of telling it like it is. State facts as you see them and you'll win the support you seek.",
-    "link": "https://www.sfgate.com/horoscope/article/horoscope-monday-07-13-26-christopher-renstrom-22340161.php"
-  },
-  {
-    "text": "NASCAR Cup Series race at Atlanta restarted after 3-hour weather delay - The Tennessean",
-    "fullText": "The Quaker State 400 NASCAR Cup Series race on July 12 at EchoPark Speedway was delayed for more than three hours for lightning and rain.",
-    "link": "https://www.tennessean.com/story/sports/nascar/2026/07/12/nascar-cup-series-atlanta-weather-delay-update-race/90896302007/"
-  },
-  {
-    "text": "Security breach causes chaos, delays start of final Jay-Z concert at Yankee Stadium - ABC7 New York",
-    "fullText": "A police source tells Eyewitness News a large group broke through security, prompting a full lockdown of the stadium.",
-    "link": "https://abc7ny.com/post/security-breach-causes-chaos-delays-start-final-jay-concert-yankee-stadium/19495772/"
+    "text": "Pixel 11 Pro Fold leak shows off Google's classy Pine color and a sleeker camera design - Android Authority",
+    "fullText": "The Pixel 11 Pro Fold has leaked again, this time in Google's new \"Pine\" colorway, matching previously outed renders.",
+    "link": "https://www.androidauthority.com/google-pixel-11-pro-pine-leak-3686662/"
   },
   {
     "text": "What to know: Two cases of cyclosporiasis confirmed in NH, DHHS says - WMUR",
     "fullText": "The Centers for Disease Control and Prevention is tracking cases of cyclosporiasis, a parasitic infection, in 31 states — including New Hampshire. Here's what you need to know.",
     "link": "https://www.wmur.com/article/new-hampshire-cyclosporiasis-cases/71910865"
-  },
-  {
-    "text": "SK Hynix shares slide 10% in Seoul after stellar Nasdaq debut - CNBC",
-    "fullText": "SK Hynix Inc. shares tumbled over 12% in Seoul on Monday after the chipmaker's blockbuster Nasdaq debut.",
-    "link": "https://www.cnbc.com/2026/07/13/sk-hynix-shares-fall-after-stellar-nasdaq-debut.html"
   },
   {
     "text": "U.S. citizen working for humanitarian organization tests positive for Ebola in DR Congo - NBC News",
@@ -83,10 +98,5 @@
     "text": "How Indian scientists are mapping the brain's last frontier - BBC",
     "fullText": "India's new brainstem atlas offers scientists an unprecedented map of one of the brain's least known regions.",
     "link": "https://www.bbc.com/news/articles/cg53l737v1qo"
-  },
-  {
-    "text": "Pokémon Go at 10 and the millions still trying to catch 'em all - BBC",
-    "fullText": "Michael Steranka, vice president at the mobile game's owner Scopely, says it has always been about bringing people together.",
-    "link": "https://www.bbc.com/news/articles/cevlwk4nrm7o"
   }
 ]
