@@ -1,8 +1,73 @@
 [
   {
-    "text": "Bank earnings live updates: JPMorgan, BofA, Goldman, Citi and Wells Fargo are set to report - CNBC",
-    "fullText": "The five banks releasing earnings Tuesday morning are expected to report strong revenue from trading equities and fixed income.",
-    "link": "https://www.cnbc.com/2026/07/14/jpm-bank-of-america-citi-bank-earnings-live-updates.html"
+    "text": "JPMorgan notches the highest quarterly profit in US banking history - Yahoo Finance",
+    "fullText": "The nation's biggest bank announced another bang up quarter.",
+    "link": "https://finance.yahoo.com/markets/article/jpmorgan-notches-the-highest-quarterly-profit-in-us-banking-history-110031854.html"
+  },
+  {
+    "text": "Mathematics formula found on Maya wall rivals insights of ancient masters - Nature",
+    "fullText": "Mathematical texts from a Maya site in Guatemala identify an astronomer called Sak Tahn Waax.",
+    "link": "https://www.nature.com/articles/d41586-026-02170-8"
+  },
+  {
+    "text": "IBM shares skid more than 20% after company warns second-quarter earnings fell short of expectations - CNBC",
+    "fullText": "CEO blamed the shortfall on weakness in the software and infrastructure business because clients shifted money toward hardware purchases.",
+    "link": "https://www.cnbc.com/2026/07/14/ibm-warns-second-quarter-earnings-fell-short-of-expectations.html"
+  },
+  {
+    "text": "European troops and warplanes join Paris Bastille Day parade in a show of unity for Ukraine - AP News",
+    "fullText": "This year’s Bastille Day celebrations in France focus on European unity and support for Ukraine. Troops and warplanes from across Europe are joining Tuesday's parade in Paris. President Emmanuel Macron is hosting around 30 leaders, aiming to show unity and st…",
+    "link": "https://apnews.com/article/france-bastille-day-ukraine-troops-parade-d78621ef18de51b16c8ab99e2bf43f4b"
+  },
+  {
+    "text": "Salad greens, lettuce ‘possible source’ of cyclosporiasis parasite: Officials - NewsNation",
+    "fullText": "Currently, Michigan and New York have the most cases of cyclosporiasis.",
+    "link": "https://www.newsnationnow.com/health/salad-greens-lettuce-possible-source-of-stomach-parasite/"
+  },
+  {
+    "text": "US attacks Iran and Tehran retaliates across the Middle East, threatening a return to all-out war - AP News",
+    "fullText": "The U.S. launched strikes on Iran hours after President Donald Trump vowed to reinstate an American blockade of Iranian ports and charge ships for safe passage through the Strait of Hormuz. Iran responded with attacks on Middle East allies of the U.S. The act…",
+    "link": "https://apnews.com/article/iran-us-hormuz-strait-war-july-14-2026-abd060c55feea216625689e57d8f76be"
+  },
+  {
+    "text": "'Jurassic Park' child stars pay tribute to Sam Neill: 'He was still rooting for me 33 years later' - Yahoo",
+    "fullText": "Joseph Mazzello fought back tears as he remembered the actor, while Ariana Richards called him \"a mentor, protector, and above all, friend.\"",
+    "link": "https://www.yahoo.com/entertainment/movies/article/jurassic-park-child-stars-pay-tribute-to-sam-neill-he-was-still-rooting-for-me-33-years-later-102041978.html"
+  },
+  {
+    "text": "New York to impose the country’s first statewide moratorium on data centers - AP News",
+    "fullText": "New York will block new large data centers that fuel artificial intelligence for up to a year to protect the environment and energy grid. Gov. Kathy Hochul is set to announce the move Tuesday, marking the country's first statewide moratorium on hyperscale dat…",
+    "link": "https://apnews.com/article/new-york-data-centers-moratorium-ai-c1e05b74208a6c570eec7c658ac8f187"
+  },
+  {
+    "text": "Google Pixel Watch Fitbit Sensor Permission Bug Leaves Health Tracking Broken for Some Users - Techgenyz",
+    "fullText": "The Google Pixel Fitbit sensor permission bug locks users out of Google Health apps by demanding sensor access already granted. Even factory resets do not fix it.",
+    "link": "https://techgenyz.com/google-pixel-watch-fitbit-sensor-permission-bug/"
+  },
+  {
+    "text": "Trump’s Hormuz toll plan could backfire, global shipping industry warns — here’s why - CNBC",
+    "fullText": "For shipping giant Hapag-Lloyd, it is \"fundamentally wrong\" to charge tolls for passage through international waters, regardless of the country in charge.",
+    "link": "https://www.cnbc.com/2026/07/14/shipping-industry-trump-hormuz-toll-backfire.html"
+  },
+  {
+    "text": "Graham’s death, McConnell’s absence wreak havoc on GOP agenda - The Hill",
+    "fullText": "The sudden death of Senate Budget Committee Chair Lindsey Graham (R-S.C.), who’s also a senior member of the Appropriations Committee and the Judiciary Committee, plays havoc with Senate Majority Leader John Thune’s (R-S.D.) agenda, which now faces weeks of d…",
+    "link": "https://thehill.com/homenews/senate/5966598-lindsey-graham-senate-republicans-trump-priorities/"
+  },
+  {
+    "text": "ICE kills 26-year-old in Maine: What happened, and who else has ICE killed? - Al Jazeera",
+    "fullText": "More than 60 people have died in ICE shootings or while in detention since Donald Trump returned to power.",
+    "link": "https://www.aljazeera.com/news/2026/7/14/ice-kills-26-year-old-in-maine-what-happened-and-who-else-has-ice-killed"
+  },
+  {
+    "text": "GOP leaders race to end conservative revolt as House floor stays at a standstill - Fox News",
+    "fullText": "House GOP leaders face a pivotal test as they try to end a conservative revolt that has paralyzed the House floor for nearly a month.",
+    "link": "https://www.foxnews.com/politics/jd-vance-heads-capitol-hill-white-house-pressures-gop-holdouts"
+  },
+  {
+    "text": "Andy Serkis Defends 'Hunt for Gollum' Cast Amid Diversity Criticism - The Hollywood Reporter",
+    "fullText": "The British actor-filmmaker addressed criticism around the lack of diversity in his 'Lord of the Rings' film, which currently stars Anya Taylor-Joy, Leo Woodall, Kate Winslet and Jamie Dornan.",
+    "link": "http://www.hollywoodreporter.com/movies/movie-news/andy-serkis-hunt-for-gollum-cast-lord-of-the-rings-colbert-1236647367/"
   },
   {
     "text": "OpenAI is breaking Silicon Valley's unwritten code. That's why Apple is so angry. - Business Insider",
@@ -10,19 +75,14 @@
     "link": "https://www.businessinsider.com/openai-breaking-silicon-valley-unspoken-rule-apple-talent-2026-7#article"
   },
   {
-    "text": "Tyler Perry Claims Male Sexual Assault Accuser Proposed Multi-Million Dollar Settlement - TMZ",
-    "fullText": "Tyler Perry claims his male sexual assault accuser, Mario Rodriguez, is working overtime to pressure him into a settlement … but the famed director says he won't cave.",
-    "link": "https://www.tmz.com/2026/07/14/tyler-perry-fires-back-in-male-sexual-assault-accuser-lawsuit/"
+    "text": "The US Approves the Launch of a Mirror Satellite That Can Reflect Sunlight and Illuminate the Earth at Night - WIRED",
+    "fullText": "The FCC authorized Reflect Orbital to launch the mirror satellite Eärendil-1. “For optical astronomy, this poses an existential threat,” the European Southern Observatory said.",
+    "link": "https://www.wired.com/story/reflect-orbital-earendil-mirror-satellite-fcc/"
   },
   {
-    "text": "Deputy U.S. marshal shot dead while serving arrest warrant on fugitive in Louisiana, agency says - CBS News",
-    "fullText": "A deputy U.S. marshal was shot and killed while serving an arrest warrant on a fugitive in Louisiana, authorities say. The suspect is in custody.",
-    "link": "https://www.cbsnews.com/news/deputy-us-marshal-shot-dead-serving-arrest-warrant-louisiana-fbi/"
-  },
-  {
-    "text": "Horoscope for Tuesday, July 14, 2026 - Chicago Sun-Times",
-    "fullText": null,
-    "link": "https://chicago.suntimes.com/horoscopes/2026/07/14/horoscopes-today-tuesday-july-14-2026"
+    "text": "Trump cuts nearly 3M acres from 2 Utah national monuments - Axios",
+    "fullText": "Utah's biggest national monuments have been the object of political football for years.",
+    "link": "https://www.axios.com/local/salt-lake-city/2026/07/13/trump-cuts-grand-staircase-escalante-bears-ears-national-monuments-utah"
   },
   {
     "text": "The star-studded World Cup semifinals kick off with France vs. Spain - NPR",
@@ -33,60 +93,5 @@
     "text": "China Expels Former Politburo Member Over Graft and Sex Charges - Bloomberg.com",
     "fullText": "China expelled former Politburo member Ma Xingrui from the ruling Communist Party, accusing him of a wide range of offenses including corruption, abuse of power and trading political favors for sex.",
     "link": "https://www.bloomberg.com/news/articles/2026-07-14/china-expels-former-politburo-member-over-graft-and-sex-charges"
-  },
-  {
-    "text": "Mexico’s Sheinbaum announces criminal charges request in US over ICE deaths - Al Jazeera",
-    "fullText": "Mexico to formally ask prosecutors to file cases in US courts over its citizens’ deaths in immigration operations.",
-    "link": "https://www.aljazeera.com/news/2026/7/14/mexicos-sheinbaum-announces-criminal-charges-request-in-us-over-ice-deaths"
-  },
-  {
-    "text": "Oil prices hit 1-month high as US-Iran attacks dim Strait of Hormuz outlook - Al Jazeera",
-    "fullText": "Brent crude nears $85 a barrel amid renewed hostilities between Washington and Tehran.",
-    "link": "https://www.aljazeera.com/economy/2026/7/14/oil-hits-1-month-high-as-us-iran-fighting-clouds-strait-of-hormuz-outlook"
-  },
-  {
-    "text": "Erling Haaland's substitute World Cup trophy: A taxidermy raccoon - USA Today",
-    "fullText": "Norwegian soccer superstar Erling Haaland was seen with a curious critter when his team landed in Oslo on July 13. Turns out it was a taxidermy raccoon holding a bottle of booze.",
-    "link": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/13/erling-haaland-whiskey-raccoon-norway-flight/90907092007/"
-  },
-  {
-    "text": "DHS: ICE officer shot man in Maine after ‘fearing for public safety’ - The Hill",
-    "fullText": "The Department of Homeland Security (DHS) said Monday the federal immigration officer who fatally shot a man in Maine did so out of fear for “public safety.” The department wrote on X that Immigration and Customs Enforcement (ICE) officers were conducting “ta…",
-    "link": "https://thehill.com/homenews/state-watch/5966877-immigration-shooting-public-safety/"
-  },
-  {
-    "text": "People killed in Bangkok music bar fire were found trapped in windowless bathrooms - AP News",
-    "fullText": "Most of the people who were killed in a huge fire in a Bangkok music bar were found trapped in windowless bathrooms where they may have sought to escape the flames that claimed at least 27 lives. That's what Thai authorities said Monday as investigations bega…",
-    "link": "https://apnews.com/article/thailand-fire-bar-bangkok-2770bc2287bec5b7fbe7c8df62209a51"
-  },
-  {
-    "text": "Trump's Hormuz toll plans bring oil supply risks back in spotlight - CNBC",
-    "fullText": "While the proposed levy would raise shipping costs, an escalating conflict could remove barrels from the market altogether.",
-    "link": "https://www.cnbc.com/2026/07/14/trumps-hormuz-toll-plans-bring-oil-supply-risks-back-in-spotlight.html"
-  },
-  {
-    "text": "Hours each day in an iron lung kept her breathing, her will to live kept her alive - BBC",
-    "fullText": "The sister of the last known polio patient in the US to use the life-saving machine spoke to the BBC about her sister's life.",
-    "link": "https://www.bbc.com/news/articles/cwyk4z3e2xlo"
-  },
-  {
-    "text": "Parasitic outbreak of cyclosporiasis linked in Michigan to lettuce - The Detroit News",
-    "fullText": "Michigan health officials said they have not yet pinpointed the grower or supplier where the outbreak originated.",
-    "link": "https://www.detroitnews.com/story/news/local/michigan/2026/07/13/lettuce-michigan-cyclosporiasis-outbreak-test-results-show/90906894007/"
-  },
-  {
-    "text": "Lindsey Graham’s sister picked to serve the rest of his Senate term - The Washington Post",
-    "fullText": "South Carolina Gov. Henry McMaster (R) announced his selection of Darline Graham Nordone to serve into January. She is expected to be sworn in Tuesday.",
-    "link": "https://www.washingtonpost.com/politics/2026/07/13/trump-recommends-lindsey-grahams-sister-serve-rest-his-senate-term/"
-  },
-  {
-    "text": "Scoop: Trump gave Saudi crown prince his backing for risky strikes on Houthis - Axios",
-    "fullText": "President Trump signed off on a highly unusual Saudi strike against Iran-backed Houthis.",
-    "link": "https://www.axios.com/2026/07/13/trump-bin-salman-houthis-yemen"
-  },
-  {
-    "text": "Oil Holds Gains as Iran Stokes Inflation Worries: Markets Wrap - Bloomberg.com",
-    "fullText": "US stocks steadied as traders refrained from making big bets ahead of a jam-packed day that will see the unofficial start of the earnings season, along with testimony from Fed Chair Kevin Warsh and US inflation data.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-13/oil-holds-gains-as-iran-stokes-inflation-worries-markets-wrap"
   }
 ]
