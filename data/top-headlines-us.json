@@ -1,8 +1,43 @@
 [
   {
-    "text": "British Open Thursday live updates, leaderboard: Scottie Scheffler, Rory McIlroy are big favorites early at Royal Birkdale - Yahoo Sports",
+    "text": "British Open Thursday live updates, leaderboard: Scottie Scheffler in the hunt early - Yahoo Sports",
     "fullText": "For one last time in 2026, the race for a major championship title is on.",
     "link": "https://sports.yahoo.com/golf/live/british-open-thursday-live-updates-leaderboard-scottie-scheffler-is-on-a-heater-early-053000601.html"
+  },
+  {
+    "text": "Wildfire smoke will worsen in the Northeast and Mid-Atlantic through Friday - The Washington Post",
+    "fullText": "More than 115 million people could be exposed to unhealthy air quality. See the forecast for 20 cities.",
+    "link": "https://www.washingtonpost.com/weather/2026/07/16/wildfire-smoke-will-worsen-northeast-mid-atlantic-through-friday/"
+  },
+  {
+    "text": "Stock Market Today: Nasdaq Set to Open Lower as Chip Stocks Come Under Pressure — Live Updates - WSJ",
+    "fullText": null,
+    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-16-2026"
+  },
+  {
+    "text": "Todd Blanche defends Trump relationship and new audio in Nolan Wells case: Morning Rundown - NBC News",
+    "fullText": "Todd Blanche faces questions about Trump, the Epstein files and more in his attorney general confirmation hearing.",
+    "link": "https://www.nbcnews.com/news/us-news/todd-blanche-defends-trump-relationship-new-audio-nolan-wells-case-mor-rcna587779"
+  },
+  {
+    "text": "Messi's World Cup farewell comes full circle against Spain - ESPN",
+    "fullText": "Spain once wanted Lionel Messi over 20 years ago. Now, the reigning European champions must stop him in what could be his final World Cup game for Argentina.",
+    "link": "https://www.espn.com/soccer/story/_/id/49373339/messis-world-cup-farewell-comes-full-circle-spain"
+  },
+  {
+    "text": "What is cyclospora? Diarrhoea symptoms, foods linked to US outbreak - Al Jazeera",
+    "fullText": "Cyclospora cases are rising across the US. Here’s what to know about symptoms, spread, treatment and prevention.",
+    "link": "https://www.aljazeera.com/news/2026/7/16/what-is-cyclospora-diarrhoea-symptoms-foods-linked-to-us-outbreak"
+  },
+  {
+    "text": "Elon Musk loses trillionaire status as SpaceX stock deflates - Fortune",
+    "fullText": "Everything you need to know before you reach the office this morning.",
+    "link": "https://fortune.com/2026/07/16/elon-musk-loses-trillionaire-status-spacex-stock-alleged-election-bribery/"
+  },
+  {
+    "text": "GOP leaders face frustrations, time pressure on $95 billion reconciliation package - The Hill",
+    "fullText": "House Republican leaders are facing pressure from the clock and from their own members over a $95 billion reconciliation 3.0 framework that they will attempt to advance out of the Budget Committee on Thursday, raising questions about whether the package will …",
+    "link": "https://thehill.com/homenews/house/5970574-gop-budget-resolution-reconciliation/"
   },
   {
     "text": "UnitedHealth blows past estimates, hikes earnings outlook as it reins in costs - CNBC",
@@ -10,9 +45,14 @@
     "link": "https://www.cnbc.com/2026/07/16/unitedhealth-group-unh-earnings-q2-2026.html"
   },
   {
-    "text": "State health officials confirm 43 cases of Cyclosporiasis, WI farmers on alert - WKOW",
-    "fullText": "STOUGHTON, Wis. (WKOW) — As Wisconsin's farmers markets reach peak season, a recent Cyclospora outbreak is prompting shoppers and farmers alike to pay closer attention to food safety and where",
-    "link": "https://www.wkow.com/news/state-health-officials-confirm-43-cases-of-cyclosporiasis-wi-farmers-on-alert/article_917ee96f-f263-4b9f-b8e6-73faceb38b25.html"
+    "text": "How a fuming Trump reversed ICE's pause on vehicle stops - Axios",
+    "fullText": "The latest ICE shootings have revived a tense debate within the administration.",
+    "link": "https://www.axios.com/2026/07/16/trump-ice-shootings-vehicle-stops"
+  },
+  {
+    "text": "The use of force has become a 'default tool' for ICE officers, a new report finds - NPR",
+    "fullText": "An ACLU report looks at the widespread use of force in immigration enforcement in the first year of President Trump's return to office. Recent fatal shootings in Texas and Maine have brought renewed scrutiny to the agency's tactics.",
+    "link": "https://www.npr.org/2026/07/16/nx-s1-5891834/ice-use-of-force-aclu-report"
   },
   {
     "text": "OnePlus officially gives up on the US and Europe - The Verge",
@@ -25,34 +65,24 @@
     "link": "https://www.politico.com/news/2026/07/16/republicans-brace-trump-speech-election-fraud-00999640"
   },
   {
+    "text": "US strikes Iran, tanker, as Tehran hits Kuwait, Jordan: What’s the latest - Al Jazeera",
+    "fullText": "Strikes have hit closer to Tehran for the first time since the latest wave of attacks started.",
+    "link": "https://www.aljazeera.com/news/2026/7/16/us-strikes-iran-tanker-as-tehran-hits-kuwait-jordan-whats-the-latest"
+  },
+  {
     "text": "Ukraine's Zelenskyy ousts defense minister in surprise shake-up as protest calls emerge - CNBC",
     "fullText": "Ukrainian protesters took to the streets of Kyiv on Thursday, decrying Zelenskyy's surprise decision to dismiss Defense Minister Mykhailo Fedorov.",
     "link": "https://www.cnbc.com/2026/07/16/ukraine-russia-zelenskyy-crimea-putin.html"
   },
   {
-    "text": "US expands strikes into northern Iran and disables ship trying to run blockade - AP News",
-    "fullText": "The United States has intensified its strikes on Iran, hitting targets further north. American forces also fired into a ship the U.S. accused of trying to break its naval blockade on the Islamic Republic. Tehran retaliated early Thursday with missile and dron…",
-    "link": "https://apnews.com/article/iran-us-hormuz-strait-war-july-16-2026-f98ff56554de2336f0e85bb5fdcae769"
+    "text": "The band playing when a Bangkok bar caught fire mourns its members among the 33 dead - NPR",
+    "fullText": "Victims of this week's flash fire at a Bangkok music bar that took more than 30 lives included four of the six core members of the band playing when the blaze broke out.",
+    "link": "https://www.npr.org/2026/07/16/g-s1-133907/death-toll-bangkok-fire"
   },
   {
     "text": "Deadly boat capsize on San Francisco Bay: Search efforts end for 3 missing boaters - San Francisco Chronicle",
     "fullText": "One man died and three other people remained missing Wednesday after a 49-foot cabin cruiser carrying 20 adults capsized in rough seas near Alcatraz.",
     "link": "https://www.sfchronicle.com/bayarea/article/alcatraz-boat-capsize-22346212.php"
-  },
-  {
-    "text": "U.S. slaps 25% tariff on most Brazilian goods over 'unfair trade practices' - CNBC",
-    "fullText": "A separate U.S. probe into forced-labor enforcement could see an additional 12.5% duty on Brazilian goods on top of the 25%, with the decision due next week.",
-    "link": "https://www.cnbc.com/2026/07/16/us-tariffs-brazil-unfair-trade-practices-section-301-.html"
-  },
-  {
-    "text": "House vote exposes Democrats’ widening divide over Israel - The Washington Post",
-    "fullText": "The symbolic vote showed how far Democratic politics on Israel have shifted, as progressive candidates turn anger over Gaza and U.S. military aid into a campaign issue.",
-    "link": "https://www.washingtonpost.com/politics/2026/07/15/house-vote-exposes-democrats-widening-divide-over-israel/"
-  },
-  {
-    "text": "‘Jurassic Park’ actor Sam Neill died from pneumonia, agent says - AP News",
-    "fullText": "The agent for Sam Neill says the actor died from pneumonia. Neill’s family had earlier announced the actor known for “Jurassic Park” and other films died Monday in Sydney. His agent Philip Grenz said he was providing more information after speaking with Neill…",
-    "link": "https://apnews.com/article/sam-neill-pneumonia-cause-of-death-a24b8770ab1af7ab2e2160d8e9394e34"
   },
   {
     "text": "Hal Williams, ‘227’ Star and ‘Sanford and Son’ Regular, Dies at 91 - Variety",
@@ -63,30 +93,5 @@
     "text": "NASA's curiosity rover spots mysterious honeycomb pattern on Mars, leaving scientists puzzled over its or - The Times of India",
     "fullText": "Science News: Space and its mysterious world never fail to surprise humans. According to the latest report, 14 years after touching down on the Red Planet, NASA’s C.",
     "link": "https://timesofindia.indiatimes.com/science/nasas-curiosity-rover-spots-mysterious-honeycomb-pattern-on-mars-leaving-scientists-puzzled-over-its-origin/articleshow/132424254.cms"
-  },
-  {
-    "text": "Kyiv under fire from Russian missiles after EU-Ukraine sign drone deal - Al Jazeera",
-    "fullText": "Mayor Vitali Klitschko says emergency services are battling blazes across the Ukrainian capital.",
-    "link": "https://www.aljazeera.com/news/2026/7/16/kyiv-under-fire-from-russian-missiles-after-eu-ukraine-sign-drone-deal"
-  },
-  {
-    "text": "Canadian wildfire smoke returns to NYC, Tri-State: Air quality alerts and live updates - ABC7 New York",
-    "fullText": "The Tri-State will see visible smoke and hazy skies across the state and spikes in smoke-related pollution.",
-    "link": "https://abc7ny.com/live-updates/nyc-weather-air-quality-alert-new-york-nj-tri-state-canadian-wildfire-smoke-moves/19514675/"
-  },
-  {
-    "text": "Todd Blanche’s chances of becoming attorney general could hinge on John Cornyn - Politico",
-    "fullText": "The Texas Republican left Blanche's confirmation hearing unsatisfied by what he heard.",
-    "link": "https://www.politico.com/news/2026/07/15/todd-blanches-chances-of-becoming-attorney-general-could-hinge-on-john-cornyn-01000312"
-  },
-  {
-    "text": "2026 ESPYs: Eileen Gu, Simone Biles, Alysa Liu and more hit the red carpet - ABC News - Breaking News, Latest News and Videos",
-    "fullText": null,
-    "link": "https://abcnews.com/GMA/Culture/2026-ESPYS-red-carpet-arrivals/story?id\\\\u003d134756417"
-  },
-  {
-    "text": "Black Sea conflict weighs on wheat after Sea of Azov attacks - The Western Producer",
-    "fullText": null,
-    "link": "https://www.producer.com/news/wheat-markets-respond-to-sea-of-azov-attacks-ukraine-russia-war/"
   }
 ]
