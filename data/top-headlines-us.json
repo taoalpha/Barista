@@ -1,5 +1,10 @@
 [
   {
+    "text": "Milwaukee County Executive David Crowley rejoins governor's race - WISN",
+    "fullText": "WISN 12 News has learned Milwaukee County Executive David Crowley is re-entering the race for governor, just days after dropping out.",
+    "link": "https://www.wisn.com/article/sources-milwaukee-county-executive-david-crowley-rejoins-governors-race/73173579"
+  },
+  {
     "text": "World Cup 2026: England coach Thomas Tuchel defends semi-final tactics in Argentina loss - BBC",
     "fullText": "England head coach Thomas Tuchel defends his tactical decisions during the World Cup semi-final defeat by Argentina in a tense news conference.",
     "link": "https://www.bbc.com/sport/football/articles/c3r0l4zn9jpo"
@@ -25,11 +30,6 @@
     "link": "https://nypost.com/2026/07/17/us-news/sunny-hostin-was-on-phone-with-son-when-he-was-caught-trespassing-on-metro-north-tracks/"
   },
   {
-    "text": "Trump says China seized 220 million voter files. What the documents say - USA Today",
-    "fullText": "The president said China 'fought like hell not to have a Donald Trump win.' A USA TODAY review of declassified records tells a different story.",
-    "link": "https://www.usatoday.com/story/news/politics/2026/07/17/trump-china-220-million-voter-files-review/90955598007/"
-  },
-  {
     "text": "What to know about the Trump administration's claim that 250K non-citizens are registered to vote in 4 states - CBS News",
     "fullText": "Homeland Security Secretary Markwayne Mullin sent letters to four states alleging that a combined 250,000 non-citizens were registered to vote. Elections experts caution that could be a significant overcount.",
     "link": "https://www.cbsnews.com/news/trump-markwayne-mullin-non-citizens-registered-voters-california-new-jersey-nevada-pennsylvania/"
@@ -40,19 +40,39 @@
     "link": "https://www.newsnationnow.com/health/map-explosive-diarrhea-cyclospora-outbreak/"
   },
   {
+    "text": "Trump urges Darline Graham to run for full Senate term as funeral scheduled for Lindsey Graham - AP News",
+    "fullText": "President Donald Trump says Darline Graham, the sister of the late Lindsey Graham, has his support to run for a full term to replace her brother in the U.S. Senate. Graham is serving the remaining months of her late brother Lindsey Graham's Senate term, but s…",
+    "link": "https://apnews.com/article/lindsey-graham-darline-trump-mcmaster-fee07e7991d764bffe91dffb161927ca"
+  },
+  {
     "text": "‘The Odyssey’ Cast Guide: Who’s Playing Who in Christopher Nolan’s Epic - The Hollywood Reporter",
     "fullText": "From Oscar, Emmy, and Tony winners to frequent collaborators of the director, first-timers and even a rapper, The Hollywood Reporter breaks down all the stars and the characters they play in his adaptation of Homer's ancient Greek poem.",
     "link": "http://www.hollywoodreporter.com/lists/the-odyssey-cast-characters-christopher-nolan/"
   },
   {
-    "text": "Trump Media reportedly mulling fee for first access to social media posts - Al Jazeera",
-    "fullText": "US president has frequently been accused of trading government influence for improper financial gain.",
-    "link": "https://www.aljazeera.com/news/2026/7/18/trump-media-reportedly-mulling-fee-for-first-access-to-social-media-posts"
+    "text": "Lionel Messi Tells Tom Brady 'Insane' Story Behind Viral Lamine Yamal Baby Photoshoot - FOX Sports",
+    "fullText": "Tom Brady found out Lionel Messi is just as blown by the viral Lamine Yamal photoshoot picture as the next person.",
+    "link": "https://www.foxsports.com/stories/soccer/lionel-messi-tells-tom-brady-insane-story-behind-viral-lamine-yamal-baby-photoshoot"
   },
   {
-    "text": "ICE shared Medicaid data it wasn't supposed to have with Palantir - NPR",
-    "fullText": "The revelations came out in a federal court case brought by Democratic states challenging ICE's access to Medicaid data to aid in deportation efforts.",
-    "link": "https://www.npr.org/2026/07/17/nx-s1-5898504/ice-medicaid-palantir-data"
+    "text": "Time enough at last: What's next after the House passes bill to do away with Daylight Saving Time? - Fox News",
+    "fullText": "Congress is once again pushing to make Daylight Saving Time permanent.",
+    "link": "https://www.foxnews.com/politics/time-enough-last-whats-next-after-house-passes-bill-do-away-daylight-saving-time"
+  },
+  {
+    "text": "Kim Kardashian Reveals Final Texts From Grandma MJ Shannon Before Her Death - E! News",
+    "fullText": "After Kim Kardashian's grandma Mary Jo \"MJ\" Shannon died at age 91, the reality star shared some of the last text messages she received from the beloved family matriarch prior to her passing.",
+    "link": "https://www.eonline.com/news/1434117/kim-kardashians-final-texts-from-grandma-mj-shannon-before-death-revealed"
+  },
+  {
+    "text": "Trump spares Beijing in probe of alleged Chinese election plot - Politico",
+    "fullText": "Trump is expected to meet with China’s leader in Washington in September, and the White House gave no indication the topic would be on the agenda.",
+    "link": "https://www.politico.com/news/2026/07/17/trump-spares-beijing-in-probe-of-alleged-chinese-election-plot-01004011"
+  },
+  {
+    "text": "Smoke from Canadian forest fires shrouds Washington, raising concerns - The Washington Post",
+    "fullText": "D.C. health officials urged children, older adults and people with heart or lung conditions to stay indoors Friday.",
+    "link": "https://www.washingtonpost.com/dc-md-va/2026/07/17/smoke-canadian-forest-fires-shrouds-washington-raising-concerns/"
   },
   {
     "text": "Apple Increases Prices For Apple Music & Apple One Over \"Rising Licensing Costs\" - Deadline",
@@ -60,33 +80,8 @@
     "link": "http://deadline.com/2026/07/apple-increases-prices-music-one-subscriptions-1236997295/"
   },
   {
-    "text": "Feeding Our Future fraud ring's alleged No. 2 appears in court after Somalia arrest - CBS News",
-    "fullText": "Forty-two-year-old Abdikerm Eidleh appeared in federal court in St. Paul on Friday, just weeks after he was arrested in Mogadishu.",
-    "link": "https://www.cbsnews.com/minnesota/news/feeding-our-future-fraud-court-somalia-arrest/"
-  },
-  {
     "text": "US launches seventh straight night of strikes on Iran - Al Jazeera",
     "fullText": "The US military says it’s degrading Iran’s military but has been accused by Tehran of targeting civilian infrastructure.",
     "link": "https://www.aljazeera.com/news/2026/7/17/us-launches-seventh-straight-night-of-strikes-on-iran"
-  },
-  {
-    "text": "Bryson DeChambeau penalty adds controversy to eventful British Open second round - CNN",
-    "fullText": "The British Open came to life Friday when Lucas Herbert and Sam Burns took their place in history by tying the major championship record with 62s, and Bryson DeChambeau getting penalized two shots after his round for inadvertently improving the path of his sw…",
-    "link": "https://www.cnn.com/2026/07/17/sport/bryson-dechambeau-penalized-british-open-second-round"
-  },
-  {
-    "text": "Ritzy SoCal city rocked by rare cancer outbreak suspends use of chemical landscaping products - Yahoo",
-    "fullText": "A wealthy Southern California community with a disturbing spike in rare cancer cases among children is taking action.",
-    "link": "https://nypost.com/2026/07/17/us-news/socal-city-suspends-use-of-landscaping-chemical-amid-rare-cancer-cluster/"
-  },
-  {
-    "text": "Trump’s threats to revoke TV licenses get serious - Politico",
-    "fullText": "Brendan Carr is already scrutinizing TV broadcasters, but he may have to be careful echoing the president’s political grievances, legal experts say.",
-    "link": "https://www.politico.com/news/2026/07/17/trump-carr-fcc-broadcast-licenses-01003605"
-  },
-  {
-    "text": "Meteorite that crashed into New Jersey home contains building blocks of life, astronomers say - ABC News - Breaking News, Latest News and Videos",
-    "fullText": null,
-    "link": "https://abcnews.com/US/meteorite-crashed-new-jersey-home-contains-building-blocks/story?id\\\\u003d134848278"
   }
 ]
