@@ -1,13 +1,48 @@
 [
   {
-    "text": "Iran War Live Updates: Trump says U.S. will \"go back to doing what we were doing\" if new talks stall - CBS News",
-    "fullText": "The U.S. and Iran hold fire amid work on a deal to reopen the Strait of Hormuz, but the Trump administration says a military buildup continues.",
+    "text": "A magnitude 7.1 earthquake shakes part of southern Japan but no tsunami detected - AP News",
+    "fullText": "An earthquake with a magnitude of 7.1 has shaken Kumamoto on Japan’s Kyushu island. The Japan Meteorological Agency issued a tsunami advisory for the Ariake and Yatsushiro Seas but it was lifted within two hours. Prime Minister Sanae Takaichi has urged reside…",
+    "link": "https://apnews.com/article/japan-earthquake-tsunami-09e6f40acbcc96053946c9c104e7a242"
+  },
+  {
+    "text": "Seattle pays tribute to festival shooting victims - BBC",
+    "fullText": "Families grieved on Monday as they remembered the three people killed in a shooting at a food festival.",
+    "link": "https://www.bbc.com/news/articles/cvgv7m5z4n0o"
+  },
+  {
+    "text": "Boeing posts bigger loss than expected as Air Force One costs weigh on results - CNBC",
+    "fullText": "Boeing took a $280 million charge on its long-delayed Air Force One program.",
+    "link": "https://www.cnbc.com/2026/07/28/boeing-ba-2q-2026-earnings.html"
+  },
+  {
+    "text": "2026 MLB trade deadline: One deal ESPN experts would make - ESPN",
+    "fullText": "With one week left to deal, we asked our MLB experts for one trade they would make to get things moving along.",
+    "link": "https://www.espn.com/mlb/story/_/id/49424586/mlb-trade-deadline-2026-expert-deals-skubal-miller-lindor-tigers-yankees-mets"
+  },
+  {
+    "text": "Iran War Updates: Trump to meet Israel's Netanyahu as his threat to resume bombing Iran looms over diplomacy - CBS News",
+    "fullText": "Trump will meet Israeli leader Benjamin Netanyahu as the U.S. and Iran hold their fire amid work toward a deal to reopen the Strait of Hormuz.",
     "link": "https://www.cbsnews.com/live-updates/us-iran-war-trump-strait-of-hormuz-talks-oman/"
   },
   {
-    "text": "U.S. stock futures slip, South Korea's Kospi plunges 10%: Live updates - CNBC",
-    "fullText": "S&P 500 futures drop. Investors are bracing for a big week of mega-cap earnings and a Federal Reserve meeting.",
-    "link": "https://www.cnbc.com/2026/07/27/stock-market-today-live-updates.html"
+    "text": "Vita Vea requests trade from the Bucs - Tampa Bay Times",
+    "fullText": "The hulking defensive tackle is in the final year of his contract that pays him $17.75 million per year",
+    "link": "https://www.tampabay.com/sports/bucs/2026/07/27/vita-vea-contract-negotiations-nfl-training-camp/"
+  },
+  {
+    "text": "Trump, Thune clash over canceling August recess to debate SAVE America Act - The Hill",
+    "fullText": "President Trump and Senate Majority Leader John Thune (R-S.D.) clashed on Monday over the idea of canceling the Senate’s August recess to debate the Safeguard American Voter Eligibility (SAVE America) Act, Trump’s No. 1 legislative priority. Thune warned agai…",
+    "link": "https://thehill.com/homenews/senate/5993113-save-america-act-recess-fight/"
+  },
+  {
+    "text": "Senate Democrats announce $40M ground game spend in 10 battlegrounds - Politico",
+    "fullText": "The broad investments in organizing, communications and research show Democrats’ vision for a big map as they seek to take back the Senate.",
+    "link": "https://www.politico.com/live-updates/2026/07/28/congress/senate-dems-ground-game-40-million-spend-01013128"
+  },
+  {
+    "text": "Almost 400 Ukrainian drones attack Moscow and Moscow region - Meduza",
+    "fullText": "A Ukrainian drone struck an apartment building on Zemskaya Street in Chekhov, outside Moscow, Moscow region Governor Andrey Vorobyov said. Chekhov Mayor Mikhail Sobakin said no one was injured, though two apartments were damaged.",
+    "link": "https://meduza.io/en/news/2026/07/28/almost-400-ukrainian-drones-attack-moscow-and-moscow-region"
   },
   {
     "text": "Bryan Kohberger wants out of his plea deal. Here’s what experts say about his chances - CNN",
@@ -15,83 +50,33 @@
     "link": "https://www.cnn.com/2026/07/28/us/experts-bryan-kohberger-plea-deal-reversal"
   },
   {
-    "text": "Iran-Oman Talks Focused on Restarting Hormuz Shipping Traffic - Bloomberg.com",
-    "fullText": "Negotiators from Iran and Oman are trying to reach an agreement to restart shipping through the Strait of Hormuz, according to people familiar with the matter.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-27/iran-oman-talks-focused-on-restarting-hormuz-shipping-traffic"
+    "text": "Gunman fired at US consulate in Toronto, second time building was shot at this year - Fox News",
+    "fullText": "The second shooting at the U.S. Consulate in Toronto this year triggered an hourlong police chase, although no arrest was made as officials continue to investigate.",
+    "link": "https://www.foxnews.com/world/gunman-fired-us-consulate-toronto-second-time-building-shot-year"
   },
   {
-    "text": "Sam Altman says the Hugging Face hack is a reminder that an AI power monopoly could lead to 'long-term disaster' - Business Insider",
-    "fullText": "The OpenAI CEO said the hack was a \"real reminder\" of the stakes and consequences of security breaches and \"loss of control incidents.\"",
-    "link": "https://www.businessinsider.com/sam-altman-ai-power-diffused-security-breach-hugging-face-hack-2026-7#article"
+    "text": "With wildfires raging in France and Spain, fire crews race against next heat wave - NPR",
+    "fullText": "French authorities ordered nearly 4,000 people evacuated Tuesday from tourist sites on the Atlantic coast as returning heat threatened firefighters' fragile hold on a vast wildfire west of Bordeaux.",
+    "link": "https://www.npr.org/2026/07/28/g-s1-135828/europe-wildfires"
   },
   {
-    "text": "Spain and France brace for new heatwaves as wildfire closes in on Bordeaux - BBC",
-    "fullText": "Temperatures are expected to soar past 40C in some regions as a heatwave builds, further hampering firefighting efforts.",
-    "link": "https://www.bbc.com/news/articles/ckg34128nvpo"
+    "text": "Microsoft Says New Cybersecurity AI Model Helps MDASH Score 95.95% at Half the Cost - The Hacker News",
+    "fullText": "Microsoft launches MAI-Cyber-1-Flash inside MDASH, routing up to 90% of tasks to the model while GPT-5.4 handles the hardest 10%.",
+    "link": "https://thehackernews.com/2026/07/microsoft-says-new-cybersecurity-ai.html"
   },
   {
-    "text": "Zendaya Stuns ‘Spider-Man: Brand New Day’ Premiere in ‘Abstract’ Spider-Inspired Look: ‘It’s Like This Metamorphosis’ - Variety",
-    "fullText": "Zendaya stunned the 'Spider-Man: Brand New Day' premiere in an 'abstract' spider-inspired look.",
-    "link": "https://variety.com/2026/film/news/zendaya-spider-man-brand-new-day-premiere-dress-law-roach-1236822294/"
+    "text": "‘Spider-Man: Brand New Day’ First Reactions: Tom Holland Has ‘Never Been Better’ in a Sequel That Ditches ‘Multiverse Tedium’ and Delivers a ‘Grounded Spider-Man Tale’ - Variety",
+    "fullText": "Tom Holland is earning rave first reactions for his fourth \"Spider-Man\" movie, which opens the door to his next era in the Marvel Cinematic Universe.",
+    "link": "https://variety.com/2026/film/news/spider-man-brand-new-day-first-reactions-tom-holland-1236821722/"
   },
   {
-    "text": "Why this time around, Netanyahu’s meeting with Trump might not go to script - CNN",
-    "fullText": "For years, the Israeli leader’s trips to Washington have been carefully choreographed. But things have changed since the last time the pair met, before the Iran war.",
-    "link": "https://www.cnn.com/2026/07/28/middleeast/netanyahu-meets-trump-iran-latam-intl"
+    "text": "Hugging Face Has a Deepfake Nudes Problem - WIRED",
+    "fullText": "Researchers tested top image editing models on Hugging Face and found they could easily create explicit deepfakes—and 1,000 image editing prompts show how people use the software.",
+    "link": "https://www.wired.com/story/hugging-face-has-a-nonconsensual-deepfakes-problem/"
   },
   {
-    "text": "Fauci’s diary reveals his thoughts on a ‘rambling’ Trump and his own fame - The Washington Post",
-    "fullText": "Diary entries written by the National Institutes of Health scientist who helped lead the U.S. response to the coronavirus, released by Sen. Rand Paul (R-Kentucky), reveal a contentious internal battle over how to handle the outbreak.",
-    "link": "https://www.washingtonpost.com/health/2026/07/27/faucis-diary-released-revealing-his-thoughts-fame-rambling-trump/"
-  },
-  {
-    "text": "Milania Giudice's Best Friend Victoria Zardoya Died in Tragic Fall at Florida's Fort Dade Ruins - E! News",
-    "fullText": "After Milania Giudice’s childhood best friend Victoria Zardoya tragically died from the injuries she sustained on a trip to Tampa, a member of the group she traveled with spoke out.",
-    "link": "https://www.eonline.com/news/1434405/how-milania-giudices-bff-victoria-zardoya-died-fell-at-florida-fort-dade"
-  },
-  {
-    "text": "Fiery Michigan Senate primary reaches final stretch: Takeaways from El-Sayed, Stevens debate - The Hill",
-    "fullText": "Rep. Haley Stevens (D-Mich.) and former Wayne County health director Abdul El-Sayed squared off in their second one-on-one debate to replace retiring Sen. Gary Peters (D-Mich.) — just one week out from the Aug. 4 Democratic Senate primary.   The duo clashed o…",
-    "link": "https://thehill.com/homenews/campaign/5993136-el-sayed-stevens-michigan-democratic-senate-primary-debate/"
-  },
-  {
-    "text": "Lindsay Clancy now on trial in murder of her 3 children in Duxbury, Massachusetts - CBS News",
-    "fullText": "Lindsay Clancy, accused of killing her three young children in her Duxbury, Massachusetts, home, is standing trial after opening statements were given Monday and testimony began.",
-    "link": "https://www.cbsnews.com/boston/live-updates/lindsay-clancy-trial-live-updates-patrick-clancy/"
-  },
-  {
-    "text": "J&J offers $5.5bn settlement in lawsuits claiming talc link to cancer - Al Jazeera",
-    "fullText": "Johnson & Johnson agrees to pay $5.5bn to settle nearly 70,000 US lawsuits over talc-based baby powder cancer claims.",
-    "link": "https://www.aljazeera.com/news/2026/7/28/jj-reaches-5-5bn-settlement-over-lawsuits-tying-talc-to-ovarian-cancer"
-  },
-  {
-    "text": "Everything We Know About MacBook Ultra's All-New Design - MacRumors",
-    "fullText": "Apple's next high-end laptop is expected to bring the most substantial external changes to the MacBook Pro line since 2021. No renders, case...",
-    "link": "https://www.macrumors.com/2026/07/27/macbook-ultra-all-new-design/"
-  },
-  {
-    "text": "Kelsey Grammer admits it's 'exhausting' when movies try to alter history to fit modern tastes - Yahoo",
-    "fullText": "\"Frasier\" star Kelsey Grammer told Katie Miller that Hollywood keeps flopping by forcing modern spins on classic stories that ought to respect history and culture.",
-    "link": "https://www.foxnews.com/media/kelsey-grammer-admits-its-exhausting-when-movies-try-alter-history-fit-modern-tastes"
-  },
-  {
-    "text": "15-year-old shot into Seattle food festival crowd during deadly gunfight, prosecutors allege - NBC News",
-    "fullText": "A judge ordered a 15-year-old held in juvenile detention Monday in connection with a gunfight at a crowded Seattle food festival that killed three people and injured at least four others.",
-    "link": "https://www.nbcnews.com/news/us-news/seattle-food-festival-shooting-may-gang-related-prosecutors-say-rcna589412"
-  },
-  {
-    "text": "Trump administration urges Supreme Court to allow order targeting mail-in voting before midterms - AP News",
-    "fullText": "The Trump administration has asked the Supreme Court to allow for now an executive order targeting mail-in voting. This request follows an appeals court decision that blocked the order in nearly half the country. Trump's order, issued in March, directs the cr…",
-    "link": "https://apnews.com/article/trump-mail-voting-appeal-executive-order-supreme-court-5482700c21f4945d6991dff24776b525"
-  },
-  {
-    "text": "Wife of Chiefs offensive coordinator Eric Bieniemy reportedly shot by son in Virginia home - KMBC",
-    "fullText": "ESPN says the wife of Chiefs offensive coordinator Eric Bieniemy was shot at the couple’s Virginia home late Sunday night. What we know:",
-    "link": "https://www.kmbc.com/article/virginia-home-shooting-chiefs-bieniemy-family/73272547"
-  },
-  {
-    "text": "Vita Vea landing spots: Veteran DT requests trade from Buccaneers after failed contract extension talks - CBS Sports",
-    "fullText": "Vea held out of minicamp while seeking a new contract",
-    "link": "https://www.cbssports.com/nfl/news/buccaneers-vita-vea-requests-trade-landing-spots/"
+    "text": "Stevens and El-Sayed trade personal attacks and other takeaways from the Michigan Senate primary debate - CNN",
+    "fullText": "The stark choice facing Michigan’s Democratic voters in the August 4 Senate primary was on display Monday night, as the two candidates closed their final debate by pitching themselves as best positioned to win a general election that could tip the balance of …",
+    "link": "https://www.cnn.com/2026/07/27/politics/abdul-el-sayed-haley-stevens-michigan-debate-takeaways"
   }
 ]
