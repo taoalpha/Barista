@@ -1,8 +1,23 @@
 [
   {
-    "text": "Max Miller remains the GOP nominee in Ohio House race - The Washington Post",
-    "fullText": "A Monday afternoon deadline that would have allowed local party officials to select a replacement candidate has passed.",
-    "link": "https://www.washingtonpost.com/politics/2026/08/10/max-miller-remains-gop-nominee-ohio-house-race/"
+    "text": "Louisiana warns of rise in flesh-eating bacteria infections - The Washington Post",
+    "fullText": "Nine people have contracted Vibrio vulnificus, and five have died, according to state officials. In recent years, warming waters have also pushed cases farther north.",
+    "link": "https://www.washingtonpost.com/health/2026/08/10/louisiana-warns-rise-flesh-eating-bacteria-vibrio-vulnificus/"
+  },
+  {
+    "text": "Boeing is selling flying taxi venture Wisk, WA-based Insitu to Archer - The Seattle Times",
+    "fullText": "Boeing is selling its autonomous flying taxi company in California, its Washington-based unmanned aircraft systems developer, and its air-traffic company in Texas.",
+    "link": "https://www.seattletimes.com/business/boeing-aerospace/boeing-is-selling-flying-taxi-venture-wisk-wa-based-insitu-to-archer/"
+  },
+  {
+    "text": "Senators Johnson, Paul Release Initial Texts from Dr. Fauci’s Government iPhone - U.S. Senator Ron Johnson (.gov)",
+    "fullText": "Dr. Fauci in Jan. 2021: second dose of covid vaccine “theoretically could be associated with miscarriage in the 1st trimester” WASHINGTON, D.C. – Today, U.S. Sen. Ron Johnson (R-Wis.), chairman of the Permanent Subcommittee on Investigations, and U.S. Sen. Ra…",
+    "link": "https://www.ronjohnson.senate.gov/2026/08/10/senators-johnson-paul-release-initial-texts-from-dr-faucis-government-iphone-2/"
+  },
+  {
+    "text": "Everything New in iOS 27 Beta 5 - MacRumors",
+    "fullText": "We're a little over a month away from the launch of iOS 27, and Apple is continuing to make changes. The fifth beta of iOS 27 changes the look of...",
+    "link": "https://www.macrumors.com/2026/08/10/ios-27-beta-5-everything-new/"
   },
   {
     "text": "Anker’s travel charger works in almost any country and is down to $20 - The Verge",
@@ -20,11 +35,6 @@
     "link": "https://www.foxnews.com/entertainment/brad-pitt-admits-drinking-again-after-years-sobriety"
   },
   {
-    "text": "Judge orders pause of Mamdani’s pied-à-terre tax rollout after homeowners sue - CNN",
-    "fullText": "A Staten Island judge on Monday temporarily blocked the controversial rollout of New York Mayor Zohran Mamdani’s pied-à-terre tax, pausing enforcement of one of his signature campaign promises: taxing the rich.",
-    "link": "https://www.cnn.com/2026/08/10/us/nyc-pied-a-terre-tax-lawsuit"
-  },
-  {
     "text": "Taylor Farms recalls foods made with jalapeños over salmonella concerns - The Washington Post",
     "fullText": "The company had separately recalled iceberg lettuce connected to the largest cyclospora outbreak in the United States.",
     "link": "https://www.washingtonpost.com/health/2026/08/10/taylor-farms-recalls-foods-made-with-jalapeos-over-salmonella-concerns/"
@@ -40,53 +50,33 @@
     "link": "https://apnews.com/article/tupac-shakur-trial-las-vegas-duane-davis-7b5ff4fe0e0abb6d067d329a79c57040"
   },
   {
-    "text": "Mark Zuckerberg Posts Deranged 6,500-Word Essay About Giving Everyone AI Superintelligence - 404 Media",
-    "fullText": "\"The future is for everyone,\" Zuckerberg says, describing future that is primarily good for Meta.",
-    "link": "https://www.404media.co/mark-zuckerberg-posts-deranged-6-500-word-essay-about-giving-everyone-ai-superintelligence/"
-  },
-  {
     "text": "Jackie, beloved Big Bear bald eagle watched by millions, dies - The Desert Sun",
     "fullText": "Millions watched Big Bear bald eagle Jackie raise eaglets and survive storms. Her death closes a beloved chapter in California wildlife.",
     "link": "https://www.desertsun.com/story/news/nation/california/2026/08/10/big-bears-celebrity-eagle-jackie-leaves-lasting-california-legacy/91168883007/"
   },
   {
-    "text": "Live Updates: Trump demands Iran pay compensation after Tehran makes conditions for reopening Strait of Hormuz - CBS News",
-    "fullText": "President Trump signaled he would be piling economic pressure on Iran as the stalemate continued and Tehran laid out new conditions to reopen the Strait of Hormuz.",
-    "link": "https://www.cbsnews.com/live-updates/iran-war-us-negotiation-strait-of-hormuz/"
+    "text": "White House officials tamped down efforts to oust Max Miller in final days - politico.com",
+    "fullText": "Ohio Republicans now have no choice but to rally behind a candidate many GOP insiders warn could cost the party a traditionally safe seat this November.",
+    "link": "https://www.politico.com/news/2026/08/10/white-house-max-miller-pressure-campaign-01031353"
   },
   {
-    "text": "July was the hottest month in the US since records began in 1895 - KSL News",
-    "fullText": "July was the hottest month ever recorded in the United States, according to data released Monday by the National Oceanic and Atmospheric Administration.",
-    "link": "https://www.ksl.com/article/51608049/july-was-the-hottest-month-in-the-us-since-records-began-in-1895"
+    "text": "What smart people are saying about Meta's open-weight model Muse Glimmer and Mark Zuckerberg's AI manifesto - Business Insider",
+    "fullText": "Even the White House took notice of Meta CEO Mark Zuckerberg's AI manifesto. Others focused on the release of Meta's open-weight model.",
+    "link": "https://www.businessinsider.com/meta-muse-glimmer-open-weight-zuckerberg-ai-views-reactions-2026-8#article"
   },
   {
-    "text": "Nvidia teams up with Wall Street asset managers on $500 billion AI infrastructure push - CNBC",
-    "fullText": "The capital package highlights the growing role of private capital in financing the costs of the artificial intelligence boom.",
-    "link": "https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html"
+    "text": "Apple is working on a way to authenticate that a photo came from an iPhone camera - 9to5mac.com",
+    "fullText": "References included in iOS 27 beta 5 point to a new feature designed to authenticate the camera source of an iPhone photo.",
+    "link": "https://9to5mac.com/2026/08/10/apple-is-working-on-a-way-to-authenticate-that-a-photo-came-from-an-iphone-camera/"
   },
   {
-    "text": "The new iOS 27 beta further expands Siri voice customization options - 9to5Mac",
-    "fullText": "iOS 27 beta 5 has further expanded the new Siri voice customization options. In earlier betas, the new Pace and...",
-    "link": "https://9to5mac.com/2026/08/10/the-new-ios-27-beta-further-expands-siri-voice-customization-options/"
+    "text": "Backstreet Boys to Ring-In New Year with Additional Sphere Residency Shows - TicketNews",
+    "fullText": "Following a massively successful run at the immersive Las Vegas Sphere, the Backstreet Boys will perform a New Year's run.",
+    "link": "https://www.ticketnews.com/2026/08/backstreet-boys-ring-in-new-year-additional-sphere-shows/"
   },
   {
-    "text": "S&P 500 is little changed as traders await possible Hormuz deal, Intel shares fall: Live updates - CNBC",
-    "fullText": "The market's moves come amid growing doubts that the U.S. and Iran will come to a lasting resolution to the conflict in the near term.",
-    "link": "https://www.cnbc.com/2026/08/09/stock-market-today-live-updates.html"
-  },
-  {
-    "text": "Archer Aviation Is Buying Boeing’s Flying-Taxi Enterprise and the Stock Is Soaring - Barron's",
-    "fullText": "Archer Aviation rises sharply as it agrees to acquire Wisk Aero, SkyGrid, and Insitu from Boeing.",
-    "link": "https://www.barrons.com/articles/archer-aviation-stock-boeing-flying-taxi-ba1ae363"
-  },
-  {
-    "text": "Packers training camp recap today, Bo Melton stars, other WR injuries - jsonline.com",
-    "fullText": "Bo Melton starred for the Green Bay Packers during training camp Aug. 10, while two other receivers remain out with injuries. Here's a recap.",
-    "link": "https://www.jsonline.com/story/sports/nfl/packers/2026/08/10/green-packers-training-camp-live-updates-today--live/91241757007/"
-  },
-  {
-    "text": "Ebola started in DR Congo earlier and officials are playing catch-up, WHO warns - BBC",
-    "fullText": "Infection rates are high, adding to concern that authorities are struggling to get to grips with the disease.",
-    "link": "https://www.bbc.com/news/articles/c5ydx7m8gzeo"
+    "text": "Here’s the best hour Wednesday to see Perseids meteor shower peak, California astronomer says - San Francisco Chronicle",
+    "fullText": "The Perseid meteor shower peaks this week. In the San Francisco Bay Area. Here’s what to know about fog, clouds and the ideal viewing time.",
+    "link": "https://www.sfchronicle.com/science/article/perseid-meteor-shower-22380568.php"
   }
 ]
