@@ -1,18 +1,58 @@
 [
   {
+    "text": "Prince Harry and Meghan will move back to the United Kingdom, source says - NBC News",
+    "fullText": "The couple has lived in California since 2020. King Charles was informed of the move Sunday, a source said.",
+    "link": "https://www.nbcnews.com/world/united-kingdom/prince-harry-meghan-will-move-back-united-kingdom-source-says-rcna593435"
+  },
+  {
+    "text": "One killed when small plane, state police helicopter collide in Pennsylvania, officials say - CBS News",
+    "fullText": "One person was killed and two Pennsylvania State Police troopers were injured when a small plane and a state police helicopter collided in central Pennsylvania, authorities said.",
+    "link": "https://www.cbsnews.com/news/small-plane-state-police-helicopter-midair-collision-carlisle-pennsylvania/"
+  },
+  {
+    "text": "Stock Market Today: Bond Market Steady After Treasury Intervention, Nasdaq Futures Tick Up — Live Updates - WSJ",
+    "fullText": null,
+    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-20-2026"
+  },
+  {
+    "text": "Trump vows tougher economic measures on Iran and supporting countries - BBC",
+    "fullText": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.",
+    "link": "https://www.bbc.com/news/articles/c2k7e83ynj4o"
+  },
+  {
+    "text": "Chinese court sentences Evergrande founder to life in prison for fraud - AP News",
+    "fullText": "A Chinese court has sentenced Hui Ka Yan, founder of property developer Evergrande, to life in prison. The court in the southern city of Shenzhen also fined Evergrande Group and Evergrande Real Estate group a total of $2.35 billion. Evergrande collapsed with …",
+    "link": "https://apnews.com/article/china-evergrande-founder-real-estate-fraud-5573868904b3ced0c5c9b0314c56ae5a"
+  },
+  {
+    "text": "#Resistance Democrats are flopping in primaries - Politico",
+    "fullText": "Alexander Vindman’s Senate primary loss Tuesday is the latest stumble from a top Trump critic.",
+    "link": "https://www.politico.com/news/2026/08/20/the-trump-resistance-is-losing-its-primaries-01042844"
+  },
+  {
     "text": "US national debt hits $40 trillion, rising by $90K per second - wjla.com",
     "fullText": "The U.S. national debt crossed a record $40 trillion this week—a figure economists and lawmakers expect will continue to surge.Data from the U.S. Congress Joint",
     "link": "https://wjla.com/news/local/us-national-debt-hits-40-trillion-rising-by-90000-a-second-committee-says"
   },
   {
-    "text": "Prince Harry and Meghan are returning to the U.K. with their children - NPR",
-    "fullText": "Prince Harry and his wife, Meghan, have decided to return to the United Kingdom for an extended stay starting this fall, but they won't resume their roles as working members of the royal family.",
-    "link": "https://www.npr.org/2026/08/20/nx-s1-5939320/harry-meghan-return-uk"
+    "text": "Syrian foreign minister to Axios: Israeli bombing of airbase was unjustified - Axios",
+    "fullText": "The early Tuesday morning strike on the Abu al-Duhur airbase has heightened tensions among three close U.S. partners in the region.",
+    "link": "https://www.axios.com/2026/08/19/syria-foreign-minister-israel-bombing-airbase"
   },
   {
-    "text": "Russian missile barrage across Ukraine’s capital kills at least 12 and wounds 33 - AP News",
-    "fullText": "A Russian missile barrage has killed at least 12 people in Ukraine's capital. Local authorities say explosions echoed across Kyiv overnight into Thursday morning. Ukraine’s Emergency Service reports at least 33 people were wounded in the attack. The strikes h…",
-    "link": "https://apnews.com/article/russia-ukraine-war-kyiv-attack-92ff5d7d1073fd8692a75e4e677f425b"
+    "text": "LG Display Introduces FLiPP OLED Technology, Improving Brightness By Up To 1.6X With Longer Lifespan - Wccftech",
+    "fullText": "LG's FLiPP OLED technology offers 1.6x brightness, 2.4x lifespan, and 13% lower power consumption compared to FMM with enhanced manufacturing flexibility.",
+    "link": "https://wccftech.com/lg-display-introduces-flipp-oled-technology/"
+  },
+  {
+    "text": "Israeli military launches criminal probes into killings of 5-year-old and paramedics - NPR",
+    "fullText": "Israel's military on Wednesday announced its first criminal investigations into troop conduct in Gaza, focusing on the killings of 5-year-old Hind Rajab and her family and of 15 Palestinian paramedics.",
+    "link": "https://www.npr.org/2026/08/20/nx-s1-5939310/israeli-military-criminal-probes"
+  },
+  {
+    "text": "Trump scaling down U.S.-South Korea drills could risk more than just joint military readiness - CNBC",
+    "fullText": "The move by Trump also will start to raise questions about the credibility of Washington's commitment to alliances.",
+    "link": "https://www.cnbc.com/2026/08/20/trump-south-korea-military-drills-cuts-.html"
   },
   {
     "text": "DEA Joins Hayden Panettiere’s Death Investigation: Report - Rolling Stone",
@@ -20,24 +60,19 @@
     "link": "http://www.rollingstone.com/tv-movies/tv-movie-news/hayden-panettiere-death-investigation-dea-1235611899/"
   },
   {
-    "text": "Pilot killed, 2 Pa. State Police troopers injured in midair crash at Carlisle Regional Airport - 6abc.com",
-    "fullText": "According to the Federal Aviation Administration, the collision involved a Bell 407 helicopter and a Cessna 150 airplane.",
-    "link": "https://6abc.com/post/midair-collision-involving-pa-state-police-aircraft-investigation-carlisle-governor-says/19705483/"
-  },
-  {
-    "text": "‘Spider-Man: Brand New Day’ Aims to Swing Past ‘Insidious’ Sequel for Fourth Box Office Win - The Hollywood Reporter",
-    "fullText": "'Insidious: Out of the Further' and Jason Statham's 'Mutiny' are among the newcomers set to compete with Sony's Tom Holland-led blockbuster as the summer winds down.",
-    "link": "http://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-box-office-insidious-mutiny-1236677495/"
-  },
-  {
-    "text": "Bessent acts to break bond market fever, head off rising borrowing costs - The Washington Post",
-    "fullText": "After long-term Treasury yields on Tuesday rose to their highest point since 2007, the treasury secretary doubled a buyback of government debt.",
-    "link": "https://www.washingtonpost.com/business/2026/08/19/bond-market-quake-is-bad-news-governments-businesses-consumers/"
+    "text": "Orioles bash MLB technology after Alonso's blast ruled foul - ESPN",
+    "fullText": "The Orioles criticized MLB for being behind on technology after Pete Alonso's deep fly to left was ruled foul and the call was upheld on a review Wednesday night against the Yankees.",
+    "link": "https://www.espn.com/mlb/story/_/id/49666131/orioles-bash-mlb-technology-alonso-blast-ruled-foul"
   },
   {
     "text": "Samsung confirms August 27 event for the ‘newest addition to the Galaxy S26 family’ - 9to5Google",
     "fullText": "Samsung is teasing a new entrant to the Galaxy S26 series coming at an event on August 27, but it’s...",
     "link": "http://9to5google.com/2026/08/19/samsung-august-event-galaxy-s26-family/"
+  },
+  {
+    "text": "Post Malone and Christy Lee Are Engaged Over a Year After Debuting Relationship - E! News",
+    "fullText": "\"Sunflower\" singer Post Malone and his girlfriend Christy Lee got engaged over one year after they went public with their romance in early 2025.",
+    "link": "https://www.eonline.com/news/1435217/post-malone-engaged-to-christy-lee-over-one-year-after-debuting-romance"
   },
   {
     "text": "Jimmy Gomez being investigated for 'sexual harassments and assault,' lawyers allege - Politico",
@@ -48,50 +83,5 @@
     "text": "NASA calls off mission to rescue Swift gamma-ray observatory - Ars Technica",
     "fullText": "Without a rescue, NASA's Swift Observatory is expected to reenter the atmosphere later this year.",
     "link": "https://arstechnica.com/space/2026/08/nasa-calls-off-mission-to-rescue-swift-gamma-ray-observatory/"
-  },
-  {
-    "text": "Trump taps White House aide as FDA commissioner - Axios",
-    "fullText": "Overton is currently a White House aide.",
-    "link": "https://www.axios.com/2026/08/19/trump-heidi-overton-fda-commissioner"
-  },
-  {
-    "text": "Bodies discovered in Swiss Alps as melting glaciers reveal remains - USA Today",
-    "fullText": "The retreat of glaciers in the Swiss Alps led to the discovery of two bodies, local authorities said.",
-    "link": "https://www.usatoday.com/story/news/world/2026/08/19/glacier-melting-swiss-alps-reveals-human-remains/91378280007/"
-  },
-  {
-    "text": "Trump announces ‘most crushing economic operation ever’ against Iran - Al Jazeera",
-    "fullText": "US president also says any country that trades with Iran will ‘face tremendous economic consequences’.",
-    "link": "https://www.aljazeera.com/news/2026/8/19/trump-announces-most-crushing-economic-operation-ever-against-iran"
-  },
-  {
-    "text": "Federal Reserve officials hint rate increase may be necessary - The Hill",
-    "fullText": "Multiple Federal Reserve officials indicated the central bank may need to raise interest rates later this year, according to newly released minutes of the Fed’s July meeting.  While most participants at the joint meeting of the Federal Open Market Committee (…",
-    "link": "https://thehill.com/business/6040110-fed-july-minutes-rate-hike/"
-  },
-  {
-    "text": "Sources: Bucs, Vea agree to 1-year extension to end hold in - ESPN",
-    "fullText": "Two-time Pro Bowl defensive tackle Vita Vea and the Tampa Bay Buccaneers have agreed on a one-year extension that guarantees him $30 million, sources told ESPN on Wednesday.",
-    "link": "https://www.espn.com/nfl/story/_/id/49664105/bucs-dt-vita-vea-agree-1-year-extension-end-hold-in"
-  },
-  {
-    "text": "'Star Wars: Starfighter', 'Lucky' finale: Jonathan Tropper Talks All - Deadline",
-    "fullText": "On the latest episode of Dealdne'",
-    "link": "http://deadline.com/2026/08/star-wars-starfighter-lucky-finale-jonathan-tropper-1237045610/"
-  },
-  {
-    "text": "Eagles-Patriots Joint Training Camp Practice Notes: Day 1 - bleedinggreennation.com",
-    "fullText": "Observations from Foxborough, Massachusetts.",
-    "link": "https://www.bleedinggreennation.com/philadelphia-eagles-preseason/179845/eagles-patriots-joint-training-camp-practice-notes-day-1"
-  },
-  {
-    "text": "The Freedom Caucus is having a brutal primary run - Politico",
-    "fullText": "The hard-right Freedom Caucus has struggled to elevate its picks this year.",
-    "link": "https://www.politico.com/news/2026/08/19/freedom-caucus-struggles-primaries-01042990"
-  },
-  {
-    "text": "Trump’s Plan to Squeeze Iran’s Economy Will Live or Die in Dubai - WSJ",
-    "fullText": null,
-    "link": "https://www.wsj.com/world/middle-east/trumps-plan-to-squeeze-irans-economy-will-live-or-die-in-dubai-8f9f561e"
   }
 ]
