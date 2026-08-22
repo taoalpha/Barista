@@ -1,8 +1,43 @@
 [
   {
-    "text": "Dow surges 500 points Friday, but index posts back-to-back weekly losses: Live updates - CNBC",
-    "fullText": "Stocks rose on Friday as investors tried to find their footing following a steep sell-off driven by rising Treasury yields.",
-    "link": "https://www.cnbc.com/2026/08/20/stock-market-today-live-updates.html"
+    "text": "Ed Martin leaving Justice Dept. after tumultuous tenure that alienated colleagues - The Washington Post",
+    "fullText": "Martin’s clashes cost him jobs as U.S. attorney and as head of the Justice Department’s “weaponization” group.",
+    "link": "https://www.washingtonpost.com/politics/2026/08/21/ed-martin-leaving-justice-dept-after-tumultuous-tenure-that-alienated-colleagues/"
+  },
+  {
+    "text": "Stock Market Today: Dow Opens Higher; Yields Steady; Bitcoin in Focus — Live Updates - WSJ",
+    "fullText": null,
+    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026"
+  },
+  {
+    "text": "TikTok agrees to pay $400 million to settle Justice Department children's privacy case - Fox Business",
+    "fullText": "The DOJ called the $400 million TikTok settlement a major victory for American children and parents, citing strengthened privacy safeguards.",
+    "link": "https://www.foxbusiness.com/technology/tiktok-agrees-pay-400-million-settle-justice-department-childrens-privacy-case"
+  },
+  {
+    "text": "Supreme Court temporarily allows Trump ballroom construction to continue - NBC News",
+    "fullText": "Supreme Court rules on whether Trump can move forward with construction on the White House ballroom.",
+    "link": "https://www.nbcnews.com/politics/supreme-court/supreme-court-trump-white-house-ballroom-rcna592899"
+  },
+  {
+    "text": "Prince Harry’s Return to U.K. Sets Up Showdown With Tabloids - WSJ",
+    "fullText": null,
+    "link": "https://www.wsj.com/world/uk/prince-harrys-return-to-u-k-sets-up-showdown-with-tabloids-b487f798"
+  },
+  {
+    "text": "Navy reportedly weighs renaming aircraft carrier for Trump - The Hill",
+    "fullText": "The name of Pearl Harbor hero Doris Miller could be removed from one of the U.S. Navy’s next aircraft carriers, with President Donald Trump’s name reportedly among those being considered as a replacement.",
+    "link": "https://thehill.com/policy/defense/6044226-navy-doris-miller-trump-aircraft-carrier/"
+  },
+  {
+    "text": "Apple is laying off staffers working on the Vision Pro and Siri - The Verge",
+    "fullText": "Apple is laying off staff working on Siri and the Vision Pro, including cutting a Vision Pro gaming team, Bloomberg reports.",
+    "link": "https://www.theverge.com/tech/983451/apple-layoffs-vision-pro-siri"
+  },
+  {
+    "text": "Deadly drug-resistant ‘superbug’ is spreading in California. What to know - Sacramento Bee",
+    "fullText": "Candida auris superbug spreads in California hospitals. Learn symptoms, who’s at risk, treatment and CDC guidance to prevent infection in healthcare settings.",
+    "link": "https://www.sacbee.com/news/local/health-and-medicine/article316964987.html"
   },
   {
     "text": "Russian drones kill 14 people at a shopping mall in a central Ukrainian city, officials say - AP News",
@@ -10,19 +45,9 @@
     "link": "https://apnews.com/article/russia-ukraine-war-5f0948b0163062d84d7a68fbfc3c1469"
   },
   {
-    "text": "Supreme Court allows Trump’s ballroom construction to continue for now - NPR",
-    "fullText": "The ruling comes after months of back and forth between the Trump administration and the National Trust for Historic Preservation.",
-    "link": "https://www.npr.org/2026/08/21/nx-s1-5935417/supreme-court-allows-trumps-ballroom-construction-to-continue-for-now"
-  },
-  {
-    "text": "Apple Cuts Jobs in Siri, Vision Pro Immersive Video and Gaming Teams - Bloomberg.com",
-    "fullText": "Apple Inc. is cutting jobs across teams responsible for the Siri digital assistant and the Vision Pro headset, part of an effort to focus on new devices and artificial intelligence.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-21/apple-cuts-jobs-in-siri-vision-pro-immersive-video-and-gaming-teams"
-  },
-  {
-    "text": "See a map of the Freedom 250 Grand Prix circuit in D.C. - The Washington Post",
-    "fullText": "This weekend’s Freedom 250 Grand Prix will be the final major event to use the District’s historic landmarks as a backdrop for the nation’s birthday celebrations.",
-    "link": "https://www.washingtonpost.com/dc-md-va/2026/08/21/indycars-race-past-iconic-dc-sites-this-weekend/"
+    "text": "Raiders' Klint Kubiak not ready to name Week 1 QB, says 'reps' key for Fernando Mendoza's development - NFL.com",
+    "fullText": "Las Vegas Raiders HC Klint Kubiak again declined to name a Week 1 QB between Fernando Mendoza and Kirk Cousins following his team's second preseason game.",
+    "link": "https://www.nfl.com/news/raiders-klint-kubiak-not-ready-to-name-week-1-qb-fernando-mendoza"
   },
   {
     "text": "Pentagon fires Stars and Stripes leaders who criticized DOD’s interference - The Washington Post",
@@ -30,29 +55,24 @@
     "link": "https://www.washingtonpost.com/business/2026/08/21/pentagon-fires-stars-stripes-leaders-who-criticized-dods-interference/"
   },
   {
-    "text": "Meghan in talks for role in Netflix series The Gentlemen, BBC understands - BBC",
-    "fullText": "This would be Meghan's first significant acting role since her marriage to Prince Harry.",
-    "link": "https://www.bbc.com/news/articles/cwye9g9r58zo"
+    "text": "Trump officials touted a voter fraud bombshell. Their data hasn’t proved it - CNN",
+    "fullText": "Homeland Security Secretary Markwayne Mullin stood before the cameras last month and announced what he cast as a bombshell.",
+    "link": "https://www.cnn.com/2026/08/21/politics/markwayne-mullin-voter-fraud-nevada"
   },
   {
-    "text": "World's oldest living person just turned one year older. Meet Ethel - USA Today",
-    "fullText": "Ethel Caterham was crowned Guinness World Records’ oldest living person in mid-spring 2025.",
-    "link": "https://www.usatoday.com/story/news/world/2026/08/21/worlds-oldest-living-person-ethel-caterham/91402352007/"
+    "text": "2 US Army Corps of Engineers workers among 8 killed in small plane crash in Alaska near radar site - AP News",
+    "fullText": "Investigators say eight people died when a small plane crashed on its second attempt to land in heavy fog at a remote military airport in Alaska. The National Transportation Safety Board said Friday that the pilots could not see the runway and had to rely ent…",
+    "link": "https://apnews.com/article/alaska-charter-plane-crash-army-cd21190cad6b7246d903677685f1e928"
   },
   {
-    "text": "Natalie Harps’ Gushing Letters to Trump Paint a Disturbing Portrait of Their Dynamic - Rolling Stone",
-    "fullText": null,
-    "link": "https://www.rollingstone.com/politics/politics-news/natalie-harp-letters-trump-full-1235612952/"
+    "text": "Bessent's bond gambit aimed at calming markets is instead stirring inflation worries - CNBC",
+    "fullText": "The so-called breakeven rate hit its highest levels in more than two months.",
+    "link": "https://www.cnbc.com/2026/08/21/bessents-bond-gambit-aimed-at-calming-markets-is-instead-stirring-inflation-worries-.html"
   },
   {
-    "text": "Bond yields head higher again, giving back almost all gains since Treasury Department intervention - Yahoo Finance",
-    "fullText": "Stocks shrugged it off, but bond yields moved higher for a second straight day on Friday, the latest sign that the US Treasury's intervention efforts have be...",
-    "link": "https://finance.yahoo.com/markets/article/bond-yields-head-higher-again-giving-back-almost-all-gains-since-treasury-department-intervention-165921301.html"
-  },
-  {
-    "text": "Trump lawyer to liberal think tank: Retract National Guard report that defames president - The Hill",
-    "fullText": "President Trump has demanded a liberal think tank retract a critical report on his National Guard deployments by Friday evening, threatening to file a $5 billion defamation suit if it doesn’t. In a nine-page letter sent Monday by Trump’s personal attorney, wh…",
-    "link": "https://thehill.com/regulation/court-battles/6043735-trump-center-american-progress-national-guard-defamation/"
+    "text": "Pixel 11 Pro Fold is changing how I multitask on a foldable with ‘App Handles’ [Gallery] - 9to5Google",
+    "fullText": "Google is launching a new Android feature with the Pixel 11 Pro Fold, \"App Handles,\" which is changing how I use foldable multitasking.",
+    "link": "http://9to5google.com/2026/08/21/google-pixel-11-pro-fold-android-app-handles-multitasking-feature/"
   },
   {
     "text": "Winners and losers from sprint qualifying at F1's Dutch GP - The Race",
@@ -60,43 +80,18 @@
     "link": "https://www.the-race.com/formula-1/winners-and-losers-sprint-qualifying-dutch-gp/"
   },
   {
-    "text": "Laken Snelling, ex-Kentucky student whose infant was found dead in closet, pleads guilty to manslaughter - NBC News",
-    "fullText": "Former University of Kentucky student-athlete Laken Snelling pleaded guilty to first-degree manslaughter in the death of her infant son, whose body was found inside a trash bag in a closet.",
-    "link": "https://www.nbcnews.com/news/us-news/laken-snelling-ex-kentucky-student-whose-infant-was-found-dead-closet-rcna593745"
+    "text": "What to know about the Freedom 250 Grand Prix, Trump’s capital car race - Al Jazeera",
+    "fullText": "The president says the 147-lap race will be an event ‘like no other’ as drivers zip through Washington, DC.",
+    "link": "https://www.aljazeera.com/news/2026/8/21/what-to-know-about-the-freedom-250-grand-prix-trumps-capital-car-race"
+  },
+  {
+    "text": "Trump warns of ‘economic D-Day’ against Iran, but Tehran is well acquainted with sanctions - AP News",
+    "fullText": "President Donald Trump's administration is touting a crushing financial campaign against Iran. It's promising an “economic D-Day” against a country that has withstood nearly five decades of punishing American sanctions. Trump says the U.S. is imposing an “unp…",
+    "link": "https://apnews.com/article/iran-war-trump-sanctions-economic-fury-oil-d28206ea288a3d4a9b82260ab44ce460"
   },
   {
     "text": "Kim Zolciak’s 15-year-old son, KJ Biermann, arrested for sodomy and sexual battery - Page Six",
     "fullText": "The “Real Housewives of Atlanta” alum co-parents the teen with her estranged husband, Kroy Biermann.",
     "link": "https://pagesix.com/2026/08/21/celebrity-news/kim-zolciaks-15-year-old-son-kj-biermann-arrested-for-sodomy-and-sexual-battery/"
-  },
-  {
-    "text": "Eight die in plane crash at remote Alaskan military site, air force says - BBC",
-    "fullText": "It is unclear why the civilian-contracted plane was at the radar site on Alaska's south-west coast.",
-    "link": "https://www.bbc.com/news/articles/cj9dmw8183wo"
-  },
-  {
-    "text": "Watch Live: Lindsay Clancy told children \"go to God\" during murders, prosecution psychiatrist says at trial - CBS News",
-    "fullText": "The defense rested in Lindsay Clancy's murder trial Friday in Massachusetts. The prosecution has started calling rebuttal witnesses.",
-    "link": "https://www.cbsnews.com/boston/news/lindsay-clancy-trial-watch-live-day-18-dr-phillip-resnick/"
-  },
-  {
-    "text": "Pixel 11 Pro vs. iPhone 17 Pro: Can a re-run contend with a re-do [Video] - 9to5Google",
-    "fullText": "How close does the Pixel 11 Pro get to the iPhone 17 Pro? Does Google’s best of 2026 contend with...",
-    "link": "http://9to5google.com/2026/08/21/pixel-11-pro-vs-iphone-17-pro-can-a-re-run-contend-with-a-re-do-video/"
-  },
-  {
-    "text": "Hayden Panettiere’s Ex Wladimir Klitschko Shares Emotional Post on Her 37th Birthday - TODAY.com",
-    "fullText": "Hayden Panettiere’s ex-fiancé and father of their daughter, Wladimir Klitschko, has paid a touching tribute to the actor on social media on what would’ve been her 37th birthday.",
-    "link": "https://www.today.com/popculture/news/hayden-panettiere-ex-wladimir-klitschko-tribute-bday-rcna593752"
-  },
-  {
-    "text": "Massie, Greene slam Trump’s move to lower beef prices - The Hill",
-    "fullText": "Two Republicans pushed back on the Trump administration’s Friday decision to temporarily lift certain tariffs on imported ground beef in an effort to bring down prices for American consumers ahead of the midterm elections.  President Trump announced in a Trut…",
-    "link": "https://thehill.com/homenews/house/6043594-massie-greene-slam-beef-deal/"
-  },
-  {
-    "text": "Mom who struggled with postpartum psychosis describes intrusive thoughts \"turning into voices\" - CBS News",
-    "fullText": "As the trial of Lindsay Clancy brings renewed attention to postpartum psychosis, Haley Ashcom shares her experience with the dangerous condition.",
-    "link": "https://www.cbsnews.com/news/postpartum-psychosis-mom-recovery-lindsay-clancy/"
   }
 ]
