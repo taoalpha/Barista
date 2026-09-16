@@ -1,13 +1,73 @@
 [
   {
-    "text": "Ed Sheeran says dropping Macklemore over rapper's pro-Palestinian comments was 'promoter’s decision' - AP News",
-    "fullText": "Four supporting acts have quit Ed Sheeran’s tour after Macklemore was removed for his pro-Palestinian comments onstage. Hours after Sheeran said he refused to be drawn into a discussion about the war in Gaza, Irish acts Aaron Rowe and Beoga, Denmark's Lukas G…",
-    "link": "https://apnews.com/article/ed-sheeran-responds-macklemore-tour-3fd73815563039bea9b88f5efe745d62"
+    "text": "Common antibiotic linked to higher risk of death in adults, major study finds - Fox News",
+    "fullText": "A study of 110 clinical trials links the antibiotic cefepime to a 94.4% higher probability of all-cause mortality compared to other beta-lactam drugs.",
+    "link": "https://www.foxnews.com/health/common-antibiotic-linked-higher-risk-death-adults-major-study-finds"
   },
   {
-    "text": "US 10-Year Treasury Yields Rise to Highest Level Since 2007 - bloomberg.com",
-    "fullText": "The 10-year US Treasury yield rose to the highest in almost two decades, the latest milestone in a bruising global bond selloff driven by booming capital investment and soaring energy prices that are exacerbating inflation.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-15/us-10-year-treasury-yields-rise-to-highest-level-since-2007"
+    "text": "Senate fails to advance crypto bill, dooming the effort this Congress - The Washington Post",
+    "fullText": "The Senate fails to advance crypto bill. Democrats had raised concerns that the bill would not do enough to address President Donald Trump’s crypto empire.",
+    "link": "https://www.washingtonpost.com/business/2026/09/15/senate-fails-advance-crypto-bill-dooming-effort-this-congress/"
+  },
+  {
+    "text": "Ed Sheeran’s Tour Openers, Backing Band Resign After Macklemore Removal - pitchfork.com",
+    "fullText": "The rapper was kicked off the tour following his call for a free Palestine",
+    "link": "https://pitchfork.com/story/ed-sheeran-addresses-macklemores-removal-from-tour-in-new-statement/"
+  },
+  {
+    "text": "Kennedy Center prepares to close as Trump threatens to withhold repairs - The Washington Post",
+    "fullText": "The center’s Board of Trustees is also set to consider a proposal to shut down the building for renovations.",
+    "link": "https://www.washingtonpost.com/style/2026/09/15/judge-bars-kennedy-center-adding-trumps-name-building/"
+  },
+  {
+    "text": "Kash Patel defends FBI’s new policy on bestiality at Senate hearing - NBC News",
+    "fullText": "Sen. John Kennedy grilled the FBI director about a recently revised policy that doesn’t automatically disqualify job applicants who have engaged in bestiality.",
+    "link": "https://www.nbcnews.com/politics/congress/kash-patel-defends-new-fbi-policy-bestiality-senate-hearing-rcna598017"
+  },
+  {
+    "text": "The Roman telescope has enough gas for 22 years, double NASA’s expectations - Ars Technica",
+    "fullText": "The Nancy Grace Roman Space Telescope is the first NASA observatory designed for in-space refueling.",
+    "link": "https://arstechnica.com/space/2026/09/the-roman-telescope-has-enough-gas-for-22-years-double-nasas-expectations/"
+  },
+  {
+    "text": "Election watchers brace for Trump’s next move after Supreme Court ruling - Politico",
+    "fullText": "The legal whiplash over mail-in ballots has deepened worries about voter confidence and what the administration may do next.",
+    "link": "https://www.politico.com/news/2026/09/15/supreme-court-mail-in-voting-ruling-election-01077992"
+  },
+  {
+    "text": "Donald Trump Jr.’s Wedding Scandal Is Even More Ridiculous When You Remember What Tiffany Trump Tried at Hers - Slate",
+    "fullText": "The couple’s response was some kind of master class.",
+    "link": "https://slate.com/life/2026/09/donald-trump-jr-wife-wedding-bettina-anderson-russia.html"
+  },
+  {
+    "text": "Gemini 3.8 Live Extended Thinking powers Gemini Live, Gmail, & Keep - 9to5Google",
+    "fullText": "Google today announced Gemini 3.8 Live and Gemini 3.8 Live Extended Thinking as its “most advanced live dialogue models yet.”",
+    "link": "http://9to5google.com/2026/09/15/gemini-3-8-live-announced/"
+  },
+  {
+    "text": "Microsoft announces Windows and Surface event for October 7th - The Verge",
+    "fullText": "",
+    "link": "https://www.theverge.com/news/994714/microsoft-windows-surface-event-october-7-san-francisco"
+  },
+  {
+    "text": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms - BBC",
+    "fullText": "The inspector also found a bottleneck in resupply, despite President Donald Trump's claims that US supplies are \"virtually limitless\".",
+    "link": "https://www.bbc.com/news/articles/c9gk58xgng0vo"
+  },
+  {
+    "text": "Ford unveils 2027 F-150 with hands-free towing, first-ever Carhartt edition - Fox Business",
+    "fullText": "Ford's best-selling F-150 pickup is getting hands-free towing, refreshed styling, new powertrains and a first-ever Carhartt edition for the 2027 model year.",
+    "link": "https://www.foxbusiness.com/markets/ford-unveils-2027-f-150-hands-free-towing-first-ever-carhartt-edition"
+  },
+  {
+    "text": "US borrowing costs hit highest level since 2007 as oil prices jump - BBC",
+    "fullText": "The effective interest rate on US government bonds over 10 years, known as the 10-year Treasury yield, has risen as high as 5.04% but has eased back since.",
+    "link": "https://www.bbc.com/news/articles/cw804154z90ko"
+  },
+  {
+    "text": "Maduro ally Alex Saab pleads guilty in a $195M money laundering case, agrees to cooperate - AP News",
+    "fullText": "A close ally of ousted Venezuelan President Nicolás Maduro has pleaded guilty to bribing officials to secure contracts for importing food during Venezuela's crisis. Alex Saab was deported to the U.S. in May and pleaded guilty to money laundering Tuesday. He w…",
+    "link": "https://apnews.com/article/saab-venezuela-maduro-bribe-14baef4f4517e95b02fc6875742a8463"
   },
   {
     "text": "Pennsylvania teen dies from measles complications, health officials report - NBC News",
@@ -15,68 +75,23 @@
     "link": "https://www.nbcnews.com/health/health-news/pennsylvania-teen-dies-measles-complications-coroner-cdc-2026-rcna597980"
   },
   {
-    "text": "Texas' Arch Manning apologizes for reaction to violent AI video - ESPN",
-    "fullText": "Texas QB Arch Manning has apologized for an \"insensitive comment\" about an AI-generated video that depicted coach Steve Sarkisian slapping ESPN's Holly Rowe.",
-    "link": "https://www.espn.com/college-football/story/_/id/49950893/texas-arch-manning-apologizes-reaction-violent-ai-video"
+    "text": "UK ‘actively’ exploring joining Canada-led global defence bank - Financial Times",
+    "fullText": "The Defence, Security and Resilience Bank aims to provide low-cost financing for military initiatives",
+    "link": "https://www.ft.com/content/4e14f546-332e-4723-b75c-8f6744329733?syn-25a6b1a6\\\\u003d1"
   },
   {
-    "text": "Trump slams his own Supreme Court appointees over mail ballot ruling - The Washington Post",
-    "fullText": "“These are not the people I interviewed,” the president fumed on social media, portraying the ruling as a personal betrayal.",
-    "link": "https://www.washingtonpost.com/politics/2026/09/15/trump-slams-supreme-court-ruling-mail-ballots-personal-betrayal/"
+    "text": "Samsung Gallery is adding Google Photos backup to replace OneDrive - 9to5Google",
+    "fullText": "New updates are starting to roll out that will let Samsung Gallery replace its OneDrive integration with Google Photos support....",
+    "link": "http://9to5google.com/2026/09/15/samsung-gallery-google-photos-backup-support/"
   },
   {
-    "text": "Iran war has cost taxpayers $38B — and counting - Politico",
-    "fullText": "The Congressional Budget Office said the prolonged military campaign will hit $2 billion to $3 billion a month.",
-    "link": "https://www.politico.com/news/2026/09/15/iran-war-cbo-01077533"
+    "text": "Democrats are alarmed about AI. They’re not planning to hit it hard on the campaign trail. - Politico",
+    "fullText": "Democrats want to keep hammering Republicans on the economy and worry a pivot to AI concerns could undercut their core message.",
+    "link": "https://www.politico.com/news/2026/09/15/democrats-ai-artificial-intelligence-message-01077750"
   },
   {
-    "text": "What Nvidia CEO Huang Told Trump About the AI Doom Debate - barrons.com",
-    "fullText": "Nvidia stock rises after President Donald Trump had a public phone call with CEO Jensen Huang pushing back against an AI slowdown.",
-    "link": "https://www.barrons.com/articles/nvidia-stock-price-huang-trump-ai-slowdown-97db392a"
-  },
-  {
-    "text": "Google rolling out Android 17 QPR1 for Pixel - 9to5Google",
-    "fullText": "Android 17 QPR1 is rolling out to Google Pixel devices with the September 2026 Feature Drop and security patch.",
-    "link": "http://9to5google.com/2026/09/15/android-17-qpr1-pixel/"
-  },
-  {
-    "text": "Trump’s handpicked Kennedy Center board votes to close venue for renovations - NBC News",
-    "fullText": "President Donald Trump’s handpicked Kennedy Center board voted Tuesday to immediately shutter the performing arts center, a source familiar with the decision said, after its members argued the institution is in “dire” financial and structural shape.",
-    "link": "https://www.nbcnews.com/politics/trump-administration/trumps-handpicked-kennedy-center-board-votes-close-venue-renovations-rcna597921"
-  },
-  {
-    "text": "Canada is a 'safe harbour' for global finance, Carney says - BBC",
-    "fullText": "The prime minister is hosting a major global investment summit, with the goal of attracting money into the country amid a trade war with the US.",
-    "link": "https://www.bbc.com/news/articles/cmq8jdgel128o"
-  },
-  {
-    "text": "AI agents now have a place to snitch - TechCrunch",
-    "fullText": "The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities.",
-    "link": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/"
-  },
-  {
-    "text": "Republican Rep. Massie moves to impeach Defense Secretary Hegseth over Iran war - NPR",
-    "fullText": "Kentucky Republican Thomas Massie introduced articles of impeachment against Secretary of Defense Pete Hegseth on Tuesday over the war in Iran.",
-    "link": "https://www.npr.org/2026/09/15/g-s1-143407/massie-impeach-hegseth-iran"
-  },
-  {
-    "text": "Your iPhone may die faster this week: Here’s why - The Hill",
-    "fullText": "As annoying as it may be, it should be short-lived.",
-    "link": "https://thehill.com/policy/technology/6081464-your-iphone-may-die-faster-this-week-heres-why/"
-  },
-  {
-    "text": "U.S. confirms for the first time that it has deployed weapons in space. China and Russia have responded. - CBS News",
-    "fullText": "China warned against turning outer space into a \"battlefield\" after the U.S. confirmed that it has weapons deployed in space.",
-    "link": "https://www.cbsnews.com/news/us-confirms-weapons-in-space-china-russia-respond/"
-  },
-  {
-    "text": "Live Q&A: Ask Me Your Questions About iPhone Duo, iOS 27, the New Siri and More - wsj.com",
-    "fullText": null,
-    "link": "https://www.wsj.com/tech/personal-tech/live-q-a-iphone-duo-ios-27-new-siri-d2786101"
-  },
-  {
-    "text": "Tiny krill are turning up in deep-sea hydrothermal vents. Scientists want to know why - NPR",
-    "fullText": "Antarctic krill serve as a crucial food source for penguins, seals, and whales. They recycle nutrients used by algae. Now researchers say they've found krill in a surprising place: hydrothermal vents.",
-    "link": "https://www.npr.org/2026/09/15/nx-s1-5968643/antarctic-krill-hydrothermal-vent-south-pole"
+    "text": "Durham water feature found as likely source of ‘brain-eating’ amoeba infection that killed teen - WRAL",
+    "fullText": "A state investigation identified a water feature at El Futuro in Durham as the most likely source of a rare “brain-eating” amoeba infection that killed a teen.",
+    "link": "https://www.wral.com/news/local/brain-eating-amoeba-durham-september-2026/"
   }
 ]
