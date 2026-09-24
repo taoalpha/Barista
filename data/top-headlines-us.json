@@ -1,13 +1,33 @@
 [
   {
-    "text": "Trump cites national security, midterms coverage to defend press ban - Politico",
-    "fullText": "The president’s lawyers are asking the courts to overrule a longstanding precedent that protects journalists' access to the White House.",
-    "link": "https://www.politico.com/news/2026/09/23/trump-press-ban-brief"
+    "text": "SoftBank Starts Jumbo High-Yield Bond Sale to Finance AI Push - Bloomberg.com",
+    "fullText": "Billionaire Masayoshi Son’s SoftBank Group Corp. kicked off what’s set to be one of the largest corporate junk bond sales ever as the Japanese conglomerate offers record yields to entice investors into helping fund its unprecedented investments in artificial …",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-23/softbank-starts-jumbo-high-yield-bond-sale-to-finance-ai-push"
   },
   {
-    "text": "Worries about an AI internet takeover gain new urgency among doomsday scenarios - AP News",
-    "fullText": "In a summer filled with revelations about artificial intelligence’s rapid development, researchers were especially alarmed by runaway bots finding their way onto the internet and, in at least one instance, coordinating there with one another. Anthropic CEO Da…",
-    "link": "https://apnews.com/article/ai-hugging-face-swarm-internet-takeover-amodei-0053ba1b6c8144b2927d2501be9eb919"
+    "text": "Poll: Most voters agree the 2026 midterms are all about Trump — and they disapprove - NPR",
+    "fullText": "A new NPR/PBS News/Marist poll finds President Trump — and his unpopularity — is an outsize factor in why most voters say they want Democrats to win the midterms.",
+    "link": "https://www.npr.org/2026/09/23/nx-s1-5977613/trump-poll-democrats-congress"
+  },
+  {
+    "text": "Category 5 Hurricane Polo is 'one of the strongest storms ever' - NPR",
+    "fullText": "Hurricane Polo has grown into one of the most powerful Pacific cyclones in decades, and it was expected to skirt Mexico's southwestern coast as a Category 5 storm.",
+    "link": "https://www.npr.org/2026/09/23/nx-s1-5978589/hurricane-polo"
+  },
+  {
+    "text": "U.S. and Iran officials meet in New York to discuss ending the war - Axios",
+    "fullText": "The gathering in New York is a rare opportunity for the two sides to engage.",
+    "link": "https://www.axios.com/2026/09/22/unga-iran-us-trump-war"
+  },
+  {
+    "text": "Trump administration to remove 760,000 Affordable Care Act enrollees over fraud claims - NPR",
+    "fullText": "White House officials allege these individuals were fraudulently enrolled in the program or do not exist. Vice President Vance said the move would save $2.2 billion.",
+    "link": "https://www.npr.org/2026/09/23/g-s1-144623/trump-affordable-care-act"
+  },
+  {
+    "text": "Defending reporter ban, Justice Department argues stories on Trump’s ballroom project, Iran war threaten national security - CNN",
+    "fullText": "The Justice Department said late Tuesday that CNN, MS NOW and Politico can be shut out from areas of the White House at the president’s will. The lawyers argue that the outlets’ coverage of the Iran war and of President Donald Tump’s ballroom construction cou…",
+    "link": "https://www.cnn.com/2026/09/22/politics/trump-admin-responds-press-lawsuit-white-house-access"
   },
   {
     "text": "Trump-backed Missouri congressional map returns to the Supreme Court for the third time - AP News",
@@ -15,19 +35,39 @@
     "link": "https://apnews.com/article/supreme-court-missouri-redistricting-congressional-map-4359373974681c4170a6a4410ffd019d"
   },
   {
+    "text": "New Mac Mini Has Two Storage Downsides, Including Unremovable SSD - macrumors.com",
+    "fullText": "As confirmed by the website \"Expand Mac mini,\" NAND storage in the new Mac mini models with the M6 and M5 Pro chips is soldered to the logic...",
+    "link": "https://www.macrumors.com/2026/09/22/new-mac-mini-ssd-cant-be-removed/"
+  },
+  {
+    "text": "Report: Jaxson Dart’s injury could be season-ending - NBC Sports",
+    "fullText": "MRI brings bad news for the Giants.",
+    "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-jaxson-darts-injury-could-be-season-ending"
+  },
+  {
     "text": "Burnham passes his first Trump test — but papers over the cracks - politico.eu",
     "fullText": "Britain’s newbie prime minister got through an hour with the U.S. president mostly unscathed. But the immediate differences were on show more than with Keir Starmer.",
     "link": "https://www.politico.eu/article/andy-burnham-passes-donald-trump-test-united-nations-general-assembly/"
   },
   {
-    "text": "‘Dancing With the Stars’ Viral Hits Night Ends With a Three-Way Tie for Top of the Leaderboard: See the Scores, Who Went Home - The Hollywood Reporter",
-    "fullText": "Celebrities and their professional dancers performed numbers inspired by the biggest viral hits, including the likes of \"All the Things She Said,\" \"No Broke Boys\" and \"Low.\"",
-    "link": "http://www.hollywoodreporter.com/tv/tv-news/dwts-season-35-viral-hits-week-2-recap-scores-elimination-1236707773/"
+    "text": "Wall Street’s Nasdaq hits all-time high as AI frenzy gathers pace - Al Jazeera",
+    "fullText": "Investors shrug off AI safety concerns and Iran war, sending market to a new peak.",
+    "link": "https://www.aljazeera.com/economy/2026/9/23/wall-streets-nasdaq-hits-all-time-high-as-ai-frenzy-gathers-pace"
   },
   {
     "text": "Japan’s Leader Calls on U.N. to Drop ‘Enemy State’ Label - WSJ",
-    "fullText": "China has used language in United Nations charter to attack Japan as part of broad pressure campaign that Tokyo wants Washington to help bring to an end",
+    "fullText": null,
     "link": "https://www.wsj.com/world/asia/japans-leader-calls-on-u-n-to-drop-enemy-state-label-7da04175"
+  },
+  {
+    "text": "‘Dancing With the Stars’ season 35 week 2 recap: Judges dole out low scores as next contestant goes home - Entertainment Weekly",
+    "fullText": "‘Dancing With the Stars’ season 35 rebounded from a pair of brutal premiere-week eliminations with an episode dominated by shockingly low scores, though a surprising Cha-cha crowned a new frontrunner.",
+    "link": "https://ew.com/dwts-season-35-week-2-recap-judges-dole-out-low-scores-next-contestant-eliminated-12135647"
+  },
+  {
+    "text": "New Adtech From Microsoft Would Interrupt Your Game at 'Promoted Content Trigger Events' - Gizmodo",
+    "fullText": "Fantastic news for everyone who loves ads in their video games.",
+    "link": "https://gizmodo.com/new-adtech-from-microsoft-would-interrupt-your-game-at-promoted-content-trigger-events-2000815772"
   },
   {
     "text": "ICE officer in Texas shooting was recruit not using a body camera - The Washington Post",
@@ -35,24 +75,19 @@
     "link": "https://www.washingtonpost.com/immigration/2026/09/22/man-shot-detained-by-ice-is-hospitalized-partial-paralysis-lawyer-says/"
   },
   {
-    "text": "Trump berates CNN’s Kaitlan Collins after ban: ‘You shouldn’t be covering me’ - The Washington Post",
-    "fullText": "The terse interaction came during the president’s visit to the United Nations.",
-    "link": "https://www.washingtonpost.com/business/2026/09/22/trump-berates-cnns-kaitlan-collins-after-ban-you-shouldnt-be-covering-me/"
+    "text": "Paramount-Warner Bros. Settlement to Be Considered at Thursday Court Hearing - The Hollywood Reporter",
+    "fullText": "If the court approves the deal, Paramount will be one step closer to creating Hollywood's next media and entertainment colossus.",
+    "link": "http://www.hollywoodreporter.com/business/business-news/paramount-warner-bros-settlement-court-hearing-1236708046/"
   },
   {
-    "text": "Second sea turtle spotted nesting on SoCal beach after historic sighting - KTLA",
-    "fullText": "A second sea turtle has laid eggs on Southern California shores, days after another olive ridley sea turtle nested on the West Coast for the first time in recorded history. The first sea turtle was seen nesting near Seal Beach in Orange County on Sept. 16. Th…",
-    "link": "https://ktla.com/news/california/second-sea-turtle-spotted-nesting-on-socal-beach-after-historic-sighting/"
+    "text": "Exclusive | RFK Jr.’s Enhanced Security Was Funded With Money From Minority Health Office - WSJ",
+    "fullText": null,
+    "link": "https://www.wsj.com/politics/policy/rfk-jr-hhs-security-cost-minority-health-office-f1c7b62a"
   },
   {
-    "text": "Judge Sets Hearing On State AGs Settlement With Paramount-Warner Bros. Discovery - Deadline",
-    "fullText": "A federal judge has set a hearing for Thursday on the proposed settlement between state attorneys general and Paramount-Warner Bros Discovery.",
-    "link": "http://deadline.com/2026/09/paramount-warner-bros-settlement-hearing-1237110889/"
-  },
-  {
-    "text": "Taylor Swift Ditches Her 10-Carat Diamond for a Brand New Engagement Ring After Surprise Announcement - instyle.com",
-    "fullText": "Taylor Swift switched out her 10-carat engagement ring in collector’s edition cover art for her single “Patient Zero.” Here’s a closer look at the new stone.",
-    "link": "https://www.instyle.com/taylor-swift-ditches-10-carat-diamond-new-engagement-ring-12135612"
+    "text": "Ex-Canadian soldier opens fire at synagogue on Yom Kippur, wounds cop in possible antisemitic attack: officials - nypost.com",
+    "fullText": "None of the roughly two dozen congregants inside were injured, but bullets peppered surrounding homes, vehicles and the synagogue’s windows.",
+    "link": "https://nypost.com/2026/09/22/world-news/ex-canadian-soldier-opens-fire-at-synagogue-on-yom-kippur-wounds-cop-in-possible-antisemitic-attack-officials/"
   },
   {
     "text": "Gable Steveson responds to sexual assault allegations in first statement since knockout loss at UFC 331 - MMA Fighting",
@@ -60,38 +95,8 @@
     "link": "https://www.mmafighting.com/ufc/512038/gable-steveson-responds-to-sexual-assault-allegations-in-first-statement-since-knockout-loss-at-ufc-331"
   },
   {
-    "text": "Exclusive | Activist Jana Partners Urges Six Flags to Explore Sale - WSJ",
-    "fullText": "The theme-park company faces pressure following disappointing earnings amid turnaround effort",
-    "link": "https://www.wsj.com/business/deals/activist-jana-partners-urges-six-flags-to-explore-sale-4c9e3a93"
-  },
-  {
-    "text": "Hayden Panettiere died from an overdose involving fentanyl. She had just gone to rehab, coroner says - AP News",
-    "fullText": "A coroner has determined that actor Hayden Panettiere died from an accidental overdose of several drugs including fentanyl. A report later released Tuesday to The Associated Press says the 36-year-old actor had been to drug rehab in Malibu, California, a few …",
-    "link": "https://apnews.com/article/hayden-panettiere-cause-of-death-drugs-fentanyl-229349e2bb6e19d985372d8524b09fc8"
-  },
-  {
-    "text": "Trump tells UN he has 'big decision' on whether to 'annihilate' Iran or make peace deal - BBC",
-    "fullText": "In his address, the US president pondered whether a peace deal would be agreed or whether he would have to take extreme action against Iran.",
-    "link": "https://www.bbc.com/news/articles/c52e0ywl9pr7o"
-  },
-  {
-    "text": "Kratom found at locations where two Ole Miss students were discovered dead - NBC News",
-    "fullText": "Two University of Mississippi students died this week and packaged kratom was found during the separate death investigations, law enforcement officials said Tuesday.",
-    "link": "https://www.nbcnews.com/news/us-news/ole-miss-student-deaths-kratom-rcna599305"
-  },
-  {
-    "text": "Another post-Eli Manning nightmare for Giants and their fans as Jaxson Dart feared done for season - CBS Sports",
-    "fullText": "New York turns to veteran Jameis Winston after an ESPN report revealed the promising second-year quarterback could miss the remainder of the season with a knee injury",
-    "link": "https://www.cbssports.com/nfl/news/another-post-eli-manning-nightmare-giants-fans-jaxson-dart/"
-  },
-  {
-    "text": "Rabbit’s new AI agent doesn’t need an R1 to run - The Verge",
-    "fullText": "Rabbit, the company behind the underwhelming R1 AI device, is launching an AI agent that can run across different operating systems and platforms.",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3"
-  },
-  {
-    "text": "Aided by El Niño, Hurricane Polo explodes to Category 5 as it nears Baja California - Sacramento Bee",
-    "fullText": "Major Hurricane Polo rapidly intensified to Category 5 off Baja California as El Niño-warmed waters fuel further strengthening and shift risks for Mexico and the U.S.",
-    "link": "https://www.sacbee.com/news/weather-news/article317338637.html"
+    "text": "Resetting expectations for these six NFL teams with injured quarterbacks: Giants eyeing draft again - CBS Sports",
+    "fullText": "Success looks different for each of the squads that saw their starters go down early in the season",
+    "link": "https://www.cbssports.com/nfl/news/resetting-expectations-nfl-teams-injured-quarterbacks/"
   }
 ]
