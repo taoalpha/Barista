@@ -1,8 +1,83 @@
 [
   {
+    "text": "White House Removes CNN From Planned Weekend Trip - wsj.com",
+    "fullText": null,
+    "link": "https://www.wsj.com/politics/policy/white-house-removes-cnn-from-planned-weekend-trip-7c7d6455"
+  },
+  {
+    "text": "Iran War Updates: Tehran proposes 7-day plan to reopen Strait of Hormuz as it seeks deal before U.S. midterms - CBS News",
+    "fullText": "Iran's president said Tehran wanted a deal with the U.S. before November's midterm elections, contrary to President Trump's claims.",
+    "link": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-7-day-proposal/"
+  },
+  {
+    "text": "F1 Azerbaijan GP: Russell fends off Verstappen for victory; Colapinto takes out Gasly and Norris - Autosport",
+    "fullText": "George Russell takes his third win of the 2026 Formula 1 season at an incident-ridden Azerbaijan Grand Prix",
+    "link": "https://www.autosport.com/f1/news/f1-azerbaijan-gp-russell-fends-off-verstappen-for-victory-colapinto-takes-out-gasly-and-norris/10859225/"
+  },
+  {
+    "text": "One shot or two? What to know about HPV vaccination recommendations - apnews.com",
+    "fullText": "Medical experts are discussing whether one dose of the HPV vaccine may be enough to protect preteens instead of the current two. This potential change comes amid disagreements between federal officials and doctors' organizations over how vaccination guideline…",
+    "link": "https://apnews.com/article/hpv-vaccine-one-dose-gardasil-66364289c11726d4c38ffbbf0440903d"
+  },
+  {
+    "text": "Chevy's New V8: Why Cars Will Have Engine Oil Dipsticks But Trucks Won't - Jalopnik",
+    "fullText": "Sixth-generation V8 gasoline engines from Chevrolet will not have a dipstick, because the company's bosses say it's unnecessary.",
+    "link": "https://www.jalopnik.com/2265025/why-cars-trucks-chevy-new-production-crate-v8s-no-engine-oil-dipstick/"
+  },
+  {
+    "text": "NFL Week 3 predictions: Upsets, fantasy sleepers, stat lines - ESPN",
+    "fullText": "Touchdowns for Kenneth Walker III and Xavier Worthy? The Broncos pulling an upset of the Rams? Fantasy value for C.J. Stroud? And a big day from Geno Smith?",
+    "link": "https://www.espn.com/nfl/story/_/id/50014402/week-3-predictions-upsets-fantasy-sleepers-stats-2026"
+  },
+  {
+    "text": "Angela Rayner criticises worker visa plans on eve of Labour conference - BBC",
+    "fullText": "The housing secretary says the government's plans to change wait times for permanent residency are unfair because they \"change the goalposts\".",
+    "link": "https://www.bbc.com/news/articles/cmx2zz035q99o"
+  },
+  {
+    "text": "She grew up under Soviet rule. Now EU's top diplomat warns Europe against giving Russia what it wants - Fox News",
+    "fullText": "Kaja Kallas says Russia's sabotage and intimidation campaign aims to weaken European support for Ukraine, warning the strategy will escalate if it works.",
+    "link": "https://www.foxnews.com/politics/grew-up-soviet-rule-eu-top-diplomat-warns-europe-against-giving-russia-wants"
+  },
+  {
+    "text": "Pope encourages Catholics in deeply secular France to persevere as Paris shuts down for huge Mass - apnews.com",
+    "fullText": "Pope Leo XIV has arrived in Paris for an outdoor Mass at Place de la Concorde, marking the first official papal state visit to France in 18 years. The American pope greeted hundreds of thousands from his popemobile during a parade along the Champs-Élysées. Th…",
+    "link": "https://apnews.com/article/france-pope-concorde-catholics-mass-5fc1201a104e6f5a1b044a7ceb39fb1a"
+  },
+  {
+    "text": "Fury v Joshua fight to provide 'big boost' to city's economy - BBC",
+    "fullText": "Cardiff is preparing for an influx of fans from across the globe for the 11 December showdown.",
+    "link": "https://www.bbc.com/news/articles/c6qxv75g4zx8o"
+  },
+  {
+    "text": "‘If they get a divorce…’ – Taylor Swift’s new Travis Kelce song gets mocked by Browns analyst - Yahoo",
+    "fullText": "Taylor Swift’s new song about her husband Travis Kelce has led to a brutal analysis from one Cleveland Browns analyst. Taylor Swift recently dropped four new...",
+    "link": "https://www.hitc.com/if-they-get-a-divorce-taylor-swifts-new-travis-kelce-song-gets-mocked-by-browns-analyst/"
+  },
+  {
+    "text": "How a six pack of beer and the Magna Carta could finally fix a problem plaguing Americans for decades - Fox News",
+    "fullText": "Kenneth Jouppi's $95,000 Cessna was seized over a misdemeanor beer conviction, and the Supreme Court will now weigh Eighth Amendment limits.",
+    "link": "https://www.foxnews.com/politics/six-pack-beer-magna-carta-fix-problem-plaguing-americans-decades"
+  },
+  {
+    "text": "The U.S. has more thalidomide survivors than the government admits - npr.org",
+    "fullText": "In the 1950s and 1960s, doctors gave the drug thalidomide to pregnant patients without telling them — and without FDA approval. Now those patients' children want recognition.",
+    "link": "https://www.npr.org/2026/09/26/nx-s1-5979047/us-thalidomide-survivors-want-recognition-government"
+  },
+  {
+    "text": "Chadwick Boseman's Family at War With His Widow Over Documentary She's Producing - TMZ",
+    "fullText": "Chadwick Boseman's widow, Taylor Simone Ledward Boseman, claims the late actor's family is making things difficult as she tries to work on a documentary celebrating his life.",
+    "link": "https://www.tmz.com/2026/09/26/chadwick-boseman-family-fighting-over-documentary/"
+  },
+  {
     "text": "Thousands without power, roads flood in New Jersey as first major signs of nor'easter take shape - apnews.com",
     "fullText": "Thousands are without power on the U.S. East Coast, while roads are flooding in some coastal New Jersey communities. The events Friday night signaled the first major signs of a powerful nor’easter expected to create dangerous conditions through the weekend. T…",
     "link": "https://apnews.com/article/noreaster-storm-cape-cod-new-england-4057bec1ced5c4883d36c30c778df410"
+  },
+  {
+    "text": "All the Major Social Media Networks Are Reportedly Refusing Ads for ‘Musk’ - gizmodo.com",
+    "fullText": "YouTube, TikTok, and Meta's Facebook and Instagram all seem to be either chickening out or taking Elon Musk's side.",
+    "link": "https://gizmodo.com/all-the-major-social-media-networks-are-reportedly-refusing-ads-for-musk-2000817770"
   },
   {
     "text": "Rogue OpenAI agents accessed US government websites - Politico",
@@ -10,78 +85,13 @@
     "link": "https://www.politico.com/news/2026/09/25/rogue-openai-agents-accessed-us-government-websites-01094035"
   },
   {
-    "text": "Iran War Updates: Tehran proposes 7-day plan to reopen Strait of Hormuz as it seeks deal before U.S. midterms - CBS News",
-    "fullText": "Iran's president says Tehran wants a deal with the U.S. before November's midterm elections, as the regime puts an offer on the table.",
-    "link": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-7-day-proposal/"
-  },
-  {
-    "text": "Trump said he would campaign in midterm battlegrounds. He's starting in deep red states instead - apnews.com",
-    "fullText": "President Donald Trump has vowed to campaign in 35 of the most competitive battleground races in the final sprint to November’s midterm elections. Instead, he will begin October by stumping in Alabama and Oklahoma, two of the most Republican states in the nat…",
-    "link": "https://apnews.com/article/trump-alabama-oklahoma-midterms-republicans-panic-3cf2a2d29fd3ca18c3061504587dbdd1"
-  },
-  {
-    "text": "Exclusive | Julia Haart's ex husband facing criminal charges, jail over actions during brutal divorce - Page Six",
-    "fullText": "The reality star and Silvio Scaglia settled their $90 million split, but his legal woes are far from over.",
-    "link": "https://pagesix.com/2026/09/25/society/julia-haarts-ex-husband-facing-criminal-charges-jail-over-alleged-actions-during-brutal-divorce/"
+    "text": "At Meta Connect, the company’s smart glasses were everywhere - techcrunch.com",
+    "fullText": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.",
+    "link": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/"
   },
   {
     "text": "Warnings go out about a new drug said to be 10 times more potent than Fentanyl - KDVR",
     "fullText": "A social media post circulating among students at Colorado State University is warning of a deadly new illegal drug called cychlorphine.",
     "link": "https://kdvr.com/news/local/warnings-go-out-about-a-new-drug-said-to-be-10-times-more-potent-than-fentanyl/"
-  },
-  {
-    "text": "Ethiopia fighting: Are Tigray's TPLF forces and the army heading back to war? - BBC",
-    "fullText": "Exploring the issues behind the escalation of tensions between the TPLF and the national army.",
-    "link": "https://www.bbc.com/news/articles/c6d94wywx0ypo"
-  },
-  {
-    "text": "Pope Leo XIV warns AI could undermine humanity during France visit - Al Jazeera",
-    "fullText": "Thousands gather in Paris as the pope warns against a ‘paradise of machines’ at the Elysee Palace.",
-    "link": "https://www.aljazeera.com/news/2026/9/25/pope-leo-xiv-warns-ai-could-undermine-humanity-during-france-visit"
-  },
-  {
-    "text": "Tyson Fury vs. Anthony Joshua Fight Reportedly Could Be 'Called Off,' Possible Replacements Revealed - Bleacher Report",
-    "fullText": "The heavyweight fight between Tyson Fury and Anthony Joshua may be called off, per Mike Coppinger of The Ring Magazine, who threw out some potential replacments.",
-    "link": "https://bleacherreport.com/articles/25503048-tyson-fury-vs-anthony-joshua-fight-reportedly-could-be-called-possible-replacements-revealed"
-  },
-  {
-    "text": "As Merz scrambles for support, Germany's identity crisis is laid bare - BBC",
-    "fullText": "Voters are turning away from the centre in Germany as fears grow about the economy and migration.",
-    "link": "https://www.bbc.com/news/articles/cmx2zlqeje9zo"
-  },
-  {
-    "text": "What the Supreme Court's voter-citizenship database decision means for the midterms - PBS",
-    "fullText": "The Supreme Court revived a controversial voter-citizenship database less than two months ahead of the midterm elections. In the ruling, the court sided with the Trump administration, which is seeking to use the Department of Homeland Security’s SAVE database…",
-    "link": "https://www.pbs.org/newshour/show/what-the-supreme-courts-voter-citizenship-database-decision-means-for-the-midterms"
-  },
-  {
-    "text": "2026 WNBA playoffs: Biggest questions for Lynx-Liberty, Aces-Fever and every first-round series - Yahoo Sports",
-    "fullText": "The WNBA playoffs tips off this weekend with four dynamic matchups. Let's dig in.",
-    "link": "https://sports.yahoo.com/wnba/article/2026-wnba-playoffs-biggest-questions-for-lynx-liberty-aces-fever-and-every-first-round-series-225201717.html"
-  },
-  {
-    "text": "US Supreme Court again blocks Missouri’s gerrymandered congressional map - Missouri Independent",
-    "fullText": "The U.S. Supreme Court weighted in for the third time on Missouri’s gerrymandered congressional map and whether it can be used in November.",
-    "link": "https://missouriindependent.com/2026/09/25/us-supreme-court-again-blocks-missouris-gerrymandered-congressional-map/"
-  },
-  {
-    "text": "The Major Social Media Platforms Are All Rejecting Paid Ads for ‘Musk’ (Exclusive) - The Hollywood Reporter",
-    "fullText": "YouTube, TikTok and Meta have all turned down the trailer for the Oct. 9 doc, citing \"political\" content. X won't even take Bleecker Street's calls. The distributor is appealing.",
-    "link": "http://www.hollywoodreporter.com/business/digital/elon-musk-documentary-trailer-rejected-tiktok-youtube-1236710259/"
-  },
-  {
-    "text": "Stocks Rise to Cap Week of Increasing Yields, Volatile Oil Prices - WSJ",
-    "fullText": null,
-    "link": "https://www.wsj.com/finance/stocks/stocks-rise-to-cap-week-of-increasing-yields-volatile-oil-prices-de1cba89"
-  },
-  {
-    "text": "Takeaways from the Trump-Xi state visit: Pageantry and pandas - NPR",
-    "fullText": "The visit comes at an important time for both men.",
-    "link": "https://www.npr.org/2026/09/25/nx-s1-5981265/takeaways-trump-xi-state-visit-pageantry-pandas"
-  },
-  {
-    "text": "VR Headsets Are So Cooked - Gizmodo",
-    "fullText": "After using Meta VR Glasses, I'm not so sure where headsets even fit in.",
-    "link": "https://gizmodo.com/vr-headsets-are-so-cooked-2000817445"
   }
 ]
