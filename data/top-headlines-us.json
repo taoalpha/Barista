@@ -1,97 +1,87 @@
 [
   {
+    "text": "Live updates: 3 children among dead in Bend school shooting, OPB sources say - Oregon Public Broadcasting - OPB",
+    "fullText": "Officials said children aged 5, 8 and 11 died in the shooting at Silver Rail Elementary School on Thursday. A teacher was also killed.",
+    "link": "https://www.opb.org/article/2026/10/15/bend-school-active-shooter/"
+  },
+  {
+    "text": "Anna Faris Was “Hurt” By Chuck Lorre’s Comments About Her ‘Mom’ Exit: “Yikes” - Deadline",
+    "fullText": "Six years after announcing her departure from CBS's 'Mom', Anna Faris has reacted to Chuck Lorre's comments about her exit.",
+    "link": "http://deadline.com/2026/10/anna-faris-responds-chuck-lorre-vindication-mom-exit-1237158905/"
+  },
+  {
+    "text": "Feds investigate suspicious mailings sent to members of Congress and state election officials - NBC News",
+    "fullText": "More than a dozen election offices in states across the country were sent letters with suspicious materials.",
+    "link": "https://www.nbcnews.com/politics/2026-election/authorities-investigate-suspicious-mailings-congressional-offices-rcna603712"
+  },
+  {
+    "text": "College Football Playoff nears agreement on 24-team expansion that could end title games - CBS Sports",
+    "fullText": null,
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVFpiRlFUckZ1THdHbXdMa2tBQWI2NXdLWjhwdXFhdS0tTmxlMVVmR1hjXy1XQXY5c2EtaG9LUl9mMmstaUdfY3BMN1plT0tjWjkwQ3ZCdllLTGtPVUpsb1pkTDFFbXcyS3F1ejB6YTdxR0dwRHFtU1EyeFBObjAyU2VNa3ZxaDQzR1B5TUx0dW0tUWNCNkJ3Tkln?oc=5"
+  },
+  {
+    "text": "Brewers-Dodgers NLCS Game 4 lineups, FAQ (8 ET, FS1/FOX One) - MLB.com",
+    "fullText": null,
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZnpQZHdfUjdrdFExamQ3WEdDRnFJc3NhdWRWLTJBLWlfTGdZenR1NXdGRVRZSnd1N18wdG9ocmQwclhoREFUZ09WbklKZjZaWVdCMEEwNzNKalVWMXFwX1ZnaWZYMjRKNHhqS0o4RUZTaE8zZHdRQi1KOF8xQ0g3YVRheUZlc29wWjJ1N3ZVVS1UNTBWUXQ0eGdZQWJXeTZyc05WaGlpZ0ducUtw?oc=5"
+  },
+  {
+    "text": "Trump lashes out at Republicans as Ken Paxton struggles in Texas - Politico",
+    "fullText": "The president singled out Karl Rove and incumbent Sen. John Cornyn as his endorsed candidate appears to be in a tight race with James Talarico.",
+    "link": "https://www.politico.com/news/2026/10/15/trump-lashes-out-at-republicans-as-ken-paxtron-struggles-in-texas-01122111"
+  },
+  {
+    "text": "New York City Comptroller Defends Decision Not to Invest in Israeli Bonds - WSJ",
+    "fullText": null,
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQ2N3OVRrMGk5ZldLM3V5TGc2SUpQNVJteVBPMndlc01iN2Vrdnk1RW5aZFFKQmdRei1WSHMzSVNGU2hlNEEwaHJ1ZklGbWRUTHpFQ2pzN1BfTGdDVUZRcmpVM2NOOUU0NWZ3QkRWY1VxY09BUzB5RGU3dFNWXzdKX2VXZE1sTG9WSTM4bVZCbmpiM0FMWWFveGFLaEVWOFF1NGxfdlF2RlhGeW9CU0JnQQ?oc=5"
+  },
+  {
+    "text": "Live: Updates: Seahawks already back in action vs. Broncos on ‘Thursday Night Football’ - The Seattle Times",
+    "fullText": "The Broncos are methodically taking it to the Seahawks so far on \"Thursday Night Football\" in Denver. The Seahawks trail 14-3 before halftime.",
+    "link": "https://www.seattletimes.com/sports/seahawks/seahawks-vs-broncos-live-updates-score-how-to-watch-thursday-night-football/"
+  },
+  {
+    "text": "Netflix Shocker: Bela Bajaria Leaving After 10 Years Amid Layoffs - Variety",
+    "fullText": "Bela Bajaria is out at Netflix after 10 years as the streamer's chief content officer, with Peter Rice replacing her.",
+    "link": "https://variety.com/2026/film/news/netflix-bela-bajaria-leaving-layoffs-1236913504/"
+  },
+  {
+    "text": "Hilary Swank Is Having Her Third Child at 52 - The New York Times",
+    "fullText": null,
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1jN09rdnp3dnBzdE9LeGUxUDZmU3lrZVJBSHZUdWdzbWRMODVDWTRJQmZpZ3V2VUw1RE9Ubl9ZWm9ldG9ycW5sVUdnTl9iNGRTeDhya0hGbHM5TjlocUtidnN3Y1BrWkxrbnZFeFJESk9nQlltLXEw?oc=5"
+  },
+  {
+    "text": "White House press secretary Katie Zacharia confirms she never passed bar exam after saying she's a lawyer - CBS News",
+    "fullText": null,
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeWs3UkY2VGZZUWpseFBDNE1xV2FPQlZhekZqeF9Nejdxb2JJbVZBZVQwUnFzam9tY0l0cFFCNEk1VG02djBxeFpmUVNleEtlUmkxTlFpNkgyWmNUZnd1S3AtV29vRTRSZHlvejFiMjVVaE10WEtIVzkwdGNSVURiTG9BM2dPNW8tc2pkdHpFWTFic0NkTnc?oc=5"
+  },
+  {
+    "text": "Trump ballroom donors revealed in Washington Post report - The Hill",
+    "fullText": "Major donors to President Trump’s White House ballroom project were revealed in a new list obtained by The Washington Post on Thursday. According to the Post, the list reveals more than $330 million in private donations to fund the ballroom effort, most of wh…",
+    "link": "https://thehill.com/homenews/administration/6152301-white-house-ballroom-private-donations/"
+  },
+  {
+    "text": "Trump cancels Hegseth’s plan to live-stream Fort Hood shooter’s execution - The Washington Post",
+    "fullText": "The decision is a rebuke of the defense secretary, who has remained in the president’s good graces through numerous controversies.",
+    "link": "https://www.washingtonpost.com/national-security/2026/10/15/trump-cancels-hegseths-plan-live-stream-fort-hood-shooters-execution/"
+  },
+  {
+    "text": "Red Flag Warning: Power shutoffs in effect for thousands in Southern California - KTLA",
+    "fullText": "A Red Flag Warning is now in effect for parts of Southern California Thursday amid high wildfire danger due to strong Santa Ana winds and elevated temperatures. Dangerous fire conditions are expected to continue through 8 p.m. Saturday in Los Angeles and Vent…",
+    "link": "https://ktla.com/news/california/red-flag-warning-power-shutoffs-southern-california/"
+  },
+  {
+    "text": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps - TechCrunch",
+    "fullText": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.",
+    "link": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/"
+  },
+  {
     "text": "KFC to Ditch Pepsi for Coke in Thousands of Restaurants - WSJ",
     "fullText": null,
     "link": "https://www.wsj.com/business/kfc-is-moving-to-ditch-pepsi-for-coke-in-thousands-of-restaurants-cb44611d"
   },
   {
-    "text": "ICE agent driving vehicle that struck, injured Houston man is placed on administrative leave - NBC News",
-    "fullText": null,
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPc0Vya0kxdkhPc3RHd2p1NjJtcl8tZEctN3I3ZWtBUWZWUnhXM09VekR5Q2VkZDhnNzZYTUN0T01pcHVzRjhPa2JHY3MySWN0OXJxcWdnRldUVlA0dDJJN2QyZEthb3NqRXNDRjcyNEVyc2F4eGphSjNlU29ONGg3THV1UFZNX1B1T0l3UDJPV0ZIVDBPLWNTQ3RVbGFOd3NBSG5xZE5fSlQ4UlY5R1NnSmpBSWwtN1FPaGc?oc=5"
-  },
-  {
-    "text": "Microplastics in water aren’t inert and make damaging chemicals on their own - Ars Technica",
-    "fullText": "Its effect on people remains an ongoing question.",
-    "link": "https://arstechnica.com/science/2026/10/microplastics-in-water-arent-inert-and-make-damaging-chemicals-on-their-own/"
-  },
-  {
-    "text": "Guardians trail Rays 2-1 in Game 3 of ALCS - FOX 8 News",
-    "fullText": null,
-    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE83akgxLWRaQzkyMS11b1BKazNHczhwcmhEXzVJeVN4Rk9PVmZOUWZGeFhjeThLRVlQR2kyWkpjNG9EbHdqdnBkZUdqUmtLWHp6MC1UYW5pN2ctT0R6OFA1Y05zWldha2VzSF9GXzhLTWJnTFF2WmI4bTM3Mk3SAYIBQVVfeXFMTTNwLXVScm5uVTRwOTczY3AwallmenpjU29nNGVNd3ZhWlZ5ZWtFRkEwLWNiNktiOXViRFo1R2tiOTNVNjdDOXptOW8wRWdEN3NoeWVFZnk2QzBOeGVObnA0TDFoUFZ2M2s1VHZJOFlQa0I0Xy1mQlVpRmtqaGZBVkJ2QQ?oc=5"
-  },
-  {
-    "text": "Tesla plans next-generation Roadster reveal after almost a decade of delays - CNBC",
-    "fullText": null,
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYXd3R0lIcDdlTy1LXzQ1aWR0T25LSVZaNk40bWN4UWp1WEtvZUpTaHNsOFhKQ1VYbkhhdS05bVZqNjlwdVQyM25JOWZDSFpwSjEyRGZIWG4yenZEVk9zYWhhbHNTaDBQYWZnTTM4Mm1uaWgyejhnbFV6MUJfUktZTHJ4MnFROF9xQ091TjZ0MHRPMTlER0NB0gGcAUFVX3lxTE1WdGVyV0dabjVIMWFQUTlfU25fQkZJb21iUlV4UTIzXzV4NS1oTll3ZXQyNWhpd0hLWkYtY282OS1Qa3FMMmhmb0owVm0xb3k2cjJwaFRHS0pGekRFMkZ6bW5TaVczb2ZhTGFMbTRyOEJtYS1zS3Fiekh1WjMzLUxmTUd6cDBJTVUwaDJlSlE3Qkh0ejVtNlB6VXkwVw?oc=5"
-  },
-  {
-    "text": "Opinion | I moved up my flu shot appointment. You should, too. - The Washington Post",
-    "fullText": "Influenza season arrived early this year. Don’t wait to get vaccinated.",
-    "link": "https://www.washingtonpost.com/opinions/2026/10/15/early-flu-season-means-people-should-get-their-shots-now/"
-  },
-  {
-    "text": "Trump calls off livestream of Fort Hood attacker's execution by firing squad - BBC",
-    "fullText": "Trump said some would \"rather not watch\" the killing of Nidal Hasan, the first military execution in over 60 years.",
-    "link": "https://www.bbc.com/news/articles/crx23qlnj27qo"
-  },
-  {
-    "text": "Houthi missile attack on Yemeni presidential palace kills two, minister says - BBC",
-    "fullText": "Yemen's information minister says the prime minister and other ministers were unhurt when ballistic missiles hit al-Maashiq Palace.",
-    "link": "https://www.bbc.com/news/articles/cm62y6lp73zdo"
-  },
-  {
-    "text": "Eagles QB Jalen Hurts ruled out vs. Panthers with blood clot in calf - ESPN",
-    "fullText": "Eagles quarterback Jalen Hurts has been ruled out for Sunday's game against the Panthers due to a superficial blood clot in his calf.",
-    "link": "https://www.espn.com/nfl/story/_/id/50189940/eagles-qb-jalen-hurts-ruled-vs-panthers-blood-clot"
-  },
-  {
-    "text": "CDC sending a ‘disease detective’ to help stop measles outbreak in Pennsylvania - NBC News",
-    "fullText": null,
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNS0RfTEN3SldHVXFfdnFZc3l3UHZtb21KZk1Ud245azAzaGtxU0VvaWVoVnJsam1FUDl0MnNnUGRJamFKM2RSV25CR2szb3BJQWRuSEF5eUlWT21va2ZZMTByLUlaY3VnaFlQaG5KaWNySXNMMHJpYVdiV2N5SnpqVUVoMVgtNzRmOVVqS2c1bmx2TU55dFczNDV3?oc=5"
-  },
-  {
-    "text": "What we know about the criminal investigation into US Congresswoman Ilhan Omar - BBC",
-    "fullText": null,
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MenBoeEpaMmtjQzUyMV9EN25OQWNsQ0hhWVRjampJVFl0eDcwdWg5SHdoYzFRT3RrdkhZV0dieFZ3QUlWYms4UnBvRmRIb1R0Z2hEZFpWVzVLYTA?oc=5"
-  },
-  {
-    "text": "Rotten Tomatoes’ Critics Deliver ‘Street Fighter’ Reboot A Knockout Punch - Forbes",
-    "fullText": null,
-    "link": "https://www.forbes.com/sites/timlammers/2026/10/15/rotten-tomatoes-critics-deliver-street-fighter-reboot-a-knock-out-punch/"
-  },
-  {
-    "text": "Time’s up for ‘leap second’ thanks to Earth’s accelerating spin - The Times",
-    "fullText": "Scientists agree to the biggest shake-up of global timekeeping for generations for fear that inaction could cause havoc with vital technology",
-    "link": "https://www.thetimes.com/uk/science/article/leap-second-abolished-global-timekeeping-0lzzl3dsj"
-  },
-  {
-    "text": "I’ve Tested Echo Shows and Nest Hubs. Here’s How Apple’s HomeView Display Stacks Up - CNET",
-    "fullText": "Apple’s new HomeView faces steep competition from Amazon and Google’s well-established smart displays. Here’s what I think, based on my past reviews.",
-    "link": "https://www.cnet.com/home/smart-home/apple-homeview-vs-amazon-echo-show-google-nest-hub/"
-  },
-  {
-    "text": "Ukraine abandons truce and attacks Russian oil refinery as Zelenskyy says he feels betrayed by Trump - AP News",
-    "fullText": null,
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOanVvOXBrUl9qVzlNb3ljaFNMclJtU0JkcGMwOHg3WngxQnJhSUc4VzZGV0hvRDBBek9DejBaaTNwWVVSd0thaUt4dXJWZGVEVHdaeXNHQXVpV3pmZVJwN2o2ZDFrTXNGTVdaLTcwY1haLXBlWTRRNnpZSXFFSmllQ0xEdTZHLVRhREJCU3Q3WHlycGhCcEdTSXpjX0VDb1BXYXFiaGp5VjBXQQ?oc=5"
-  },
-  {
-    "text": "Why Did Pablo Torre Want to Investigate Kelly Clarkson’s Birdgate? “This Had the Making of a Modern Morality Play” - The Hollywood Reporter",
-    "fullText": "The sports and culture journalist talks to THR about how he approaches his investigations while also embracing what people are talking about online.",
-    "link": "http://www.hollywoodreporter.com/business/digital/pablo-torre-talks-kelly-clarkson-security-tape-1236730833/"
-  },
-  {
-    "text": "Katie Zacharia did not pass the bar exam, senior administration official says - NBC News",
-    "fullText": null,
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPS3BTQ2k5a1ExZ2NBbHdZajJCS19KemZPelhwU05tTTQ2blVXSlAtMVh6OHFJeVFiQXQ5WTY0N3NmNG1kZDRRYThyWGtITGhIWFI1a3FiajI0R2JJaXBUdWNTcVZkVGZKZkp1NnZBWWVIZ1FVU0lqN21EajdqbU9Cc3h2SkV4Q0FmRHJYTnlNQmhvMUE1eVFfaFdUcGRiNk1HRDV3dGM3aG11T3MzZWgtWVVGSUdGZw?oc=5"
-  },
-  {
-    "text": "Social Security cost-of-living increase sparks debate over looming funding shortfall - Fox Business",
-    "fullText": "Social Security's 3.6% COLA will raise retirement benefits in 2027, but a projected 2032 trust fund shortfall could trigger 22% cuts without congressional action.",
-    "link": "https://www.foxbusiness.com/personal-finance/social-security-cost-of-living-increase-sparks-debate-over-looming-funding-shortfall"
-  },
-  {
-    "text": "SpaceX Stock Drops: Starlink Ukraine Risks Are a Problem for Musk - Barron's",
-    "fullText": "SpaceX stock falls. Starlink satellite broadband service has been an important tool in the defense of Ukraine. Elon Musk's company now faces risks.",
-    "link": "https://www.barrons.com/articles/spacex-stock-price-ukraine-problem-musk-4b652fd7"
+    "text": "NASA Images Reveal 10,000 Young Faults on the Moon. That’s a Problem - Gizmodo",
+    "fullText": "Unlike Earth’s multi-plate surface, the Moon is a single chunk—an “unbroken shell” where over 10,000 young faults can erupt into moonquakes at any time.",
+    "link": "https://gizmodo.com/nasa-images-reveal-10000-young-faults-on-the-moon-thats-a-problem-2000826463"
   }
 ]
