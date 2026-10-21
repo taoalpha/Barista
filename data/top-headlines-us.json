@@ -1,97 +1,102 @@
 [
   {
+    "text": "Dow jumps 500 points as solid earnings, falling crude oil stir rebound: Live updates - CNBC",
+    "fullText": "A number of upbeat earnings reports and a drop in oil prices overshadowed recent pressure seen among artificial intelligence-related stocks.",
+    "link": "https://www.cnbc.com/2026/10/19/stock-market-today-live-updates.html"
+  },
+  {
+    "text": "Christina Applegate reveals she was misdiagnosed with multiple sclerosis: \"Not happy at all\" - CBS News",
+    "fullText": "Christina Applegate said on her MeSsy podcast that her doctor recently revealed she did not have multiple sclerosis.",
+    "link": "https://www.cbsnews.com/news/christina-applegate-misdiagnosis-multiple-sclerosis/"
+  },
+  {
+    "text": "'You Can See Everything' Wins Monday Box Office; Looks to Take Down 'Clayface' - Deadline",
+    "fullText": "'You Can See Everything' wins Monday box office with $2.5M. Documentary has shot at taking out 'Clayface' at box office.",
+    "link": "http://deadline.com/2026/10/you-can-see-everything-clayface-box-office-1237168607/"
+  },
+  {
+    "text": "GM Plans $20 Billion in Buybacks, but Warns of Bumpy 2027 - WSJ",
+    "fullText": null,
+    "link": "https://www.wsj.com/business/autos/general-motors-plans-20-billion-in-buybacks-to-shore-up-share-price-a857e6fe"
+  },
+  {
+    "text": "AMD and Microsoft announce FSR 4.1 support for Xbox Series X|S and Xbox Ally, bringing huge performance gains - Windows Central",
+    "fullText": "In a video address, AMD revealed FSR 4.1 support is coming \"soon\" to Xbox consoles, and this week to Xbox Ally.",
+    "link": "https://www.windowscentral.com/gaming/xbox/amd-and-microsoft-announce-fsr-4-1-support-for-xbox-series-x-s-and-xbox-ally-bringing-huge-performance-gains"
+  },
+  {
+    "text": "It’s getting harder to see how the Eagles’ Jalen Hurts marriage ends well - Bleeding Green Nation",
+    "fullText": "A cloudy future for Jalen Hurts in Philadelphia has gotten even cloudier.",
+    "link": "https://www.bleedinggreennation.com/philadelphia-eagles-analysis/187667/its-getting-harder-to-see-how-the-eagles-jalen-hurts-marriage-ends-well"
+  },
+  {
+    "text": "Kyle Kennedy, granddaughter of Bobby and Ethel Kennedy, dead at 42 - Page Six",
+    "fullText": "Kyle’s tragic passing comes six years after she suffered a severe spinal cord injury in 2020. She is survived by sons Conor and Declan.",
+    "link": "https://pagesix.com/2026/10/20/celebrity-news/kyle-kennedy-granddaughter-of-bobby-and-ethel-kennedy-dead-at-42/"
+  },
+  {
+    "text": "Brewers, Rays carry sportsbook liability into World Series - ESPN",
+    "fullText": "After beginning the regular season as long championship underdogs, the  Brewers and Rays will carry sportsbook liability with them into the 2026 World Series.",
+    "link": "https://www.espn.com/mlb/story/_/id/50228306/brewers-rays-carry-sportsbook-liability-world-series"
+  },
+  {
+    "text": "Alberta rejects a move toward independence from Canada in a victory for Carney - AP News",
+    "fullText": "Voters in Alberta have overwhelmingly backed remaining in Canada, with four-fifths of votes counted showing 75% support for staying. This result boosts Prime Minister Mark Carney’s push for national unity amid trade tensions with the U.S. The referendum wasn'…",
+    "link": "https://apnews.com/article/alberta-canada-referendum-independence-carney-ed0d58ef051859ce12052e75d2d6e8a0"
+  },
+  {
+    "text": "SpaceX earnings: Live updates - Yahoo Finance",
+    "fullText": "SpaceX Q3 reports Q3 earnings results after the bell.",
+    "link": "https://finance.yahoo.com/markets/stocks/live/spacex-earnings-live-updates-133218212.html"
+  },
+  {
+    "text": "UK to deploy fighter jets to help Saudis against Houthi attacks - POLITICO.eu",
+    "fullText": "The Ministry of Defence announced Tuesday that Royal Air Force Typhoon fighters will be deployed to the Gulf Kingdom — but stressed they will be only used in a defensive capacity.",
+    "link": "https://www.politico.eu/article/uk-to-deploy-fighter-jets-to-help-saudis-against-houthi-attacks/"
+  },
+  {
+    "text": "U2 to perform at halftime on Thanksgiving Eve - NBC Sports",
+    "fullText": "U2 performed a memorable halftime show in New Orleans at Super Bowl XXXVI in 2002 and they will be back on a football field for a brief concert later this year.",
+    "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/u2-to-perform-at-halftime-on-thanksgiving-eve"
+  },
+  {
+    "text": "PFT’s Week 7 2026 NFL power rankings - NBC Sports",
+    "fullText": "The Niners stay on top.",
+    "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/pfts-week-7-2026-nfl-power-rankings"
+  },
+  {
+    "text": "What to know about Ana C. Reyes, the judge clashing with the Trump administration - The Washington Post",
+    "fullText": "Ana C. Reyes, a federal judge in D.C., has had unusually heated exchanges with the government over the president’s plans for a historic golf course.",
+    "link": "https://www.washingtonpost.com/politics/2026/10/20/what-know-about-ana-c-reyes-judge-clashing-with-trump-administration/"
+  },
+  {
+    "text": "Antigravity just halved the price of its drone — by swapping its headset for wristwatch control - The Verge",
+    "fullText": "What it’s like to try the $800 Antigravity A1 Follow Me set, with watch and ring controllers instead of an FPV headset.",
+    "link": "https://www.theverge.com/tech/1014063/antigravity-a1-drone-follow-me-watch-ring-control"
+  },
+  {
     "text": "How a photo of a patient’s face could predict whether they’ll survive cancer - The Washington Post",
     "fullText": "Researchers say they’ve developed an AI model trained on more than 40 million photographs that can help predict mortality risk.",
     "link": "https://www.washingtonpost.com/health/2026/10/20/how-photo-patients-face-could-predict-whether-theyll-survive-cancer/"
   },
   {
-    "text": "Stock Market Today: Nasdaq Futures Slip; Dismal Data-Center IPO Weighs on Tech Investors — Live Updates - WSJ",
-    "fullText": "Live updates on markets and the top finance, economics and business stories. Plus the latest on bonds, oil prices, the Dow, S&P 500 and Nasdaq.",
-    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-20-2026"
+    "text": "Alexa Tablet 12 Pro Review: Amazon Comes Out Swinging At The iPad - BGR",
+    "fullText": "Amazon's Alexa Tablet 12 Pro is an entirely different beast than the Fire tablet lineup, and its more premium build and specs make it a legit iPad competitor.",
+    "link": "https://www.bgr.com/2291175/alexa-tablet-12-pro-review/"
   },
   {
-    "text": "Christina Applegate Reveals She Was Misdiagnosed With MS: ‘I’m Back at Square One’ and It’s a ‘Mindf—’ - Variety",
-    "fullText": "Christina Applegate returned to her podcast, \"MeSsy,\" on Tuesday with some shocking news: She was misdiagnosed with MS.",
-    "link": "https://variety.com/2026/tv/news/christina-applegate-misdiagnosed-ms-1236917323/"
+    "text": "Trump pledges $8 billion in relief for farmers struggling with soaring diesel prices - CBS News",
+    "fullText": "The USDA said farmers don't need crop insurance to qualify and can prepare to apply by creating a Login.gov account.",
+    "link": "https://www.cbsnews.com/news/trump-farmer-harvest-fuel-relief-aid/"
   },
   {
-    "text": "Trump announces $8 billion for farmers to offset soaring diesel costs - Yahoo Finance",
-    "fullText": "President Trump just announced aid for farmers to pay for soaring diesel costs.",
-    "link": "https://finance.yahoo.com/markets/article/trump-announces-8-billion-for-farmers-to-offset-soaring-diesel-costs-111330890.html"
+    "text": "Marseille braces for more unrest after protests give way to 'apocalyptic' disorder - BBC",
+    "fullText": "France's second city saw some of the worst violence as chaos gripped the country on Saturday.",
+    "link": "https://www.bbc.com/news/articles/cm5ynkk570pno"
   },
   {
-    "text": "Rays win AL pennant, advance to World Series - Bay News 9",
-    "fullText": "Tampa Bay will face the Milwaukee Brewers in the World Series starting Friday.",
-    "link": "https://baynews9.com/fl/tampa/sports/2026/10/20/rays-win-al-pennant--advance-to-world-series"
-  },
-  {
-    "text": "What if an AI bubble bursts — and that accelerates AI job losses? : Planet Money - NPR",
-    "fullText": "Research on past recessions suggests downturns can accelerate automation. That raises the specter of a double whammy for workers.",
-    "link": "https://www.npr.org/sections/planet-money/2026/10/20/g-s1-148305/what-if-an-ai-bubble-bursts-and-that-accelerates-ai-job-losses"
-  },
-  {
-    "text": "Space jellyfish encore possible as weather clears for SpaceX launch today - Orlando Sentinel",
-    "fullText": "SpaceX is back and the weather is clear for a predawn launch attempt Tuesday morning that could offer viewers another serving of space jellyfish after calling off an attempt Monday.",
-    "link": "https://www.orlandosentinel.com/2026/10/20/monday-morning-spacex-launch-could-serve-up-space-jellyfish-encore/"
-  },
-  {
-    "text": "Walmart rolls out new bundle combining Walmart+, Sam’s Club Plus - Fox Business",
-    "fullText": "Walmart shoppers can now get Walmart+ and Sam’s Club Plus together for $120 a year, nearly $100 less than buying both memberships separately.",
-    "link": "https://www.foxbusiness.com/retail/walmart-rolls-out-new-bundle-combining-walmart-sams-club-plus"
-  },
-  {
-    "text": "Lawmaker reportedly loses leg as car ramming stuns Australia - NBC News",
-    "fullText": "An Australian lawmaker was in critical but stable condition Tuesday after being hit by a car in what authorities said was a deliberate attack, shocking a nation where political violence is extremely rare.",
-    "link": "https://www.nbcnews.com/world/asia/australia-lawmaker-car-ramming-attack-helen-haines-leg-driver-charged-rcna604526"
-  },
-  {
-    "text": "Orionid meteor shower 2026: cloud cover forecast by region - The Weather Channel",
-    "fullText": "The best night to see the orionids is Wednesday into Thursday, but could the weather get in your way? Here is the forecast.",
-    "link": "https://weather.com/2026/10/20/science/space/orionid-meteor-shower-weather-forecast-rain-cloud-cover"
-  },
-  {
-    "text": "Drone attacks across Sudan escalate, 160 people reported killed - Al Jazeera",
-    "fullText": "Rights groups warn increasing attacks by unmanned aircraft on civilians and infrastructure.",
-    "link": "https://www.aljazeera.com/news/2026/10/19/160-reported-killed-in-escalating-drone-attacks-across-sudan"
-  },
-  {
-    "text": "What Ryan Day said about Ohio State quarterback Julian Sayin’s status on Monday night: Buckeye Breakfast - Cleveland.com",
-    "fullText": null,
-    "link": "https://www.cleveland.com/osu/2026/10/what-ryan-day-said-about-ohio-state-quarterback-julian-sayins-status-on-monday-night-buckeye-breakfast.html"
-  },
-  {
-    "text": "A 16-year-old carried out the Bend school shooting. Could his parents face charges? - CNN",
-    "fullText": "Recent cases in Michigan and Georgia suggest either or both parents of the teenage school shooter could be held criminally liable for the killings.",
-    "link": "https://www.cnn.com/2026/10/20/us/bend-oregon-shooting-parents-liability"
-  },
-  {
-    "text": "U.S. bans DeepSeek from government agency systems amid AI rift with China - CNBC",
-    "fullText": "U.S. Department of Homeland Security has banned DeepSeek-related technology from federal civilian agency IT systems.",
-    "link": "https://www.cnbc.com/2026/10/20/us-deepseek-federal-agency-ban.html"
-  },
-  {
-    "text": "Japan launches mission to bring home a piece of the Martian moon Phobos - Ars Technica",
-    "fullText": "The climax for MMX will come in 2029, when the spacecraft will attempt up to two landings on Phobos.",
-    "link": "https://arstechnica.com/space/2026/10/japan-launches-mission-to-bring-home-a-piece-of-the-martian-moon-phobos/"
-  },
-  {
-    "text": "Jay-Z Picks Jay-Z for Super Bowl LXI - Puck",
-    "fullText": "Ever since the rapper and Roc Nation head signed on to oversee the show in 2019, his own headlining spot has seemed like a certainty. According to sources, 2027 will be that year.",
-    "link": "https://puck.news/jay-z-picks-jay-z-for-super-bowl-lxi/"
-  },
-  {
-    "text": "Mike Evans injury update as 49ers WR leaves after non-contact injury on 'Monday Night Football' - USA Today",
-    "fullText": "Latest updates after 49ers wide receiver Mike Evans exited the teams Week 6 \"Monday Night Football\" game vs. Commanders after a non-contact injury.",
-    "link": "https://www.usatoday.com/story/sports/nfl/49ers/2026/10/19/mike-evans-injury-update-49ers-monday-night-football/92339413007/"
-  },
-  {
-    "text": "Baseus’ new security camera has a spotlight that tracks and follows moving targets - The Verge",
-    "fullText": "The Baseus U2 Pro features a pair of 3K waterproof security cameras and a bright spotlight that highlights intruders and other moving objects as a deterrent.",
-    "link": "https://www.theverge.com/tech/1005073/baseus-security-primesentinel-u2-pro-outdoor-3k-dual-camera-tracking-spotlight"
-  },
-  {
-    "text": "49ers hold off furious Commanders' second-half rally to go 6-0 - ESPN",
-    "fullText": "The 49ers dominated in the first half but had to hold off a second-half Commanders rally.",
-    "link": "https://www.espn.com/nfl/story/_/id/50222471/mnf-49ers-commanders-brock-purdy"
+    "text": "Spotify launches paid podcast memberships with perks beyond bonus content - TechCrunch",
+    "fullText": "Spotify's new paid memberships let podcasters offer fans exclusive perks, including ad-free listening, early access, and bonus content, while keeping 90% of the revenue.",
+    "link": "https://techcrunch.com/2026/10/20/spotify-launches-paid-podcast-memberships-with-perks-beyond-bonus-content/"
   }
 ]
