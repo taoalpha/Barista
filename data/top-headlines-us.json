@@ -1,5 +1,45 @@
 [
   {
+    "text": "Russian attack on Ukraine aid hub kills 29 as US announces new peace talks - Al Jazeera",
+    "fullText": "Zelenskyy says ‘vile’ attack in Zaporizhzhia is further proof that Russia does not want any kind of de-escalation.",
+    "link": "https://www.aljazeera.com/news/2026/11/2/russian-bombing-of-ukrainian-aid-centre-kills-24-people-zelenskyy"
+  },
+  {
+    "text": "Apple and Palantir shares slide in premarket trading following post-bell earnings - CNBC",
+    "fullText": "The iPhone-maker and software giant fell after earnings failed to impress investors.",
+    "link": "https://www.cnbc.com/2026/11/03/apple-palantir-stock-earnings.html"
+  },
+  {
+    "text": "Labour MPs pull their punches on immigration changes - BBC",
+    "fullText": "Angela Rayner previously said plans were \"un-British\" and ministers shouldn't shift \"the goalposts\".",
+    "link": "https://www.bbc.com/news/articles/ck0e0jpww9wro"
+  },
+  {
+    "text": "U.S. military carries out limited strikes on Iran’s Qeshm Island, U.S. officials say - NBC News",
+    "fullText": "The strikes, which appeared to be limited as opposed to a full return to hostilities, came on the eve of crucial American midterm elections.",
+    "link": "https://www.nbcnews.com/world/iran/us-conducted-defensive-strikes-iranian-targets-strait-hormuz-us-offici-rcna607161"
+  },
+  {
+    "text": "Asian trading is mixed as tech sell-off deepens and oil prices rebound - AP News",
+    "fullText": "Asian stocks are mixed as markets like South Korea and Taiwan that are heavily weighted toward technology shares fell after a sell-off on Wall Street. U.S. futures edged lower and oil prices moved higher. Markets in Tokyo were closed for a holiday. Shares in …",
+    "link": "https://apnews.com/article/stock-markets-ai-earnings-oil-0d235af127a92c68da0cc2c45c028cef"
+  },
+  {
+    "text": "Night sky November 2026 — What to look for in the sky this month - Space",
+    "fullText": "Discover the best things to see in the night sky this month, from planets to moon meet-ups and deep-sky wonders.",
+    "link": "https://www.space.com/stargazing/what-to-look-for-in-night-sky-november-2026"
+  },
+  {
+    "text": "Horoscope for Tuesday, November 03, 2026 - Chicago Sun-Times",
+    "fullText": null,
+    "link": "https://chicago.suntimes.com/horoscopes/2026/11/03/horoscopes-today-tuesday-november-03-2026"
+  },
+  {
+    "text": "Jeffery Simmons, Bears' defense handle Seahawks - ESPN",
+    "fullText": "Caleb Williams and Jeffery Simmons had the Bears controlling both sides of the ball on MNF.",
+    "link": "https://www.espn.com/nfl/story/_/id/50364209/chicago-bears-seattle-seahawks-mnf-jeffery-simmons-sam-darnold"
+  },
+  {
     "text": "East Texas A&M stuns Oklahoma with historic road upset to open season, adding to Porter Moser's struggles in Norman - Yahoo Sports",
     "fullText": "The Sooners were a 28.5-point favorite entering the night. Their loss is the second-largest upset in Division-I history in the past three decades.",
     "link": "https://sports.yahoo.com/mens-college-basketball/breaking-news/article/east-texas-am-stuns-oklahoma-with-historic-road-upset-to-open-season-adding-to-porter-mosers-struggles-in-norman-035837230.html"
@@ -10,24 +50,29 @@
     "link": "http://www.hollywoodreporter.com/tv/tv-news/dwts-season-35-disney-week-8-recap-scores-elimination-1236746352/"
   },
   {
-    "text": "Live: Updates: Jaxon Smith-Njigba scores long TD pass right before halftime - The Seattle Times",
-    "fullText": "The Seahawks are hosting the Chicago Bears on “Monday Night Football.” Seattle will get running backs Zach Charbonnet and Jadarian Price back. Follow along.",
-    "link": "https://www.seattletimes.com/sports/seahawks/seahawks-vs-bears-on-monday-night-football-live-updates-how-to-watch/"
-  },
-  {
-    "text": "Trump makes midterm closing arguments at troubled Reflecting Pool site - The Washington Post",
-    "fullText": "The president is ending his midterm push by showcasing a project he sees as a success — and Democrats see as emblematic of his misplaced focus on personal projects.",
-    "link": "https://www.washingtonpost.com/politics/2026/11/02/trump-make-midterm-closing-arguments-troubled-reflecting-pool-site/"
-  },
-  {
-    "text": "Austin tech entrepreneur, wife and young children among victims of Florida jet crash - KUT",
-    "fullText": "Investigators said a private jet that left Austin-Bergstrom International Airport bound for the Bahamas entered a rapid descent after its crew reported icing and turbulence.",
-    "link": "https://www.kut.org/transportation/2026-11-02/austin-plane-crash-florida-learjet-victims-identified-adam-robinson-ntsb-investigation"
-  },
-  {
     "text": "Supreme Court rejects Trump administration push to set aside thousands of California ballots - AP News",
     "fullText": "The Supreme Court has rejected a push for California to set aside thousands of mail ballots from people President Donald Trump’s administration claims are noncitizens. The decision that comes on the eve of the pivotal midterm elections. The high court refused…",
     "link": "https://apnews.com/article/midterm-elections-immigration-voter-fraud-trump-48998968a23a4af2f59eaea3dba4d2f3"
+  },
+  {
+    "text": "Galaxy S27 Ultra goes head-to-head with Pixel 11 Pro, iPhone 18 Pro, and S26 Ultra in new leak - Android Authority",
+    "fullText": "A new leak shows off a Galaxy S27 Ultra dummy unit next to current flagships from Samsung, Apple, and Google.",
+    "link": "https://www.androidauthority.com/samsung-galaxy-s27-ultra-dummy-leak-3730910/"
+  },
+  {
+    "text": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies - Krebs on Security",
+    "fullText": null,
+    "link": "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/"
+  },
+  {
+    "text": "The top bat in this free-agent class? These 7 have a case - MLB.com",
+    "fullText": "There's no debate about the top pitcher (and overall player) in the current free-agent crop. That's Tarik Skubal, and it's not particularly close. But it's a different story in this year's market for hitters.\nWhile the four previous free-agent classes were he…",
+    "link": "https://www.mlb.com/news/best-hitters-in-2026-2027-mlb-free-agent-class"
+  },
+  {
+    "text": "Adam Robinson went from Wall Street to Austin's tech scene before a tragic Learjet crash - Business Insider",
+    "fullText": "Tech founder Adam Robinson, 45, died in a Learjet crash in Florida on Sunday. Robinson's bootstrapping philosophy inspired many entrepreneurs.",
+    "link": "https://www.businessinsider.com/adam-robinson-florida-learjet-crash-tech-community-2026-11#article"
   },
   {
     "text": "Ebola outbreak kills more than 5,300 people in DR Congo - Al Jazeera",
@@ -35,63 +80,13 @@
     "link": "https://www.aljazeera.com/news/2026/11/3/ebola-outbreak-kills-more-than-5300-people-in-dr-congo"
   },
   {
-    "text": "North Korea denies being behind record $6.3bn Binance hack - BBC",
-    "fullText": "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.",
-    "link": "https://www.bbc.com/news/articles/c6rey4v53exgo"
-  },
-  {
-    "text": "Rain clears but flood risk remains high after destructive storms swamp normally arid Southwest - AP News",
-    "fullText": "Rain is clearing but the risk of flooding remains high in storm-weary parts of the Southwest. An expert says over 20 trillion gallons of water has fallen on the Four Corners states and Nevada in the past two weeks. The flooding has kept swift-water rescue tea…",
-    "link": "https://apnews.com/article/arizona-pagosa-springs-colorado-sedona-southwest-flooding-ee6777f8b21234d2243998b66294b92b"
+    "text": "Indicted ICE officer had been on the job a little over a year as Trump’s hiring surge comes under scrutiny - NBC News",
+    "fullText": "Mario Alberto Morales was released on bond following his indictment on a charge of aggravated assault with a deadly weapon.",
+    "link": "https://www.nbcnews.com/news/us-news/indicted-ice-officer-job-little-year-trumps-hiring-surge-comes-scrutin-rcna607033"
   },
   {
     "text": "iPhone Duo: Apple unsure when more of the foldable devices will be available - BBC",
     "fullText": "Apple’s foldable iPhone Duo was a hit with people willing to spend $2,000 on a new mobile.",
     "link": "https://www.bbc.com/news/articles/c6n8dn457ypko"
-  },
-  {
-    "text": "PM plans debt re-set for Commonwealth nations as slavery apology talks begin - BBC",
-    "fullText": "The move comes as the prime minister begins talks about the UK issuing a formal apology for the slave trade in the next year.",
-    "link": "https://www.bbc.com/news/articles/c58jzn1ve0kjo"
-  },
-  {
-    "text": "The Saga of Haley Stevens’ Fiancé Keeps Getting Weirder - Slate",
-    "fullText": "Elizabeth and Billy have nothing on Haley and Jason.",
-    "link": "https://slate.com/life/2026/11/haley-stevens-mike-rogers-abdul-el-sayed-anderson-cooper.html"
-  },
-  {
-    "text": "Washington state resident dies from bird flu following exposure to infected cattle - AP News",
-    "fullText": "A person in Washington state has died from complications of bird flu, marking the first such U.S. death in a year. County health officials announced Sunday that the Yakima County resident had previous health conditions and was exposed to avian influenza at a …",
-    "link": "https://apnews.com/article/bird-flu-death-yakima-washington-c170f95d65a5ffe966ec52d7dae56f3d"
-  },
-  {
-    "text": "Nasdaq Slide Clouds Asian Open, Oil Falls on Iran: Markets Wrap - Bloomberg.com",
-    "fullText": "Asian stocks declined after a selloff in US chipmakers deepened, overshadowing a plunge in oil prices amid optimism over diplomatic progress toward ending the war in Iran.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-02/stock-market-today-dow-s-p-live-updates"
-  },
-  {
-    "text": "Judge is weighing a retrial for Lindsay Clancy in the deaths of her three children - NBC News",
-    "fullText": "Clancy’s trial in the strangulation deaths ended in a jury deadlock that forced the judge to declare a mistrial in September.",
-    "link": "https://www.nbcnews.com/news/us-news/lindsay-clancy-returns-court-defense-seeks-block-retrial-murder-case-rcna596609"
-  },
-  {
-    "text": "Scientists discover potentially massive dwarf planet candidate hiding beyond Pluto - Fox News",
-    "fullText": "Object 2026 ED138 was spotted beyond Pluto using observations from the Vera C. Rubin Observatory, and scientists say it could be among the largest dwarf planets ever found.",
-    "link": "https://www.foxnews.com/travel/scientists-discover-potentially-massive-dwarf-planet-candidate-hiding-beyond-pluto"
-  },
-  {
-    "text": "Anthropic Investors Push for Cautious Valuation Closer to $1.5 Trillion - WSJ",
-    "fullText": null,
-    "link": "https://www.wsj.com/finance/stocks/anthropic-investors-push-for-cautious-valuation-closer-to-1-5-trillion-2f2df9cf"
-  },
-  {
-    "text": "Justin Timberlake to Release Four-Part ‘Tell-All’ Docuseries, Featuring Janet Jackson, on Apple (EXCLUSIVE) - Variety",
-    "fullText": "Justin Timberlake will release a 'tell-all' Apple TV docuseries, including Janet Jackson discussing the infamous Super Bowl 'wardrobe malfunction.'",
-    "link": "https://variety.com/2026/music/news/justin-timberlake-apple-docuseries-janet-jackson-1236937847/"
-  },
-  {
-    "text": "Labour MPs pull their punches on immigration changes - BBC",
-    "fullText": "Angela Rayner previously said plans were \"un-British\" and ministers shouldn't shift \"the goalposts\".",
-    "link": "https://www.bbc.com/news/articles/ck0e0jpww9wro"
   }
 ]
