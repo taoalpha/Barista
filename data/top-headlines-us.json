@@ -1,8 +1,68 @@
 [
   {
-    "text": "Communications system at top-secret National Security Agency goes down - The Washington Post",
-    "fullText": "A key internal message system used by NSA employees to exchange classified messages was out of commission Tuesday, according to three current and former U.S. officials.",
-    "link": "https://www.washingtonpost.com/national-security/2026/11/17/communications-system-top-secret-national-security-agency-goes-down/"
+    "text": "Putin says EU is losing industry, falling behind competition ahead of meeting with Trump, Xi - CNBC",
+    "fullText": "Putin used the speech to emphasize Russia's economic resilience despite U.S. sanctions, and played up opportunities for APEC members in the country.",
+    "link": "https://www.cnbc.com/2026/11/18/putin-apec-eu-trump-xi-meeting.html"
+  },
+  {
+    "text": "‘Dancing With the Stars’ Couples Perform Double Dances as Another Top-Scoring Duo Exits Before Season 35 Finale: See the Scores, Who Went Home - The Hollywood Reporter",
+    "fullText": "Contestants performed a ballroom dance, and a second performance in the Latin style in Tuesday's semi-finals.",
+    "link": "http://www.hollywoodreporter.com/tv/tv-news/dwts-season-35-semi-finals-week-10-recap-scores-elimination-1236757850/"
+  },
+  {
+    "text": "Bedard scores, leaves with injury in Blackhawks win against Maple Leafs - NHL.com",
+    "fullText": "Bertuzzi has three points, Nazar scores two for Chicago; Toronto skid hits seven",
+    "link": "https://www.nhl.com/news/toronto-maple-leafs-chicago-blackhawks-game-recap-november-17-2026"
+  },
+  {
+    "text": "Stock futures rise as Nvidia gains on earnings beat and solid outlook: Live updates - CNBC",
+    "fullText": "Nvidia shares rose in extended trading after the company’s first earnings report since co-founder Jensen Huang resigned last week.",
+    "link": "https://www.cnbc.com/2026/11/17/stock-market-today-live-updates.html"
+  },
+  {
+    "text": "Democrat Mary Peltola flips Alaska Senate seat, defeating GOP Sen. Dan Sullivan - NBC News",
+    "fullText": "Democrat Mary Peltola defeated Republican Sen.",
+    "link": "https://www.nbcnews.com/politics/2026-election/mary-peltola-democrat-wins-alaska-senate-dan-sullivan-gop-rcna603307"
+  },
+  {
+    "text": "CFP Selection Committee Completes Its Third Rankings of 2026 - College Football Playoff",
+    "fullText": "IRVING, Texas – The CFP (College Football Playoff) Selection Committee completed its third rankings of the 2026 season as of games played through Sunday, Nov...",
+    "link": "https://collegefootballplayoff.com/news/2026/11/17/rankings"
+  },
+  {
+    "text": "Kelly knocks Hun Cao’s analogy about food shortages on Navy ships - The Hill",
+    "fullText": "Sen. Mark Kelly (D-Ariz.) knocked acting Navy Secretary Hung Cao’s confirmation hearing analogy on Navy vessel food shortages, implying the comparison undermined the reports of poor conditions aboard ships docked in the Middle East. During the hearing, Cao co…",
+    "link": "https://thehill.com/homenews/senate/6226889-kelly-criticizes-cao-navy-food/"
+  },
+  {
+    "text": "Rubio says ‘zero’ information that US outages are linked or caused by a malign actor - AP News",
+    "fullText": "Secretary of State Marco Rubio is seeking to assure Americans that there’s ‘zero’ information that the cascade of service outages, which snarled travel, cut off work, limited bank access and disrupted classified communications, are related to each other or to…",
+    "link": "https://apnews.com/article/trump-conservatives-maga-internet-outages-ec4d88860b54e280c6e6c19dce7899ae"
+  },
+  {
+    "text": "Scoop: White House drops Heidi Overton's FDA nomination - Axios",
+    "fullText": "A lack of support on Capitol Hill doomed her nomination.",
+    "link": "https://www.axios.com/2026/11/17/heidi-overton-fda-nomination-dropped"
+  },
+  {
+    "text": "NSA says internal systems outage caused by ‘scheduled routine maintenance’ - Politico",
+    "fullText": "The “temporary degradation” of some of the NSA’s networks follows a series of outages across U.S. tech companies and federal agencies.",
+    "link": "https://www.politico.com/news/2026/11/17/nsa-outage-scheduled-maintenance-01170416"
+  },
+  {
+    "text": "Nvidia rejects Jensen Huang’s offer to return as CEO despite pressure from Silicon Valley - AP News",
+    "fullText": "Nvidia has rejected Jensen Huang’s offer to return as CEO, putting to rest for now any possible reinstatement of the celebrated artificial intelligence billionaire and industry evangelist. The company's decision on Tuesday came despite pressure from Silicon V…",
+    "link": "https://apnews.com/article/nvidia-jensen-huang-china-national-security-chips-3026bcbe04ab57b844884382e583422a"
+  },
+  {
+    "text": "Satya Nadella says he’s AGI-pilled now - The Verge",
+    "fullText": "Microsoft’s CEO explained how he’s thinking about AI at the Microsoft Ignite conference and where his thinking differs from Anthropic.",
+    "link": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now"
+  },
+  {
+    "text": "Anne Hathaway Gives Birth, Welcomes Baby No. 3 With Husband Adam Shulman - E! News",
+    "fullText": "Anne Hathaway gave birth to her and husband Adam Shulman's third baby together, according to multiple outlets. The couple—who married in 2012—are already parents to sons Jonathan, 10, and Jack, 6.",
+    "link": "https://www.eonline.com/news/1434081/anne-hathaway-gives-birth-to-baby-no-3-with-husband-adam-shulman"
   },
   {
     "text": "Sean Duffy’s $50 billion demand for air travel fixes is met with yelling and skepticism in Congress - NBC News",
@@ -10,24 +70,14 @@
     "link": "https://www.nbcnews.com/politics/congress/sean-duffys-50-billion-demand-groundstop-fixes-congress-skepitcal-rcna609844"
   },
   {
-    "text": "Ax-wielding man destroys $60M U.S. military plane in Ireland, prosecutors say - CBS News",
-    "fullText": "Daithi O'Corrain, 48, is charged in the U.S. with destruction of U.S. government property in connection with the April incident at Shannon Airport.",
-    "link": "https://www.cbsnews.com/news/us-military-plane-irish-airport/"
+    "text": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit - TechCrunch",
+    "fullText": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
+    "link": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/"
   },
   {
-    "text": "Jeff Bezos says he was ‘heavily involved’ in picking the new James Bond - The Verge",
-    "fullText": "Bezos said that he and director Denis Villeneuve were immediately drawn to Robert Pattinson’s performance during screen tests.",
-    "link": "https://www.theverge.com/entertainment/1036110/jeff-bezos-james-bond-casting-amazon"
-  },
-  {
-    "text": "6 major outages in 6 days: From Outlook to the NSA, what we know so far - Politico",
-    "fullText": "Here’s what we know about the biggest tech outages",
-    "link": "https://www.politico.com/news/2026/11/17/tech-outages-2026-nsa-faa-apple-what-we-know-01170887"
-  },
-  {
-    "text": "Nvidia earnings live: Nvidia posts Q3 beat, board says it will not reinstate Jensen Huang as CEO - Yahoo Finance",
-    "fullText": "Nvidia reported its Q3 earnings after the bell Tuesday.",
-    "link": "https://finance.yahoo.com/technology/live/nvidia-earnings-live-nvidia-posts-q3-beat-board-says-it-will-not-reinstate-jensen-huang-as-ceo-221428433.html"
+    "text": "Home secretary plans to tackle 'perception of two-tier policing' - BBC",
+    "fullText": "Shabana Mahmood will announce stronger guidance on police impartiality.",
+    "link": "https://www.bbc.com/news/articles/c3vg24wpg040o"
   },
   {
     "text": "Haaland sends Norway to Nations League quarters on last-minute penalty - ESPN",
@@ -35,58 +85,8 @@
     "link": "https://www.espn.com/soccer/story/_/id/50513761/erling-haaland-sends-norway-nations-league-quarterfinals"
   },
   {
-    "text": "Hung Cao grilled by Senate over suicide attempts, Iran war: 5 takeaways - The Hill",
-    "fullText": "Senators on both sides of the aisle grilled acting Navy Secretary Hung Cao on Tuesday with questions over sailor suicide attempts on Navy ships, the U.S. war against Iran and the lack of progress on shipbuilding in a contentious two-and-a-half-hour confirmati…",
-    "link": "https://thehill.com/policy/defense/6226459-navy-secretary-confirmation-clash/"
-  },
-  {
-    "text": "US loses measles elimination status after 26 years amid record case numbers - BBC",
-    "fullText": "States have reported over 5,400 cases and 10 measles-related deaths for the first time since the early 1990s.",
-    "link": "https://www.bbc.com/news/articles/c977p71jx0xxo"
-  },
-  {
-    "text": "Dan Campbell: I'm not telling players to stop celebrating because of Aidan Hutchinson's injury - NBC Sports",
-    "fullText": "Hutchinson tore his ACL while celebrating a sack.",
-    "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dan-campbell-im-not-telling-players-to-stop-celebrating-because-of-aidan-hutchinsons-injury"
-  },
-  {
-    "text": "Should you take GLP-1s during pregnancy? What some doctors say. - The Washington Post",
-    "fullText": "The drugs’ effects on a pregnancy and fetus are unclear, so the American College of Obstetricians and Gynecologists urges caution.",
-    "link": "https://www.washingtonpost.com/health/2026/11/17/should-you-take-glp-1s-during-pregnancy-what-some-doctors-say/"
-  },
-  {
-    "text": "How to Tell If It’s a Cyberattack or Just an Outage - WIRED",
-    "fullText": "Email, planes, banks; network failures are piling up. Here’s how WIRED investigates if they’re the result of hacker mayhem. (Hint: usually not.)",
-    "link": "https://www.wired.com/story/how-to-tell-if-its-a-cyberattack-or-just-an-outage/"
-  },
-  {
-    "text": "American soldier accused of spying now in U.S. military custody after U.K. arrest - CBS News",
-    "fullText": "Federal Bureau of Investigation director Kash Patel said that the soldier was \"a potential threat to national security.\"",
-    "link": "https://www.cbsnews.com/news/american-soldier-spying-suspect-russia-united-kingdom-us-custody/"
-  },
-  {
-    "text": "Voyager 1 is about to achieve a cosmic first: one ‘light day’ from Earth - Nature",
-    "fullText": "Its power supply is faltering and most of its instruments are off, but the probe is still gathering data.",
-    "link": "https://www.nature.com/articles/d41586-026-03672-1"
-  },
-  {
-    "text": "Sea turtles laid eggs on a California beach, a first. Now they’ve hatched. - The Washington Post",
-    "fullText": "After the first “natural nesting” on record on the West Coast for any species of sea turtle, the tiny hatchlings were released into the ocean.",
-    "link": "https://www.washingtonpost.com/climate-environment/2026/11/17/sea-turtles-laid-eggs-california-beach-first-now-theyve-hatched/"
-  },
-  {
-    "text": "WhatsApp starts rolling out built-in cloud backup on Android, and it’s free - 9to5Google",
-    "fullText": "WhatsApp is introducing its own cloud backup option starting on Android, giving users an alternative to Google Drive.",
-    "link": "http://9to5google.com/2026/11/17/whatsapp-cloud-backups-free-beta/"
-  },
-  {
-    "text": "Skydance Film Re-Org: Kira Goldberg Joins Paramount, Jesse Ehrman Upped to Run Warner Bros. - The Hollywood Reporter",
-    "fullText": "Goldberg will run Paramount‘s film operations with Don Granger, while Jesse Ehrman will run Warners, with Mikey Ireland remaining as president of production.",
-    "link": "http://www.hollywoodreporter.com/movies/movie-news/kira-goldberg-joins-paramount-jesse-ehrman-upped-at-warner-1236757226/"
-  },
-  {
-    "text": "Nicolas Cage's 'Madden' Lands Jaw-Dropping Rotten Tomatoes Debut - MovieWeb",
-    "fullText": "David O. Russell's sports biopic misses with critics and audiences, debuting with a rotten rating.",
-    "link": "https://movieweb.com/madden-rotten-tomatoes/"
+    "text": "Trump in Asia ahead of talks with Russian and Chinese presidents - BBC",
+    "fullText": "The US president said he would be open to a one-on-one meeting with Russia's Vladimir Putin \"if it's available\".",
+    "link": "https://www.bbc.com/news/articles/crq5vlxxx32no"
   }
 ]
