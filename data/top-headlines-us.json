@@ -1,13 +1,83 @@
 [
   {
-    "text": "Virginia reports young child has died of measles, first since 1978 - The Washington Post",
-    "fullText": "Virginia is the latest state where the resurgent measles virus has turned deadly.",
-    "link": "https://www.washingtonpost.com/health/2026/11/21/virginia-reports-young-child-has-died-measles-first-since-1978/"
+    "text": "Poland says Russian missiles hit its territory; Trump calls it a mistake - The Washington Post",
+    "fullText": "Poland also joined other European countries in expressing outrage over allegations of a thwarted plot linked to Moscow to kill a U.S.-Ukrainian rapper on Danish soil.",
+    "link": "https://www.washingtonpost.com/world/2026/11/21/poland-says-russian-missiles-hit-its-territory-trump-calls-it-mistake/"
   },
   {
-    "text": "No. 10 BYU survives upset scare against Kansas with triple-overtime win, keeping Big 12 and CFP hopes alive - Yahoo Sports",
-    "fullText": "BYU improves to 6-2 in conference play, needing a No. 12 Texas Tech loss to enter the Big 12 title game picture.",
-    "link": "https://sports.yahoo.com/college-football/breaking-news/article/no-10-byu-survives-upset-scare-against-kansas-with-triple-overtime-win-keeping-big-12-and-cfp-hopes-alive-211234541.html"
+    "text": "Cartel leader captured in northern Mexico in a bloody firefight that left 11 dead - NPR",
+    "fullText": "Fausto Isidro Meza Flores, better known as \"El Chapo Isidro,\" was one of the FBI's most wanted fugitives. His arrest in northwest Mexico on Saturday has sparked violence in the region.",
+    "link": "https://www.npr.org/2026/11/21/nx-s1-6049672/cartel-boss-el-chapo-isidro-detained"
+  },
+  {
+    "text": "UCLA QB Ty Dieffenbach carted off after suffering apparent knee injury in loss to Michigan - CBS Sports",
+    "fullText": "The Bruins are now down to their third-string QB as the College Football Playoff approaches",
+    "link": "https://www.cbssports.com/college-football/news/ucla-qb-ty-dieffenbach-carted-injury-loss-michigan/"
+  },
+  {
+    "text": "ICE officers arrest 2 passengers boarding Alaska Airlines flight in Seattle - CBS News",
+    "fullText": "Masked immigration officers arrested two passengers on a crowded airport jet bridge in Seattle as people were boarding Saturday",
+    "link": "https://www.cbsnews.com/news/ice-arrest-alaska-airlines-flight-seattle/"
+  },
+  {
+    "text": "Miley Cyrus Marries Maxx Morando After 5 Years of Dating - E! News",
+    "fullText": "Miley Cyrus and Maxx Morando tied the knot in Palm Springs, Calif., on Nov. 21 after five years together.",
+    "link": "https://www.eonline.com/news/1438268/miley-cyrus-marries-maxx-morando-in-palm-springs-wedding"
+  },
+  {
+    "text": "Intel Nova Lake-H Spec Sheet Shows Up With a 4.8 GHz Boost and 25 W TDP - TechPowerUp",
+    "fullText": "As we move closer to Nova Lake's eventual launch, more and more details are surfacing about the various lineups under that umbrella. We covered the sighting of the 28-core Intel \"Nova Lake-S\" desktop CPU on Openbenchmark today, and now we have an early look a…",
+    "link": "https://www.techpowerup.com/355088/intel-nova-lake-h-spec-sheet-shows-up-with-a-4-8-ghz-boost-and-25-w-tdp"
+  },
+  {
+    "text": "Luca Guadagnino Says His ‘American Psycho’ Movie Not Moving Forward - The Hollywood Reporter",
+    "fullText": "Scott Z. Burns penned a script for Lionsgate's new take on the Bret Easton Ellis novel, which was previously adapted into a 2000 film starring Christian Bale as Patrick Bateman.",
+    "link": "http://www.hollywoodreporter.com/movies/movie-news/luca-guadagnino-american-psycho-movie-not-moving-forward-1236760596/"
+  },
+  {
+    "text": "San Francisco braces for massive tides. Mayor urges residents to reconsider travel - AP News",
+    "fullText": "Scattered rain is exacerbating the impacts of historic flooding across central Florida, as Northern California braces for an unprecedented deluge accompanied by high tides ahead of the Thanksgiving holiday. San Francisco Mayor Daniel Lurie called his city's f…",
+    "link": "https://apnews.com/article/extreme-weather-flooding-florida-california-a096b0e373fe6e9b4c4dcdde11c1b31b"
+  },
+  {
+    "text": "UFC Qatar bonuses: Navajo Stirling gets no-brainer $100K - MMA Junkie",
+    "fullText": "For the $100,000 bonuses in Qatar, the UFC made calls that saved $50,000, but also rewarded a fighter whose blatant foul helped lead to his win.",
+    "link": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/21/ufc-qatar-bonuses-navajo-stirling-amir-albazi-john-mitchell-diyar-nurgozhay-100000-knockout/92896680007/"
+  },
+  {
+    "text": "Exclusive | Brielle Biermann marries Billy Seidl in romantic Florida wedding - Page Six",
+    "fullText": "The reality television personality and the athlete were joined by their closest friends and family for the ceremony.",
+    "link": "https://pagesix.com/2026/11/21/celebrity-news/brielle-biermann-marries-billy-seidl-in-romantic-florida-wedding/"
+  },
+  {
+    "text": "Virginia reports young child is the state’s first measles death in 2026 - AP News",
+    "fullText": "Virginia officials say a young child who tested positive for measles has died. It is the state's first death related to the highly contagious virus this year. The death comes days after the U.S. lost its designation of having eliminated measles. There have be…",
+    "link": "https://apnews.com/article/measles-child-dies-virginia-e0c572252ece06a106cbe4d890e9fd70"
+  },
+  {
+    "text": "Lock of former US President George Washington's hair sells for $4,000 - BBC",
+    "fullText": "The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a descendent of its former owner.",
+    "link": "https://www.bbc.com/news/articles/cwe9k23dpz0do"
+  },
+  {
+    "text": "Nvidia faces US accounting probe amid deepening turmoil: media - Yahoo Finance",
+    "fullText": "US securities regulators are investigating the accounting practices of Nvidia, according to US media, adding to the turmoil engulfing the artificial intellig...",
+    "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-faces-us-accounting-probe-215354861.html"
+  },
+  {
+    "text": "Trump says Cornyn blocked judicial pick because his ‘feelings were hurt’ - The Washington Post",
+    "fullText": "In response, outgoing Sen. John Cornyn (R-Texas) criticized the president’s nomination and said he had put forward his own candidate.",
+    "link": "https://www.washingtonpost.com/politics/2026/11/21/trump-says-cornyn-blocked-judicial-pick-because-his-feelings-were-hurt/"
+  },
+  {
+    "text": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance - TechCrunch",
+    "fullText": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+    "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/"
+  },
+  {
+    "text": "Princeton neuroscientist detained by ICE at D.C. airport after leaving conference - NBC News",
+    "fullText": "U.S. Immigration and Customs Enforcement arrested a Princeton University Ph.D.",
+    "link": "https://www.nbcnews.com/news/us-news/princeton-neuroscientist-eva-yi-xie-ice-detained-rcna610603"
   },
   {
     "text": "Nebraska snaps AP Top 25 losing skid, upsets Ohio State - ESPN",
@@ -15,78 +85,13 @@
     "link": "https://www.espn.com/college-football/story/_/id/50553426/nebraska-snaps-ap-top-25-losing-skid-upsets-ohio-state"
   },
   {
-    "text": "Pentagon Issued Memo Limiting ‘Social Activities’ With Canadian Military - The New York Times",
-    "fullText": null,
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOendiaUxhVE5udUt6MGkzMWRmcnY5em01RldnUzBWVzBxckNJQUQxVzBaSk0zUEpoNTlaQ0FNZkpZN19tVTYyOFZNUGRJbnpWVGpvTENVM25sdWtXNnVVTVp5YmNjWWxaQkhjZGpsbDhjaUxWbFBPeWxsRGlCU3BJdWhpNnMxa0h1eUhvcEg2ajVfRTBuOVJ2OA?oc=5"
-  },
-  {
-    "text": "Main Card Results | UFC Qatar - UFC.com",
-    "fullText": "Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From UFC Fight Night: Procházka vs Stirling, Live From ABHA Arena In Doha, Qatar On November 21",
-    "link": "https://www.ufc.com/news/ufc-qatar-results-prochazka-vs-stirling"
-  },
-  {
-    "text": "Miley Cyrus, 33, Steps Out in Head-to-Toe Black for Wedding Rehearsal Dinner With Maxx Morando, 28 - InStyle",
-    "fullText": "Miley Cyrus and Maxx Morando arrived at their SoCal wedding rehearsal dinner in head-to-toe black outfits on November 20. Noah Cyrus, Tish Cyrus, and more family members joined the couple at a restaurant near their Palm Springs wedding venue. Read more about …",
-    "link": "https://www.instyle.com/miley-cyrus-wedding-rehearsal-dinner-outfit-12270286"
+    "text": "Bayer reaches Roundup settlement that could cost the company billions - NPR",
+    "fullText": "The money will go to thousands of people who have been or will be diagnosed with non-Hodgkin lymphoma – a blood cancer linked to the herbicide.<br><br>",
+    "link": "https://www.npr.org/2026/11/21/nx-s1-6049684/roundup-bayer-hodgkins-settlement"
   },
   {
     "text": "New pancreatic cancer drug stops tumor growth: Study - NewsNation",
     "fullText": "The drug shrank the tumors of more than 60% of the 60 patients tested and made it completely undetectable in 8%.",
     "link": "https://www.newsnationnow.com/health/pancreatic-cancer-drug-stops-tumor-growth/"
-  },
-  {
-    "text": "Crew evacuated amid battle to put out fire on Russian ship hit by drones - Al Jazeera",
-    "fullText": "Finnish authorities say two drones attack cargo ship that has links to Russia’s armed forces.",
-    "link": "https://www.aljazeera.com/news/2026/11/21/russia-says-kaliningrad-bound-ship-struck-by-drones-in-gulf-of-finland"
-  },
-  {
-    "text": "Democrats who swept into the Senate promised change. A leadership vote is testing them early - AP News",
-    "fullText": "The Democratic Party’s incoming senators face an early test of their campaign promises to shake up Washington as they decide who will lead their new majority. Current leader Chuck Schumer of New York faces a challenge from Maryland's Chris Van Hollen, who's p…",
-    "link": "https://apnews.com/article/schumer-vanhollen-majority-leader-progressives-new-senators-b7785d0b6aee5f4844f55b650a231f5d"
-  },
-  {
-    "text": "Lock of George Washington's hair sold at auction for $4,000 - CBS News",
-    "fullText": "South Carolina-based auction house Richmond Auctions said George Washington's lock of hair was sold for $4,000.",
-    "link": "https://www.cbsnews.com/news/george-washington-lock-of-hair-auction/"
-  },
-  {
-    "text": "Trump vows to work with Democrats to cap credit card interest rates - CBS News",
-    "fullText": "President Trump says he will work with the incoming Democratic Congress to cap credit card interest rates.",
-    "link": "https://www.cbsnews.com/news/trump-credit-card-rates-democrats-politics/"
-  },
-  {
-    "text": "Live Updates: Trump says he wants \"permanent\" deal with Iran; warns next move may not come until 2027 - CBS News",
-    "fullText": "Despite rising tension, President Trump told an Israeli outlet he may not make a decision on his next move in the Iran war until 2027.",
-    "link": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/"
-  },
-  {
-    "text": "Anthropic IPO signals ‘beginning of a gold rush’ for small businesses, says biz tech CEO - Fox Business",
-    "fullText": "Anthropic's $1.5 trillion IPO signals a \"gold rush\" for solopreneurs, says Novo CEO Michael Rangel, as small business AI adoption jumped to one in eight.",
-    "link": "https://www.foxbusiness.com/economy/anthropic-ipo-signals-beginning-gold-rush-small-businesses-says-biz-tech-ceo"
-  },
-  {
-    "text": "What smart people are saying about the market sell-off ripping through tech and AI - Business Insider",
-    "fullText": "Carnage in markets on Friday dragged major indexes to grim milestones. Market pros worry the AI trade could be at a negative inflection point.",
-    "link": "https://www.businessinsider.com/stock-market-plunge-tech-ai-michael-burry-nvda-ant-2026-11#article"
-  },
-  {
-    "text": "Apple Black Friday Deals Available Now: AirPods, Apple Watches, MacBooks, and More - MacRumors",
-    "fullText": "Black Friday is getting closer and closer, taking place on Friday, November 27 in 2026. As always, this will be the best time of the year to shop for...",
-    "link": "https://www.macrumors.com/2026/11/21/apple-black-friday-deals-available-now-2026/"
-  },
-  {
-    "text": "These fans waited over a decade for ‘GTA VI.’ Here’s how they celebrated. - NBC News",
-    "fullText": "From transforming their homes into “Grand Theft Auto”-inspired playgrounds to clearing their calendars at all costs, die-hard fans of the franchise pulled out all the stops for the arrival of “GTA VI.”",
-    "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/grand-theft-auto-six-fans-reaction-celebration-player-profiles-rcna609640"
-  },
-  {
-    "text": "\"The Hunger Games: Sunrise on the Reaping\" opened to $56 million. - Variety",
-    "fullText": "The odds were ever in the favor of “The Hunger Games: Sunrise on the Reaping,” which ruled the box office on Friday.",
-    "link": "https://variety.com/2026/film/box-office/box-office-hunger-games-sunrise-of-the-reaping-opening-day-1236954987/"
-  },
-  {
-    "text": "Catherine, Princess of Wales, speaks about healing from cancer in new documentary: \"Cancer does change you\" - CBS News",
-    "fullText": "The princess reflects on her cancer journey in the documentary and speaks to others about their experiences.",
-    "link": "https://www.cbsnews.com/news/catherine-princess-of-wales-heal-documentary-cancer-healing/"
   }
 ]
